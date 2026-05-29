@@ -1,0 +1,60 @@
+{
+  "title": "Coca Cola, Local Women at Forefront of Kenya Water Initiative",
+  "introduction": null,
+  "image": {
+    "id": "f07fdde0-7bd4-11ed-a93f-efb84adac4db",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5sahg2h0qAPeFNXXYXbCfY.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Rainier5 at the English language Wikipedia / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7PF5CNBasyaDP6KsgSnBtW.mpga",
+  "main_content": "Sixteen million Kenyans lack access to safe drinking water. Sixty percent of rural folks remain off the water grid. In Kenya’s Kajiado province, an initiative is enlisting local women to try to fill the gap.\n\nKajiado gets little rainfall. The Kenyan capital, Nairobi, is 125 miles away from Esther Kume’s homestead. The mother of nine has to buy 10 jerry cans of water a day from local businessmen. Even then, she says the water isn’t always safe to drink.\n\n“We have to go as far as 10 kilometers to reach water since there are no rivers around. That’s why we are forced to buy water. When we hear of anyone selling water, we have no choice but to buy,” she said.\n\nAficAqua, in partnership with Coca-Cola and water.org, has been setting up these “ekocenters” around East Africa since 2014 to provide safe drinking water. The centers get water through boreholes.\n\nThe county digs public boreholes but residents must still trek many kilometers to reach them. This newly opened ekocenter has 15 employees who will deliver safe water by motorized rickshaws, known as tuk-tuks. The 20-liter can sells for 50 cents.\n\n“The challenge of the cost to the customer is actually not very high because what we do, they can pay this into installments. We don’t tell them that you have to do it that particular day. You can do it in installments until the other time you are refilling,” explains Joyce Nduta, water manager at the ekocenter.\n\nThis new ekocenter hopes to serve around 3,000 residents and plans are underway to replicate the initiative in other areas.",
+  "questions": [
+    {
+      "question": "How much of Kenya’s rural population lacks access to a fresh water supply?",
+      "options": [
+        "Forty percent",
+        "Sixty percent",
+        "Eighty percent",
+        "Fifty percent"
+      ],
+      "answer": "Sixty percent"
+    },
+    {
+      "question": "How does Esther Kume obtain fresh water every day?",
+      "options": [
+        "By collecting it from a river",
+        "Through public boreholes",
+        "By purchasing it from local businessmen",
+        "From the ekocenter delivery service"
+      ],
+      "answer": "By purchasing it from local businessmen"
+    },
+    {
+      "question": "What solution has been found to provide people with drinking water?",
+      "options": [
+        "Digging more wells",
+        "Building new water treatment plants",
+        "Setting up ekocenters",
+        "Increasing rainfall management programs"
+      ],
+      "answer": "Setting up ekocenters"
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

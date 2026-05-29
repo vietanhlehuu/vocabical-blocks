@@ -1,0 +1,60 @@
+{
+  "title": "Teen CEO Says Everyone Should Code",
+  "introduction": null,
+  "image": {
+    "id": "93d7b782-1f6a-437c-a873-b738ec0a6567",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4UySClOxgBsgKgRK4RxjWR.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Anirban Naskar / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7IpyWURgzsrL8Xqod5WRnI.mpga",
+  "main_content": "What does the average 15-year-old do with her free time? Most teenagers are hanging out with friends. But Swetha Prabakaran is different. She enjoys spending her time making the use of technology easier for all.\n\nIt’s called coding. So exactly what is that?\n\n“Coding, in the simplest terms, is just you telling a computer to do what you want. … You’re telling a computer to do something and just like we write in English a ‘to do’ list or directions, you write a language for computers.”\n\nSwetha Prabakaran loves to code.\n\nA junior at top-rated Thomas Jefferson High School for Science and Technology, in Virginia, Swetha Prabakaran learned about coding while taking a computer programming class.\n\nSwetha is the founder of Everybody Code Now! The non-profit works to empower the next generation of youth to become engineers, scientists and entrepreneurs.\n\nIn September of this year, Swetha was honored at the White House as one of 11 young women named “champions of change,” for her work as the founder of Everybody Code Now. She was one of two 15-year-olds to receive the award.",
+  "questions": [
+    {
+      "question": "Who is the founder of “Everybody Code Now!”?",
+      "options": [
+        "Jane Smith",
+        "Swetha Prabakaran",
+        "John Doe",
+        "Emily Johnson"
+      ],
+      "answer": "Swetha Prabakaran"
+    },
+    {
+      "question": "How old is the founder of “Everybody Code Now!”?",
+      "options": [
+        "18 years old",
+        "16 years old",
+        "15 years old",
+        "17 years old"
+      ],
+      "answer": "15 years old"
+    },
+    {
+      "question": "What is the goal of “Everybody Code Now!”?",
+      "options": [
+        "To create video games",
+        "To empower the next generation of youth to become engineers, scientists and entrepreneurs",
+        "To teach mathematics to teenagers",
+        "To provide scholarships for coding classes"
+      ],
+      "answer": "To empower the next generation of youth to become engineers, scientists and entrepreneurs"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

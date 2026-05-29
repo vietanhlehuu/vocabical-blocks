@@ -1,0 +1,60 @@
+{
+  "title": "Health Agreement Asks Chinese People to Help Strangers",
+  "introduction": null,
+  "image": {
+    "id": "0825aca9-a3b0-49e7-aaff-0fb2d81d3c62",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/0FN9fFrcOS5IJfUbKd7aOA.jpeg",
+    "dimensions": {
+      "x": 500,
+      "y": 355
+    },
+    "attribution": "InsightWAVE / Wikimedia Commons / CC-BY-SA 3.0",
+    "public_attribution": true,
+    "lock_version": 4,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3VMEwiOu0jeF1UGSHLu7ia.mpga",
+  "main_content": "A recent agreement between the American Heart Association and China could reduce deaths from heart attack and stroke in China and, possibly, beyond.\n\nCardiovascular disease, including stroke and heart attack, is the main cause of early death in China and many developing countries. Studies show that cardiovascular disease kills more than 17 million people around the world every year. These deaths are, for the most part, preventable.\n\nThe agreement between the American Heart Association and China has three main parts. It calls for increasing opportunities for researchers, healthcare providers and public health specialists in the U.S. to meet with those in China. The agreement also seeks the sharing of cardiovascular research. And, finally, it calls for training in China of life-saving techniques such as cardiopulmonary resuscitation, or CPR.\n\nCPR can restart a stopped heart. CPR has helped lower death rates from heart disease in the United States by 30 percent.\n\nThe American Heart Association says teaching CPR to the people of China may help save lives.",
+  "questions": [
+    {
+      "question": "What is the main cause of early death in China?",
+      "options": [
+        "A. Infectious diseases",
+        "B. Cardiovascular disease",
+        "C. Respiratory diseases",
+        "D. Cancer"
+      ],
+      "answer": "B. Cardiovascular disease"
+    },
+    {
+      "question": "How many parts does the agreement between the American Heart Association and China have?",
+      "options": [
+        "A. Two parts",
+        "B. Three parts",
+        "C. Four parts",
+        "D. Five parts"
+      ],
+      "answer": "B. Three parts"
+    },
+    {
+      "question": "What can CPR do?",
+      "options": [
+        "A. Cure heart disease completely",
+        "B. Prevent heart attacks",
+        "C. Restart a stopped heart",
+        "D. Lower blood pressure directly"
+      ],
+      "answer": "C. Restart a stopped heart"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

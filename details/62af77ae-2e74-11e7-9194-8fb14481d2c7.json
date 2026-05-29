@@ -1,0 +1,60 @@
+{
+  "title": "More US Shoppers Shifting to ECommerce",
+  "introduction": null,
+  "image": {
+    "id": "7a08bbe7-8cbe-4fcf-82e1-dd5aa7322c7b",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3iH3QjdzoDP9GQ9QGyXqGJ.jpeg",
+    "dimensions": {
+      "x": 700,
+      "y": 384
+    },
+    "attribution": "Sigketill / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2CAPtEGvgupv5WWOFnbVB1.mpga",
+  "main_content": "The U.S. holiday shopping season got off to a slow start last Thursday, as the number of people seeking bargains in stores and online fell from last year.\n\nThe Friday after the Thanksgiving holiday is traditionally the largest shopping day of the year, and a time when many merchants make enough money to go from loss to profit. Bookkeepers record losses in red ink and profits in black ink, giving rise to the term “Black Friday” for this key part of the business year.\n\nThe National Retail Federation says more than 133 million Americans have shopped in person or online since Thursday. That is down more than 5 percent from the same period last year.\n\nRetailers are watching on-line sales closely Monday because “Cyber-Monday” has seen a shopping peak in the past four years, as a growing number of shoppers avoided crowded stores and made purchases online.\n\nComScore, which tracks on-line commerce, says the first few weeks of November saw stronger online sales than the same period last year. It also predicted $2.5 billion in total online sales for Monday.",
+  "questions": [
+    {
+      "question": "Did more or less people start looking for bargains this holiday season than last year?",
+      "options": [
+        "More people sought bargains this year than last year",
+        "Fewer people sought bargains this year than last year",
+        "The same number of people sought bargains as last year",
+        "The exact data on this is not provided in the article"
+      ],
+      "answer": "Fewer people sought bargains this year than last year"
+    },
+    {
+      "question": "Where does the term “Black Friday” come from?",
+      "options": [
+        "It refers to the day when most retailers begin to make a profit",
+        "It is related to the color of ink used in accounting",
+        "It signifies the start of the holiday shopping season",
+        "It marks a day of significant losses for retailers"
+      ],
+      "answer": "It refers to the day when most retailers begin to make a profit"
+    },
+    {
+      "question": "What is so special about “Cyber-Monday”?",
+      "options": [
+        "It is the day with the highest in-store sales",
+        "It has seen a shopping peak in online sales over the past four years",
+        "It is a day when businesses historically report losses",
+        "It is a marketing term without any significant impact on retail sales"
+      ],
+      "answer": "It has seen a shopping peak in online sales over the past four years"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

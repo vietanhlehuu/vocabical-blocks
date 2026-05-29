@@ -1,0 +1,60 @@
+{
+  "title": "NASA Receives Over 18,000 Astronaut Applications",
+  "introduction": null,
+  "image": {
+    "id": "f49a951a-aa9a-11e8-8d60-7f5e020a4b85",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/U9RxlnPArF4mHNuhGh6nqC8GstgBODyjFp2tBJZCqFM.jpeg",
+    "dimensions": {
+      "x": 3032,
+      "y": 2008
+    },
+    "attribution": "Pixabay / Pexels / CC0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3pA3lrxAPvXFWmMKfSJLg0.mpga",
+  "main_content": "When NASA announced it was accepting applications for future astronauts last December, the space agency likely did not expect to receive over 18,000 applications. One-third of that number applied in 2012 and 8,000 in 1978, the previous record.\n\n“It’s not at all surprising to me that so many Americans from diverse backgrounds want to personally contribute to blazing the trail on our journey to Mars,” said NASA Administrator Charlie Bolden, a former astronaut.\n\n“A few exceptionally talented men and women will become the astronauts chosen in this group who will once again launch to space from U.S. soil on American-made spacecraft.”\n\nNow, the space agency will begin the process of selecting eight to 14 of those applicants to become astronauts. NASA said it would make the announcement in 2017.\n\n“We have our work cut out for us with this many applications,” said Brian Kelly, director of Flight Operations at Johnson Space Center in Texas. “But it’s heartening to know so many people recognize what a great opportunity this is to be part of NASA’s exciting mission. I look forward to meeting the men and women talented enough to rise to the top of what is always a pool of incredible applicants.”\n\nThose selected will report to Johnson for two years of training on “spacecraft systems, spacewalking skills and teamwork, Russian language and other requisite skills.”\n\nThose who complete the training will be assigned to one of four different spacecraft, including the International Space Station, NASA’s Orion spacecraft or one of two commercial spacecraft being developed.",
+  "questions": [
+    {
+      "question": "How many applications did NASA receive since December?",
+      "options": [
+        "Over 12,000 applications",
+        "18,000 applications",
+        "8,000 applications",
+        "One-third of the total number in 2012"
+      ],
+      "answer": "18,000 applications"
+    },
+    {
+      "question": "How many applicants will be finally chosen?",
+      "options": [
+        "Eight to 10 applicants",
+        "12 to 14 applicants",
+        "8 to 14 applicants",
+        "Only exceptionally talented individuals"
+      ],
+      "answer": "8 to 14 applicants"
+    },
+    {
+      "question": "What will the training of the future astronauts consist of?",
+      "options": [
+        "Piloting only spacecraft systems",
+        "Spacewalking skills and teamwork only",
+        "Teamwork and learning Russian only",
+        "Spacecraft systems, spacewalking skills, and Russian language"
+      ],
+      "answer": "Spacecraft systems, spacewalking skills, and Russian language"
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

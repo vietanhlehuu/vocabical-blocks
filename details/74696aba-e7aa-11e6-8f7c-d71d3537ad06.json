@@ -1,0 +1,60 @@
+{
+  "title": "Understanding the Misunderstood Teenage Brain",
+  "introduction": null,
+  "image": {
+    "id": "e457cbe6-0eab-11e7-b0c4-5f7073cd98cf",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/17vjlwpGMILZQaYH3291xh.jpeg",
+    "dimensions": {
+      "x": 2048,
+      "y": 1536
+    },
+    "attribution": "Daniel Alexandre / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3RLPMazWyQ1QN97dMIp1rx.mpga",
+  "main_content": "A woman named Frances Jensen is a neuroscientist. She has been studying the human brain for almost all of her career. But even she was not ready for the job of raising two teenage boys. What made this task so difficult? Trying to find out why intelligent and responsible young people still did stupid things.\n\nSo, Dr. Jenson did what any neuroscientist would do: she studied years of research on the human brain.\n\nWhat she found might clear up some myths, or misinformation about teenagers. Her findings might also provide help for parents, teachers and anyone hoping to understand the complex mind of a teenager.\n\nMyth 1 – A teen’s body and brain grow at the same pace.\n\nWhen children reach puberty, their bodies change.Teenagers start to look like adults. You might think that their brains are also becoming more like adult brains.\n\nNot true, says Dr. Jensen.\n\nDr. Jensen recently wrote a book on teenagers and their brains. The book is called The Teenage Brain: A Neuroscientist’s Survival Guide to Raising Adolescents and Young Adults. In it, she explains the strengths and weaknesses of the brain during this time of development. She says the connections, or wiring, of the teen brain is better for learning new things than the adult brain.\n\nSome parts of the teenage brain are simply not yet connected, she explains. These areas are the ones responsible for judgment, making good decisions, self-control and empathy, or the ability to share someone else’s feelings.",
+  "questions": [
+    {
+      "question": "Who is Frances Jensen?",
+      "options": [
+        "A psychologist studying adult behavior",
+        "A neuroscientist exploring the teenage brain",
+        "A teacher focused on adolescent education",
+        "A writer specializing in parenting books"
+      ],
+      "answer": "A neuroscientist exploring the teenage brain"
+    },
+    {
+      "question": "How many children does she have?",
+      "options": [
+        "One daughter",
+        "Two teenage boys",
+        "Three children of various ages",
+        "None, she focuses on her career"
+      ],
+      "answer": "Two teenage boys"
+    },
+    {
+      "question": "What book did she write?",
+      "options": [
+        "Understanding Adolescence: A Parent's Guide",
+        "The Teenage Brain: A Neuroscientist’s Survival Guide to Raising Adolescents and Young Adults",
+        "Brain Development in Adolescents",
+        "Raising Responsible Teenagers: Strategies for Success"
+      ],
+      "answer": "The Teenage Brain: A Neuroscientist’s Survival Guide to Raising Adolescents and Young Adults"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

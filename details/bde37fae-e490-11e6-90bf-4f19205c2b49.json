@@ -1,0 +1,60 @@
+{
+  "title": "Will Elections Change Economic Reforms in Greece?",
+  "introduction": null,
+  "image": {
+    "id": "bf56cdf4-018b-4d34-87f2-2481b76c583c",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5p3Cf2GegOhJldy9dyePvg.png",
+    "dimensions": {
+      "x": 546,
+      "y": 471
+    },
+    "attribution": "User: Philly boy92 / www.flickr.com / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 10,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0NbVY4Wk477Zz86g3sbPE5.mpga",
+  "main_content": "European officials are urging Greece to continue with economic reforms as the country prepares for early elections. The vote was called for this week after Greek lawmakers failed to elect a new president.\n\nSome Greek citizens say they are not looking forward to the elections. Suzanna Steiner is one of them.\n\nShe says the vote should not be happening now. It is the worst time for the economy and for security, she says, and everyone is unhappy.\n\nDakis Voults is is a businessman. He agrees with Suzanna Steiner.\n\nHe says the government should have been left to do its work. But, he says, now that early elections are set for January 25, Greeks will have to decide whom to vote for.\n\nOn Monday, parliament failed for the third time to elect a president. The failure forced Prime Minister Antonis Samaras to call for general elections.\n\nHis New Democracy Party controls what has been the ruling coalition in Greece. But the Syriza Party is more popular in opinion studies. Syriza says that if it wins control of parliament, “austerity will be history.”  For years, the government has cut spending in an effort to solve a major debt crisis.\n\nThe economic crisis in Eurozone countries was at its height in 2010 and 2011. At that time, many observers feared that economic unrest in Greece might lead to its withdrawal from the European Union. They feared it could eventually lead to the single monetary union breaking up.",
+  "questions": [
+    {
+      "question": "Who is Suzanna Steiner?",
+      "options": [
+        "A Greek lawmaker advocating for early elections",
+        "A Greek citizen opposed to the elections at this time",
+        "A member of the Syriza Party",
+        "A political analyst commenting on Eurozone stability"
+      ],
+      "answer": "A Greek citizen opposed to the elections at this time"
+    },
+    {
+      "question": "When are the elections in Greece?",
+      "options": [
+        "January 1",
+        "January 15",
+        "January 25",
+        "February 5"
+      ],
+      "answer": "January 25"
+    },
+    {
+      "question": "When was the economic crisis in Eurozone countries at its height?",
+      "options": [
+        "2008 and 2009",
+        "2010 and 2011",
+        "2012 and 2013",
+        "2014 and 2015"
+      ],
+      "answer": "2010 and 2011"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

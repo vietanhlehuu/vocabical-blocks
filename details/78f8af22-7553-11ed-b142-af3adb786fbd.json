@@ -1,0 +1,60 @@
+{
+  "title": "‘Little Messi’ Gets Autographed Jersey",
+  "introduction": null,
+  "image": {
+    "id": "78f861e8-7553-11ed-b141-a3c617f63de7",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/43BeYzieqQAau0ZEAOgJRw.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Олег Дубина / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2VKCVCnl0hSjY4yVmoSxmj.mpga",
+  "main_content": "Earlier in February, a young boy in Afghanistan made international headlines showing his homemade Lionel Messi soccer jersey.\n\nMessi is a soccer player from Argentina who plays for the Barcelona professional team in Spain.\n\nMurtaza Ahmadi, who is five years old, drew Messi’s number, 10, on a blue-and-white striped shopping bag.\n\nArgentina’s national team jersey has blue-and-white stripes like the shopping bag.\n\nOn February 25th, Messi sent the boy a real jersey with his autograph.\n\nIt said “with much love,” in Spanish.\n\nThe United Nations Children’s Fund delivered the jersey. Messi also sent a Barcelona team jersey.\n\nMany people say Messi is the best player in the world. That is why even a boy in Afghanistan – who cannot afford to buy a jersey – knows of Messi.\n\nPeople called the boy “little Messi” after pictures of his jersey spread.\n\nThe boy’s father told CNN getting the jerseys was one of the happiest moments of his son’s life.\n\nThe soccer federation in Afghanistan says it is still working to find a way for “big” Messi to meet “little Messi.”",
+  "questions": [
+    {
+      "question": "What is the name of “little Messi”?",
+      "options": [
+        "Murtaza Ahmadi",
+        "Lionel Messi",
+        "Ahmad the Great",
+        "Soccer Boy"
+      ],
+      "answer": "Murtaza Ahmadi"
+    },
+    {
+      "question": "What did Messi send the boy? ",
+      "options": [
+        "A pair of soccer shoes",
+        "A real jersey with his autograph",
+        "A signed photograph",
+        "A soccer ball"
+      ],
+      "answer": "A real jersey with his autograph"
+    },
+    {
+      "question": "What is the soccer federation in Afghanistan still working on?",
+      "options": [
+        "Creating a youth soccer league",
+        "Finding a way for “big” Messi to meet “little Messi”",
+        "Providing jerseys for all children",
+        "Building new soccer fields"
+      ],
+      "answer": "Finding a way for “big” Messi to meet “little Messi”"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

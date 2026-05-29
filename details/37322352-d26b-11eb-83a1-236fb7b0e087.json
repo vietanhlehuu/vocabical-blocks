@@ -1,0 +1,60 @@
+{
+  "title": "Schwarzenegger Pushes for Action at Paris Climate Meeting",
+  "introduction": null,
+  "image": {
+    "id": "3731ca60-d26b-11eb-83a0-c337fc587dea",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2EZBDtgQrJT4e9KOii75rp.jpeg",
+    "dimensions": {
+      "x": 4782,
+      "y": 3586
+    },
+    "attribution": "Frederic Legrand - COMEO / Shutterstock",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4hGnePgaTvSvwlj82bxWLH.mpga",
+  "main_content": "Paris wrapped up the first-ever summit on regional efforts to cut greenhouse gas emissions, with new pledges to combat climate change a year ahead of a key U.N. summit. Former California governor Arnold Schwarzenegger presided over the regional conference.\n\nThe World Summit of Regions for Climate ended with a flurry of signatures, as political and business leaders from around the world inked a Paris declaration – laying down commitments to tackle climate change through concrete actions. It also calls on nations to reach an ambitious agreement to cut greenhouse gases when they gather for a United Nations climate change summit in Paris next year.\n\nThe meeting was organized by the R20 regions, an environmental group founded by actor and former California governor Arnold Schwarzenegger. He spoke to reporters in Paris following a meeting with French President Francois Hollande.\n\n“We are big believers in the regional approach, in the subnational approach. That while, maybe, the U.N. will come to an agreement right away – and hopefully when they have the negotiations in Paris, they will come to an agreement – but to utilize also the subnational governments. Because we in California have been very successful without the help of the national government.”\n\nDuring his two terms as California governor, Schwarzenegger earned a reputation as a climate change activist who pushed for clean air and renewable energy programs.\n\nThe United Nations is pushing for an international climate agreement in Paris next year that will limit global warming to two degrees Celsius over pre-Industrial Revolution levels.\n\nFrench climatologist Jean Jouzel described two global warming scenarios: One in which the climate heated up just two degrees, compared with another in which global warming doubled to four degrees by the end of the century. He described effects of climate change, including typhoons and droughts, loss of biodiversity and coral reefs. He said humans had a much greater chance of adapting with a more moderate temperature change.\n\nBut reaching the two degree goal will be difficult. A monitor of countries’ climate policies called the Climate Action Tracker currently shows the world remains on track for a 3.7 degree warming by the end of the century.\n\nThe Paris climate meeting took place as French lawmakers are voting on an ambitious bill that aims to halve France’s energy consumption by 2050, and cut down on nuclear power use in favor of renewables.",
+  "questions": [
+    {
+      "question": "Who presided over the conference?",
+      "options": [
+        "Arnold Schwarzenegger",
+        "Francois Hollande",
+        "Jean Jouzel",
+        "A representative from the R20 regions"
+      ],
+      "answer": "Arnold Schwarzenegger"
+    },
+    {
+      "question": "What did the participants agree to during the conference?",
+      "options": [
+        "To cut nuclear power use in favor of renewables",
+        "To ink a Paris declaration with commitments to tackle climate change",
+        "To monitor climate policies only in their own regions",
+        "To wait for the U.N. to lead climate actions without local initiatives"
+      ],
+      "answer": "To ink a Paris declaration with commitments to tackle climate change"
+    },
+    {
+      "question": "What kind of reputation did Schwarzenegger earn during his time as governor of California?",
+      "options": [
+        "As a reluctant environmental advocate",
+        "As a climate change activist promoting clean air and renewable energy",
+        "As a supporter of nuclear energy",
+        "As a leader in corporate environmental responsibility"
+      ],
+      "answer": "As a climate change activist promoting clean air and renewable energy"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

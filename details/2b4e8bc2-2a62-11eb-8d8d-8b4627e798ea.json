@@ -1,0 +1,60 @@
+{
+  "title": "Castaways Get HELP",
+  "introduction": null,
+  "image": {
+    "id": "2b4dfacc-2a62-11eb-8d8c-87b7e024c7f5",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/0yV6cnsDs3VgblsuraDnRP.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 326
+    },
+    "attribution": "Dr. James P. McVey, NOAA Sea Grant Program / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3KHyMp4i890KGITSLBsYkX.mpga",
+  "main_content": "After their small boat turned over, three men swam to a small island in the Pacific Ocean. They used the leaves and branches of palm trees to spell the word HELP hoping someone could see them.\n\nJust like in a movie, a U.S. Navy airplane spotted the castaways on a small island in Micronesia a week later. The island is close to Guam, a U.S. territory in the Pacific.\n\nThe flight crew searching for the men used a camera that can read heat signals to discover that they might be on the island. The men had started a fire, hoping to be found.\n\nThe pilot flew around the island and discovered the word spelled on the beach.\n\nWhen the plane was close enough, the men ran out from some trees and started waving their orange life vests.\n\nThe Navy airplane reported the castaways’ location to the U.S Coast Guard and a boat from a nearby island left to pick the men up.\n\nThe Associated Press news service reports the men arrived home safely and were not injured.",
+  "questions": [
+    {
+      "question": "What did the 3 castaways do with leaves and branches of palm trees?",
+      "options": [
+        "They built a shelter to protect themselves from rain.",
+        "They spelled the word HELP hoping someone could see them.",
+        "They used them to start a fire for warmth.",
+        "They created a signal for food supplies."
+      ],
+      "answer": "They spelled the word HELP hoping someone could see them."
+    },
+    {
+      "question": "Why had the men run out from some trees and started waving orange life vests?",
+      "options": [
+        "They were trying to scare away wild animals.",
+        "They wanted to signal the arriving airplane for help.",
+        "They were preparing to swim to another island.",
+        "They were looking for food among the trees."
+      ],
+      "answer": "They wanted to signal the arriving airplane for help."
+    },
+    {
+      "question": "Did the airplane pick the three men up?",
+      "options": [
+        "Yes, the airplane itself rescued them directly.",
+        "No, the airplane just located them but did not assist.",
+        "No, it was the U.S. Coast Guard that picked them up.",
+        "Yes, they were transferred directly from the airplane."
+      ],
+      "answer": "No, it was the U.S. Coast Guard that picked them up."
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

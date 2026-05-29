@@ -1,0 +1,60 @@
+{
+  "title": "Rights Group Accuses Ethiopia of Suppressing Media",
+  "introduction": null,
+  "image": {
+    "id": "f3eb5752-7bd4-11ed-9d0b-4771649e74f6",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3mZbcbgTRxmbThIwdjUgtt.jpeg",
+    "dimensions": {
+      "x": 800,
+      "y": 553
+    },
+    "attribution": "User:Getakassa / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3XoXj57nd7WptCgoU6O0yY.mpga",
+  "main_content": "An international rights group is accusing the government in Ethiopia of suppressing media before the country’s elections in May. Human Rights Watch released a report on the subject last week. The report shows how the Ethiopian government has restricted independent reporting since 2010.\n\nFelix Horne is a researcher for Human Rights Watch. He says the government has taken actions against independent journalists who have different opinions than the government. He says the officials are trying to convince the reporters to write stories that give only the government’s views on issues.\n\nThe new Human Rights Watch report is called “Journalism Is Not a Crime.”  It says 22 journalists, bloggers and publishers faced criminal charges, and more than 30 journalists fled Ethiopia. Most of those charged were accused of violating a widely criticized anti-terrorism declaration.\n\nHuman Rights Watch says the repression described in the report is leading to self-censorship. Some Ethiopian journalists are now refusing to report on some issues. The rights group adds that citizens and lower-level government officials are afraid to talk to reporters because they believe the government will punish them.\n\nEthiopia’s ruling party has governed the country since 1991. It won more than 99 percent of the votes in the 2010 elections. The opposition won just one seat in parliament.\n\nHuman Rights Watch is calling on the Ethiopian government to release imprisoned journalists and bloggers and to amend the anti-terrorism measure.",
+  "questions": [
+    {
+      "question": "What is the title of the new Human Rights Watch report?",
+      "options": [
+        "Voices of the Silenced",
+        "Reporting in Repression",
+        "Journalism Is Not a Crime",
+        "The State of Media Freedom"
+      ],
+      "answer": "Journalism Is Not a Crime"
+    },
+    {
+      "question": "What does the report indicate about the journalists in Ethiopia?",
+      "options": [
+        "The government has encouraged independent reporting since 2010",
+        "Ethiopian citizens are fully confident in the media",
+        "22 journalists faced criminal charges related to an anti-terrorism declaration",
+        "The ruling party has enabled freedom of expression"
+      ],
+      "answer": "22 journalists faced criminal charges related to an anti-terrorism declaration"
+    },
+    {
+      "question": "Since when has Ethiopia’s ruling party governed the country?",
+      "options": [
+        "Since 2010",
+        "Since 1991",
+        "Since the last elections",
+        "Since 2000"
+      ],
+      "answer": "Since 1991"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

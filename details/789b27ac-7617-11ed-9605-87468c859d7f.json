@@ -1,0 +1,60 @@
+{
+  "title": "All-Female Crew ‘Mans’ Ethiopian Airlines Flight",
+  "introduction": null,
+  "image": {
+    "id": "7899f4e0-7617-11ed-9604-038256fde116",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4KmcScgnfO5pgFzF0tvXYK.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 348
+    },
+    "attribution": "Adrian Pingstone / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/27jIoOmZT9UoVZpDvuh6Gk.mpga",
+  "main_content": "Ethiopian Airlines made history by sending an all-female crew on a flight from Addis Ababa to Bangkok, Thailand.\n\nThe flight was the first in the 70-year history of the airline in which the whole crew was female. And that was not just the pilots: It included maintenance crewmembers and air traffic controllers.\n\nFemales also staffed cabin, ramp and airport operations, as well as air safety and security jobs.\n\nEthiopian Airlines employee Haymanot Endale is a cabin maintenance technician. She says many women work as flight attendants. But as a technician, she says, she mostly works with men.\n\nThe airline wanted to diversify and show the world the important jobs African women now hold.\n\nEthiopian Airlines says about one-third of its employees are women.\n\nExclusively female crews are becoming common in Africa. Air Zimbabwe sent an all-women crew to the skies recently.\n\nEthiopian Airlines is Africa’s most profitable airline.",
+  "questions": [
+    {
+      "question": "Which airline is Africa’s most profitable airline?",
+      "options": [
+        "Kenya Airways",
+        "South African Airways",
+        "Ethiopian Airlines",
+        "Air Zimbabwe"
+      ],
+      "answer": "Ethiopian Airlines"
+    },
+    {
+      "question": "Where was the African all-female flight sent?",
+      "options": [
+        "Addis Ababa to Nairobi",
+        "Addis Ababa to Bangkok",
+        "Johannesburg to Cairo",
+        "Lagos to Addis Ababa"
+      ],
+      "answer": "Addis Ababa to Bangkok"
+    },
+    {
+      "question": "Who is Haymanot Endale?",
+      "options": [
+        "A pilot for Ethiopian Airlines",
+        "A cabin maintenance technician",
+        "The airline's CEO",
+        "An air traffic controller"
+      ],
+      "answer": "A cabin maintenance technician"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

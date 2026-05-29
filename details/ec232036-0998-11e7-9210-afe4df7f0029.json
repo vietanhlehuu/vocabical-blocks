@@ -1,0 +1,60 @@
+{
+  "title": "Spherical Rock in Bosnia Stirs Controversy",
+  "introduction": null,
+  "image": {
+    "id": "45146f80-0bf4-4136-b8ca-8eb89a33a33e",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/26LoCEJb16YfkcpMj7njsk.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Frfincon / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3FJr0XRuAaOC3sVqLvLuWh.mpga",
+  "main_content": "An infamous would-be archaeologist is at it again, suggesting that some unique rock formations he has discovered in present day Bosnia, are proof of an ancient civilization that thrived there 1,500 years ago.\n\nSemir Osmanagic has been combing the hills around Visocica since 2005 claiming the surrounding mountains were part of a giant collection of pyramids that he says could be 15,000 years old.\n\nSince then he has been digging around the mountains but not turning up any archaeologically accepted proof of his claims.\n\nHis latest “find” is a large, spherical rock found in a Bosnian forest that he says could be the oldest such rock ever made by humans.\n\nThe rock is about 1.4 meters across and he says it has a very high amount of iron content.\n\nScientists who have seen the rock say it is likely a natural formation and not a human construct. But Osmanagic has received plenty of support and funding from the Bosnian government, and he is something of a celebrity in the area.\n\nBut to the archaeological world he is a dangerous charlatan.\n\nAnthony Harding, the president of the European Association of Archaeologists called his claims “a total absurdity,” according to The Telegraph.\n\n“There is some genuine archaeology on the hill and I’m told it’s medieval, possibly Bronze Age or Roman,” he said. “But the speculation that there could be a 12,000-year-old structure beneath is a complete fantasy and anyone with basic knowledge of archaeology or history should recognize that.”\n\nStill, it is unlikely Osmanagic will stop pushing his theories or digging in the region.",
+  "questions": [
+    {
+      "question": "What is the would-be archaeologist suggesting?",
+      "options": [
+        "A hidden civilization once thrived in Bosnia 1,500 years ago.",
+        "A series of natural rock formations are ancient pyramids.",
+        "The rock formations are evidence of extraterrestrial activity.",
+        "There are medieval structures present in the hills of Bosnia."
+      ],
+      "answer": "A series of natural rock formations are ancient pyramids."
+    },
+    {
+      "question": "What proof has he found to support his claims?",
+      "options": [
+        "Ancient tools and pottery from the region.",
+        "High iron content in a large spherical rock.",
+        "Historical texts describing a lost civilization.",
+        "Numerous underground tunnels leading to pyramid structures."
+      ],
+      "answer": "High iron content in a large spherical rock."
+    },
+    {
+      "question": "What are scientists saying about the spherical rock?",
+      "options": [
+        "It is likely a natural formation and not man-made.",
+        "It is a scientifically significant archaeological discovery.",
+        "It may hold ancient inscriptions that validate Osmanagic's claims.",
+        "Its iron content suggests advanced ancient metallurgy."
+      ],
+      "answer": "It is likely a natural formation and not man-made."
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

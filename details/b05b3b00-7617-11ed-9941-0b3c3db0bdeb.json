@@ -1,0 +1,60 @@
+{
+  "title": "Kenyan Church Welcomes LGBT Members",
+  "introduction": null,
+  "image": {
+    "id": "b05b05ae-7617-11ed-9940-c3b5d32dfa1b",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5U3XPZvrPDhEuAwEgHDfJR.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "user:theodoranian / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5hl4lxOTnQTQrFcAu7o0ed.mpga",
+  "main_content": "In early September, the Anglican Church of Kenya cancelled the license of clergymen suspected of homosexuality.\n\nThe suspension sent a message that Kenyan churches do not welcome homosexuals.\n\nBut one location offers religious services to gays, homosexuals, bisexual and transgender people.\n\nLilian Kimani is 28 years old. She sits in the back of a church in central Nairobi that welcomes people who live non-traditional lifestyles.\n\nReverend Barasa Makokha reaches out and ministers to sexual minorities. But some Kenyans strongly oppose his efforts. The clergyman says he has been threatened several times for welcoming homosexuals.\n\nOther religious leaders disagree with Reverend Makokha. Reverend Silaz Mukulwa of the Anglican Church says ministers should help homosexuals develop an interest in members of the opposite sex.\n\nThe few who attend Reverend Makokha’s weekly religious service find moments of peace, free of discrimination.",
+  "questions": [
+    {
+      "question": "Who is Barasa Makokha?",
+      "options": [
+        "A clergyman who ministers to sexual minorities",
+        "The head of the Anglican Church of Kenya",
+        "An activist promoting gender equality",
+        "A church member who is openly homosexual"
+      ],
+      "answer": "A clergyman who ministers to sexual minorities"
+    },
+    {
+      "question": "Where does Reverend Barasa Makokha minister to sexual minorities?",
+      "options": [
+        "In a church in central Nairobi",
+        "In a church in western Kenya",
+        "In a mosque in Nairobi",
+        "In a school in Mombasa"
+      ],
+      "answer": "In a church in central Nairobi"
+    },
+    {
+      "question": "Do religious leaders agree with Barasa Makokha?",
+      "options": [
+        "Yes, most support his efforts",
+        "No, some oppose his approach",
+        "Only those from the Anglican Church support him",
+        "They remain neutral and do not express their opinions"
+      ],
+      "answer": "No, some oppose his approach"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

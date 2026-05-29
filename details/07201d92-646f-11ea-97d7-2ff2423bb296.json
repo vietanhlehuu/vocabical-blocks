@@ -1,0 +1,60 @@
+{
+  "title": "Western Diet Bad for Human Health, Environment",
+  "introduction": null,
+  "image": {
+    "id": "071f8dbe-646f-11ea-97d6-5fe229543468",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/0wgi0Fj8oFN8Q6SgAfq93o.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 363
+    },
+    "attribution": "M.Minderhoud / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3NDrPwZPqh0CQ9ynEMVXCn.mpga",
+  "main_content": "The spread of Western eating habits around the world is bad for human health and for the environment. Those findings come from a new report in the journal Nature.\n\nDavid Tilman is a professor of ecology at the University of Minnesota. In the study, he examined information from 100 countries to identify what people ate and how diet affected health.\n\nMr. Tilman noted a movement beginning in the 1960s. He found that as nations industrialized, population increased and earnings rose. More people began to adopt what has been called the Western diet.\n\nThe Western diet is high in refined, or processed, sugar, fat, oil and meat. By eating these foods, people began to get fatter – and sicker.\n\nDavid Tillman says overweight people are at greater risk for non-infectious diseases like diabetes, heart disease and some cancers.\n\nAnd, a diet bad for human beings, it seems, is also bad for the environment. As the world’s population grows, experts say more forests and tropical areas will become farmland for crops or grasslands for grazing cattle.\n\nMr. Tilman calls the link between diet, the environment and human health, “a trilemma.”  This is a play on the word “dilemma” – a problem offering a difficult choice. He says one possible solution is leaving the Western diet behind.",
+  "questions": [
+    {
+      "question": "Who is David Tilman?",
+      "options": [
+        "A government official studying public health",
+        "A professor of ecology at the University of Minnesota",
+        "An environmental activist from California",
+        "A researcher in agricultural economics"
+      ],
+      "answer": "A professor of ecology at the University of Minnesota"
+    },
+    {
+      "question": "What movement began in the 60s?",
+      "options": [
+        "The increase in awareness of healthy eating practices",
+        "The adoption of Western eating habits by industrialized nations",
+        "The rise of organic farming methods around the world",
+        "The globalization of trade in agricultural products"
+      ],
+      "answer": "The adoption of Western eating habits by industrialized nations"
+    },
+    {
+      "question": "What is the Western diet high in?",
+      "options": [
+        "Fruits, vegetables, and whole grains",
+        "Refined sugars, fats, oils, and meat",
+        "Plant-based proteins and legumes",
+        "Natural supplements and low-calorie options"
+      ],
+      "answer": "Refined sugars, fats, oils, and meat"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

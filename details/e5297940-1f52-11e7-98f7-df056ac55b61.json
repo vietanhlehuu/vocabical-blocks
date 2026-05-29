@@ -1,0 +1,60 @@
+{
+  "title": "Harvard Gets $400 Million Gift, Biggest Ever",
+  "introduction": null,
+  "image": {
+    "id": "c246c272-b8c7-4ff3-9dfd-ad9d4a961055",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5uaqcC7oKu78qnhxyaJYI9.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 340
+    },
+    "attribution": "SBAmin / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/06C7Q9vS75LMGlVLW9OiCH.mpga",
+  "main_content": "America’s prestigious Harvard University said Wednesday it has received its biggest gift ever – $400 million from Wall Street hedge fund billionaire John Paulson.\n\nThe university said the money would support its School of Engineering and Applied Sciences, which is being renamed for the 59-year-old donor, a 1980 Harvard Business School graduate.\n\nHarvard’s science and engineering school has expanded rapidly in recent years. Its research laboratories have led advances in such diverse fields as the development of self-organizing robots and an implantable cancer vaccine.\n\nPaulson’s fortune is estimated at more than $11 billion. In the U.S. investment world, he is acclaimed for betting correctly against sub-prime mortgage bonds as the U.S. housing market plunged in 2007 in the months ahead of the country’s steepest economic decline since the Great Depression of the 1930s.\n\nIn announcing his gift to Harvard, Paulson said, “There is nothing more important to improve humanity than education.”\n\nHarvard’s endowment now totals $36.4 billion, making it the world’s richest university.",
+  "questions": [
+    {
+      "question": "How much money did John Paulson give to Harvard University?",
+      "options": [
+        "$200 million",
+        "$300 million",
+        "$400 million",
+        "$500 million"
+      ],
+      "answer": "$400 million"
+    },
+    {
+      "question": "Which department will be financed by this money?",
+      "options": [
+        "School of Business",
+        "School of Engineering and Applied Sciences",
+        "School of Law",
+        "School of Medicine"
+      ],
+      "answer": "School of Engineering and Applied Sciences"
+    },
+    {
+      "question": "What did the department help advance in recent years?",
+      "options": [
+        "Artificial intelligence research",
+        "Development of self-organizing robots and an implantable cancer vaccine",
+        "Renewable energy technologies",
+        "Biotechnology and genetic editing"
+      ],
+      "answer": "Development of self-organizing robots and an implantable cancer vaccine"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

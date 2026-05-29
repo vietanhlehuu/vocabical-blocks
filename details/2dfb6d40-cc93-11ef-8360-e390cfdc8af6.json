@@ -1,0 +1,60 @@
+{
+  "title": "Want to Be a Detective? Escape Rooms May Help",
+  "introduction": null,
+  "image": {
+    "id": "2dfb180e-cc93-11ef-835f-3fe6a93108e1",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1k5ceEgWURsqx8tG2jKwoA.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 342
+    },
+    "attribution": "SparkFun Electronics from Boulder, USA / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3HToL96bIrP4UAsX46cjhZ.mpga",
+  "main_content": "The timer is running. People have 60 minutes to escape from a room they paid to be locked inside of.\n\nThe room – one of two offered by Timothy Smith’s Escape Lounge in Washington – is designed to mimic the Oval Office in the White House. It features a presidential seal embossed rug, an iconic desk, presidents’ portraits, and other props.\n\n“It is a game with clues that are spread throughout the room. And there is no starting point. You start wherever you feel like. It is up to you to put the clues together in order to find the key to get out,” Smith says.\n\nThe fun part of Escape the Oval Office is that anything here could be a clue to solving the puzzle: The antique typewriter from the 1930s. Or the vintage turntable that plays records. Or the map of Washington, D.C. And then there are hidden messages that can only be seen under a black light.\n\nSometimes, the hot line on the desk rings.\n\n“Would you guys like a clue?” the voice on the line asks.\n\nThe game master monitors the progress on a camera and calls to offer hints as needed.\n\nTeams can be made up of co-workers, families, tourists, or friends. This particular group is made up of six friends and two strangers who just met before the game started.\n\nOne of the participants, Kat Matus, says she has never been in any of the Escape Rooms before.\n\n“So it was a lot of fun. And I think that it was actually great that we didn’t know each other because it really forces you to have to learn how to work with one another.”\n\nIt is estimated that there are about 600 Escape Room adventures across the country. When Smith opened the Escape Lounge a year ago, there were two others in the Washington area. Now there are 12 and growing.\n\nWhile each experience has different themes and settings, the formats are similar, and solving the puzzle requires social and physical engagement and quick, creative thinking.\n\nSmith says the escape success rate is between 30 and 40 percent.\n\n“So it is pretty challenging. Escape the Oval Office is not an easy game. I think this game is popular because it gives an individual a chance to be a detective or to be a James Bond.”\n\nBut, Smith says, like most team sports, this game is really all about being a good teammate and having a good time.",
+  "questions": [
+    {
+      "question": "What does the Oval Office escape room feature in order to mimic the actual Oval Office?",
+      "options": [
+        "Only a presidential seal and the iconic desk",
+        "A variety of props including portraits and a rug with the presidential seal",
+        "Just the presidential portraits and a turntable",
+        "An interactive guide with historical facts about past presidents"
+      ],
+      "answer": "A variety of props including portraits and a rug with the presidential seal"
+    },
+    {
+      "question": "Why does the hot line on the desk sometimes ring?",
+      "options": [
+        "To provide players with a chance to listen to music",
+        "To inform players that the game is about to end",
+        "To offer participants a clue when they need help",
+        "To indicate that the timer is about to expire"
+      ],
+      "answer": "To offer participants a clue when they need help"
+    },
+    {
+      "question": "How many escape rooms are there in the Washington area right now?",
+      "options": [
+        "12",
+        "2",
+        "600",
+        "10"
+      ],
+      "answer": "12"
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

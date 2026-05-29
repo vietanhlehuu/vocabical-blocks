@@ -1,0 +1,60 @@
+{
+  "title": "Celebrity Pulls Driver from Burning Car",
+  "introduction": null,
+  "image": {
+    "id": "dc13e1a8-9dd5-455f-b1d9-4da390edfe89",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6hHOf8VCm2PLSkSFoLpthB.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 724
+    },
+    "attribution": "Georges Biard / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1mB3Cfn9yDqKNKfWluVDQq.mpga",
+  "main_content": "Actor Jamie Foxx won an Academy Award for playing singer Ray Charles in the film “Ray.”\n\nFoxx is famous for his work in movies, his jokes in stand-up comedy routines and even for recording songs.\n\nFoxx saved a man from a burning car.\n\nThirty-two-year-old Brett Kyle drove a truck off the road in front of Foxx’s home in California. The truck hit a ditch and reportedly turned over several times.\n\nThe truck caught fire and Foxx ran out of his home to help.\n\nHe pulled the driver out of the truck and to safety.\n\nKyle was taken to the hospital for treatment of serious injuries. He also was arrested for drunken driving.\n\nFoxx met with the man’s father.\n\nPeople had only good things to say about Foxx for doing a good deed.\n\nAnd Foxx added a photo to Instagram. It shows him hugging Kyle’s father.\n\nFoxx wrote: “This is all that matters. That a man, a son, a brother’s life was spared last night.”",
+  "questions": [
+    {
+      "question": "What was Jamie Foxx famous for before this deed?",
+      "options": [
+        "A) His philanthropic efforts in the community",
+        "B) His work in movies, stand-up comedy, and music",
+        "C) His athletic achievements in college sports",
+        "D) His participation in reality television shows"
+      ],
+      "answer": "B) His work in movies, stand-up comedy, and music"
+    },
+    {
+      "question": "How did Jamie Foxx help the truck driver?",
+      "options": [
+        "A) He called the police for assistance",
+        "B) He pulled the driver out of the burning truck",
+        "C) He provided first aid at the scene",
+        "D) He offered emotional support after the incident"
+      ],
+      "answer": "B) He pulled the driver out of the burning truck"
+    },
+    {
+      "question": "Why was Brett Kyle arrested?",
+      "options": [
+        "A) For speeding before the accident",
+        "B) For public intoxication near the accident site",
+        "C) For drunken driving",
+        "D) For failing to provide insurance information"
+      ],
+      "answer": "C) For drunken driving"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

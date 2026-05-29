@@ -1,0 +1,60 @@
+{
+  "title": "Danish Man Fined for Selling Spyware App in US",
+  "introduction": null,
+  "image": {
+    "id": "93cd55c6-c98b-4012-a2fd-89f07e3c8712",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4Uti2z1vn5EEWE35Wl1P06.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Dsimic at English Wikipedia / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5N0invAQrkibTRarIIAbu5.mpga",
+  "main_content": "A U.S. federal court has ordered a Danish man to pay a $500,000 fine for advertising and selling a spyware application to remotely monitor calls, texts, videos and other communications on mobile phones without detection.\n\nAt a court hearing in the southern U.S. state of Virginia, Hammad Akbar pleaded guilty to marketing “StealthGenie.” The case marks the first criminal conviction involving the advertisement and sale of a mobile device spyware app.\n\nAssistant Attorney General Leslie Caldwell said the software secretly and illegally invades individual privacy.\n\nThe app could be installed on a variety of mobile phones, including Apple’s iPhone, Google’s Android and Blackberry Limited’s Blackberry.\n\nAkbar also was ordered to forfeit the source code for “StealthGenie” to the government.\n\nAccording to Akbar, StealthGenie had numerous functions that permitted it to intercept both outgoing and incoming telephone calls, electronic mail, text messages, voicemail and photographs from the smartphone on which it was installed. The app also could turn on the phone’s microphone when it was not in use, and record sounds and conversations that occurred near the phone. All of these functions could be enabled without the knowledge of the user of the phone.\n\nIn order to install the app, the purchaser needed temporary possession of the target phone.\n\nOnce the app was activated, it was started as a “background” service and set up to launch automatically when the phone was powered on. During activation the icon for the app was removed from the phone’s menu.",
+  "questions": [
+    {
+      "question": "Why was the Danish man fined?",
+      "options": [
+        "For stealing someone else's software code.",
+        "For advertising and selling a spyware application that invades privacy.",
+        "For failing to register his business legally.",
+        "For not disclosing his earnings from the sale."
+      ],
+      "answer": "For advertising and selling a spyware application that invades privacy."
+    },
+    {
+      "question": "What does the software do, according to the attorney?",
+      "options": [
+        "It acts as a firewall to protect users' data.",
+        "It secretly and illegally invades individual privacy.",
+        "It enhances the performance of mobile devices.",
+        "It provides users with data analytics on their phone usage."
+      ],
+      "answer": "It secretly and illegally invades individual privacy."
+    },
+    {
+      "question": "What functions did StealthGenie have?",
+      "options": [
+        "It enabled users to enhance their phone's battery life.",
+        "It intercepted both outgoing and incoming communications without the user's knowledge.",
+        "It provided parental controls for monitoring children's activities.",
+        "It allowed users to customize their device settings remotely."
+      ],
+      "answer": "It intercepted both outgoing and incoming communications without the user's knowledge."
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Dutch Experiment Grows Vegetables in Sea Water",
+  "introduction": null,
+  "image": {
+    "id": "2a47dee6-9e9a-11e8-b0c4-3792eee4f7b7",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6jAS4G7NLPfm6L4wRxklU5.jpeg",
+    "dimensions": {
+      "x": 462,
+      "y": 599
+    },
+    "attribution": "Christopher J. Fynn / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/72KVa7ysV1Uw2QmIiQUkoQ.mpga",
+  "main_content": "Climate change has caused a rise in sea levels. This has increased the amount of salt in fresh water used on coastal farms. As a result farmers are increasingly unable to use fields close to the sea.\n\nScientists call this process “salinization”, the term comes from the word “saline” – which means a mixture of salt and water. The United Nations Food and Agriculture Organization says salinization is reducing the world’s irrigated lands by 1 to 2 percent every year. Irrigation is the process of supplying land with fresh water from other areas.\n\nBut a farmer in the Netherlands is now using a mixture of sea and fresh water to grow healthy and tasty vegetables. Marc Van Rijsselberghe started with an experiment. He put several kinds of plants in saline.\n\n“We put in a lot of plants in the fields and then we put in, put them in fresh water and in sea water and all the varieties between it, and then we see which variety is surviving and which variety is dying.”\n\nMr. Van Rijsselberghe worked on the project with scientists from the Free University of Amsterdam. He divided a farm into eight irrigated areas. Separate pipes pumped fresh and sea water, and a computer program created water with eight levels of salinity.\n\nComputerized measuring devices called “sensors” controlled the water levels and the levels of salinity. Mr. Van Rijsselberghe says he was able to harvest vegetables from most of the eight test areas. He says the vegetables were smaller than those grown in fresh water. But he says they also have more sugar and salt, so they taste better.\n\nThe farmer grew carrots, cabbage, onions and beetroot. But he found that potatoes grew better than the other vegetables in the combination of sea and fresh water. Mr. Van Rijsselberghe says four kinds of these potatoes were recently sent to Pakistan, where thousands of hectares of land have been damaged by salinization. Farmers in Pakistan will test the Dutch potatoes to see if they can be grown in those fields.",
+  "questions": [
+    {
+      "question": "What is “salinization”?",
+      "options": [
+        "The process of planting crops in fresh water only",
+        "A term referring to the increase in soil nutrients",
+        "The process of increasing salt levels in fresh water",
+        "A method to irrigate crops using a mixture of different waters"
+      ],
+      "answer": "The process of increasing salt levels in fresh water"
+    },
+    {
+      "question": "Who did Mr. Van Rijsselberghe work on the project with?",
+      "options": [
+        "Local farmers in the Netherlands",
+        "Researchers from the University of Amsterdam",
+        "Scientists from the Free University of Amsterdam",
+        "International agricultural organizations"
+      ],
+      "answer": "Scientists from the Free University of Amsterdam"
+    },
+    {
+      "question": "How did the vegetables grown in the combination of sea and fresh water differ from those grown in fresh water?",
+      "options": [
+        "They were larger but lacked flavor",
+        "They had less sugar and were less salty",
+        "They were smaller but tasted better",
+        "They required more irrigation than fresh water crops"
+      ],
+      "answer": "They were smaller but tasted better"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

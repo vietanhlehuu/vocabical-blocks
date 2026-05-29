@@ -1,0 +1,60 @@
+{
+  "title": "New Paris Concert Hall Hopes to Link Rich and Poor Music Lovers",
+  "introduction": null,
+  "image": {
+    "id": "e458df2c-0eab-11e7-b16c-6b36e4717cb2",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1xtLLp7NlzuqdnyIczhRv3.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Guilhem Vellut from Paris, France / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6vkaiIUVyZcagkx1L5sLTv.mpga",
+  "main_content": "The new Paris Philharmonic concert hall opened earlier this year. Long before opening day, people questioned the large amount of money required to pay for the building. Critics also were concerned about where it would be built: far from the center of the French capital.\n\nNow, the biggest problem is a social one. Can the concert hall influence a new generation of classical music lovers? Also, can it reach out to a working-class neighborhood?\n\nIn the French language, the new philharmonic concert hall on the edge of Paris is known as the Philharmonie de Paris. It is the home of the Paris Symphony Orchestra. Maybe more importantly, it is a brave social experiment. President Laurent Bayle says the aim is to sell classical music to young people, the poor and a mix of ethnic and cultural groups.\n\nThe concert hall offers music that is usually linked to the city’s pricey neighborhoods – where rich people live.\n\nBut the Philharmonie is not located in the center of Paris. Instead, it is in an arts and science center in northeastern Paris called Parc de la Villette.",
+  "questions": [
+    {
+      "question": "What were the critics concerned about?",
+      "options": [
+        "The architectural style of the concert hall",
+        "The amount of funding required for the building",
+        "The concert hall's access to public transportation",
+        "The potential for the hall to host international artists"
+      ],
+      "answer": "The amount of funding required for the building"
+    },
+    {
+      "question": "How is the new philharmonic concert hall known in French?",
+      "options": [
+        "Le Centre Philharmonique de Paris",
+        "La Salle de Concert Parisienne",
+        "L'Opéra de Paris",
+        "La Philharmonie de Paris"
+      ],
+      "answer": "La Philharmonie de Paris"
+    },
+    {
+      "question": "Where is the philharmonic concert hall located?",
+      "options": [
+        "Near the Eiffel Tower",
+        "In northeastern Paris at Parc de la Villette",
+        "In the heart of Paris near the Seine",
+        "In a historical district known for its music venues"
+      ],
+      "answer": "In northeastern Paris at Parc de la Villette"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "NASA Discovers Nearly 1,300 New Planets",
+  "introduction": null,
+  "image": {
+    "id": "3d83a405-e165-4a4e-ba75-cff6def9ae27",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1s4gtk8bv2m2smLtjmILqh.jpeg",
+    "dimensions": {
+      "x": 430,
+      "y": 318
+    },
+    "attribution": "William K. Hartmann, Planetary Science Institute, Tucson, Arizona / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2bhZmnDNK36Vr4TPaLfibS.mpga",
+  "main_content": "NASA — the U.S. space agency — said it found 1,300 planets outside our solar system.\n\nNine of the planets are orbiting stars at the distance that can support life.\n\nNASA said that the Kepler space telescope confirmed the existence of 1,284 planets. This result came from studying more than 4,000 possible planets.\n\nScientists said the research is important to help them find out whether there is life on other planets.\n\nPaul Hertz is NASA’s director of astrophysics. He said, “this gives us hope that somewhere out there, around a star much like ours, we can discover another Earth.”\n\nHe said the information brings humans a little closer to finding out whether they are alone in the universe.\n\nTo reach this number of planets, scientists looked at thousands of pieces of data. The researchers used a new method to study thousands of candidates for traits that would establish them as planets.",
+  "questions": [
+    {
+      "question": "\fWhich space telescope confirmed the existence of 1,284 planets?",
+      "options": [
+        "Hubble Space Telescope",
+        "Chandra X-ray Observatory",
+        "Kepler Space Telescope",
+        "James Webb Space Telescope"
+      ],
+      "answer": "Kepler Space Telescope"
+    },
+    {
+      "question": "How many possible planets were studied?",
+      "options": [
+        "3,000",
+        "5,000",
+        "4,000",
+        "1,500"
+      ],
+      "answer": "4,000"
+    },
+    {
+      "question": "What did Paul Hertz say about this discovery?",
+      "options": [
+        "It is unlikely we will find life elsewhere",
+        "It gives hope for discovering another Earth",
+        "It proves life exists on other planets",
+        "It is only a small step in space exploration"
+      ],
+      "answer": "It gives hope for discovering another Earth"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

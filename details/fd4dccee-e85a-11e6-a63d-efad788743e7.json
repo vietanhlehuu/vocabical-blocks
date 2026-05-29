@@ -1,0 +1,60 @@
+{
+  "title": "New US Food Advice Not to Everyone’s Taste",
+  "introduction": null,
+  "image": {
+    "id": "3256352b-2e7c-4c66-a983-d69c26c253a0",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1Wz0pPMPQ6pcfSlqR8yqno.jpeg",
+    "dimensions": {
+      "x": 800,
+      "y": 569
+    },
+    "attribution": "KF / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6OYJb5BjJRZMBDBsxc5NGc.mpga",
+  "main_content": "Americans can eat eggs without feeling guilty, according to new nutritional guidelines issued by the U.S. government.\n\nA person can eat as many eggs as they like each day, the updated guidelines say. One large chicken egg has about 186 milligrams of cholesterol.\n\nOlder guidelines restricted cholesterol intake to 300 milligrams a day. Two eggs would be more than the daily limit.\n\nThe guidelines were issued by the U.S. Department of Agriculture and the Department of Health and Human Services.\n\nThe government guidelines are issued every five years. It is designed to help set nutritional standards.\n\nOther tips to stay healthy included advice to limit intake of sugars to 10 percent. Saturated fat calories found in red meat, butter, cheese, milk and ice cream should be limited each day to 10 percent.\n\nThe guidelines promoted eating more fruits, vegetables and nuts.\n\nSome are critical of the new guidelines.",
+  "questions": [
+    {
+      "question": "How many percent of saturated fat can people have each day?",
+      "options": [
+        "A) 5 percent",
+        "B) 10 percent",
+        "C) 15 percent",
+        "D) 20 percent"
+      ],
+      "answer": "B) 10 percent"
+    },
+    {
+      "question": "What used to be the daily limit of cholesterol?",
+      "options": [
+        "A) 200 milligrams",
+        "B) 250 milligrams",
+        "C) 300 milligrams",
+        "D) 350 milligrams"
+      ],
+      "answer": "C) 300 milligrams"
+    },
+    {
+      "question": "What amount of eggs can a person eat now according to the nutritional guidelines issued by the U.S. government?",
+      "options": [
+        "A) One egg per day",
+        "B) Two eggs per day",
+        "C) As many eggs as they like",
+        "D) No eggs at all"
+      ],
+      "answer": "C) As many eggs as they like"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

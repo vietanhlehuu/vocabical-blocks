@@ -1,0 +1,60 @@
+{
+  "title": "New Star Wars Trailer Sparks International Fan Frenzy",
+  "introduction": null,
+  "image": {
+    "id": "ecae92bf-61ac-4f18-be52-441883d757e0",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/7Cby6DRH2VqC68GC3ozASO.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Gage Skidmore / Wikimedia Commons / CC-BY-SA-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/52zOggRcCrnoNUVqGNJ2bM.mpga",
+  "main_content": "Star Wars fans across the globe are in a frenzy after the release of the latest and final trailer for the highly anticipated film “Star Wars: The Force Awakens” that opens in December.\n\nIn the United States, the trailer debuted on television during halftime of a National Football League game Monday night while across the world fans rushed to view the trailer online. As of Tuesday morning, it had more than 9.5 million views on YouTube.\n\nAlthough the latest installment of the Star Wars series is opening some two months from now, tickets have already gone on sale online. Some ticketing sites, like Fandango, crashed amid the demand to get tickets.\n\nDirected by J.J. Abrams, The Force Awakens takes place about three decades after the events in “Return of the Jedi”, the third Star Wars movie released as part of the original trilogy.\n\nThe latest trailer for the new movie doesn’t reveal much about the plot. It features a new villain, Kylo Ren, played by Adam Driver as well as original Star Wars characters Han Solo, played by Harrison Ford and Princess Leia, played by Carrie Fisher.\n\nAt one point, a character named Rey, played by Daisy Ridley, is heard asking “There were stories about what happened?”  “It’s true.  all of it.  The Dark Side.  The Jedi. They’re real,” responds Han Solo.",
+  "questions": [
+    {
+      "question": "When will “Star Wars: The Force Awakens” open for the public?",
+      "options": [
+        "In November",
+        "In December",
+        "In January",
+        "In October"
+      ],
+      "answer": "In December"
+    },
+    {
+      "question": "When was the trailer for the movie shown?",
+      "options": [
+        "During the Super Bowl",
+        "During halftime of a National Football League game",
+        "At a movie premiere",
+        "On a live streaming event"
+      ],
+      "answer": "During halftime of a National Football League game"
+    },
+    {
+      "question": "Are fans eager to buy tickets to see the movie?",
+      "options": [
+        "Yes, but only a few of them",
+        "No, they are not interested",
+        "Yes, there is a high demand for tickets",
+        "Only casual fans are interested in tickets"
+      ],
+      "answer": "Yes, there is a high demand for tickets"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

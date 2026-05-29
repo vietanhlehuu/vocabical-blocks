@@ -1,0 +1,60 @@
+{
+  "title": "Obama: Alaskans Feel Signs of Climate Change",
+  "introduction": null,
+  "image": {
+    "id": "6a5f6838-e286-4d2c-81cf-34f8a73808ab",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3EimqREBU55tauTpt6fUJX.jpeg",
+    "dimensions": {
+      "x": 452,
+      "y": 303
+    },
+    "attribution": "National Park Service / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3cJWvxPY9DBfkV18zYu77e.mpga",
+  "main_content": "U.S. President Barack Obama says Alaskans — residents of the vast and remote northwestern state that lies partially in the Arctic Circle — are already feeling the effects of climate change, as he prepares for a three-day visit to the state starting Monday.\n\nObama said in his weekly address Saturday that Alaskans are experiencing bigger storm surges as sea ice melts, more frequent and extensive wildfires, deteriorating glaciers, and some of the swiftest shoreline erosion in the world.\n\nObama said that if Americans do nothing about climate change, Alaskan temperatures are projected to rise between six and 12 degrees Fahrenheit (3.3 and 6.7 Celsius) by the end of the century, affecting many industries.\n\nThe president is scheduled Monday to attend a climate change conference in the city of Anchorage, attended by representatives from other Arctic nations and Alaskans concerned about the way climate change affects their state, which is heavily dependent on the oil and fishing industries.\n\nThe Alaska conference comes three months ahead of a United Nations conference on climate change in Paris.\n\nObama has been both praised and criticized for his actions concerning climate change in Alaska. Last week he approved oil drilling operations in the Chukchi Sea, heartening those who support Alaska’s drilling industry, but irritating environmentalists who say drilling in Alaska damages the environment and extends U.S. dependence on fossil fuels.\n\nLate last year Obama moved to protect millions of hectares of Alaskan coast land and wilderness, and put a stop to drilling in Alaska’s Bristol Bay. Critics on both sides have called him a hypocrite for putting seemingly contradictory policies into place.",
+  "questions": [
+    {
+      "question": "How is Alaska described in the article?",
+      "options": [
+        "A small coastal state with a mild climate",
+        "A vast and remote northwestern state that lies partially in the Arctic Circle",
+        "A densely populated region with urban centers",
+        "A tropical area known for its wildlife diversity"
+      ],
+      "answer": "A vast and remote northwestern state that lies partially in the Arctic Circle"
+    },
+    {
+      "question": "What are some of the dangers that Alaskans are facing?",
+      "options": [
+        "Increased agricultural yields and milder winters",
+        "Deteriorating glaciers and swift shoreline erosion",
+        "Less reliance on fossil fuels and improved environmental conditions",
+        "A significant decrease in wildlife populations due to conservation efforts"
+      ],
+      "answer": "Deteriorating glaciers and swift shoreline erosion"
+    },
+    {
+      "question": "Where does most of Alaska’s revenue come from?",
+      "options": [
+        "Tourism and outdoor recreation",
+        "Oil and fishing industries",
+        "Agriculture and manufacturing",
+        "Technology and services"
+      ],
+      "answer": "Oil and fishing industries"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

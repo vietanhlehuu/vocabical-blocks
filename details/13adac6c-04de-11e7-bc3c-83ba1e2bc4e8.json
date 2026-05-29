@@ -1,0 +1,60 @@
+{
+  "title": "National Park Week Features Free Park Entry",
+  "introduction": null,
+  "image": {
+    "id": "730febfd-54c7-4f67-9e8c-3ce25cac2a4f",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3V7OQ9tJTHWZh10TnF2lu3.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 334
+    },
+    "attribution": "DAVID ILIFF / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/29ekZW21eCjF9de4QIZEC9.mpga",
+  "main_content": "This year, the U.S. National Park Service turns 100.\n\nThe organization is celebrating all year long. And starting April 16, the National Park Service will also be celebrating National Park Week.\n\nThe National Park Service manages more than 400 national parks, monuments and more. There are 127 national parks that usually charge visitors admission.\n\nBut during National Park Week, visitors can enter all national parks across the country free of charge. National Park week this year runs from April 16 to April 24.\n\nThe National Park Service started 100 years ago, but some parks are over 100 years old. Yellowstone National Park in the western United States was established in 1872 as the first national park in the America. It was also the world’s first national park.\n\nOver 300 million people visited U.S. national parks last year. That was a 5 percent increase compared to 2014.",
+  "questions": [
+    {
+      "question": "How old is the U.S. National Park Service?",
+      "options": [
+        "50 years",
+        "75 years",
+        "100 years",
+        "150 years"
+      ],
+      "answer": "100 years"
+    },
+    {
+      "question": "How many of the national parks charge admission?",
+      "options": [
+        "50",
+        "127",
+        "300",
+        "400"
+      ],
+      "answer": "127"
+    },
+    {
+      "question": "Which is the oldest national park?",
+      "options": [
+        "Yosemite National Park",
+        "Yellowstone National Park",
+        "Grand Canyon National Park",
+        "Zion National Park"
+      ],
+      "answer": "Yellowstone National Park"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Futuristic Transport System Moves Closer to Reality",
+  "introduction": null,
+  "image": {
+    "id": "13d99530-494f-11ea-b73e-cbf65379c714",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5y0PgS8BfrtZuLBAgo4ZO4.png",
+    "dimensions": {
+      "x": 512,
+      "y": 325
+    },
+    "attribution": "Camilo Sanchez / Wikimedia Commons / CC-BY-SA 4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5GBXYR3bnDXeYKXqyzv6n5.mpga",
+  "main_content": "In the United States, a company is working on a project that could change the way we think about public transportation. Its planned system would move people around in steel tubes. Those passengers would be traveling at speeds of up to 1,200 kilometers per hour.\n\nThe futuristic steel tube transportation system is called Hyperloop.\n\nThe Hyperloop transport system is the idea of businessman Elon Musk. Dirk Ahlborn is head of Hyperloop Transportation Technologies. He says his company has taken Mr. Musk’s idea and is developing a system that will be safe, environmentally friendly and fast.\n\nThe system involves a series of capsules that float inside a long tube.These containers would not need to travel along a pathway or track. The system has been designed to operate above or below ground.\n\nDirk Ahlborn and his company will use an eight-kilometer track in Quay Valley to find the best way to set up passenger traffic and repair capsules.\n\nIf Mr. Ahlborn and his company succeed, we may one day see these very fast Hyperloop capsules speeding through tubes around the world.",
+  "questions": [
+    {
+      "question": "Who is Dirk Ahlborn?",
+      "options": [
+        "A government official overseeing public transport",
+        "The head of Hyperloop Transportation Technologies",
+        "An engineer working independently on transportation",
+        "An investor providing funding for Elon Musk's projects"
+      ],
+      "answer": "The head of Hyperloop Transportation Technologies"
+    },
+    {
+      "question": "Whose idea was the Hyperloop transport system?",
+      "options": [
+        "Dirk Ahlborn's innovative concept",
+        "Elon Musk's original proposal",
+        "A collaborative effort from multiple engineers",
+        "A project suggested by the government"
+      ],
+      "answer": "Elon Musk's original proposal"
+    },
+    {
+      "question": "What may happen if the Hyperloop company succeeds?",
+      "options": [
+        "The creation of conventional rail systems across the country",
+        "A revolutionary improvement in global public transportation",
+        "An increase in air travel reliance",
+        "Introduction of underground tunnels for cars"
+      ],
+      "answer": "A revolutionary improvement in global public transportation"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

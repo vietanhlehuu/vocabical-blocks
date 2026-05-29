@@ -1,0 +1,60 @@
+{
+  "title": "Sharp Rise in Number of Afghans Fleeing Conflict",
+  "introduction": null,
+  "image": {
+    "id": "7498e6f2-570f-429d-87e7-2824ca36d498",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3Y0z9j7NebSiPL5kOZqMqO.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Evan Bench from paris, france / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0i734WKZWjqZia1xHLtyzQ.mpga",
+  "main_content": "The number of Afghans displaced within their country has increased over the past three years, says Amnesty International.\n\nThe rights group reported on Tuesday that Afghanistan has 1.2 million displaced people. That is almost double the number in 2013.\n\nChampa Patel is Amnesty International’s South Asia Director. She said that growing numbers of displaced Afghans are living in very bad conditions.\n\nIn recent years, Afghanistan’s central government has promised to help displaced people. But these Afghans still lack food, water, health care, and chances to seek education and employment, Amnesty said.\n\nAmnesty International has called on Afghan officials and the international community to act quickly.",
+  "questions": [
+    {
+      "question": "How many displaced people are there in Afghanistan?",
+      "options": [
+        "1.2 million",
+        "3 million",
+        "2 million",
+        "500,000"
+      ],
+      "answer": "1.2 million"
+    },
+    {
+      "question": "What did Champa Patel say about the conditions in which the displaced Afghans are living?",
+      "options": [
+        "They are improving significantly",
+        "They are living in very bad conditions",
+        "Conditions are better than in 2013",
+        "Most are seeking education and employment"
+      ],
+      "answer": "They are living in very bad conditions"
+    },
+    {
+      "question": "Has Afghanistan’s government helped all the displaced people?",
+      "options": [
+        "Yes, they have provided food and shelter",
+        "No, they still lack basic necessities",
+        "Only some have received assistance",
+        "The government has promised help but it is complete"
+      ],
+      "answer": "No, they still lack basic necessities"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Japan, China Top Diplomats Meet",
+  "introduction": null,
+  "image": {
+    "id": "04eac72b-1197-4d09-8ee1-66c3a2d7a76a",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/09HGJZ1cLlNNktC3tuAUKA.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 674
+    },
+    "attribution": "US Department of State / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3CVwDMQv5eMgxhQsHpeQj1.mpga",
+  "main_content": "Japan’s foreign minister has met formally in Beijing with his Chinese counterpart for the first time in more than two years, amid diplomatic efforts to ease tensions between the two countries.\n\nFumio Kishida and China’s Wang Yi met Saturday to lay the groundwork for a possible summit between the two countries’ top leaders on the sidelines of the Asia-Pacific Economic Cooperation conference, which begins in Beijing on Monday.\n\n“We hope that the Japanese side takes this seriously, implements it faithfully and honours its commitment so as to create a necessary and favourable atmosphere for a meeting between the two leaders,” said Yi.\n\nU.S. Secretary of State John Kerry, speaking in Beijing, said he welcomed the reduction in tensions between the two countries.\n\n“This agreement is a beginning, it’s not an end. It’s the outline of steps that now need to be taken in order to really define how certain tensions are going to really be resolved,” said Kerry. “So it will be over time that this will be given a little more meat on the bones, but we absolutely appreciate the initial effort. We think it is very constructive and we have hopes that it can lead to a greater definition and to a reduction further of any conflict or tension in the region.”\n\nJapan and China agreed on Friday to establish a diplomatic mechanism to avoid an escalation of a dispute about a group of uninhabited islands.\n\nThe agreement was reached during a meeting in Beijing between China’s top diplomat, Yang Jiechi, and Japan’s national security adviser, Shotaro Yachi.\n\nA Chinese press release said the two sides agreed that different positions exist between them regarding tensions in recent years over the East China Sea islands known as Senkaku in Japan and Diaoyu in China.\n\nOfficials said the two sides agreed to gradually resume political, diplomatic and security dialogue and to make efforts to build political mutual trust.",
+  "questions": [
+    {
+      "question": "When did the two politicians last meet?",
+      "options": [
+        "During the Asia-Pacific Economic Cooperation conference",
+        "More than two years ago",
+        "In the previous month",
+        "At the start of the year"
+      ],
+      "answer": "More than two years ago"
+    },
+    {
+      "question": "What are they laying the groundwork for?",
+      "options": [
+        "A new trade agreement",
+        "A possible summit between their top leaders",
+        "A military alliance",
+        "A cultural exchange program"
+      ],
+      "answer": "A possible summit between their top leaders"
+    },
+    {
+      "question": "Why did Japan and China agree to establish a diplomatic mechanism?",
+      "options": [
+        "To enhance their military cooperation",
+        "To avoid escalation of an island dispute",
+        "To increase trade relations",
+        "To settle historical grievances"
+      ],
+      "answer": "To avoid escalation of an island dispute"
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

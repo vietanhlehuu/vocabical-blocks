@@ -1,0 +1,60 @@
+{
+  "title": "Delhi Tries to Clear Traffic, Air with Car-Free Day",
+  "introduction": null,
+  "image": {
+    "id": "2c4e62c2-2a62-11eb-9d68-7f6062822f72",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1iFFfGxNsTNQMzAu4oYFjZ.jpeg",
+    "dimensions": {
+      "x": 770,
+      "y": 571
+    },
+    "attribution": "de:Benutzer:Neitram / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/24xCRQrDoeMQYnUahoO6zY.mpga",
+  "main_content": "September 22 is known on the Internet as World Car Free Day. People were urged to leave their motorized vehicles at home and take public transportation to work.\n\nWorld Car-Free Day was observed in a number of areas, including India’s financial center: the city of Gurgaon. The event was not entirely successful there. But many people considered the effort a much needed initiative to reduce pollution levels and traffic problems in Indian cities.\n\nBusiness leaders and police officers were among those who went out in the heat and sticky weather to take public transportation or ride a bicycle to work.\n\nHowever, some say India’s business capital does not have enough public transportation.\n\nGurgaon is home to many companies. It also has pricey apartment homes and high-end shopping malls. But its wealth has come at a price: Its roads are filled with cars and its traffic jams are legendary.\n\nGurgaon officials hope to make an example with the initiative. Police Commissioner Navdeep Singh Virk rode a bicycle to work Tuesday. He wants to make every Tuesday a car-free day.",
+  "questions": [
+    {
+      "question": "What is Gurgaon?",
+      "options": [
+        "A city known for low housing costs and minimal traffic.",
+        "A financial center in India with high-end shopping and significant traffic issues.",
+        "A rural area in India with limited access to public transportation.",
+        "An international tourist destination famous for its natural reserves."
+      ],
+      "answer": "A financial center in India with high-end shopping and significant traffic issues."
+    },
+    {
+      "question": "When is the World Car Free Day?",
+      "options": [
+        "September 21",
+        "September 22",
+        "September 23",
+        "September 24"
+      ],
+      "answer": "September 22"
+    },
+    {
+      "question": "What did Navdeep Singh Virk say about the World Car Free Day?",
+      "options": [
+        "He believes it should be a monthly event.",
+        "He wants to make every Tuesday a car-free day.",
+        "He thinks the initiative does not address the root of traffic issues.",
+        "He is indifferent towards the car-free initiative."
+      ],
+      "answer": "He wants to make every Tuesday a car-free day."
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

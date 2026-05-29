@@ -1,0 +1,60 @@
+{
+  "title": "Travel Apps Offer Direction, Fun",
+  "introduction": null,
+  "image": {
+    "id": "fb87e2f7-883f-42b2-a070-d24e2e86e506",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/7edAoSqS9lsA7mB5YJvHeg.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 340
+    },
+    "attribution": "Todd Lopez / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6XPwZlYRYyPu1VjP1P1y8E.mpga",
+  "main_content": "When life takes you away from home, take technology to help guide and entertain you. Apps can help make your trip easier and more fun.",
+  "questions": [
+    {
+      "question": "What can TripIt create for you?",
+      "options": [
+        "A shared travel itinerary",
+        "A real-time navigation guide",
+        "A restaurant reservation system",
+        "A local event calendar"
+      ],
+      "answer": "A shared travel itinerary"
+    },
+    {
+      "question": "What can you do with OpenTable?",
+      "options": [
+        "Book a table at a restaurant",
+        "Plan your travel itinerary",
+        "Find nearby attractions",
+        "Access offline map data"
+      ],
+      "answer": "Book a table at a restaurant"
+    },
+    {
+      "question": "Which app can be used even without an Internet connection?",
+      "options": [
+        "TripIt",
+        "OpenTable",
+        "Google Maps",
+        "Spotify"
+      ],
+      "answer": "Google Maps"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

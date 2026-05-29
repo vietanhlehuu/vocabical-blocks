@@ -1,0 +1,60 @@
+{
+  "title": "Will: Do You Have It?",
+  "introduction": null,
+  "image": {
+    "id": "58558285-9135-47aa-aec0-84178702a13d",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2ggOygxMaSlpKT4nCLeLGv.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Robbin Cresswell / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0sU57FjkmD9dp6UGDx3tfB.mpga",
+  "main_content": "Today we talk about a simple word: will.\n\nAs a verb, will requires you to do something. If you say you will take action, you have promised to do it.\n\nAs a noun, will is the determination to do something, demonstrating a strength or firmness. Someone who has a strong will does not give up.\n\nAmericans often say someone who is determined has an iron will. On the opposite side, someone who has lost their will has given up. It is a very serious situation when a person has lost their will to live. These people need lots of love and support.\n\nWill can also be a person’s choice or desire to do something. For example, do you have the will to learn the English language?\n\nThe next word is willpower.\n\nWillpower is the personal strength you have that enables you to do something difficult. For example, it takes great willpower to give up cigarettes.",
+  "questions": [
+    {
+      "question": "What does a determined person have?",
+      "options": [
+        "A lack of motivation",
+        "An iron will",
+        "An ability to procrastinate",
+        "A tendency to give up"
+      ],
+      "answer": "An iron will"
+    },
+    {
+      "question": "What does a person who has lost his/her will to live need?",
+      "options": [
+        "Isolation from others",
+        "Numerous distractions",
+        "Lots of love and support",
+        "Professional criticism"
+      ],
+      "answer": "Lots of love and support"
+    },
+    {
+      "question": "What is willpower?",
+      "options": [
+        "The act of making promises",
+        "The strength to refrain from habits",
+        "The determination to change one's life",
+        "Personal strength to do something difficult"
+      ],
+      "answer": "Personal strength to do something difficult"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

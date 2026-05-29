@@ -1,0 +1,60 @@
+{
+  "title": "Oxfam: Richest 1% to Own Half the World’s Wealth by 2016",
+  "introduction": null,
+  "image": {
+    "id": "e4591e4c-0eab-11e7-b196-672834e02288",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2AUuSR7F8DGOeJ0mtinIhD.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 342
+    },
+    "attribution": "Brian Sims / Wikimedia Commons / CC-BY-SA-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6yPdfbhse02XCqa3OAw1Te.mpga",
+  "main_content": "The combined wealth of the world’s richest 1 percent will overtake that of the remaining 99 percent at some point in 2016, according to the anti-poverty charity Oxfam. Campaigners are demanding that policymakers take action to address the widening gap between the ‘haves’ and the ‘have nots.’\n\nOxfam says an “explosion of inequality” is holding back the fight against global poverty. When 1 in 9 people around the world do not have enough food to eat, the growing gap between rich and poor is scandalous, says Oxfam’s Max Lawson.\n\n“An incredible concentration of wealth right at the top of society, which is deeply, deeply divisive and very economically inefficient. So we’re very worried about that. It’s bad for the planet, it’s bad for the economy, and it seems to be getting worse,” Lawson said.\n\nThe report comes as global business and political leaders prepare to gather in Davos, Switzerland for the World Economic Forum. Campaigners, like Lawson, are calling on policymakers to play their part in tackling extreme inequality – beginning by taxing the rich more.\n\n“You’ve got mining companies in Africa that are busy making an absolute fortune and paying no tax. Tax isn’t just about money. It’s better to visualize tax as schools, as hospitals,” he states.\n\nUsing data from the bank Credit Suisse and Forbes, Oxfam says the richest 1 percent of the world’s population currently owns 48 percent of its wealth – and that’s set to exceed 50 percent next year.\n\nProfessor Andy Green of the Institute of Education at University College London says there are a multitude of mechanisms driving inequality.\n\n“Technological change, which is biased in favor of higher skills, which reduces the demand for low-skilled people and therefore reduces their bargaining power on wages,” he explains. “Weakening trade unions. Stronger corporate power.”\n\nGreen says that power is used to influence government policy.\n\n“Large corporations have so much lobbying power now. And regulation makes a great deal of difference not only to company profitability in all sorts of ways, but also what you can do in terms of paying your top earners,” he adds.\n\nAlong with moral and economic arguments, there are also links between wealth inequality and violence – including terrorism, says Professor Tim Krieger of Freiburg University in Germany, who spoke to VOA via Skype.\n\n“Even religious terrorism has a strong economic component. So you use the religion as a vehicle to express your dissatisfaction with the political situation, with the economic situation,” he says, “and here inequality comes into play.”\n\nAnalysts say one of the regions where growing wealth inequality has driven social unrest in recent years is southern Europe. In Greece – worst hit by the global economic crisis – extreme politics is on the rise, and polls show the far left Syriza party is expected to win next week’s elections.",
+  "questions": [
+    {
+      "question": "What problem should policy makers address as soon as possible?",
+      "options": [
+        "The technological advancements reducing job availability.",
+        "The widening gap between the wealthy and the impoverished.",
+        "The influence of large corporations on government regulations.",
+        "The rise of political extremism in southern Europe."
+      ],
+      "answer": "The widening gap between the wealthy and the impoverished."
+    },
+    {
+      "question": "How do campaigners think inequality can be solved?",
+      "options": [
+        "By increasing global trade and commerce.",
+        "By taxing the rich more substantially.",
+        "By promoting technological skills among low-skilled workers.",
+        "By limiting the lobbying power of corporations."
+      ],
+      "answer": "By taxing the rich more substantially."
+    },
+    {
+      "question": "What percentage of people will own more than half of the world’s wealth by next year?",
+      "options": [
+        "48 percent",
+        "50 percent",
+        "55 percent",
+        "Over 50 percent"
+      ],
+      "answer": "Over 50 percent"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

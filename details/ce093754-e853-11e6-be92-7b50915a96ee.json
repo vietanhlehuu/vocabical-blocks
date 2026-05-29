@@ -1,0 +1,60 @@
+{
+  "title": "Financial Literacy Skills Last a Lifetime",
+  "introduction": null,
+  "image": {
+    "id": "c35b17a0-e9ee-43fd-b1dd-a23a53c2c99e",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5wd8FTn0CIi9csqZi0IPMs.png",
+    "dimensions": {
+      "x": 806,
+      "y": 507
+    },
+    "attribution": "the wub and http://www.wordle.net / Wikimedia Commons / CC-BY-3.0",
+    "public_attribution": true,
+    "lock_version": 5,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6kOqL5H9Bub0LsE0Ot0je0.mpga",
+  "main_content": "Math is an important part of every American’s education. How to use math for planning a budget or managing money,however, is not often in the curriculum.\n\nSome schools are starting to provide this training. Charles H. Flowers High School in Maryland has a financial literacy program that is designed to give young people money skills that will last a lifetime.\n\nOne of the most important lessons is how to save money and make better financial decisions.\n\nMs. Pea says teaching money management to teenagers calls for creative methods. She says she wants to keep the class interesting.\n\nIn this class, kids learn how to set priorities and make better financial decisions. That, of course, is not always easy.\n\nCamilla Pea teaches her students about the financial mistakes many adults make. These are mistakes that can create a lot of debt. Balancing a checkbook is one basic task that can help young and old manage their money.\n\nMs. Pea also advises her students to ask their parents how much they make and how they spend it. She says this helps make financial literacy becomes a part of their everyday life.",
+  "questions": [
+    {
+      "question": "Where is Charles H. Flowers High School located?",
+      "options": [
+        "Virginia",
+        "Maryland",
+        "New York",
+        "California"
+      ],
+      "answer": "Maryland"
+    },
+    {
+      "question": "What do the students learn in class?",
+      "options": [
+        "How to create a savings account",
+        "How to set priorities and make better financial decisions",
+        "How to invest in stocks",
+        "How to calculate taxes"
+      ],
+      "answer": "How to set priorities and make better financial decisions"
+    },
+    {
+      "question": "What helps make financial literacy a part of the students' everyday life?",
+      "options": [
+        "Doing math homework regularly",
+        "Talking to their parents about income and spending",
+        "Watching financial advice videos",
+        "Reading personal finance books"
+      ],
+      "answer": "Talking to their parents about income and spending"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

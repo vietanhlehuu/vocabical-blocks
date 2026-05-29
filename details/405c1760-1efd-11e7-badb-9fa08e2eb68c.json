@@ -1,0 +1,60 @@
+{
+  "title": "WMO: Current El Nino One of Strongest on Record",
+  "introduction": null,
+  "image": {
+    "id": "aafc36d1-a9a7-4fb8-8eed-73618201ec65",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5CdxNfUb2sppvc4CvNYYdh.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 339
+    },
+    "attribution": "Image courtesy of Mike Trenchard, Earth Sciences & Image Analysis Laboratory , Johnson Space Center / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4NuEN4aA1fYho2267C73Y6.mpga",
+  "main_content": "The World Meteorological Organization says it expects the current El Nino to be one of the three strongest ever recorded since 1950. The WMO reports the weather phenomenon is continuing to mature and is likely to strengthen further in the next few months.\n\nEl Nino results from the complex interaction between the Pacific Ocean and the atmosphere. El Nino years normally are significantly warmer than non El-Nino years, a premise supported by the first 10 months of this year, which were the warmest on record.\n\nDespite this significant warming trend, WMO Secretary-General Michel Jarraud says no link yet has been established between El Nino and climate change.\n\n“We are in uncharted territory because some of the impacts are interacting with the impact of climate change; but, there is a lot of research going on …But, right at this stage, we cannot say yet whether climate change will mean more frequent or more intense El Ninos,” said Jarraud.\n\nModels suggest the peak three-month average surface water temperatures in the east-central tropical Pacific Ocean will exceed 2 degrees Celsius above average. This would place this El Nino event among the three strongest previous events since 1950.\n\n[Jarraud] says El Nino also causes extreme weather events, including an increase in tropical cyclones in the Pacific and the opposite effect in the Atlantic, where fewer hurricanes are expected. He says intense flooding will occur in some areas offset by increased drought in others.",
+  "questions": [
+    {
+      "question": "How does El Nino form?",
+      "options": [
+        "A result of predictable annual weather patterns in the Pacific Ocean.",
+        "An outcome of the intermittent warming of the Atlantic Ocean.",
+        "The complex interaction between the Pacific Ocean and the atmosphere.",
+        "A sudden increase in volcanic activity beneath the ocean surface."
+      ],
+      "answer": "The complex interaction between the Pacific Ocean and the atmosphere."
+    },
+    {
+      "question": "How is El Nino related to the global warming?",
+      "options": [
+        "El Nino directly causes global temperatures to rise indefinitely.",
+        "No established link has been found between El Nino and climate change.",
+        "El Nino is intensified by climate change principles.",
+        "El Nino acts as a counterbalance to climate change effects globally."
+      ],
+      "answer": "No established link has been found between El Nino and climate change."
+    },
+    {
+      "question": "What is so special about this year’s El Nino?",
+      "options": [
+        "It has the potential to be one of the least impactful El Ninos since 1950.",
+        "It is predicted to have surface water temperatures exceeding 2 degrees Celsius above average.",
+        "It marks the first El Nino event occurring simultaneously with a global cooling phase.",
+        "It is the first recorded instance of El Nino affecting the Atlantic hurricane season."
+      ],
+      "answer": "It is predicted to have surface water temperatures exceeding 2 degrees Celsius above average."
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

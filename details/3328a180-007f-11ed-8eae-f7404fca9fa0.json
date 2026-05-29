@@ -1,0 +1,60 @@
+{
+  "title": "India Battles Shrinking Tiger Habitat",
+  "introduction": null,
+  "image": {
+    "id": "33284cda-007f-11ed-8ead-fbe245941af4",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5kPfOY7QcIlEbhkT87AL6i.jpeg",
+    "dimensions": {
+      "x": 800,
+      "y": 496
+    },
+    "attribution": "Brian Gratwicke / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6WYAdtIHpmVwFKNMqHZ8tg.mpga",
+  "main_content": "A shrinking habitat for tigers is one of the biggest problems facing conservationists in India. India has one of the world’s largest programs to protect the tiger. However, there is a growing problem of balancing the interests of wildlife with those of villages in or near tiger reserves.\n\nConservationists say neither the villagers nor wildlife gain from being close together. They say wild animals including deer, boar or elephants, can damage crops or attack farm animals.\n\nFor tigers and other animals, the presence of these villages means noise and movement in the middle of the forest.\n\nFive years ago officials launched a program to protect the tigers’ habitat. They moved the villages in the 886 square kilometer reserve. Similar programs are taking place in several other tiger reserves across the country.\n\nUnder the program, villagers in Sariska are given about $16,000 to leave their homes and re-settle elsewhere.\n\nR.S. Shekawat, the director of Sariska Tiger Reserve, says moving villages out from the reserve is very difficult. Villagers cannot be forced to leave.\n\nThe struggle to balance the interest of wildlife and villagers is not likely to end anytime soon. India needs to conserve the tiger. But the government also wants to guarantee a fair deal to people and tribes for whom the forest has always been home.",
+  "questions": [
+    {
+      "question": "What can happen when villagers and wildlife are close?",
+      "options": [
+        "Villagers may benefit financially from wildlife tourism.",
+        "Wild animals can damage crops or attack farm animals.",
+        "Wildlife may adapt to living with humans without any issues.",
+        "Villagers can protect wildlife by sharing resources."
+      ],
+      "answer": "Wild animals can damage crops or attack farm animals."
+    },
+    {
+      "question": "When did the officials launch a program to protect the tigers’ habitat?",
+      "options": [
+        "Two years ago",
+        "Five years ago",
+        "Ten years ago",
+        "Recently, last year"
+      ],
+      "answer": "Five years ago"
+    },
+    {
+      "question": "Who is the director of Sariska Tiger Reserve?",
+      "options": [
+        "R.S. Shekawat",
+        "A. Kumar",
+        "M. Sharma",
+        "T. Verma"
+      ],
+      "answer": "R.S. Shekawat"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Nestle Returns Instant Noodles to India",
+  "introduction": null,
+  "image": {
+    "id": "cc3def62-894a-45ce-bfbf-7e74024577d3",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6DOjpBuP5z9U5BOm1b0jKN.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 239
+    },
+    "attribution": "Rajatraptor / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5JCucWNJNMc0ELJ08TGu1q.mpga",
+  "main_content": "One of India’s most popular foods has returned to store shelves after being banned five months ago.\n\nThe Indian unit of Swiss food giant Nestle relaunched its instant Maggi noodles on Monday in 100 cities across India after the noodles were proved safe for consumption after testing at three government-approved labs.\n\nNestle India took Maggi out of stores in June after Indian food safety authorities found the product contained higher than permissible levels of lead. Those findings prompted one of the largest food recalls in recent times with noodles worth about $ 67 million being destroyed.\n\nIn August, the Bombay High Court ordered fresh tests on the instant noodles, calling the nationwide ban arbitrary.\n\nNestle had always maintained Maggi noodles, cleared in tests conducted by several other countries, were safe.\n\nWith the noodles back in Indian stores, Nestle said in a statement, “It has been a challenging period for the Nestle organization and therefore, there is a feeling of satisfaction at bringing back Maggi noodles to the market.”\n\nIt was not immediately clear whether Nestle India would take legal action against the food safety authorities. Indian safety authorities have defended their initial test results on the noodles.",
+  "questions": [
+    {
+      "question": "For how long were Maggi instant noodles banned in India?",
+      "options": [
+        "Two months",
+        "Five months",
+        "Three months",
+        "One month"
+      ],
+      "answer": "Five months"
+    },
+    {
+      "question": "What had to happen before Maggi noodles were allowed back in stores?",
+      "options": [
+        "A new flavor was developed",
+        "Tests showed they were safe for consumption",
+        "The price was reduced",
+        "Advertising campaign was launched"
+      ],
+      "answer": "Tests showed they were safe for consumption"
+    },
+    {
+      "question": "Why were the noodles banned in India?",
+      "options": [
+        "They were found to be expired",
+        "They contained higher than permissible levels of lead",
+        "They were too spicy",
+        "They were not popular among consumers"
+      ],
+      "answer": "They contained higher than permissible levels of lead"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

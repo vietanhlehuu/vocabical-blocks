@@ -1,0 +1,60 @@
+{
+  "title": "Countries Compete for Oil in the Arctic",
+  "introduction": null,
+  "image": {
+    "id": "13b08b4c-4f20-11e9-9a8f-f331845c5bf0",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4Nt7L9tYtM5fJmYwcuffWN.jpeg",
+    "dimensions": {
+      "x": 1024,
+      "y": 598
+    },
+    "attribution": "Brocken Inaglory / Wikimedia Commons / CC-BY-SA 3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2j1vUHK826DM64qjLQ9apz.mpga",
+  "main_content": "Russia, the United States and other countries are hurrying to control Earth’s northern territory: the Arctic. It is rich in oil and natural gas. The countries want to use these and other natural resources.\n\nPresident Barack Obama recently approved proposed drilling in an area under U.S. control. The project was the idea of the Shell Oil Company.\n\nBill Arnold once worked for the Shell Oil Company. But he now teaches at Rice University in Texas.\n\nMr. Arnold said he believes that new energy resources can be developed without harming nature.\n\nBut many environmentalists disagree. They denounce U.S. oil company projects in the Arctic, and they are not satisfied with President Obama’s decision.\n\nThe Arctic has become more accessible because polar ice is melting much faster now than in centuries past.\n\nProfessor Arnold says studies have shown the Arctic has plenty of oil.\n\nMr. Arnold says it could be some time before Shell’s explorations affect U.S.energy production. He says it will be seven to 10 years before those efforts begin to pay off.",
+  "questions": [
+    {
+      "question": "Where did Bill Arnold use to work?",
+      "options": [
+        "Rice University",
+        "Shell Oil Company",
+        "U.S. Government",
+        "An environmental organization"
+      ],
+      "answer": "Shell Oil Company"
+    },
+    {
+      "question": "What is the Arctic rich in?",
+      "options": [
+        "Fish and minerals",
+        "Oil and natural gas",
+        "Timber and coal",
+        "Freshwater resources"
+      ],
+      "answer": "Oil and natural gas"
+    },
+    {
+      "question": "Why has the Arctic become more accessible?",
+      "options": [
+        "Increased tourism",
+        "Global warming leading to melting ice",
+        "Technological advancements in drilling",
+        "International treaties on land use"
+      ],
+      "answer": "Global warming leading to melting ice"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

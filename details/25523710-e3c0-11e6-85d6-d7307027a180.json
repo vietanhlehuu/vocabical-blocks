@@ -1,0 +1,60 @@
+{
+  "title": "Scientists Create New Maps of Ocean Floor",
+  "introduction": null,
+  "image": {
+    "id": "274db426-c541-4e15-b04d-5b30983a2229",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1CAD6oVOAOpUzXBfrbAzs1.jpeg",
+    "dimensions": {
+      "x": 647,
+      "y": 486
+    },
+    "attribution": "USEPA Environmental-Protection-Agency / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 3,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6sIxHy5qjk26sAhHbOqkTi.mpga",
+  "main_content": "We know more about the surface of the planet Mars than we know about what is at the bottom of Earth’s oceans.\n\nUntil recently, scientists had mapped only about 20 percent of the sea floor. But our knowledge of the deep seas is changing because of information from satellites. Scientists have produced a new map that provides a detailed picture of the oceans. The map is expected to help oceanographers, industry and governments.\n\nDavid Sandwell is a geophysics professor at the Scripps Institution of Oceanography at the University of California. He and other scientists worked on the mapping project. He says they turned to space to look deeper into the ocean.\n\nThe scientists collected and studied information from two satellites. Some of the data came from the European Space Agency’s Cryo-2 satellite. It was placed in Earth’s orbit to watch sea ice. The other satellite is the American space agency’s Jason-1. It is studying the surface of the oceans. Scientists combined the satellite data with images gathered by sonar equipment on ships.\n\nThe new map shows the sea floor as it has never been seen before. It shows thousands of underwater mountains and places where continents pulled apart. It shows where earthquakes were active many years ago. They all are buried deep underneath the ocean floor.\n\nDavid Sandwell says the map is a powerful tool for fisheries, those interested in protecting the environment and for oil exploration. The new data also will help scientists improve their estimates of ocean depths. This information can help ships travel safely and improve military operations and scientific projects worldwide.\n\nMr. Sandwell thinks scientists will make many more discoveries as they examine the new map and the information it provides.",
+  "questions": [
+    {
+      "question": "How much of the sea floor had been mapped until recently?",
+      "options": [
+        "Approximately 20 percent",
+        "About 40 percent",
+        "More than 50 percent",
+        "Less than 10 percent"
+      ],
+      "answer": "Approximately 20 percent"
+    },
+    {
+      "question": "How many satellites was the information collected from?",
+      "options": [
+        "One satellite",
+        "Two satellites",
+        "Three satellites",
+        "Four satellites"
+      ],
+      "answer": "Two satellites"
+    },
+    {
+      "question": "Where does professor David Sandwell work?",
+      "options": [
+        "Harvard University",
+        "Scripps Institution of Oceanography",
+        "NASA",
+        "European Space Agency"
+      ],
+      "answer": "Scripps Institution of Oceanography"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

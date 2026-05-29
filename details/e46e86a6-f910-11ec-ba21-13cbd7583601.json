@@ -1,0 +1,60 @@
+{
+  "title": "Longest Railway Opens China’s New ‘Silk Road’",
+  "introduction": null,
+  "image": {
+    "id": "e46e29e0-f910-11ec-ba20-13a5ce496346",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3b5D58alebZEZhqc3WUxCP.jpeg",
+    "dimensions": {
+      "x": 5514,
+      "y": 4135
+    },
+    "attribution": "SS",
+    "public_attribution": false,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5VvxAcb76jj91fHRhG0mSr.mpga",
+  "main_content": "The longest railway in the world is now open. In December, a train carrying products from China arrived in Spain’s capital, Madrid. The railway is one of the most recent transportation projects that China has financed in Europe. Some call the railway the “21st Century Silk Road.”  China is paying to improve roads, bridges and railroads to increase trade between East Asia and Europe. The European Union is China’s biggest trading partner, and Europe is welcoming the money China is spending to improve infrastructure.\n\nThe train carried 40 containers and travelled 13,000 kilometers. It began in Yiwu, a Chinese city in the coastal province of Zhejiang, in November. It arrived in Madrid three weeks later. A ship would take about six weeks to make the same trip.\n\nTrains now travel between Germany and China five times a week.\n\nChina is investing a lot of money to improve bridges and roads in Europe. It recently paid $167 million to build a bridge over the Danube river in Serbia. Chinese Premier Li Keqiang went to the opening ceremony.\n\nSerbian Prime Minister Aleksandar Vucic said the bridge is the first of many investments China will make in his country.\n\nChina has promised to spend $40 billion to improve infrastructure. The investments make China’s presence known around the world.\n\nObservers say European countries have lessened their criticisms of China’s poor record for human rights and political reform as China has improved Europe’s infrastructure.",
+  "questions": [
+    {
+      "question": "What do some call the new railroad?",
+      "options": [
+        "The European Trade Route",
+        "The 21st Century Silk Road",
+        "The Modern Railway Initiative",
+        "The Transcontinental Express"
+      ],
+      "answer": "The 21st Century Silk Road"
+    },
+    {
+      "question": "How much has China paid for the bridge over the Danube river in Serbia?",
+      "options": [
+        "$100 million",
+        "$167 million",
+        "$200 million",
+        "$250 million"
+      ],
+      "answer": "$167 million"
+    },
+    {
+      "question": "Who is China’s biggest trading partner?",
+      "options": [
+        "The United States",
+        "Japan",
+        "The European Union",
+        "India"
+      ],
+      "answer": "The European Union"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

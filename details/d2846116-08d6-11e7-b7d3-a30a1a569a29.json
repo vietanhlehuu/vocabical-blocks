@@ -1,0 +1,60 @@
+{
+  "title": "Hillary Clinton to be America’s First Female Presidential Nominee",
+  "introduction": null,
+  "image": {
+    "id": "196107a3-9623-4d2e-8008-3bd656250cdd",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/0lt9MC8b7nQF7bxHvBzw6P.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 385
+    },
+    "attribution": "Gage Skidmore / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6AW2lGcqlCh5C1xZxegluu.mpga",
+  "main_content": "Hillary Clinton claimed the Democratic presidential nomination Tuesday, which would make her the first woman to represent a major party in the race for the White House.\n\nHer democratic rival, Vermont Senator Bernie Sanders, won North Dakota and Montana Tuesday, but Clinton won South Dakota, New Mexico, and New Jersey.\n\nPresident Obama called both candidates Tuesday, congratulating Secretary Clinton for securing the necessary delegates to secure the nomination. He also thanked Senator Sanders for mobilizing millions of Americans and bringing attention to issues such as fighting economic inequality.\n\nSanders, who is currently leading in Montana, told supporters in California that he called Secretary Clinton this evening to congratulate her on her victories. He spoke about working together to defeat Trump, but did not acknowledge Clinton’s presumptive nomination and gave no indication that he intended to concede, vowing to “continue the fight”.\n\n“Thank you all. The struggle continues,” he concluded.\n\nClinton addressed a crowd of screaming fans waving American flags in Brooklyn on Tuesday evening.\n\n“The first time, the first time in our nation’s history that a woman will be a major party’s nominee for president of the United States,” she said.\n\nClinton will not be the party’s official nominee until the voting at the Democratic convention in July.\n\nHillary Clinton congratulated Sanders on a strong campaign on Tuesday, though Sanders has not conceded.\n\n“We believe that cooperation is better than conflict, unity is better than division, empowerment is better than resentment, and bridges are better than walls,” she said.",
+  "questions": [
+    {
+      "question": "Why is it important that Hillary Clinton won the Democratic presidential nomination?",
+      "options": [
+        "A. It signifies a major milestone in the representation of women in politics.",
+        "B. It guarantees her victory in the presidential election.",
+        "C. It demonstrates that the Democratic party has unified behind her.",
+        "D. It shows that Bernie Sanders lost relevance in the race."
+      ],
+      "answer": "A. It signifies a major milestone in the representation of women in politics."
+    },
+    {
+      "question": "What did Obama thank Sanders for?",
+      "options": [
+        "A. For supporting Clinton's campaign.",
+        "B. For mobilizing millions of Americans and bringing attention to key issues.",
+        "C. For conceding the nomination to Clinton.",
+        "D. For winning in North Dakota and Montana."
+      ],
+      "answer": "B. For mobilizing millions of Americans and bringing attention to key issues."
+    },
+    {
+      "question": "Why does Sanders want to work together with Clinton?",
+      "options": [
+        "A. To improve his chances in future elections.",
+        "B. To unite against a common opponent, Donald Trump.",
+        "C. To ensure that the Democratic party remains divided.",
+        "D. To secure a position in her administration."
+      ],
+      "answer": "B. To unite against a common opponent, Donald Trump."
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Belarus Writer Gets Nobel Literature Prize",
+  "introduction": null,
+  "image": {
+    "id": "e45bfb4e-0eab-11e7-b341-33ab1cc53685",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4RsQje0MWLxJuAbQ09cZxu.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Tomaz Silva/Agência Brasil / Wikimedia Commons / CC-BY-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7M6qxmehuDIPoG8O9T0QkG.mpga",
+  "main_content": "Svetlana Alexievich of Belarus has won the Nobel Prize in Literature.\n\nThe Nobel Prize committee in Stockholm, Sweden, called her writings “a monument to suffering and courage in our time.”\n\nMs. Alexievich has written books on the 1986 Chernobyl nuclear accident in Ukraine, the war in Afghanistan and Soviet history.\n\nThe Nobel Prize in Chemistry went to three scientists for their work on DNA repair.\n\nThe Nobel Physics prize was awarded to two scientists for their discoveries related to subatomic particles.\n\nThe Nobel committee announced the prize winners for medicine to scientists from Ireland, Japan and China. Their work centered on therapy for parasitic infections and a new drug for the treatment of malaria.",
+  "questions": [
+    {
+      "question": "Where were the prize winners for medicine from?",
+      "options": [
+        "Ireland, Japan, and China",
+        "United States and Canada",
+        "Germany and France",
+        "Sweden and Norway"
+      ],
+      "answer": "Ireland, Japan, and China"
+    },
+    {
+      "question": "Who won the Nobel Prize in Literature?",
+      "options": [
+        "The Nobel Prize committee",
+        "Svetlana Alexievich",
+        "One of the three scientists for Chemistry",
+        "No Nobel Prize was awarded for Literature"
+      ],
+      "answer": "Svetlana Alexievich"
+    },
+    {
+      "question": "Where was the Nobel Prize committee located?",
+      "options": [
+        "Oslo, Norway",
+        "Ann Arbor, Michigan",
+        "London, England",
+        "Stockholm, Sweden"
+      ],
+      "answer": "Stockholm, Sweden"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

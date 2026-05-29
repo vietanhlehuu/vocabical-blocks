@@ -1,0 +1,60 @@
+{
+  "title": "Pope Allows Priests to Forgive ‘Sin of Abortion’",
+  "introduction": null,
+  "image": {
+    "id": "18ca3a78-bf23-11ea-968e-33af7b841cf6",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4bHCRehu7uXgsseB48R3zp.jpeg",
+    "dimensions": {
+      "x": 1024,
+      "y": 768
+    },
+    "attribution": "Edgar Jiménez from Porto, Portugal / Wikimedia Commons / CC-BY-SA 2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/65VSVlR1g1AOzZ5e377Y4Z.mpga",
+  "main_content": "Pope Francis is calling his priests to forgive women of the “sin of abortion” during the upcoming “Holy Year of Mercy.”\n\nThe Pope guides more than a billion Roman Catholics worldwide. He released a letter Tuesday saying many women have told him of the pain when ending a pregnancy.\n\nThe Roman Catholic Church remains opposed to abortion. Traditionally, the Catholic Church has viewed abortion as a serious sin, punished by excommunication. Women have been expelled from the Church.\n\nThe forgiveness allows women to continue to practice their Catholic faith in a formal manner. They can receive sacraments, like Holy Communion, and participate in church ceremonies.\n\nThe forgiveness begins December 8 in the church’s “Holy Year of Mercy.” Pope Francis said if someone repents, God will forgive them. That is why he gave priests the power to absolve this sin.\n\nIn a 2013 address in St. Peter’s Square in Rome, the Pope gave a message about mercy.\n\n“A little mercy makes the world less cold and more just,” the Pope said. “We need to understand properly this mercy of God, this merciful Father, who is so patient.”",
+  "questions": [
+    {
+      "question": "Is the Roman Catholic Church still opposed to (=against) abortion?",
+      "options": [
+        "Yes, it maintains its stance against abortion.",
+        "No, it has recently changed its position.",
+        "It supports abortion under certain circumstances.",
+        "The stance is undecided and varies by region."
+      ],
+      "answer": "Yes, it maintains its stance against abortion."
+    },
+    {
+      "question": "When did the Pope give a message about mercy?",
+      "options": [
+        "During the Holy Year of Mercy",
+        "In a 2013 address in St. Peter’s Square",
+        "At a conference in 2020",
+        "In a letter released last Tuesday"
+      ],
+      "answer": "In a 2013 address in St. Peter’s Square"
+    },
+    {
+      "question": "What is the name of the current Pope?",
+      "options": [
+        "Pope Benedict XVI",
+        "Pope John Paul II",
+        "Pope Francis",
+        "Pope Paul VI"
+      ],
+      "answer": "Pope Francis"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Study: Men Overeat to Show Off to Women",
+  "introduction": null,
+  "image": {
+    "id": "24650e78-22fc-46fb-bbed-a59aed8d77d8",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/16fuDTGzSX7cLJTVeqcR4a.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Everett Harper from San Francisco, USA / Wikimedia Commons / CC-BY-SA-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5jpoUqf1jWyRV8BIZqmvki.mpga",
+  "main_content": "Different male species have many ways to attract a mate. Some have colorful feathers, luxuriant manes or bulging muscles, but a new study suggests the human male tries to impress females by overeating.\n\nWriting in the journal Evolutionary Psychological Science, Cornell University researchers found that men who dined with women ate 93 percent more pizza and 86 percent more salad when accompanied by women than when with other males.\n\n“These findings suggest that men tend to overeat to show off – you can also see this tendency in eating competitions which almost always have mostly male participants,” explains lead author Kevin Kniffin, PhD, of Cornell University.\n\nFor the study, the researchers observed 105 adults having lunch at an all-you-can-eat Italian buffet and recorded the amount of pizza and salad eaten. They also noted the sex of the subjects’ dining partners.\n\nAs they left, a researcher approached them, asking them to fill out a questionnaire “indicating their level of fullness after eating, and their feelings of hurriedness and comfort while eating.”\n\nUnlike men, women tended to eat the same amount regardless of the sex of their dining partner. However, women did indicate they felt they’d overeaten and were rushed when dining with men.",
+  "questions": [
+    {
+      "question": "How does the study say men try to impress women?",
+      "options": [
+        "By wearing flashy clothing and accessories",
+        "By overeating during meals with them",
+        "By demonstrating cooking skills in front of them",
+        "By engaging in vigorous physical activities"
+      ],
+      "answer": "By overeating during meals with them"
+    },
+    {
+      "question": "What did researchers at Cornell University discover about male eating habits?",
+      "options": [
+        "Men prefer to eat more when they are alone",
+        "Men eat significantly more food when dining with women",
+        "Men have lower appetites when dining with women",
+        "Men eat less when they feel rushed"
+      ],
+      "answer": "Men eat significantly more food when dining with women"
+    },
+    {
+      "question": "How did researchers carry out the study?",
+      "options": [
+        "By conducting a survey on men's eating habits alone",
+        "By observing adults at a buffet and recording their eating amounts",
+        "By analyzing eating competitions among males",
+        "By interviewing men and women about their eating preferences"
+      ],
+      "answer": "By observing adults at a buffet and recording their eating amounts"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

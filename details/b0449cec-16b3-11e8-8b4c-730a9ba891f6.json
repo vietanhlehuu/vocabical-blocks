@@ -1,0 +1,60 @@
+{
+  "title": "Japan Posts 24th Straight Month of Trade Deficits",
+  "introduction": null,
+  "image": {
+    "id": "b0440534-16b3-11e8-8b4b-b3da6271ec42",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3QaqhQodvZ0uVsbBmpnLlo.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 273
+    },
+    "attribution": "Morio / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4ehYfo8lZg5sGJzijVQY2l.mpga",
+  "main_content": "Japan on Thursday posted its 24th straight month of trade deficits, as imports continued to increase and exports unexpectedly fell.\n\nThe trade gap reached a record $75 billion for the first half of the year, suggesting efforts to boost exports by weakening the currency are not working.\n\nExports have also struggled since many Japanese companies have shifted their production overseas, where costs are lower.\n\nWorsening the trade deficit, Japan has had to rely on costly energy imports following the 2011 earthquake and tsunami at the Fukushima nuclear power plant.\n\nThe disaster forced all of Japan’s 48 nuclear power plants offline for inspections. The government hopes to begin re-opening some of the plants later this year.\n\nBefore the incident, nuclear energy provided a quarter of the energy needs for the resource-starved nation.",
+  "questions": [
+    {
+      "question": "How long has Japan been running a trade deficit?",
+      "options": [
+        "Since the beginning of the year",
+        "For 24 consecutive months",
+        "For the last decade",
+        "Since the 2011 earthquake"
+      ],
+      "answer": "For 24 consecutive months"
+    },
+    {
+      "question": "Why have Japan's exports struggled?",
+      "options": [
+        "Many Japanese companies have shifted production overseas",
+        "The government banned exports of manufactured goods",
+        "Global demand for Japanese products has fallen to zero",
+        "Japanese factories have increased production costs dramatically"
+      ],
+      "answer": "Many Japanese companies have shifted production overseas"
+    },
+    {
+      "question": "What kind of imports has Japan had to rely on after the Fukushima disaster?",
+      "options": [
+        "Energy imports",
+        "Luxury goods",
+        "Food products",
+        "Automobile parts"
+      ],
+      "answer": "Energy imports"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

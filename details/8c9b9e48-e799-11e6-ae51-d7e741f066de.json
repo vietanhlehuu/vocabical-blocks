@@ -1,0 +1,60 @@
+{
+  "title": "Is Secondhand Smoke Child Abuse?",
+  "introduction": null,
+  "image": {
+    "id": "55fbef43-0b77-4412-9c87-50123999471e",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2cFTtiEA24YyE2SQVSLcNy.jpeg",
+    "dimensions": {
+      "x": 700,
+      "y": 466
+    },
+    "attribution": "CDC/ Debora Cartagena / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4YHZXty0URiKEeikCOI4Vu.mpga",
+  "main_content": "Doctors have been warning for years that secondhand smoke leads to many types of illness. However, many children around the world live in areas where adults regularly smoke.\n\nA journal called Annals of Family Medicine recently published an article calling for doctors to start treating children’s contact with secondhand smoke as abuse. In that case, contact to secondhand smoke would be viewed much like physical abuse or neglect.\n\nThe author of the article is a professor at University of North Carolina School of Medicine. Dr. Adam Goldstein says secondhand smoke causes many diseases in children. These diseases include asthma and pneumonia. He adds that no amount of secondhand smoke is safe.\n\nThe U.S. Centers for Disease Control and Prevention agree that secondhand smoke can cause serious health problems in children. They say that compared to children who grow up in homes without smokers, children with parents who smoke have smaller lungs and more illnesses.\n\nHowever, several organizations for smokers’ rights in the U.S. say people have the right to smoke in their own homes. These same organizations say that many studies done on the effects of smoking on health, including studies on secondhand smoke, do not use good science.",
+  "questions": [
+    {
+      "question": "Which journal published an article talking about treating children’s contact with secondhand smoke as abuse?",
+      "options": [
+        "Journal of Pediatrics",
+        "Annals of Family Medicine",
+        "American Medical Journal",
+        "International Journal of Health"
+      ],
+      "answer": "Annals of Family Medicine"
+    },
+    {
+      "question": "Who is the author of the article?",
+      "options": [
+        "Dr. Jane Smith",
+        "Dr. Adam Goldstein",
+        "Dr. Michael Johnson",
+        "Dr. Susan Lee"
+      ],
+      "answer": "Dr. Adam Goldstein"
+    },
+    {
+      "question": "What can secondhand smoke can cause?",
+      "options": [
+        "Heart disease only",
+        "Asthma and pneumonia",
+        "Only respiratory infections",
+        "No health issues at all"
+      ],
+      "answer": "Asthma and pneumonia"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

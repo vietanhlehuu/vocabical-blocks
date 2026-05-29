@@ -1,0 +1,60 @@
+{
+  "title": "Study: Packaged Food Contains Unhealthy Levels of Salt",
+  "introduction": null,
+  "image": {
+    "id": "c651571e-7175-403a-938d-a2f92a5b7f57",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/62DeVXv8rZ8XmKxD1hMX95.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 765
+    },
+    "attribution": "AlejandroLinaresGarcia / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7EljiH1FvIzN6p0jFmXOz7.mpga",
+  "main_content": "A new study by the U.S. Centers for Disease Control and Prevention, or CDC, found that more than half of all packaged grocery items in the United States contain levels of salt in excess of government recommendations. The foods include those most commonly purchased by consumers.\n\nSalt is a contributor to high blood pressure, which is a risk factor for heart disease.\n\nInvestigators with the CDC looked at the sodium or salt content in 10 packaged grocery items.\n\n“We looked at bread, cold cuts, pizza, poultry, soup, sandwiches, cheese, pasta-mixed dishes, meat-mixed dishes and savory snacks,” said Linda Scheib, an epidemiologist with the center’s Division for Heart Disease and Stroke Prevention.\n\nScheib’s team looked at the salt content of 3,800 food products that contribute the most sodium to the diet.\n\nThey found that up to 70 percent of cold cuts, soups and sandwiches have a salt content higher than the daily recommendation by the U.S. Food and Drug Administration.\n\nTen percent of snack food, breads and cheese exceed the FDA’s recommended daily allowance.\n\nMany foods that seem healthy, according to Scheib, are actually full of salt. She said “bread is the No.1 contributor of sodium to diet.”\n\n“A lot of foods that people don’t think taste salty do actually have a lot of sodium in them,” she added. “So, we recommend people just read those nutrition labels, make comparisons, try to choose lower sodium options, be sure to eat more fresh fruits, vegetables and meats and cook more at home because that way you have more control over the amount of sodium.”\n\nAccording to the agency’s guidelines, individual foods should contain no more than 480 milligrams of sodium and prepared meals, including pasta dishes and sandwiches, should not be in excess of 600 milligrams of salt.\n\nThe daily allowance for healthy adults is 2,300 milligrams or a teaspoon of salt.\n\nThe FDA says people with heart disease, high blood pressure and kidney disease should limit their salt intake to 1,500 milligrams or less per day.\n\nThe study on salt content in packaged grocery items is published in the journal Preventing Chronic Disease.",
+  "questions": [
+    {
+      "question": "Why is salt risky?",
+      "options": [
+        "It can enhance the taste of food dramatically.",
+        "It contributes to high blood pressure, which is a risk factor for heart disease.",
+        "It serves as a preservative in packaged foods.",
+        "It is commonly used to replace fat in food products."
+      ],
+      "answer": "It contributes to high blood pressure, which is a risk factor for heart disease."
+    },
+    {
+      "question": "What are the grocery items that have been investigated?",
+      "options": [
+        "Fruits, vegetables, and cereals.",
+        "Bread, cold cuts, pizza, poultry, soup, sandwiches, cheese, pasta mixed dishes, meat mixed dishes, and savory snacks.",
+        "Packaged sauces, frozen meals, and bakery products.",
+        "Beverages, bottled sauces, and snack bars."
+      ],
+      "answer": "Bread, cold cuts, pizza, poultry, soup, sandwiches, cheese, pasta mixed dishes, meat mixed dishes, and savory snacks."
+    },
+    {
+      "question": "How can you avoid eating foods containing high levels of salt?",
+      "options": [
+        "Consume more processed foods.",
+        "Read nutrition labels, choose lower sodium options, and cook more at home.",
+        "Only eat foods labeled as low salt.",
+        "Rely on taste testing to determine salt levels."
+      ],
+      "answer": "Read nutrition labels, choose lower sodium options, and cook more at home."
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

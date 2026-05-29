@@ -1,0 +1,60 @@
+{
+  "title": "Africa’s Richest Man Plans Refinery to End Nigeria’s Gasoline Woes",
+  "introduction": null,
+  "image": {
+    "id": "4a702d58-7619-11ed-8ef2-738a577a28e5",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/0RIDq2SjaQuweCtf5J0EP1.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 640
+    },
+    "attribution": "World Economic Forum / Wikimedia Commons / CC-BY-SA-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1z9RTq0mhsYCoJYruqsoKk.mpga",
+  "main_content": "A plan by Africa’s richest man to transform one of the continent’s largest oil industries is taking shape on a swampy piece of land outside Nigeria’s commercial capital, Lagos.\n\nNigerian industrialist Aliko Dangote is constructing a refinery that has the capacity to turn 650,000 barrels of oil into gasoline, diesel, kerosene, and jet fuel — enough to potentially satisfy all the country’s daily needs.\n\nWhen completed, it could end Nigeria’s reliance on imported gasoline and diesel.\n\nA weeks-long shortage of imported fuel that occurred earlier this year is one reason why economists believe Africa’s biggest economy is poised to enter a recession.\n\n“By and large, you are looking at the future of the country,” Dangote, who made his $14.4 billion fortune from his sugar, flour, and cement companies, told journalists during a visit to the construction site of the refinery and adjoining fertilizer plant.\n\nWhen Nigerians go to the pump, they’re usually filling up with imported gasoline and diesel. The country has four refineries, but they barely work, so Nigeria exports its crude and buys back the fuel it needs.\n\nDisputes and strikes have periodically led to disruptions in fuel importation, leading to shortages across the country.\n\nBy refining oil at home, Dangote says importation will end.\n\n“I mean, it’s simple, you have it here. As you’re producing, it’s going into the market,” he said.\n\nNigeria is Africa’s largest economy and most populous country. Those aspects may ultimately undermine Dangote’s ability to serve the country’s fuel needs, said oil and gas analyst Bala Zakka.\n\nNigeria doesn’t produce enough power to keep the lights on all the time, and those who can afford it rely on gasoline or diesel generators.\n\nAs the population grows, Zakka says demand may outstrip supply.\n\n“Strategic domestic, strategic commercial, and strategic industrial are being run on generators. And those generators will require so much diesel and petrol. And that will mean we will not have even enough for the automobiles,” Zakka said.",
+  "questions": [
+    {
+      "question": "What project has Aliko Dangote started?",
+      "options": [
+        "A hospital expansion project in Lagos",
+        "A new crude oil extraction initiative",
+        "The construction of a large oil refinery",
+        "An agricultural development program"
+      ],
+      "answer": "The construction of a large oil refinery"
+    },
+    {
+      "question": "Why could Africa’s economy enter a recession?",
+      "options": [
+        "Due to increased taxes on fuel exports",
+        "Because of a lengthy shortage of imported fuel",
+        "As a result of rising costs in international shipping",
+        "Thanks to improvements in local agriculture"
+      ],
+      "answer": "Because of a lengthy shortage of imported fuel"
+    },
+    {
+      "question": "What events have disrupted fuel importation over time?",
+      "options": [
+        "Economic sanctions imposed by other nations",
+        "Natural disasters affecting shipping routes",
+        "Disputes and strikes within the supply chain",
+        "Increased competition from neighboring countries"
+      ],
+      "answer": "Disputes and strikes within the supply chain"
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "WHO Ramps-up Ebola Vaccine Trials",
+  "introduction": null,
+  "image": {
+    "id": "35c8816a-720f-11ed-83d5-433f2a6b84fc",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6tfuMwTaOmMBze2tGmlfQO.jpeg",
+    "dimensions": {
+      "x": 600,
+      "y": 401
+    },
+    "attribution": "P5693852 / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/16Mpsqpt70zt8KDv2Qlbd5.mpga",
+  "main_content": "The World Health Organization has announced – what it calls -an ambitious plan to have hundreds of thousands of doses of Ebola vaccines available by next June. The WHO announced Friday it is speeding up clinical trials of the two leading vaccine candidates.\n\nWHO Assistant Director-General Dr. Marie Paule Kieny unveiled a three-part strategy to fast-track Ebola vaccine development and distribution.\n\nThe first phase involves the two most promising vaccine candidates – one from GlaxoSmithKline and the other from the Canadian government known as VSV. Almost immediately after the preliminary results of Phase One trials are available in December, Kieny says, a combination of Phase Two and Phase Three trials will begin.\n\n“Without waiting for the results of Phase One – so the key trials which are currently ongoing – all is put in place by all partners to start efficacy trials in affected countries in December, as early as December 2014,” she said.\n\nBesides the two leading vaccine candidates, five other potential vaccines are in development. Kieny stressed that none of the candidates can cause the Ebola Virus Disease.\n\nThe second part of the WHO strategy concerns stepped-up manufacture of the vaccines.\n\n“The pharmaceutical companies developing these vaccines, as well as the ones which are a little bit longer in the development path, are committing to ramping-up the production capacity to millions of doses to be available in 2015 – with hundreds [of] thousands ready in the first half of next year.”\n\nFor this to happen, she said, licensing and regulatory issues must be resolved quickly.\n\nPart three of the strategy requires community engagement. Kieny said it’s important for local communities to own the immunization process to help eliminate any myths or fears that may arise about the vaccines.\n\n“Work should be scaled-up urgently in partnership between local communities, national governments, NGOs and international organizations to have this happen,” she said.\n\nVaccine trials currently are underway in the United States, Britain and Mali. Trials will begin soon in Switzerland, Germany, Gabon and Kenya. The trials are expected to show just how many doses of a vaccine may be needed to ensure immunity. So, although hundreds of thousands of doses may be available by the end of June, it’s not clear just how many people could be vaccinated.\n\nKieny said, “Of course, as we accelerate in a matter of weeks a process that typically takes years, we are ensuring that safety remains a top priority with production speed and capacity a close second.”\n\nBut since the trials will take weeks and not years, all the possible side effects may not be known right away.\n\nThe WHO official said vaccines must be part of an overall Ebola strategy.\n\n“Vaccines are not a magic bullet. But when ready they may be a good part of the effort to turn the tide of this epidemic.”\n\nThe number of doses actually needed would depend on how much progress has been made in controlling the epidemic. Greater progress could mean fewer doses. Vaccine doses not used would be stockpiled. Health care workers would be among the first to receive the vaccine.\n\nWhichever vaccines prove reliable, they must be stored in extreme cold – minus 80 degrees Celsius — to prevent degradation. So storage units must be part of distribution plans. Also, the price per dose is not known at this time.\n\nDr. Kieny said that Ebola plans are constantly evolving and could easily be adjusted in the coming weeks.\n\nFinancing could come from donor countries, as well as MSF, or Doctors Without Borders, the World Bank and the GAVI Alliance.",
+  "questions": [
+    {
+      "question": "By when does the WHO hope to have hundreds of thousands of Ebola vaccine doses available?",
+      "options": [
+        "By the end of June next year",
+        "By the end of December 2014",
+        "By the first half of 2016",
+        "By the end of the current month"
+      ],
+      "answer": "By the end of June next year"
+    },
+    {
+      "question": "When will the efficacy trials begin?",
+      "options": [
+        "As soon as Phase One results are available in December",
+        "After all Phase Three trials are completed",
+        "Only after the vaccines are licensed",
+        "In mid-2015 after manufacturing is finished"
+      ],
+      "answer": "As soon as Phase One results are available in December"
+    },
+    {
+      "question": "How many vaccine candidates are mentioned in the article in total?",
+      "options": [
+        "Two",
+        "Five",
+        "Seven",
+        "Ten"
+      ],
+      "answer": "Seven"
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

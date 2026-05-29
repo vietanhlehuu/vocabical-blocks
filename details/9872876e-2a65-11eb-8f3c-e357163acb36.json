@@ -1,0 +1,60 @@
+{
+  "title": "21 Percent of World’s Plants Could Disappear",
+  "introduction": null,
+  "image": {
+    "id": "9871eca0-2a65-11eb-8f3b-d779d1e4a814",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/05pBSTd7MnpHvRGfanSQkl.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 768
+    },
+    "attribution": "User:Moondigger / Wikimedia Commons / CC-BY-SA-2.5",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1t0ryt3XECG3lelPyLaBRv.mpga",
+  "main_content": "One in five of the world’s plants is currently at risk of disappearing forever. That is what a report by the Royal Botanic Gardens in London says.\n\nThe report is one of the first to try to describe all the plants known to science. It says scientists have so far identified 391,000 plants. And, it says, more than 80,000 of those are in danger of becoming extinct.\n\nThe plants are endangered by growing populations and clearing land for agriculture and urban development.\n\nPlants are also threatened by logging and climate change.\n\nScientists say governments should do more to create protected areas.\n\nKathy Willis is director of science at the Royal Botanic Gardens. She says scientists need to identify which areas are important to conserve, or protect, for their diversity.\n\nWillis also says scientists need to identify which areas should be developed.\n\nSome plants are stars – but most do not get much attention.",
+  "questions": [
+    {
+      "question": "What is making plants endangered?",
+      "options": [
+        "Increased interest in scientific research",
+        "Urban expansion and agricultural land use",
+        "Climate stability and natural conservation efforts",
+        "Invasive species and overpopulation of plants"
+      ],
+      "answer": "Urban expansion and agricultural land use"
+    },
+    {
+      "question": "Who is Kathy Willis?",
+      "options": [
+        "A leading botanist studying plant genetics",
+        "The director of science at the Royal Botanic Gardens",
+        "An activist for sustainable agriculture",
+        "A government official overseeing environmental policy"
+      ],
+      "answer": "The director of science at the Royal Botanic Gardens"
+    },
+    {
+      "question": "Do all plants get enough attention?",
+      "options": [
+        "Yes, every plant has been extensively studied",
+        "Only certain plants are recognized as important",
+        "All plants are considered equally important in conservation",
+        "Attention is evenly distributed among all plant species"
+      ],
+      "answer": "Only certain plants are recognized as important"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

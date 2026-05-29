@@ -1,0 +1,60 @@
+{
+  "title": "Amazon Gets Patent for Drone Deliveries",
+  "introduction": null,
+  "image": {
+    "id": "424073b9-1df5-49e0-b2d8-e01ed635c481",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/210wn3sTBWCukenk3KEUq1.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 324
+    },
+    "attribution": "Frankhöffner / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2uTP7CURS8IeRdTGjQbvHB.mpga",
+  "main_content": "Amazon.com – the largest U.S.-based online retailer – has received a patent for its planned delivery system – getting merchandise to customers by flying drones. In March, federal regulators gave their approval for Amazon to begin testing the new technology. But, the new service is still some time off.\n\nFocusing on the location of the customer’s mobile device, usually a smartphone, the drone will be able to avoid both living things and inanimate obstacles, identify areas safe for landing and deliver the package within 30 minutes.\n\nFor security reasons, the Federal Aviation Administration requires the drones in this experimental test period to remain within sight of their operators, which severely limits their reach. Amazon is working on solutions, says Loretta Alkalay, from Vaughn College of Aeronautics and Technology in New York\n\n“I think that they are going to work on those in parallel with advancing the new technology. So I don’t see the security problems as being something that should stop the technology,” said Alkalay.\n\nThere are still a number of concerns regarding possible collisions with various objects, as well as vandalism and theft of the drones and goods, but Alkalay says the media has assumed – incorrectly – that deliveries would be made to people’s front doors.\n\nAlkalay says even though American homes are not set up for rooftop deliveries, it is possible that future homes will have special platforms for air deliveries of small merchandise.",
+  "questions": [
+    {
+      "question": "What new technology will Amazon be testing?",
+      "options": [
+        "A drone-based package delivery system",
+        "A delivery fleet of autonomous vehicles",
+        "A new online shopping interface",
+        "A home automation system for package reception"
+      ],
+      "answer": "A drone-based package delivery system"
+    },
+    {
+      "question": "How will the system work?",
+      "options": [
+        "By targeting addresses listed on customer orders",
+        "By using customer mobile devices for precise location tracking",
+        "Through the use of fixed delivery points established in neighborhoods",
+        "By assigning delivery routes to human operators"
+      ],
+      "answer": "By using customer mobile devices for precise location tracking"
+    },
+    {
+      "question": "Why is the drones’ reach limited?",
+      "options": [
+        "They must operate outside of urban areas only",
+        "They require constant GPS signals from satellites",
+        "Federal regulations mandate they stay within sight of operators",
+        "Technical limitations restrict their flying distance"
+      ],
+      "answer": "Federal regulations mandate they stay within sight of operators"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

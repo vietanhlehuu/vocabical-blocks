@@ -1,0 +1,60 @@
+{
+  "title": "America’s ‘Capitals of the World’",
+  "introduction": null,
+  "image": {
+    "id": "89e2aa34-4f20-11e9-8d1e-d3c4804483de",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1DDuI1cLlQBpM2RwRc1Qdm.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 346
+    },
+    "attribution": "NoeHill / Wikimedia Commons / CC-BY-SA 3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3OoHDH6lGRPdSTwWn5GBzF.mpga",
+  "main_content": "Have you ever heard that New York City claims to be the financial capital of the world? It claims to be the fashion capital of the world, too. But, London, England also says it owns those titles. And, most any French citizen will tell you that Paris is the real fashion capital of the world.\n\nBig cities often make such boasts. The news also plays a part in establishing unofficial “capitals of the world.”\n\nToday, we tell you about a few of these quirky “capitals of the world” that you can find in the United States.\n\nCimmaron, New Mexico is a village about two hours from Santa Fe, the state capital. Cimmaron claims to be the “cowboy capital of the world.” The town got that nickname because some of the Old West’s most famous cowboys once lived there, including “Buffalo Bill” Cody.\n\nBut other cities take issue with Cimmaron’s claims. Oakdale, California, for example, is sure that it is the “cowboy capital of the world.”\n\nNot surprisingly, the state of Texas claims a “cowboy capital of the world,” too.\n\nSpeaking of Texas, the state claims two of America’s seven – yes, seven – “watermelon capitals of the world.”",
+  "questions": [
+    {
+      "question": "Which 2 cities are mentioned in the article that could be “the financial capital of the world”?",
+      "options": [
+        "New York City and London",
+        "London and Paris",
+        "New York City and Paris",
+        "Tokyo and London"
+      ],
+      "answer": "New York City and London"
+    },
+    {
+      "question": "What does Cimmaron claim to be?",
+      "options": [
+        "the fashion capital of the world",
+        "the cowboy capital of the world",
+        "the watermelon capital of the world",
+        "the financial capital of the world"
+      ],
+      "answer": "the cowboy capital of the world"
+    },
+    {
+      "question": "How many “watermelon capitals of the world” Texas claims to have?",
+      "options": [
+        "Five",
+        "Seven",
+        "Four",
+        "Two"
+      ],
+      "answer": "Seven"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

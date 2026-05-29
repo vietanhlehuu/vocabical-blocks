@@ -1,0 +1,60 @@
+{
+  "title": "Astronomers Find Potentially Habitable Planets, Just 40 Light Years Away",
+  "introduction": null,
+  "image": {
+    "id": "4d53a969-6372-4dd3-81e7-ff315451c96f",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2Ludqa3mqdJDEL1YCiyw8t.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "ESO/L. Calçada / Wikimedia Commons / CC-BY-4.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0fwTQLiGsT8XnUwX3HgjX9.mpga",
+  "main_content": "So far we are still alone in the universe, but little by little, astronomers around the world are expanding our celestial neighborhood. They just announced three new candidates that could potentially support life.\n\nAnd they’re only 40 light years away, in the constellation Aquarius.\n\nThe three planets are orbiting what is called an ultra-cool dwarf star and have temperatures well below the 400 Kelvin range (about 120 Celsius) that is considered cool enough to support life. The reason it has taken so long to find these close-by planets is because dwarf stars are invisible to optical telescopes.",
+  "questions": [
+    {
+      "question": "What suggests that the three planets could potentially support life?",
+      "options": [
+        "Their close proximity to Earth",
+        "Their orbit around an ultra-cool dwarf star",
+        "Their temperatures are well below the 400 Kelvin range",
+        "Their location in the constellation Aquarius"
+      ],
+      "answer": "Their temperatures are well below the 400 Kelvin range"
+    },
+    {
+      "question": "Why is it hard to find planets like these?",
+      "options": [
+        "They are located in the constellation Aquarius",
+        "Their low temperatures make them difficult to observe",
+        "Dwarf stars are invisible to optical telescopes",
+        "They are only visible from Earth at night"
+      ],
+      "answer": "Dwarf stars are invisible to optical telescopes"
+    },
+    {
+      "question": "How far away are the three planets from Earth?",
+      "options": [
+        "About 4 light years away",
+        "About 40 light years away",
+        "About 400 light years away",
+        "About 1,000 light years away"
+      ],
+      "answer": "About 40 light years away"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

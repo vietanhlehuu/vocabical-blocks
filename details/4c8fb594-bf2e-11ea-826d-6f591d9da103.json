@@ -1,0 +1,60 @@
+{
+  "title": "Theresa May to Be Britain’s Second Woman Prime Minister",
+  "introduction": null,
+  "image": {
+    "id": "4c8f2656-bf2e-11ea-826b-7b7cc7ce3c1d",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4Y81kP3jwmg3f0rVbqvJIB.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Foreign and Commonwealth Office / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1RNniO6EsvWzQb8EDzljZq.mpga",
+  "main_content": "Britain’s Theresa May is set to become the second woman to hold the position of Prime Minister since Margaret Thatcher.\n\nBritish Prime Minister David Cameron announced on Monday that he will resign Wednesday.\n\nThe prime minister announced his intention to resign last month after Britons voted in a referendum to leave the European Union.\n\nTheresa May, 59, has served as Home Secretary in Cameron’s cabinet since 2010. May had been campaigning in a race to lead the Conservative Party against Energy Minister Andrea Leadsom.\n\nBut Leadsom withdrew after she made comments highly criticized by the media and her party.\n\nDuring last month’s referendum, also referred to as “Brexit,” May campaigned for Britain to stay in the EU.\n\nSpeaking outside parliament, May said she was “honored and humbled” to be chosen the party’s new leader.",
+  "questions": [
+    {
+      "question": "Who was the last female prime minister in Britain?",
+      "options": [
+        "Elizabeth II",
+        "Theresa May",
+        "Margaret Thatcher",
+        "Angela Merkel"
+      ],
+      "answer": "Margaret Thatcher"
+    },
+    {
+      "question": "Why did Andrea Leadsom withdraw?",
+      "options": [
+        "She won the support of the majority",
+        "She was unable to gain sufficient votes",
+        "She made controversial comments",
+        "She endorsed Theresa May"
+      ],
+      "answer": "She made controversial comments"
+    },
+    {
+      "question": "What did May campaign for during last month’s referendum?",
+      "options": [
+        "To leave the European Union",
+        "For a second referendum",
+        "For Britain to stay in the EU",
+        "To strengthen the Conservative Party"
+      ],
+      "answer": "For Britain to stay in the EU"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

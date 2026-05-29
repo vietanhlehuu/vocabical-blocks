@@ -1,0 +1,60 @@
+{
+  "title": "Florida is No. 1 for Americans on the Move",
+  "introduction": null,
+  "image": {
+    "id": "e45958bc-0eab-11e7-b1b9-e3eb9b5e77f6",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2MoVvKYuo9Y9Bs2m7csp0w.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 448
+    },
+    "attribution": "NASA / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7YJpwIoRMKvWSKWGmaL5nk.mpga",
+  "main_content": "Florida is the state where Americans and immigrants choose most to settle, shows the latest research.\n\nPopulation continues to move from north to south in America. Florida is expected to add five million new residents by 2030. While Florida is growing, the states of Illinois, Ohio and Michigan have lost the largest numbers of residents.\n\nIn 2014, Florida’s population grew by over 108,000 people. The largest group packing their bags for the “Sunshine State” are young people right out of college.\n\n“Young people generally move more for education or for a job,” said Stefan Rayer, a population specialist at the University of Florida.\n\nFlorida’s population grew over 17 percent between 2000 and 2010.\n\nThe state’s economy is staying healthy due to the population movement.\n\nOther American states that have been named as being attractive by movers were Texas, South Carolina and North Carolina.",
+  "questions": [
+    {
+      "question": "Why do young people generally move to Florida?",
+      "options": [
+        "A) They seek a warmer climate for retirement.",
+        "B) They relocate for education or job opportunities.",
+        "C) They follow their families who already live there.",
+        "D) They are attracted by the low cost of living."
+      ],
+      "answer": "B) They relocate for education or job opportunities."
+    },
+    {
+      "question": "What is happening to the state’s economy because of the population movement?",
+      "options": [
+        "A) It is declining due to increased unemployment.",
+        "B) It is becoming stagnant with no significant growth.",
+        "C) It is staying healthy due to the influx of new residents.",
+        "D) It is experiencing a recession from lost tax revenues."
+      ],
+      "answer": "C) It is staying healthy due to the influx of new residents."
+    },
+    {
+      "question": "How many new residents is Florida expected to add by 2030?",
+      "options": [
+        "A) 3 million",
+        "B) 5 million",
+        "C) 7 million",
+        "D) 10 million"
+      ],
+      "answer": "B) 5 million"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

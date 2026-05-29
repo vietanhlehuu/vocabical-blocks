@@ -1,0 +1,60 @@
+{
+  "title": "India to Monitor Air Pollution in 10 Cities",
+  "introduction": null,
+  "image": {
+    "id": "20a47b3d-b893-4a4c-9bbe-5aac13085805",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/0zavCm4HawYiLZxi9cmyaT.jpeg",
+    "dimensions": {
+      "x": 1280,
+      "y": 720
+    },
+    "attribution": "Ishita01 / Wikimedia Commons / CC-BY-SA 4.0",
+    "public_attribution": true,
+    "lock_version": 3,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3bKdR6CF3FQBHbxCa79jKT.mpga",
+  "main_content": "The Indian capital of New Delhi recently passed Beijing, China, for having the world’s most polluted air. Now, Indian Prime Minister Narendra Modi is launching a national air quality index to monitor pollution levels in 10 of the country’s major cities.\n\nMr. Modi launched the air quality index at a two-day conference that included the environment and forest ministers from all Indian states.\n\nThe new air pollution index will measure eight pollutants. The index will use color coding to describe the air’s impact on human health. That will make it easy for citizens in big cities like New Delhi, Bangalore and Chennai to know their city’s air quality.\n\nPrime Minister Modi said in launching the index that the country must change the world’s opinion that India does not care about the environment or about climate change.\n\nMr. Modi said that India has a long tradition of respecting the environment and can show the rest of the world the way in fighting climate change.\n\nThe high levels of air pollution in Indian cities are a major concern for residents. The World Health Organization says that 13 of the world’s 20 most polluted cities are in India.\n\nDoctors have warned that rising levels of air pollution are leading to an increased number of citizens with asthma, chronic bronchitis and lung cancer.",
+  "questions": [
+    {
+      "question": "What is the capital of India?",
+      "options": [
+        "Mumbai",
+        "New Delhi",
+        "Bangalore",
+        "Chennai"
+      ],
+      "answer": "New Delhi"
+    },
+    {
+      "question": "Who is Narendra Modi?",
+      "options": [
+        "The President of India",
+        "The Minister of Environment",
+        "The Prime Minister of India",
+        "A famous environmentalist"
+      ],
+      "answer": "The Prime Minister of India"
+    },
+    {
+      "question": "What do doctors say about the rising levels of air pollution?",
+      "options": [
+        "It has no impact on health",
+        "It is causing an increase in respiratory diseases",
+        "It is only a concern for the elderly",
+        "It improves air quality in the long term"
+      ],
+      "answer": "It is causing an increase in respiratory diseases"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Interest in Horse Riding Grows in China",
+  "introduction": null,
+  "image": {
+    "id": "2c75584b-dd47-4e97-92ef-9393e73a27d6",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1LtHvWwLV0z5U2YjxQzuUQ.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 378
+    },
+    "attribution": "Jennifer C. / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 3,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2MbMVi8yfynlK943IjSTFQ.mpga",
+  "main_content": "Across Asia, the increase in sales of high-priced goods and services has been partly fueled by the rise of China’s middle class. Among the activities enjoyed by some wealthy Chinese is the ownership of horses. The quality of life tied to horses and horse ownership has become a new sign of success among a small, but growing group of people in China.\n\nSports involving horses have not always been permitted in China. Former Chinese leader Mao Zedong banned horse racing in 1949.\n\nMore than 60 years later, race tracks, polo fields and jockey clubs are opening for business in Chinese cities. And, there is a rising number of horses imported from overseas.\n\nMaiken Jaeschke is with Equestrian Globe, a German company that imports horses into China. It also builds equestrian facilities and sells riding gear and equipment.\n\nChina now has 25 horse racing tracks and 300 equestrian clubs. Land developers are building a $2 billion equestrian center in the city of Tianjin. It is called the Tianjin Equine Culture City. The developers have promised to build 4,000 stables to house horses. They have also said they will build a state-of-the-art medical center for the animals, 150 trainer offices and training areas. The development also will include a race course, club house and an international equestrian college.\n\nHorse sellers say the market will only grow as interest in the sport increases.",
+  "questions": [
+    {
+      "question": "What do some wealthy Chinese people enjoy?",
+      "options": [
+        "Investing in high-tech startups",
+        "Traveling internationally for leisure",
+        "Owning horses",
+        "Collecting rare art pieces"
+      ],
+      "answer": "Owning horses"
+    },
+    {
+      "question": "When was horse racing banned?",
+      "options": [
+        "In the early 1960s",
+        "In 1949",
+        "In the mid-1970s",
+        "In 1985"
+      ],
+      "answer": "In 1949"
+    },
+    {
+      "question": "How many horse racing tracks does China have now?",
+      "options": [
+        "10 horse racing tracks",
+        "25 horse racing tracks",
+        "50 horse racing tracks",
+        "100 horse racing tracks"
+      ],
+      "answer": "25 horse racing tracks"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

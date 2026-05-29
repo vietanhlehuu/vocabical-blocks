@@ -1,0 +1,60 @@
+{
+  "title": "Comic Book Fans Combine Fantasy Costumes, Role Playing",
+  "introduction": null,
+  "image": {
+    "id": "ccd99033-903c-4092-9ebd-8fe8d84563a4",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6EXrPEzEApkpRT93Ig4fZ6.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 340
+    },
+    "attribution": "AlejandroLinaresGarcia / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3JMhABjrMXsv5rlTfpi8H6.mpga",
+  "main_content": "Several decades ago, fans of comic books and science fiction and fantasy genres in the United States started dressing up as characters from their favorite books and movies to attend gatherings. After the practice caught fire in Japan and came back to the United States, along with the anime and manga craze of the 1990s, it came to be known as cosplay, a mashup of costume and role play. The colorful cosplayer outfits have now become a major attraction at events such as Comicpalooza, a multiformat pop culture convention held this past weekend in Houston.\n\nUnderneath their makeup, cosplayers are ordinary people, who, now and then, get to be extraordinary.\n\n“You get into the costumes, you get into a new character. You get to be somebody else for a day,” said Rachel, a cosplayer.\n\nCosplayers sometimes buy costumes and masks, but most of them create their own outfits and often compete in contests at events such as Comicpalooza, a convention that showcases genres including comic books, science fiction and fantasy, as well as gaming.\n\n“They get to really show off different types of craftsmanship and there is a lot of pride in that and a lot of professionalism for some of them,” said John Simons, a founder of Comicpalooza.\n\nWhile many cosplayers may seem like extroverts who enjoy showing off in public, quite a few are introverts who are more comfortable with a mask or makeup covering their face.\n\nOne self-proclaimed introvert is Jim, who came to Comicpalooza from San Antonio, Texas.\n\n“It helps me socialize and it has really helped me a lot,” he said.\n\nJim said he often recommends it to young people he meets who may suffer from shyness.\n\n“Because they might be introverted just like I was. So, [I am] kind of helping them come out and talk and socialize,” said Jim.\n\nFor most cosplayers, the real thrill is just getting into costume.\n\n“It is really exciting to step outside of your life and be someone new,” said Rachel.\n\nThere are cosplay events all over the world now and an international competition is held every year at the World Cosplay Summit in Japan.",
+  "questions": [
+    {
+      "question": "What terms produced the mashup “cosplay”?",
+      "options": [
+        "Costume and performance",
+        "Costume and role play",
+        "Costume and gaming",
+        "Character and dress-up"
+      ],
+      "answer": "Costume and role play"
+    },
+    {
+      "question": "What is Comicpalooza?",
+      "options": [
+        "A gathering for introverts",
+        "A multiformat pop culture convention",
+        "A competition for cosplayers",
+        "A festival for comic book artists"
+      ],
+      "answer": "A multiformat pop culture convention"
+    },
+    {
+      "question": "How can cosplaying help introverts?",
+      "options": [
+        "By providing an escape from reality",
+        "By allowing them to express their creativity",
+        "By helping them socialize and come out of their shell",
+        "By making them feel more confident in public"
+      ],
+      "answer": "By helping them socialize and come out of their shell"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

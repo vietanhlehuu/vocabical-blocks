@@ -1,0 +1,60 @@
+{
+  "title": "Study: Social Media May Disturb Sleep in Young Adults",
+  "introduction": null,
+  "image": {
+    "id": "857526e8-bfd6-11ea-8bfe-e7a0e53364e7",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/0v3bWjtB3VC2vv9KXDeQ6d.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Santeri Viinamäki / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1T5LQjhx7pC4SsS02tviAl.mpga",
+  "main_content": "Social media could be affecting the sleep of young adults, according to a new study.\n\nResearchers at the University of Pittsburgh School of Medicine say that young adults who often use social media are more likely to suffer sleep disturbances than those who use social media less.\n\nAccording to the findings, doctors should ask young adults about their use of social media when treating sleep issues.\n\n“This is one of the first pieces of evidence that social media use really can impact your sleep,” said lead author Jessica C. Levenson, a postdoctoral researcher in Pittsburgh’s Department of Psychiatry. “And it uniquely examines the association between social media use and sleep among young adults who are, arguably, the first generation to grow up with social media.”\n\nThose who checked social media more frequently were three times more likely to suffer disturbances. And those who spent the most time on social media were twice as likely to suffer disturbances.\n\n“This may indicate that frequency of social media visits is a better predictor of sleep difficulty than the overall time spent on social media,” Levenson explained. “If this is the case, then interventions that counter obsessive ‘checking’ behavior may be the most effective.”\n\nResearchers say social media can influence sleep patterns in a variety of ways, including leading people to lose sleep by staying up too late checking social media.\n\nThe researchers noted that in some cases, young adults who have a hard time sleeping may use social media to pass the time as they try to fall asleep.\n\n“It also may be that both of these hypotheses are true,” said Brian A. Primack, director of the Center for Research on Media, Technology and Health, and the study’s senior author. “Difficulty sleeping may lead to increased use of social media, which may in turn lead to more problems sleeping. This cycle may be particularly problematic with social media because many forms involve interactive screen time that is stimulating and rewarding and, therefore, potentially detrimental to sleep.”",
+  "questions": [
+    {
+      "question": "What do young adults who frequently use social media risk?",
+      "options": [
+        "A) Developing more fulfilling social interactions",
+        "B) Experiencing sleep disturbances",
+        "C) Increasing their productivity during the day",
+        "D) Reducing anxiety and stress levels"
+      ],
+      "answer": "B) Experiencing sleep disturbances"
+    },
+    {
+      "question": "How can social media influence sleep patterns?",
+      "options": [
+        "A) By providing educational content that helps with relaxation",
+        "B) By causing users to stay up late checking updates",
+        "C) By promoting physical activity late at night",
+        "D) By encouraging users to engage in mindfulness practices"
+      ],
+      "answer": "B) By causing users to stay up late checking updates"
+    },
+    {
+      "question": "What problematic cycle have scientists discovered?",
+      "options": [
+        "A) Excessive social media use can lead to more social engagement",
+        "B) Difficulty sleeping increases social media use, which worsens sleep issues",
+        "C) Increased screen time has beneficial effects on mental health",
+        "D) Frequent social media interactions enhance sleep quality"
+      ],
+      "answer": "B) Difficulty sleeping increases social media use, which worsens sleep issues"
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

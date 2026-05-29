@@ -1,0 +1,60 @@
+{
+  "title": "Robots Ready to Work in Restaurants",
+  "introduction": null,
+  "image": {
+    "id": "9c3d5ca4-0b93-4e2d-b01f-8b90cc6e9279",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4koqPyMbvSfdzGr3CfL8B7.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 683
+    },
+    "attribution": "Ms. President (Flickr User) / Wikimedia Commons / CC-BY-SA 2.0",
+    "public_attribution": true,
+    "lock_version": 5,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6WUHfkYusDxUsrgdL3d7yH.mpga",
+  "main_content": "For many years, machines have been doing work that people once did, including some difficult jobs. Search and rescue operations in dangerous environments are often seen as the first areas that will employ high technology robots. But there is another area that may soon take jobs traditionally held by human beings: the restaurant industry.\n\nTeams from around the world competed in early June at the DARPA Robotic Challenge Finals in California. A team from South Korea and its robot, called DRC-Hubo, won first place in the competition.\n\nRecently, crowds gathered for the food machinery and technology show in Tokyo, Japan. They witnessed a robotic chef preparing food. Other machines cooked, baked tasty pastries and even made sushi.\n\nAkihiro Suzuki works at Yaskawa Electric, a company that develops robots. He says robots cannot do everything a human can, but they are able to work without becoming tired.\n\nHe says robots cannot taste food, change heating levels or seasonings to get the best flavor.\n\nOther robots have been created to help decorate cakes and cut and peel apples.",
+  "questions": [
+    {
+      "question": "Which robot took first place in the DARPA Robotic Challenge Finals?",
+      "options": [
+        "DRC-Hubo",
+        "ASIMO",
+        "Atlas",
+        "Robonaut"
+      ],
+      "answer": "DRC-Hubo"
+    },
+    {
+      "question": "What did a robot do at the food machinery and technology show in Tokyo, Japan?",
+      "options": [
+        "Prepare food",
+        "Serve drinks",
+        "Clean tables",
+        "Take orders"
+      ],
+      "answer": "Prepare food"
+    },
+    {
+      "question": "Where does Akihiro Suzuki work?",
+      "options": [
+        "Yaskawa Electric",
+        "Boston Dynamics",
+        "Honda Robotics",
+        "Sony Corporation"
+      ],
+      "answer": "Yaskawa Electric"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

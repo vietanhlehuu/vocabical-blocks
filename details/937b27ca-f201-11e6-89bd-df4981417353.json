@@ -1,0 +1,60 @@
+{
+  "title": "NASA Astronauts Train for Commercial Space Flights",
+  "introduction": null,
+  "image": {
+    "id": "d1707d9c-b1eb-473e-9650-cc70f56eb401",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6NCntLZQdkCdVLFMTPwyWn.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 512
+    },
+    "attribution": "NASA / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4nCgLopeoJTBhmxO0WLvXa.mpga",
+  "main_content": "The American space agency and private companies are developing vehicles to take humans into low Earth orbit and even farther into space.\n\nBoeing, the manufacturer, says its CST-100 Starliner will start flying human crews to the International Space Station by the end of next year.\n\nThe United States no longer uses its reusable space shuttle to send astronauts into space. The last shuttle flight took place in 2011. Since then, the U.S. space agency has depended on Russian spacecraft to launch crews to the International Space Station.\n\nBoeing and another company, Space X, say they can fly astronauts to low orbits for about $20 million less than the current Russian spacecraft, Soyuz.\n\nAstronauts are already training for commercial spacecraft missions in flight simulators.",
+  "questions": [
+    {
+      "question": "Which manufacturer says it will start flying human crews to space by the end of next year?",
+      "options": [
+        "Space X",
+        "NASA",
+        "Boeing",
+        "Lockheed Martin"
+      ],
+      "answer": "Boeing"
+    },
+    {
+      "question": "Where will the manufacturer take the people?",
+      "options": [
+        "Mars",
+        "The Moon",
+        "International Space Station",
+        "Low Earth Orbit"
+      ],
+      "answer": "International Space Station"
+    },
+    {
+      "question": "What other company apart from Boeing say they can fly astronauts to low orbits?",
+      "options": [
+        "Blue Origin",
+        "Space X",
+        "Northrop Grumman",
+        "Sierra Nevada Corporation"
+      ],
+      "answer": "Space X"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

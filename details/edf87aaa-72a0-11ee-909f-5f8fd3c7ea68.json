@@ -1,0 +1,60 @@
+{
+  "title": "Young Writer’s Plays Explore Race, Identity in America",
+  "introduction": null,
+  "image": {
+    "id": "edf80fd4-72a0-11ee-909e-13d834709eed",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5JkkdDj4mM9OGktEbiudHQATEHsV9vUhwUNqyxa6V0g.jpeg",
+    "dimensions": {
+      "x": 5760,
+      "y": 3840
+    },
+    "attribution": "Shutterstock",
+    "public_attribution": false,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2ML23AzDL769YvhJz7a5Ts.mpga",
+  "main_content": "At 30 years old, Branden Jacobs-Jenkins has already written a number of plays and been honored with several awards. His works for the theater look at race and identity in the United States. They have been performed in New York City and around the country. One of his plays,called “An Octoroon,” can now be seen at a theater in Brooklyn.\n\nAt the beginning of “An Octoroon,” a man wearing only his underwear appears in the front of the theater. He takes a long look at the crowd, and then speaks.\n\n“Hi, everyone. I’m a ‘black playwright.’ I don’t know exactly what that means, but I’m here to tell you a story.”\n\nThis piece of audio comes from a rehearsal, preparation before the show itself. But at a public performance, the comment gets a big laugh. And that is what playwright Jacobs-Jenkins attempts to do.\n\nOver the past five years, Mr. Jacobs-Jenkins has established himself in the theater world with three plays on the issue of race in America.\n\nThe third work, “An Octoroon,” is based on a 19th Century play by playwright Dion Boucicault.\n\nMr. Jacobs-Jenkins says his modern version of Boucicault’s work has more in common with the earlier script than you might think. The two playwrights are centuries apart and of different races. But their goal is to please theater-goers.\n\nAnd he (Mr. Jacobs-Jenkins) hopes “An Octoroon” will do just that.",
+  "questions": [
+    {
+      "question": "Who is Branden Jacobs-Jenkins?",
+      "options": [
+        "A celebrated actor known for his performances in Broadway shows.",
+        "A playwright recognized for his work on race and identity in America.",
+        "A theater critic who reviews plays across the United States.",
+        "An actor-director famous for his adaptations of classic plays."
+      ],
+      "answer": "A playwright recognized for his work on race and identity in America."
+    },
+    {
+      "question": "How old is he?",
+      "options": [
+        "25 years old",
+        "30 years old",
+        "35 years old",
+        "40 years old"
+      ],
+      "answer": "30 years old"
+    },
+    {
+      "question": "Who wrote “An Octoroon” originally?",
+      "options": [
+        "Branden Jacobs-Jenkins",
+        "David Mamet",
+        "Dion Boucicault",
+        "August Wilson"
+      ],
+      "answer": "Dion Boucicault"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

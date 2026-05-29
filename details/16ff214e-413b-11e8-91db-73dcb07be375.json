@@ -1,0 +1,60 @@
+{
+  "title": "Philippines Looking at ‘Ecotourism Zone’ in South China Sea",
+  "introduction": null,
+  "image": {
+    "id": "16fe85f4-413b-11e8-91da-df7bc7ca963d",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/qBSRgPo2jJNquEt5ZOZ8SuioDF6G8t2eARYLl3WBpiM.jpeg",
+    "dimensions": {
+      "x": 7500,
+      "y": 5171
+    },
+    "attribution": "Shutterstock",
+    "public_attribution": false,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0Kv1ds5r5Pn4RljA7DZFDO.mpga",
+  "main_content": "The Philippines has launched a campaign to push for an “ecotourism zone” in the middle of the Spratly Islands in the South China Sea. Under the plan, tourists could visit Philippine-controlled parts of the disputed area.\n\nAn American-based group called U.S. Pinoys for Good Governance proposed the idea of the ecotourism zone. The organization was set up to work for causes related to the Philippines.\n\nChina, Vietnam and Taiwan claim nearly all of the South China Sea. The Philippines, Malaysia and Brunei have partial territorial claims.\n\nEric Lachica is with the U.S. Pinoys for Good Governance. He says the proposed travel area would be the best way to settle the competing claims.\n\nMalaysia, Vietnam and China all have places for tourists among the Spratlys and other islands in the South China Sea.\n\nEric Lachica says the best situation would be to have the Philippine Senate approve a resolution, with the president’s office offering its support. Then, he says, the Philippines could make a proposal to China and the Association of Southeast Asian Nations.",
+  "questions": [
+    {
+      "question": "Where are Spratly Islands?",
+      "options": [
+        "In the Indian Ocean near Madagascar",
+        "In the South China Sea near the Philippines",
+        "In the Pacific Ocean close to Hawaii",
+        "In the Coral Sea northeast of Australia"
+      ],
+      "answer": "In the South China Sea near the Philippines"
+    },
+    {
+      "question": "What countries apart from the Philippines have places for tourists among the Spratlys and other islands in the South China Sea?",
+      "options": [
+        "Thailand, Brunei, and Malaysia",
+        "Malaysia, Vietnam, and China",
+        "Taiwan, Indonesia, and Vietnam",
+        "Brunei, India, and Malaysia"
+      ],
+      "answer": "Malaysia, Vietnam, and China"
+    },
+    {
+      "question": "Who proposed the idea of the ecotourism zone?",
+      "options": [
+        "The Philippine Senate",
+        "U.S. Pinoys for Good Governance",
+        "Eric Lachica personally",
+        "The president’s office in the Philippines"
+      ],
+      "answer": "U.S. Pinoys for Good Governance"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

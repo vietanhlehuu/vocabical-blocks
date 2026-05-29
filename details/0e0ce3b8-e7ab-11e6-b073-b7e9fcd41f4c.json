@@ -1,0 +1,60 @@
+{
+  "title": "Improve Your Public Speaking With Body Language",
+  "introduction": null,
+  "image": {
+    "id": "26109260-d795-438e-981c-edf79fae6605",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/19pHT43HX3nS6jXTSKxohh.jpeg",
+    "dimensions": {
+      "x": 960,
+      "y": 720
+    },
+    "attribution": "Ասատուր Պասմաճեան / Wikimedia Commons / CC-BY-SA 4.0",
+    "public_attribution": true,
+    "lock_version": 5,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1Xd8ZBnRqS5q5mMfiN5P8g.mpga",
+  "main_content": "Today, we return to the subject of successful public speaking centering on the physical message of presentation.\n\nSome call this ‘body language.’ \n\nCharles LeBeau is a professor of public speaking and has written several books about how to do it well.\n\nWe have all seen nervous presenters in classrooms and meetings. One effect of being nervous is moving from side to side. A presenter does not need to stand perfectly still. In fact an audience can lose interest in a speaker who does not move.\n\nHow a speaker moves is important. Whole-body movement should be slow and planned to command attention. Such movement helps to communicate confidence.\n\nNew public speakers know that they should look at the audience while they speak. But they look at their notes on a paper or at the screen if they have an electronic presentation.\n\nCharles LeBeau says the best way to avoid this problem is to use images and few words for notes instead of sentences. The image should help communicate the point you want to make.\n\nHolding on to notes also makes it more difficult for a speaker to gesture naturally. Mr. LeBeau’s book, “Speaking of Speech,” discusses this. He says gestures should support the point the speaker is making.\n\nOther experts advise moving your body to a different place for each idea. Stay in place until you finish making that point. Then move to the next place on the stage or in the room.",
+  "questions": [
+    {
+      "question": "According to the article, what can happen if a presenter does not move at all?",
+      "options": [
+        "An audience can lose interest in the speaker",
+        "The speaker will sound louder",
+        "The presentation will end sooner",
+        "The audience will remember every detail"
+      ],
+      "answer": "An audience can lose interest in the speaker"
+    },
+    {
+      "question": "According to the article, what can slow, planned whole-body movement communicate?",
+      "options": [
+        "Confidence",
+        "Nervousness",
+        "Disinterest",
+        "Confusion"
+      ],
+      "answer": "Confidence"
+    },
+    {
+      "question": "What book has Mr. LeBeau written?",
+      "options": [
+        "Communication Essentials",
+        "The Art of Public Speaking",
+        "Speaking of Speech",
+        "Effective Presentation Skills"
+      ],
+      "answer": "Speaking of Speech"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

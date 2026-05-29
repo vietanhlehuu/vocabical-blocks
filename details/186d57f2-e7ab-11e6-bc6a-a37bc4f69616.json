@@ -1,0 +1,60 @@
+{
+  "title": "California Dogs Riding The Waves",
+  "introduction": null,
+  "image": {
+    "id": "85d85f37-f781-41d6-aa34-8a01621f57ff",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/44YrQY8C4Pt1j5r2IKFHXr.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 342
+    },
+    "attribution": "User:Stan Shebs / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 4,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3w2l3J2Cv4hSk7FiLTd1MS.mpga",
+  "main_content": "Last weekend, groups of surfers and their dogs took to the waves in the seventh “Surf City Surf Dog” competition. It took place at Huntington Dog Beach, a short drive from Los Angeles, California.\n\nMany of the dogs surfed like experts, facing both forward and backward. Some fell off their surfboards and into the ocean. But for most at the annual competition, it was all fun and play.\n\nA boxer named Hanzo was a crowd favorite. He has competed in the surfing competition in each of the past seven years. Eric Felland is Hanzo’s owner.\n\nThe dogs competed in four weight-class divisions. They were judged on different skills, including the length of their ride and their confidence on the surfboard. Some dogs appeared very sure in their ability to succeed. Others did not.\n\n​James Wall owns Faith, an American Pitbull Terrier. He says there are two important requirements for dog surfing. “First the dog has to love the water, that’s one of the biggest things, and then balance.\n\nIn the end, some dog surfers left with medals. But in the eyes of their owners, all of the dogs were winners.",
+  "questions": [
+    {
+      "question": "Who is Faith?",
+      "options": [
+        "A surfing coach",
+        "An American Pitbull Terrier",
+        "A competing boxer",
+        "A judge of the competition"
+      ],
+      "answer": "An American Pitbull Terrier"
+    },
+    {
+      "question": "Who is the owner of Hanzo?",
+      "options": [
+        "James Wall",
+        "Eric Felland",
+        "A crowd member",
+        "The competition organizer"
+      ],
+      "answer": "Eric Felland"
+    },
+    {
+      "question": "What skills are the dogs judged on?",
+      "options": [
+        "Length of their ride and their surfing style",
+        "Their confidence and length of their ride",
+        "Ability to perform tricks and balance",
+        "Overall appearance and speed"
+      ],
+      "answer": "Their confidence and length of their ride"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

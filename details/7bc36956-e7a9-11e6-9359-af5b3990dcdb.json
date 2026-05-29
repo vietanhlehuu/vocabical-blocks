@@ -1,0 +1,60 @@
+{
+  "title": "92 Percent of Potential Earths ‘Yet to be Born’",
+  "introduction": null,
+  "image": {
+    "id": "f81e81f6-61e2-4d8b-acd1-c560e1315103",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/7YC2QQwXgC88e2wy2SLtkh.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "ESA/Hubble / Wikimedia Commons / CC-BY-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3JLF9JZksB35ni5CnHdb0s.mpga",
+  "main_content": "Ninety-two percent of potentially Earth-like planets have yet to be born, according to the U.S. space agency NASA.\n\nUsing data from the Hubble Space Telescope and the Kepler observatory, astronomers were able to look “far back in time,” roughly 10 billion years ago, when stars were being born at a quick pace. To put that in perspective, our solar system is about 4.6 billion years old.\n\nThey said that while star production has slowed, there is enough helium and hydrogen left to ensure stars and planets will form “for a very long time to come.”\n\n“There is enough remaining material [after the big bang] to produce even more planets in the future, in the Milky Way and beyond,” said co-investigator Molly Peeples of the Space Telescope Science Institute (STScI) in Baltimore, Maryland, in a statement.\n\nAnd time favors the birth of new stars and planets.\n\nNASA said the last star in the universe will likely die out in 100 trillion years.\n\nAstronomers believe our own Milky Way galaxy has one billion Earth-sized planets, with a good portion of them likely to be rocky. How many of those lie in the “Goldilocks Zone” — the perfect distance from their star to allow liquid water to form — is unknown.\n\nTo get an idea of the number of potential Earths in the known universe, multiply those numbers by 100 billion — the number of observed galaxies.\n\nThe research will appear in the October 20 Monthly Notices of the Royal Astronomical Society.",
+  "questions": [
+    {
+      "question": "How could astronomers look back in time?",
+      "options": [
+        "By analyzing data from the International Space Station",
+        "By utilizing data from the Hubble Space Telescope and the Kepler observatory",
+        "By observing galaxies through ground-based telescopes",
+        "By sending missions to distant stars and recording their light"
+      ],
+      "answer": "By utilizing data from the Hubble Space Telescope and the Kepler observatory"
+    },
+    {
+      "question": "What did astronomers say about star and planet formation?",
+      "options": [
+        "Star and planet formation has completely ceased.",
+        "There is enough material left to ensure future star and planet formation.",
+        "Stars are forming at a faster rate than before.",
+        "Planet formation is only possible within the Dark Matter regions."
+      ],
+      "answer": "There is enough material left to ensure future star and planet formation."
+    },
+    {
+      "question": "When does NASA think that the last star will die out?",
+      "options": [
+        "In roughly 10 billion years",
+        "In approximately 100 trillion years",
+        "Within the next few million years",
+        "In no less than 5 trillion years"
+      ],
+      "answer": "In approximately 100 trillion years"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Pollution Turning India’s Taj Mahal Yellow",
+  "introduction": null,
+  "image": {
+    "id": "e45dc974-0eab-11e7-b444-832ab8f79547",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5uM2iuMhWlPUgJzt5qT5TM.jpeg",
+    "dimensions": {
+      "x": 798,
+      "y": 600
+    },
+    "attribution": "Matthew Laird Acred / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2Z7t8gOLYiZ0rGBXG1ZAY4.mpga",
+  "main_content": "For years, people living near the Taj Mahal have burned fuel and garbage. Slowly, tiny pieces of those fires are changing the marble on the Taj Mahal from bright white to brownish yellow. The pollution leaves particles that change the marble’s color.\n\nThe 17th-century monument is located in the busy, industrial city of Agra in northern India.\n\nResearchers from two American universities and several Indian institutions led a year-long study to test the idea. They placed small pieces of clean marble on the Taj Mahal. They left them there for two months, and then studied the particles that landed on their surfaces.\n\nProfessor S.N. Tripathi at the Indian Institute of Technology at Kanpur is one of the authors of the study. He said the particles come from many sources – especially from diesel trucks.\n\nMr. Tripathi said burning garbage and cow dung is another major source of discoloring organic carbon.\n\nEspecially now, when it is cold, he said, people burn almost anything to keep warm.\n\nOver the last ten years officials have banned vehicles within 500 meters of the monument. They have also tried to support clean fuel.\n\nBut despite these measures, a 2010 study found that the non-stop growth of industry, population and traffic have only worsened air pollution in Agra.",
+  "questions": [
+    {
+      "question": "What is changing the marble on the Taj Mahal?",
+      "options": [
+        "A significant increase in tourism activity",
+        "Tiny pieces from burning fuel and garbage",
+        "Natural weathering over the centuries",
+        "The impact of surrounding architecture"
+      ],
+      "answer": "Tiny pieces from burning fuel and garbage"
+    },
+    {
+      "question": "Where is the Taj Mahal?",
+      "options": [
+        "In the rural outskirts of Delhi",
+        "In the coastal city of Mumbai",
+        "In the industrial city of Agra",
+        "In a national park in Rajasthan"
+      ],
+      "answer": "In the industrial city of Agra"
+    },
+    {
+      "question": "What have the officials done over the last ten years to save the Taj Mahal?",
+      "options": [
+        "Introduced a complete ban on all vehicles in Agra",
+        "Banned vehicles within 500 meters and supported clean fuel",
+        "Closed the monument to tourists completely",
+        "Launched a national campaign for tourism control"
+      ],
+      "answer": "Banned vehicles within 500 meters and supported clean fuel"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

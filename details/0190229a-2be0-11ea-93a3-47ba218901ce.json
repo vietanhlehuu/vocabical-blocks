@@ -1,0 +1,60 @@
+{
+  "title": "Wars Cost World $13 Trillion Last Year",
+  "introduction": null,
+  "image": {
+    "id": "018f90b4-2be0-11ea-93a2-fb653f01a3a2",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1lXXlDkRJM2DIXNyoHnnOm.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 338
+    },
+    "attribution": "JO1 Gawlowicz / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/77bmFvuIFj8quACZdqohgI.mpga",
+  "main_content": "Wars and other conflicts cost the global economy more than $13.6 trillion, some 13 percent of global GDP, in 2015, according to an annual study on the cost of violence.\n\nThe Global Peace Index for 2015, which was compiled by the Institute of Economics and Peace in Australia, ranks 163 countries by the level of peace they are experiencing.\n\nAccording to the study “The last decade has seen a historic decline in world peace, interrupting the long term improvements since WWII.”\n\nThe world is seeing an increasing gap between peaceful countries and less peaceful countries. The report said many countries are experiencing “record high” levels of peace, but the bottom 20 countries are “much less peaceful.”\n\n“The world has become slightly less peaceful compared to the prior year, and the gap between the most and least peaceful nations continued to widen. More countries improved than deteriorated, but the size of the deterioration outweighed the improvement.”\n\nSyria, which has been wracked by a bloody civil war that has taken a quarter million lives and displaced many more, was not among the five countries with the steepest declines in peacefulness.\n\n“The historic 10-year deterioration in peace has largely been driven by the intensifying conflicts in the [Middle East and North Africa],” says the report. “Terrorism is also at an all-time high, battle deaths from conflict are at a 25-year high, and the number of refugees and displaced people is at a level not seen in 60 years.”\n\nThe cost of war and other violence was calculated based on military spending, damage to property and infrastructure, as well as the costs of crime associated with violence.",
+  "questions": [
+    {
+      "question": "How much of the global GDP was swallowed by war last year?",
+      "options": [
+        "$13.6 trillion",
+        "$10 trillion",
+        "$15 trillion",
+        "$12 trillion"
+      ],
+      "answer": "$13.6 trillion"
+    },
+    {
+      "question": "What does the Global Peace Index show?",
+      "options": [
+        "It ranks countries based on economic performance.",
+        "It measures levels of peace in countries.",
+        "It evaluates military strengths of nations.",
+        "It assesses the cost of violence in societies."
+      ],
+      "answer": "It measures levels of peace in countries."
+    },
+    {
+      "question": "Are there more peaceful countries than war-torn countries compared to the previous years?",
+      "options": [
+        "Yes, but the gap has narrowed.",
+        "Yes, the gap is widening.",
+        "No, there are fewer peaceful countries now.",
+        "No, the numbers have stayed the same."
+      ],
+      "answer": "Yes, the gap is widening."
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Are You Too Smart for Your Own Good?",
+  "introduction": null,
+  "image": {
+    "id": "14e4f8b8-4f20-11e9-b17f-d39884753cf6",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/7m0qytVYIkALMAJurYT13g.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 761
+    },
+    "attribution": "NBC Television / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6jbLpszbvvzP6jUXEM6o5D.mpga",
+  "main_content": "Today we take a look at the word “smart.”\n\nIf someone says you are smart, what do they mean? Is it a good thing or something bad? The answer is not as easy as you might think.\n\nThis is because the word smart has many meanings.\n\nFor example, someone could say you look smart or are dressed smartly. That means they like what you are wearing and your appearance.\n\nBut if something smarts, it can be unkind or hurtful, either physically or mentally. If you accidentally trip over a chair and fall down, you might shout, “Ow! That smarts!”\n\nBut the most common meaning of smart is to be intelligent. If someone is smart as a whip, they are able to think very quickly.\n\nHowever, different people have different ways of being smart. Some people are considered street-smart. They may not have a strong education. But they are good at dealing with people and problems in the real world.\n\nOther people might be book-smart. This means they have spent many years in school. But they may not be so smart when dealing with people or real-world problems.",
+  "questions": [
+    {
+      "question": "What can a person who is smart as a whip do?",
+      "options": [
+        "They can dress smartly and impress others.",
+        "They can think very quickly.",
+        "They can handle real-world problems efficiently.",
+        "They can explain complex ideas simply."
+      ],
+      "answer": "They can think very quickly."
+    },
+    {
+      "question": "How do you call people that have studied long but are not smart when dealing with real-world problems?",
+      "options": [
+        "Street-smart",
+        "Book-smart",
+        "Quick-witted",
+        "Intellectually challenged"
+      ],
+      "answer": "Book-smart"
+    },
+    {
+      "question": "What does something do when it smarts?",
+      "options": [
+        "It feels pleasant.",
+        "It causes confusion.",
+        "It can be unkind or hurtful.",
+        "It makes a loud noise."
+      ],
+      "answer": "It can be unkind or hurtful."
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

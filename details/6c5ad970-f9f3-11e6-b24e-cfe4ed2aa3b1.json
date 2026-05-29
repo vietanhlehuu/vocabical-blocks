@@ -1,0 +1,60 @@
+{
+  "title": "Brexit Vote Ripples Across South Asia",
+  "introduction": null,
+  "image": {
+    "id": "fb2c9b76-6e46-4855-be7b-78daf4e2f496",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/7dxSUup32vcNfprISjaazG.jpeg",
+    "dimensions": {
+      "x": 640,
+      "y": 480
+    },
+    "attribution": "Kenneth Allen / Wikimedia Commons / CC-BY-SA-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1nC283rY73eYeyRmqyThdk.mpga",
+  "main_content": "Judging by the South Asian media’s coverage of Brexit, one would think Britain’s historic vote to quit the European Union is of little consequence to a region that is home to several former British colonies. The press in Pakistan, India, and elsewhere largely treated Brexit as a dispute between Britain and the EU.\n\nBut experts say Brexit is likely to have far-reaching economic, political, and social implications for a region with deep historic ties to Britain.\n\nForeign Aid Could Shrink: Pakistan and Afghanistan are among the largest recipients of civilian aid from Britain, Germany, and other European countries.\n\n“Europe provides some of the most generous civilian assistance to Afghanistan and Pakistan,” said Michael Kugelman, a South Asia expert at the Wilson Center in Washington. Any economic contraction in Europe “will have a big impact on donor assistance to Afghanistan and Pakistan.”\n\nRemittances Likely to Shrink: Millions of South Asians working abroad regularly send money home, and the World Bank calls that money a key driver to growth. World Bank data show the eight member nations of the South Asian Association for Regional Cooperation received an estimated $117.8 billion in remittances in 2015. For Pakistan, the U.K. is the third-largest source of remittances after Saudi Arabia and the United Arab Emirates.\n\nMigration May Slow Down: Europe is likely to lose its lure as a destination for many South Asian emigrants. Britain is home to more than 3 million South Asians. Many others live in continental Europe, where anti-immigrant sentiment is rising.\n\nRising Gold Prices Increase Marriage Cost: Thanks to soaring gold prices after Thursday’s Brexit vote, getting married in the region just got more expensive.\n\n“Gold is a big part of the culture,” Uzair Kayani, [an economist at the Lahore University of Management Sciences in Lahore, Pakistan] said. “People take out loans to be able to afford the jewelry for their wedding.”\n\nThe economic effects of rising gold prices could be even greater on India, a major importer of gold.",
+  "questions": [
+    {
+      "question": "How has Brexit been treated in South Asian media?",
+      "options": [
+        "As a dispute between Britain and the EU.",
+        "As a major internal political crisis in Pakistan.",
+        "As a decision that directly increased foreign aid to South Asia.",
+        "As an issue with no coverage in South Asian newspapers."
+      ],
+      "answer": "As a dispute between Britain and the EU."
+    },
+    {
+      "question": "What are the four main implications of Brexit for South Asian countries?",
+      "options": [
+        "Decreased foreign aid, shrinking remittances, slowed migration, and rising gold prices.",
+        "Increased foreign aid, higher remittances, faster migration, and falling gold prices.",
+        "No change in foreign aid, stable remittances, more migration, and lower marriage costs.",
+        "Reduced foreign aid, increased remittances, slowed migration, and falling gold prices."
+      ],
+      "answer": "Decreased foreign aid, shrinking remittances, slowed migration, and rising gold prices."
+    },
+    {
+      "question": "Which are the three biggest sources of remittances for Pakistan?",
+      "options": [
+        "Saudi Arabia, the United Arab Emirates, and the United Kingdom.",
+        "India, Germany, and the United Kingdom.",
+        "Saudi Arabia, Canada, and the United States.",
+        "The United States, Australia, and the United Kingdom."
+      ],
+      "answer": "Saudi Arabia, the United Arab Emirates, and the United Kingdom."
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

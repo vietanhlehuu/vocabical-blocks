@@ -1,0 +1,60 @@
+{
+  "title": "Hong Kong Officials Raid Home of Media Mogul Critical of Beijing",
+  "introduction": null,
+  "image": {
+    "id": "28cef4d4-3738-47f1-a11e-6b49b0fd665e",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1F0Gt6y6w5xv9E5aGBqzBm.jpeg",
+    "dimensions": {
+      "x": 240,
+      "y": 360
+    },
+    "attribution": "海彥, Voice of America / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3Whdhzy7A7iMeLEKEIPeu8.mpga",
+  "main_content": "Hong Kong anti-corruption officials have raided the home of media mogul Jimmy Lai, whose publications are often critical of mainland China.\n\nThe early Thursday raid comes after local media this month published reports claiming Lai made major donations to pro-democracy lawmakers. Lai denies any wrongdoing. There are no laws in Hong Kong that require the disclosure of political donations.\n\nOfficials also raided the home of pro-democracy lawmaker Lee Cheuk-yan, whose Labor Party played a major part in the recent Occupy Central protests against Chinese influence in Hong Kong.\n\nMany in the semi-autonomous Chinese region are concerned at what they see as the erosion of press freedom, as well as the Communist Party’s insistence that it vet candidates for Hong Kong’s 2017 election.\n\nOccupy Central protesters have held a series of major demonstrations and are threatening to take over the financial district if Beijing does not promise to allow a fully democratic election.\n\nLai owns a wide range of publications that have often been supportive of the protests. Following the raid, shares in Lai’s Next Media Ltd fell as much as six percent before trading was halted.",
+  "questions": [
+    {
+      "question": "Why did Hong Kong anti-corruption officials raid Jimmy Lai’s home?",
+      "options": [
+        "To investigate allegations that he made major donations to pro-democracy lawmakers",
+        "To arrest him for violating election laws",
+        "To question him about foreign government funding",
+        "To respond to complaints about his newspapers"
+      ],
+      "answer": "To investigate allegations that he made major donations to pro-democracy lawmakers"
+    },
+    {
+      "question": "Was Jimmy Lai the only person whose home was raided?",
+      "options": [
+        "Yes, only Jimmy Lai’s home was raided",
+        "No, officials also raided the home of pro-democracy lawmaker Lee Cheuk-yan",
+        "Yes, but only after his newspapers were criticized",
+        "No, but the authorities raided no other political figures"
+      ],
+      "answer": "No, officials also raided the home of pro-democracy lawmaker Lee Cheuk-yan"
+    },
+    {
+      "question": "What are the Occupy Central protesters threatening to do if Beijing does not promise a fully democratic election?",
+      "options": [
+        "Take over the financial district",
+        "Hold a general strike across all of Hong Kong",
+        "Demand immediate independence from mainland China",
+        "Boycott all local newspapers"
+      ],
+      "answer": "Take over the financial district"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

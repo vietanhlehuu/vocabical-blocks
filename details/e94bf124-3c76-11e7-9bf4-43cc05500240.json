@@ -1,0 +1,60 @@
+{
+  "title": "Obama Announces Initiative to Protect Pacific Ocean",
+  "introduction": null,
+  "image": {
+    "id": "99b5bb78-5ec1-436f-b031-e3206800b7f8",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4g2sQk2162Ph6WJBCqM1JA.jpeg",
+    "dimensions": {
+      "x": 450,
+      "y": 600
+    },
+    "attribution": "Gharouni / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3QDM2TSwO5oH9gXo4nYEKG.mpga",
+  "main_content": "President Barack Obama has announced a new initiative to protect parts of the Pacific Ocean from overfishing and environmental damage. He announced his plan in a video message to an international conference on the oceans at the U.S. State Department.\n\nFor years, scientists and environmentalists have warned that oceans are deteriorating because of human activity, mostly pollution and overfishing, but political leaders have lacked the will to do much about it. The Obama administration is now taking a step towards finding a solution.\n\nObama announced Tuesday that he is directing the federal government to create a national strategy to combat illegal fishing and pollution in the Pacific Ocean.\n\n“Pollution endangers marine life, overfishing threatens whole species as well as the people who depend on them for food and their livelihoods. If we ignore these problems, if we deplete our oceans of their resources, we won’t just be squandering one of the humanities greatest treasures, we’ll be cutting off one of the world’s major sources of food and economic growth including for the United States, and we cannot afford to let that happen,” said Obama.\n\nObama’s videotaped message was shown during the “Our Ocean” conference at the U.S. State Department.\n\nSome of the possible measures, such as bans on fishing and industrial exploration in parts of the central Pacific, are expected to spark political battles in Washington.\n\n“I’m going to use my authority as president to protect some of our most precious marine landscapes, just like we do for mountains, rivers and forests,” said Obama.\n\nHollywood actor Leonardo DiCaprio, an environmental activist, supports the effort.\n\n“Several billion people a year depend on seafood as a source of protein and yet we are failing to protect these vital waters. If we don’t do something to save our oceans now, it won’t be just the sharks and the dolphins that will suffer, it will be all of us, including our children and our grandchildren,” said DiCaprio.\n\nSecretary of State John Kerry hosted the conference, attended by members of the international oceans community, government ministers, scientists and advocates.\n\n“We have today received commitments for action in over [$1.45 billion] and that is all directed at this ocean effort,” said Kerry.\n\nKerry also announced progress on efforts to get the required number of nations needed to ratify an international port law that would prevent illegally caught fish from going to market.\n\nPresident Obama’s proposal is due to go into effect later this year.",
+  "questions": [
+    {
+      "question": "What are the main factors that contribute to the depletion of Pacific Ocean resources, according to the article?",
+      "options": [
+        "Climate change and rising sea levels",
+        "Pollution and overfishing caused by human activity",
+        "Industrial growth and coastline development",
+        "Natural disasters and changing weather patterns"
+      ],
+      "answer": "Pollution and overfishing caused by human activity"
+    },
+    {
+      "question": "Which Hollywood actor supports President Obama's ocean protection effort?",
+      "options": [
+        "Brad Pitt",
+        "Leonardo DiCaprio",
+        "George Clooney",
+        "Matthew McConaughey"
+      ],
+      "answer": "Leonardo DiCaprio"
+    },
+    {
+      "question": "What did President Obama say would happen if the ocean's resources are depleted?",
+      "options": [
+        "It would cut off a major source of food and economic growth",
+        "It would end all international ocean trade immediately",
+        "It would eliminate the need for fishing regulations",
+        "It would only affect marine animals, not people"
+      ],
+      "answer": "It would cut off a major source of food and economic growth"
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

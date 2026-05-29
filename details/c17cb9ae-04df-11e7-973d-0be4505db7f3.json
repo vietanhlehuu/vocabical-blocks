@@ -1,0 +1,60 @@
+{
+  "title": "Animated ‘Zootopia’ Breaks Disney Record",
+  "introduction": null,
+  "image": {
+    "id": "ea499679-cec8-44ec-a181-25729f833926",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/785pimm2NcpkL8vauwgz5i.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 381
+    },
+    "attribution": "Altan Dilan / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1b8CRH5v4lXxYhO75G3MGf.mpga",
+  "main_content": "Last weekend, the latest Disney movie, “Zootopia,” broke records.\n\nThe movie had the largest opening weekend for a Disney animated film. People across the United States bought more than $75 million worth of tickets.\n\nAlready, the movie’s worldwide box office total is more than $230 million.\n\n“Zootopia” is a city of animals. The movie stars a bunny rabbit police officer and a fox criminal who team up to find a missing otter.\n\nCritics have strongly praised “Zootopia” for its sharp humor and strong message. The film explores racism and other intolerance.\n\nJared Bush and Phil Johnston wrote “Zootopia.” They told reporters that it started out as a spy movie set in several different animal worlds. But they found the mammal world especially interesting. So they changed the story.\n\nBush and Johnston said building the imaginary world took a lot of research.\n\nThe writers spoke with people who study culture and group behavior. And they talked with animal experts like zookeepers.",
+  "questions": [
+    {
+      "question": "What topics does the film explore?",
+      "options": [
+        "The relationship between different species of animals",
+        "Racism and other intolerance",
+        "The importance of teamwork in law enforcement",
+        "The wildlife conservation efforts"
+      ],
+      "answer": "Racism and other intolerance"
+    },
+    {
+      "question": "Why did the writers of “Zootopia” change the story later on?",
+      "options": [
+        "To focus on a more heroic narrative",
+        "They found the mammal world especially interesting",
+        "To include more animal characters",
+        "To make the plot more complex"
+      ],
+      "answer": "They found the mammal world especially interesting"
+    },
+    {
+      "question": "What people did the writers talk to when they were doing their research for “Zootopia”?",
+      "options": [
+        "Animal experts and cultural researchers",
+        "Hollywood directors and producers",
+        "Children's book authors",
+        "Famous cartoonists"
+      ],
+      "answer": "Animal experts and cultural researchers"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

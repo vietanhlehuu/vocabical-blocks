@@ -1,0 +1,60 @@
+{
+  "title": "Does This Story Have Legs? (part 2)",
+  "introduction": null,
+  "image": {
+    "id": "7897128a-813b-4c73-bb2a-1baf88124f84",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3fY7PTLYF6nMtpU9WsS7m8.jpeg",
+    "dimensions": {
+      "x": 375,
+      "y": 305
+    },
+    "attribution": "Rayzwocker at English Wikipedia / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7QU7LS2nrzJiSwmArcO1VJ.mpga",
+  "main_content": "[This article is divided into 2 parts! In part 1 we discussed the meaning of the expressions to have legs, not to have legs, to have a leg up and not to have a leg to stand on.]\n\nNow, let’s move our legs to the sea. Imagine you are on a boat that is rocking in rough ocean waters. You are unable to walk steadily and you feel a little sick. This is because you haven’t found your sea legs.\n\nNow, the meaning of leg work is just as it sounds, the physical part of any task. For example, a political campaign involves planning and organization, but it also requires a lot of leg work.\n\nSo, if someone tells you that running a political campaign is easy work, they are pulling your leg. To pull someone’s leg is to tell a lie but in a friendly way. You can tell someone to not pull your leg.\n\nSaying break a leg to someone performing on stage is the same as saying “good luck.”\n\nIn the theater, saying “good luck” is actually considered to be bad luck.\n\nLastly, we come to last legs. If you find yourself on your last legs, you had better sit down for a while and rest.",
+  "questions": [
+    {
+      "question": "When you lie in a friendly way what do you do with the person’s leg?",
+      "options": [
+        "You break their leg",
+        "You pull their leg",
+        "You kick their leg",
+        "You hold their leg"
+      ],
+      "answer": "You pull their leg"
+    },
+    {
+      "question": "What would you say to an actor to wish him luck? ",
+      "options": [
+        "Break a leg",
+        "Good luck",
+        "You can do it",
+        "Best of luck"
+      ],
+      "answer": "Break a leg"
+    },
+    {
+      "question": "What should you do when you are on your last legs?",
+      "options": [
+        "Keep going",
+        "Sit down and rest",
+        "Call for help",
+        "Ask for a drink"
+      ],
+      "answer": "Sit down and rest"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

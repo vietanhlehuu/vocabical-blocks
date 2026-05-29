@@ -1,0 +1,60 @@
+{
+  "title": "Raising a Glass for National Beer Day",
+  "introduction": null,
+  "image": {
+    "id": "5987bb39-654f-4792-b0f5-8e98bd65af49",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2iwLTwZ3Tonf1MeGIZCAMz.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 537
+    },
+    "attribution": "Nejmlez / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1Rj0bNVWKZQHUTlWBqXEjV.mpga",
+  "main_content": "April 7 was National Beer Day in the United States.\n\nNational Beer Day is not a real holiday.\n\nBut a lot of Americans are celebrating on social media.\n\nOne Twitter user wrote, “I hear it’s #NationalBeerDay and I feel fortunate to live where they make so much of it.”\n\nThe magazine Men’s Journal published a list of what it called the “100 Best Beers in America.”\n\nSome of the beers have unusual names, such as Sloth, Fuzzy Baby Ducks and Lizard King.\n\nApril 7 is an important day in beer history. On that day in 1933, Americans could legally buy beer again after 13 years.\n\nThe 18th Amendment to the constitution took effect in 1920. It prohibited “the manufacture, sale or transportation of liquors.”\n\nIn December 1933, the 21st Amendment to the constitution officially ended prohibition. But a few months before that, President Franklin Roosevelt signed an act to permit the sale of low-alcohol wine and beer. That was on April 7.",
+  "questions": [
+    {
+      "question": "Is National Beer Day a real holiday?",
+      "options": [
+        "Yes, it is officially recognized.",
+        "No, it is not a real holiday.",
+        "Yes, it was established in 1933.",
+        "No, but it is widely celebrated."
+      ],
+      "answer": "No, it is not a real holiday."
+    },
+    {
+      "question": "Which magazine published “100 Best Beers in America” on National Beer Day?",
+      "options": [
+        "Craft Beer Review",
+        "Men’s Journal",
+        "Beer Advocate",
+        "Brewery Magazine"
+      ],
+      "answer": "Men’s Journal"
+    },
+    {
+      "question": "Why is National Beer Day celebrated on April 7?",
+      "options": [
+        "To commemorate the signing of the 21st Amendment.",
+        "It marks the day beer became legal again after prohibition.",
+        "To celebrate the invention of beer in America.",
+        "It is the birthday of a famous brewer."
+      ],
+      "answer": "It marks the day beer became legal again after prohibition."
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

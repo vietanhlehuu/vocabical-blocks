@@ -1,0 +1,60 @@
+{
+  "title": "Suicide Bombers Kill At Least 41 in Beirut",
+  "introduction": null,
+  "image": {
+    "id": "e45dcb04-0eab-11e7-b445-4b275f53195b",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5ubW9dKHsOH41OXVswBnxA.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "User:Heretiq / Wikimedia Commons / CC-BY-SA-2.5",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0WPENEHbIReBtpdbiAF731.mpga",
+  "main_content": "Twin suicide blasts killed at least 41 people and injured 200 in a mostly Shi’ite area of South Beirut, Lebanese officials announced.\n\nThe explosions occurred minutes apart, according to officials in Lebanon.\n\nThe Islamic State of Iraq and the Levant, or ISIL, claimed responsibility on social media.\n\nThe area hit is a stronghold for the Lebanese militant group Hezbollah.\n\n“We condemn the cowardly criminal act that can never be justified, and we call on the Lebanese to be ... united against strife,” said Lebanon’s Prime Minister Tamman Salam in a statement released by Lebanon’s embassy in Washington.",
+  "questions": [
+    {
+      "question": "Who is Tamman Salam?",
+      "options": [
+        "A Lebanese militant group leader",
+        "Lebanon's Prime Minister",
+        "A social media influencer",
+        "The spokesperson for ISIL"
+      ],
+      "answer": "Lebanon's Prime Minister"
+    },
+    {
+      "question": "How many people were injured (hurt)?",
+      "options": [
+        "41 people",
+        "200 people",
+        "Over 250 people",
+        "Only 41 people were injured"
+      ],
+      "answer": "200 people"
+    },
+    {
+      "question": "Who (or what) said that they were responsible?",
+      "options": [
+        "Hezbollah",
+        "Lebanese officials",
+        "The Islamic State of Iraq and the Levant (ISIL)",
+        "The Lebanese Prime Minister"
+      ],
+      "answer": "The Islamic State of Iraq and the Levant (ISIL)"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

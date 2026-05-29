@@ -1,0 +1,60 @@
+{
+  "title": "Doctor Brings Healing to Patients in Their Homes",
+  "introduction": null,
+  "image": {
+    "id": "cf863a1e-413a-11e8-a3de-4791dd966de7",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/cSu80GXWVyozaIBWW4K8sTIA9aSh48c44AENtRcwR2F.jpeg",
+    "dimensions": {
+      "x": 4368,
+      "y": 2912
+    },
+    "attribution": "Shutterstock",
+    "public_attribution": false,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6EpHI9JLPpQY5NkxqqzhVl.mpga",
+  "main_content": "Ernest Brown is a unique doctor. Unlike most doctors, he does not work in a clinic or hospital. He works out of a black Toyota truck. Patients do not come to him. He comes to their houses.\n\nDr. Brown was born and raised in Washington, DC. He is a graduate of Howard University College of Medicine. His first interest was in emergency medicine. However, in his third year of medical school he studied under Dr. George Taler. Dr. Taler only treated patients by visiting them in their homes.\n\nDr. Brown saw a special relationship between Dr. Taler and his patients.\n\nSeveral months later, Dr. Brown took a trip to Cuba. In Cuba, he witnessed a festival honoring a member of the community.\n\n“There was this little old guy…  And people would come up to him and dance with him, hug him, and he would smile… It was so nice to see this elderly gentleman in his community and people engaged with him. And I was like, ‘you know, that’s really cool. Who is he?’ ‘He’s our family doctor.”\n\nFrom that moment, Dr. Brown decided to become a family doctor.",
+  "questions": [
+    {
+      "question": "Why is Ernest Brown a unique doctor?",
+      "options": [
+        "He operates from a black Toyota truck instead of a clinic or hospital.",
+        "He specializes only in emergency medicine.",
+        "He provides online consultations.",
+        "He has a traditional office setup."
+      ],
+      "answer": "He operates from a black Toyota truck instead of a clinic or hospital."
+    },
+    {
+      "question": "Which university did Dr. Brown graduate from?",
+      "options": [
+        "University of Washington",
+        "Howard University College of Medicine",
+        "Johns Hopkins University",
+        "George Washington University"
+      ],
+      "answer": "Howard University College of Medicine"
+    },
+    {
+      "question": "Where did Dr. Brown witness a festival honoring a member of the community?",
+      "options": [
+        "Cuba",
+        "Mexico",
+        "Colombia",
+        "Puerto Rico"
+      ],
+      "answer": "Cuba"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

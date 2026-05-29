@@ -1,0 +1,60 @@
+{
+  "title": "Report: Any Extraterrestrial Life Likely Extinct",
+  "introduction": null,
+  "image": {
+    "id": "34e9b6f7-a697-460f-8da1-a7c47fb845f1",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1bqPLunidMyFCLvYzkQQwD.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 299
+    },
+    "attribution": "NASA Ames/ W Stenzel / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1O2lVBlaJN9j4fsRx6Q4ww.mpga",
+  "main_content": "While the universe is likely filled with habitable planets, new research suggests any life on these bodies would likely become extinct rapidly.\n\nWriting in the journal Astrobiology, researchers from The Australian National University (ANU) say life on a fledgling planet would likely “die out due to runaway heating or cooling.”\n\n“The universe is probably filled with habitable planets, so many scientists think it should be teeming with aliens,” said Aditya Chopra from the ANU Research School of Earth Sciences and lead author on the paper. “Early life is fragile, so we believe it rarely evolves quickly enough to survive.”\n\nThe main reason, says Chopra, is the lack of stability.\n\n“Most early planetary environments are unstable,” he said. “To produce a habitable planet, life forms need to regulate greenhouse gases such as water and carbon dioxide to keep surface temperatures stable.”\n\nExamples of this are right next door. Venus and Mars could have been habitable at one point, but Venus became a “hothouse,” while Mars is a relative “icebox.”\n\nThe research also helps explain Fermi’s Paradox, which states that despite the high odds of habitable planets, we have yet to find any sign of extraterrestrial life.",
+  "questions": [
+    {
+      "question": "Why would early life have difficulty surviving on many planets?",
+      "options": [
+        "A) Life adapts too quickly to changing environments.",
+        "B) Planets often have unstable environments that threaten life.",
+        "C) Higher temperatures provide a better chance for life to thrive.",
+        "D) Life forms prefer regions with intense cosmic radiation."
+      ],
+      "answer": "B) Planets often have unstable environments that threaten life."
+    },
+    {
+      "question": "Do scientists think there are many habitable planets in the universe?",
+      "options": [
+        "A) They believe all planets in the universe are inhospitable.",
+        "B) Yes, they think the universe is filled with habitable planets.",
+        "C) Only a few planets are deemed potentially habitable by scientists.",
+        "D) They are unsure and depend on social media for information."
+      ],
+      "answer": "B) Yes, they think the universe is filled with habitable planets."
+    },
+    {
+      "question": "How can a planet become habitable?",
+      "options": [
+        "A) By ensuring extreme temperatures are maintained.",
+        "B) By regulating greenhouse gases to stabilize surface temperatures.",
+        "C) Through the introduction of complex life forms.",
+        "D) By being distant from its star to avoid overheat."
+      ],
+      "answer": "B) By regulating greenhouse gases to stabilize surface temperatures."
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

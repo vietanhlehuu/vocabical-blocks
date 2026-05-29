@@ -1,0 +1,60 @@
+{
+  "title": "India’s Maharashtra State Bans Beef",
+  "introduction": null,
+  "image": {
+    "id": "e4567b10-0eab-11e7-bf93-6388670ebb3b",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/05NYd69NwNXTMlD8EoNRIc.jpeg",
+    "dimensions": {
+      "x": 1600,
+      "y": 1200
+    },
+    "attribution": "Kaptain / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3kHZu5LbHuy7JuyYDihBjg.mpga",
+  "main_content": "Last week, the western Indian state of Maharashtra banned beef consumption. The state government has banned possession or sales of the meat.\n\nHindu groups welcomed the ban. But many Muslims in western India have criticized it. They say it will make tens of thousands of people jobless.\n\nHindus consider cows holy. The animals are already protected in India.\n\nThe ban took effect on March 5. On that day, many slaughterhouses in Maharashtra suddenly closed. Beef disappeared from the menus of restaurants, including those in the state capital, Mumbai.\n\nUnder the new law, having or selling beef could lead to fines or prison terms of up to five years.\n\nMohammad Ali Qureshi is president of the Mumbai Suburban Beef Dealers Association. He said the ban will have a bad effect on tens of thousands of butchers, beef retailers, and others involved in the trade.\n\nHe said many of those affected are among the poorest people in the area.\n\nBeef consumption in India is limited to non-Hindus. But the country has become the world’s second-biggest exporter of beef. Most of the meat comes from buffaloes.\n\nMuslims control most of the beef trade. Banning beef has become a major issue between India’s Hindus and Muslims.",
+  "questions": [
+    {
+      "question": "When did the ban take effect?",
+      "options": [
+        "March 1",
+        "March 5",
+        "April 5",
+        "February 28"
+      ],
+      "answer": "March 5"
+    },
+    {
+      "question": "Who is the president of the Mumbai Suburban Beef Dealers Association?",
+      "options": [
+        "Mohammad Ali Khan",
+        "Mohammad Ali Qureshi",
+        "Ravi Sharma",
+        "Ajay Patil"
+      ],
+      "answer": "Mohammad Ali Qureshi"
+    },
+    {
+      "question": "Who controls most of the beef trade?",
+      "options": [
+        "Hindus",
+        "Buddhists",
+        "Muslims",
+        "Sikhs"
+      ],
+      "answer": "Muslims"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

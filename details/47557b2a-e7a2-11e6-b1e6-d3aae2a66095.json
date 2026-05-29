@@ -1,0 +1,60 @@
+{
+  "title": "Researchers Announce Discovery of Early Human Ancestor",
+  "introduction": null,
+  "image": {
+    "id": "e45d50ca-0eab-11e7-b3fb-cb681c588eaa",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5U0ViUhYKSqzJB17diJrn8.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "NPS Natural Resources / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3q9PE8A4oalXr7zTIgbHne.mpga",
+  "main_content": "A group of scientists announced what they say is the discovery of remains from an early ancestor of human beings.\n\nBones from the species were found two years ago inside a cave at a United Nations World Heritage Site, near Johannesburg, South Africa. The South African government has named the area the “Cradle of Humankind” because of its rich collection of ancient human-like remains.\n\nThe scientists are calling the new species, ‘Homo naledi’. The word naledi means “star” in South Africa’s Sesotho language.\n\nThe scientists reported that about 1,500 bones have been recovered from the cave.\n\nThe scientists said the newly discovered species ‘Homo naledi’ probably stood up straight when walking. They said a normal adult stood about 1.5 meters tall and weighed about 45 kilograms.\n\nThe researchers described the hands and feet of the new species as human-like.",
+  "questions": [
+    {
+      "question": "What does “naledi” mean?",
+      "options": [
+        "Star",
+        "Ancestor",
+        "Cave",
+        "Discovery"
+      ],
+      "answer": "Star"
+    },
+    {
+      "question": "How many bones were discovered in the cave?",
+      "options": [
+        "500",
+        "1,000",
+        "1,500",
+        "2,000"
+      ],
+      "answer": "1,500"
+    },
+    {
+      "question": "Why is the United Nations World Heritage Site near Johannesburg called “Cradle of Humankind”?",
+      "options": [
+        "It contains many ancient artifacts.",
+        "It is a site for human evolution research.",
+        "It features a rich collection of ancient human-like remains.",
+        "It is a famous tourist destination."
+      ],
+      "answer": "It features a rich collection of ancient human-like remains."
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

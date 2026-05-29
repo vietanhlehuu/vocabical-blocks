@@ -1,0 +1,60 @@
+{
+  "title": "Too Much Gaming is a Pain in the Neck",
+  "introduction": null,
+  "image": {
+    "id": "1773675d-eef4-4003-bf13-6d68d90f866d",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/0iFYuuwwPh9hQoFPFWlicX.jpeg",
+    "dimensions": {
+      "x": 546,
+      "y": 473
+    },
+    "attribution": "ru:User:V-Ugnivenko / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 2,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/755Oukz90KYohq3BXRurVc.mpga",
+  "main_content": "Most children have heard their parents at one time or another yell “sit up straight!” or “don’t slouch!”\n\nIn the past, this was usually heard at the dinner table as children ate dinner. But these days, it is also heard around another activity – video games.\n\nTen-year old Owaish Batliwala, from Mumbai, India, admits he spends three to four hours each day playing games on his tablet computer. His mother Mehzabin became concerned when her son started saying that his neck hurt.\n\nSadia Vanjara is a physical therapist. She says the number of young children with chronic pain in their necks, arms and shoulders is on the rise. Dr. Vanjara says the pain is not from aging, accidents or disease. It is from poor posture, or body position, while playing video games.\n\nThis is a problem in many parts of the world. But there are more smartphone users in India than anywhere else in the world, except China. Networking equipment company Cisco estimates that the number of smartphone users in India will increase from 140 million today to 651 million by 2020.\n\nExperts advise taking breaks from using a computer or other device often. Stand up. Stretch your legs, back, shoulders and arms. And when your work or school work is done, unplug and exercise.",
+  "questions": [
+    {
+      "question": "How much time a day does Owaish Batliwala spend playing games?",
+      "options": [
+        "1 to 2 hours",
+        "3 to 4 hours",
+        "5 to 6 hours",
+        "Less than 1 hour"
+      ],
+      "answer": "3 to 4 hours"
+    },
+    {
+      "question": "Which 2 countries are the leaders in the number of smartphone users?",
+      "options": [
+        "India and USA",
+        "India and China",
+        "China and Japan",
+        "Brazil and India"
+      ],
+      "answer": "India and China"
+    },
+    {
+      "question": "What is the expert advice?",
+      "options": [
+        "Play games in moderation",
+        "Take breaks and exercise",
+        "Move your screen closer",
+        "Use ergonomic devices only"
+      ],
+      "answer": "Take breaks and exercise"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

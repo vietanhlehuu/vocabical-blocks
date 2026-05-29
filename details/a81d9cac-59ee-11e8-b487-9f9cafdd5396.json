@@ -1,0 +1,60 @@
+{
+  "title": "Sleep: The First Night Effect",
+  "introduction": null,
+  "image": {
+    "id": "a81cfea0-59ee-11e8-b486-6f9b0f8459a6",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/7CGp6vwno9UC7IZTGbTBfs.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "rachel CALAMUSA / Wikimedia Commons / CC-BY-SA-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3vOMHGRJMpvuacpG9cSM68.mpga",
+  "main_content": "Have you ever had trouble sleeping in a new place?\n\nLots of people do. And now researchers from Brown University in Rhode Island think they know why.\n\nThey found that one-half of the brain “remains more awake” than the other half when people are trying to sleep in a new place.\n\nThis appears a case of the brain keeping people ready for trouble in a new place.\n\nIn their report, the researchers said many people report they have a harder time sleeping the first night at a hotel or other places outside their home.\n\nThey call it, “first-night effect.”\n\nThe researchers measured brain waves for 35 volunteers over two nights in a laboratory.\n\nThey found during the first night the left hemisphere of the brain was more active than the right hemisphere.\n\nFor some, this research may be calming. It is good to know that our brain is “looking out for us,” in a new place.",
+  "questions": [
+    {
+      "question": "What happens to the brain when people sleep in a new place?",
+      "options": [
+        "Both hemispheres become equally active to promote sleep.",
+        "The right hemisphere becomes dominant to encourage relaxation.",
+        "The left hemisphere remains more active to maintain alertness.",
+        "The brain shuts down completely to facilitate deep sleep."
+      ],
+      "answer": "The left hemisphere remains more active to maintain alertness."
+    },
+    {
+      "question": "What did the researchers measure?",
+      "options": [
+        "Heart rates of the volunteers during sleep.",
+        "Brain waves of the volunteers during sleep.",
+        "Sleep duration of the volunteers in different locations.",
+        "The emotional responses of the volunteers to sleeping away from home."
+      ],
+      "answer": "Brain waves of the volunteers during sleep."
+    },
+    {
+      "question": "How many volunteers were there in the study?",
+      "options": [
+        "20 volunteers over one night.",
+        "35 volunteers over two nights.",
+        "50 volunteers over three nights.",
+        "45 volunteers over four nights."
+      ],
+      "answer": "35 volunteers over two nights."
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

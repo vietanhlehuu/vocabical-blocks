@@ -1,0 +1,60 @@
+{
+  "title": "US, Norway to Fight Rapidly Progressing World Deforestation",
+  "introduction": null,
+  "image": {
+    "id": "371ee647-d05a-4144-9fc3-78d64067a959",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1g0hLNatso1FNoPLt3m6B7.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Alex Rio Brazil / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5rGX4eV9cS91oRulAyUC7P.mpga",
+  "main_content": "The U.S. and Norway have agreed to work more closely together to fight deforestation and global warming, which is progressing so rapidly that every minute, forested land on Earth shrinks by an amount nearly as large as 50 football fields.\n\nU.S. Secretary of State John Kerry signed a joint statement on preserving the world’s forests in Oslo with Norwegian climate minister Vidar Helgesen.\n\n“Trees, as you all know, are nature’s own carbon capture-and-storage mechanism,” Kerry said Thursday in Oslo.\n\n“The way the world’s forests are managed, the way the land is used, can make an enormous difference in whether we succeed in keeping the warming below 2 degrees Centigrade,” Kerry said, referring to the goal set by successive U.N. climate conferences to keep the rise in average annual global temperatures to within 2 degrees C, when compared with pre-industrial levels.\n\nMost recently, the Paris climate change summit in December repeated that goal.\n\nThe destruction of forests and bad land-use decisions contribute to nearly one-fourth of the world’s greenhouse-gas emissions, which scientists blame for climate change, Kerry said. He thanked the Norwegian parliament for unanimously ratifying the Paris agreement Wednesday, and predicted the U.S. Senate will soon follow that course.\n\nOne need not be a scientist to draw rational conclusions about the dangers of climate change, Kerry said. He pointed to such clear signs as stronger and more frequent hurricanes and typhoons, melting glacier ice and large wildfires, such as the one burning in Alberta, Canada.\n\nKerry said the solution to climate change is what he calls clean, alternative, renewable energy sources.",
+  "questions": [
+    {
+      "question": "What have the U.S. and Norway agreed to do?",
+      "options": [
+        "Increase their oil production significantly.",
+        "Work more closely together to fight deforestation and global warming.",
+        "Establish new trade routes for timber exports.",
+        "Promote the use of fossil fuels in their energy sectors."
+      ],
+      "answer": "Work more closely together to fight deforestation and global warming."
+    },
+    {
+      "question": "What goal was set by successive U.N. climate conferences?",
+      "options": [
+        "To achieve a 100% renewable energy world by 2030.",
+        "To limit the rise in average annual global temperatures to within 2 degrees Centigrade compared with pre-industrial levels.",
+        "To eliminate all greenhouse gas emissions by 2050.",
+        "To plant a billion trees annually across the globe."
+      ],
+      "answer": "To limit the rise in average annual global temperatures to within 2 degrees Centigrade compared with pre-industrial levels."
+    },
+    {
+      "question": "What contributes to nearly one-fourth of the world’s greenhouse-gas emissions?",
+      "options": [
+        "The destruction of forests and bad land-use decisions.",
+        "The manufacturing of plastic products.",
+        "Urbanization and industrial waste.",
+        "Transportation methods like planes and trains."
+      ],
+      "answer": "The destruction of forests and bad land-use decisions."
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

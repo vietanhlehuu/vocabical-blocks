@@ -1,0 +1,60 @@
+{
+  "title": "Tech Tools to Teach You New Words",
+  "introduction": null,
+  "image": {
+    "id": "e45a23dc-0eab-11e7-b232-a3f53497e774",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2vpPcdkHbZ4GEek2O1oLlv.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Wiki Education Foundation / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3QtAMXJ33tspl0YDjfvroI.mpga",
+  "main_content": "Technology has given us new tools and ways to learn languages faster and easier. Here are a few tools that could help you.\n\nWebsites that can help you are:\n\nDictionary.com will give you the definition for any word. It also explains usage. Functions include teaching a new word daily, translating words into other languages, and games.\n\nDictionary.com has a free app for Apple or Android that provides the same features.\n\nNamed one of Time’s 50 Best Websites of 2012, Vocabulary.com can help people of all ages learn.\n\nVocabulary.com adjusts the words it teaches you based on words you already know.\n\nYou can see words in sentences to help you learn how to use them in language.\n\nThe website is free, but its apps are available for a fee.\n\nLearner’s Dictionary has simple definitions to help you understand their meaning.",
+  "questions": [
+    {
+      "question": "Which website was named one of Time’s 50 Best Websites of 2012?",
+      "options": [
+        "Dictionary.com",
+        "Vocabulary.com",
+        "Learner’s Dictionary",
+        "Google Translate"
+      ],
+      "answer": "Vocabulary.com"
+    },
+    {
+      "question": "Does Dictionary.com have an app?",
+      "options": [
+        "Yes, it has a free app.",
+        "No, it does not have an app.",
+        "Yes, but only for Android.",
+        "Yes, but it requires a subscription."
+      ],
+      "answer": "Yes, it has a free app."
+    },
+    {
+      "question": "Which website’s app isn’t free?",
+      "options": [
+        "Dictionary.com",
+        "Vocabulary.com",
+        "Learner’s Dictionary",
+        "WordReference.com"
+      ],
+      "answer": "Vocabulary.com"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

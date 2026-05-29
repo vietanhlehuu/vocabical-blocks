@@ -1,0 +1,60 @@
+{
+  "title": "Budget Indian Airline Buys 250 Airbus Jets",
+  "introduction": null,
+  "image": {
+    "id": "1c808129-48e5-4f06-87bc-e53e8dc8b112",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/0rmVjiOA1sJgqnRXUx4X8E.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "BriYYZ from Toronto, Canada / Wikimedia Commons / CC-BY-SA-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0XOyvO11jfJQl0HvNquUq3.mpga",
+  "main_content": "India’s biggest domestic airline has finalized an Airbus purchase of 250 A320neo aircraft.\n\nThe IndiGo purchase is the largest number of planes ever ordered at one time from Airbus, a European company. The sale confirms a draft deal signed in October.\n\nThe list price of the record sale is worth about $26.5 billion.\n\n“This new order further reaffirms IndiGo’s commitment to the long-term development of affordable air transportation in India and overseas,” said Aditya Ghosh, president of budget carrier IndiGo. “The additional fuel efficient A320neo aircraft will enable us to continue to bring our low fares and courteous, hassle free service to more customers and markets and will create more job opportunities and growth.”\n\nIndia has long depended on an aging and accident-prone railway system for domestic travel. However, budget airlines like IndiGo have enabled millions of Indians to fly domestically.\n\nIndiGo’s fleet will now have 530 of the A320 family aircraft with the new order.\n\n“It fills us with pride that IndiGo, India’s largest airline and one of the early launch customers for the A320neo, is coming back for more of our benchmark aircraft,” said John Leahy, Airbus Chief Operating Officer Customers.\n\nThe A320neo features many innovations, including aerodynamic improvements and trimmed weight. The “neo” is designed to consume 15 percent less fuel than the traditional A320 plane.\n\nAn Airbus press release says the A320 family is the world’s best-selling single aisle product line with over 11,800 orders to date and more than 6,600 aircraft delivered to 400 customers and operators worldwide.",
+  "questions": [
+    {
+      "question": "How much money will the planes cost?",
+      "options": [
+        "$20 billion",
+        "$25 billion",
+        "$26.5 billion",
+        "$30 billion"
+      ],
+      "answer": "$26.5 billion"
+    },
+    {
+      "question": "In what ways will the fuel efficient plane help the company?",
+      "options": [
+        "Increase the number of destinations served",
+        "Reduce maintenance costs significantly",
+        "Allow for lower fares and job creation",
+        "Enhanced in-flight entertainment options"
+      ],
+      "answer": "Allow for lower fares and job creation"
+    },
+    {
+      "question": "How do people traditionally travel in India?",
+      "options": [
+        "By modern high-speed trains",
+        "Using budget airlines like IndiGo",
+        "Through an extensive road network",
+        "On an aging and accident-prone railway system"
+      ],
+      "answer": "On an aging and accident-prone railway system"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "What’s in a Name?",
+  "introduction": null,
+  "image": {
+    "id": "c8760010-85d1-11e9-a856-63ce744af389",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5BTlGHOOwrI5lTZ1l90zhu.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 771
+    },
+    "attribution": "Roland zh / Wikimedia Commons / CC-BY-SA 3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/33v27uBCfmrKQkf60vi3L3.mpga",
+  "main_content": "The English writer William Shakespeare was right when he said, “What’s in a name? that which we call a rose, By any other name would smell as sweet…”\n\nBut when it comes to naming a baby, choosing the right name can be a really big issue.\n\nNew parents consider many things before deciding on a name. They might use names from family members. They might name their children after cultural and historic characters. Parents also might choose a name that represents something in which they believe strongly.\n\nPop culture plays a big part in some parents’ choice of names. The film “The Fault in Our Stars” gave us names like Gus and Hazel. Disney’s hit movie “Frozen” may give us more girls named Elsa. And the popularity of singers such as Bruno Mars and Taylor Swift might mean we see more children with these names.\n\nSince many English names do not have an exact meaning, people sometimes choose words that mean something they like. Words like King, Maverick, Rebel, and Hope can easily be used to make a name.",
+  "questions": [
+    {
+      "question": "Who wrote: “What’s in a name? that which we call a rose, By any other name would smell as sweet …”?",
+      "options": [
+        "Charles Dickens",
+        "William Shakespeare",
+        "Jane Austen",
+        "Mark Twain"
+      ],
+      "answer": "William Shakespeare"
+    },
+    {
+      "question": "What names did the film “The Fault in Our Stars” give us?",
+      "options": [
+        "Elsa and Anna",
+        "Gus and Hazel",
+        "Maverick and Rebel",
+        "Bruno and Taylor"
+      ],
+      "answer": "Gus and Hazel"
+    },
+    {
+      "question": "Why do people sometimes choose words that mean something they like for names?",
+      "options": [
+        "To follow current trends",
+        "Because English names often lack exact meanings",
+        "To honor family traditions",
+        "To differentiate from common names"
+      ],
+      "answer": "Because English names often lack exact meanings"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

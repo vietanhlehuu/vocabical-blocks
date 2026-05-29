@@ -1,0 +1,60 @@
+{
+  "title": "New Businesses Open in Wake of European Migrant Crisis",
+  "introduction": null,
+  "image": {
+    "id": "e45fa2a8-0eab-11e7-b558-73ece95f9e72",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/7NxkKG8k4SuDeFEvYS8y6b.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Paul Joseph / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3CU8i2nvfXdISXgoDSWaZA.mpga",
+  "main_content": "From human smugglers to bus services to the sellers of life jackets, new businesses have popped up everywhere along the routes migrants take from the Middle East and Africa to Europe. Near one port in Greece, a new Syrian restaurant caters to migrants looking for a taste of home after leaving their country, possibly forever.\n\nIn Mytilini, Greece, near the port where migrants depart for their next stop on their way to countries like Germany, there are new businesses serving the needs of the thousands of new customers arriving and leaving the island almost every day.\n\nThis Syrian restaurant opened a few months ago. The owner says it was simple economics: many of his customers prefer Arabic food.\n\n“I am from Lesbos and this business is similar to other work that I have done. But it is the first time that I have opened an Arabic restaurant, which serves solely Arab cuisine. We have other businesses, too, that are cafes, bars, nightclubs on the island,” said Damas restaurant owner Veggelis Asvestas.\n\nAmong the restaurant staff are Syrian refugees who fled the war years ago, before the flood of people crossing the sea to Europe began last year.\n\nFleeing war has always been dangerous, they say, but with hundreds of people drowned at sea, it is more deadly than ever.\n\n“I wanted to bring my family, but I told them to stay home and I will send them money and any other help I can. I would never risk bringing them here now. It is a big risk,” said Syrian chef Gamal Elsaqa.\n\nBut local diners say, in some ways, new businesses that cater to migrants are a much-needed cultural exchange on a continent where there is hostility to the incoming masses from the Middle East and Africa.",
+  "questions": [
+    {
+      "question": "What are some other services mentioned in the article which have been established especially for migrants?",
+      "options": [
+        "Transportation services and job placement agencies",
+        "Human smugglers and bus services",
+        "Local markets and educational programs",
+        "Clothing stores and construction companies"
+      ],
+      "answer": "Human smugglers and bus services"
+    },
+    {
+      "question": "What other businesses does the owner of the Syrian restaurant in Greece run?",
+      "options": [
+        "Cafes, bars, and nightclubs",
+        "Hotels and travel agencies",
+        "Supermarkets and bakeries",
+        "Souvenir shops and art galleries"
+      ],
+      "answer": "Cafes, bars, and nightclubs"
+    },
+    {
+      "question": "Does the staff include refugees as well?",
+      "options": [
+        "No, all staff members are locals from Mytilini",
+        "Yes, some staff members are Syrian refugees",
+        "Yes, all staff members are international volunteers",
+        "No, the staff is hired from various European countries"
+      ],
+      "answer": "Yes, some staff members are Syrian refugees"
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Group Works to Reduce Child Labor in Cambodia",
+  "introduction": null,
+  "image": {
+    "id": "9bfc87ca-4f21-11e9-b1c1-f73addf6a788",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2tL88Rv5DxD5h7zc78gwfX.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "David Villa / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3x4mjJOB9gQJfWgofMfdg0.mpga",
+  "main_content": "Earlier this year, a United Nations report found that 10 percent of Cambodian children between the ages of seven and 14 are working. That is one of the highest rates in Southeast Asia.\n\nOne story begins at a factory in Cambodia. The factory manufactures bricks for building projects.\n\nOutside the building, 15-year-old Pheap and her mother, are turning pieces of dirt. Pheap has worked at the factory for one year. She was taken out of school after two years to support her father, who was sick.\n\nPheap and her mother each earn $80 a month. They work eight hours a day, seven days a week. About 430,000 Cambodians under 18 years-of-age are employed. Half of them work in what the International Labor Organization calls the worst forms of child labor.\n\nWorld Vision is a non-profit group. It seeks to reduce child labor by offering assistance for both education and for household livelihoods. The group operates a four-year project called EXCEL. The project receives financial support from the U.S. Department of Labor.\n\nWorld Vision says its EXCEL program in Cambodia has already helped 20,000 children. The group’s Imelda Ochavillo says Cambodians are becoming less tolerant of child labor.",
+  "questions": [
+    {
+      "question": "How many percent of children from ages 7 to 14 are working in Cambodia?",
+      "options": [
+        "5 percent",
+        "10 percent",
+        "15 percent",
+        "20 percent"
+      ],
+      "answer": "10 percent"
+    },
+    {
+      "question": "How old is Pheap and where does she work?",
+      "options": [
+        "15 years old at a school",
+        "14 years old at a farm",
+        "15 years old at a factory",
+        "16 years old at a hospital"
+      ],
+      "answer": "15 years old at a factory"
+    },
+    {
+      "question": "What does World Vision seek?",
+      "options": [
+        "To increase child labor",
+        "To support education and household livelihoods",
+        "To close factories",
+        "To provide shelter for children"
+      ],
+      "answer": "To support education and household livelihoods"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

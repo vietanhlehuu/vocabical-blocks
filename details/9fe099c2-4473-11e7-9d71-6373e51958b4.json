@@ -1,0 +1,60 @@
+{
+  "title": "Thai Officials Worry About Child Doll Superstition",
+  "introduction": null,
+  "image": {
+    "id": "4786ff8f-691a-45a3-87f1-7e24332bdedc",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2Ay9H4fednyrqlWDXTk8Pk.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 682
+    },
+    "attribution": "Xufanc / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6vbN6aOCLv9xCslrjAfZ0A.mpga",
+  "main_content": "It’s the biggest craze in Thailand.\n\nDolls believed to possess the spirits of child angels have become popular.\n\nThe dolls, known in Thai as luk thep, are believed to bring good fortune. These dolls are purchased for hundreds of dollars and are blessed by Buddhist monks.\n\nShops are selling clothing, jewelry and beauty treatments for the dolls.\n\nNattasuda Taephant is director of psychological wellness at Chulalongkorn University. She says if the dolls help their owners feel better, then the fad is harmless.\n\nThai mental health officials have issued an appeal for people to reject such unbelievable things. But the belief is rooted in ancient Southeast Asian superstitions.\n\nTraditionally, when babies were stillborn, some spiritual leaders in Thailand and other countries took the babies away. They roasted the bodies, blessed them, and covered them in gold leaf.",
+  "questions": [
+    {
+      "question": "Who said that the dolls are harmless if they help their owners feel better?",
+      "options": [
+        "A. Nattasuda Taephant",
+        "B. Thai mental health officials",
+        "C. Buddhist monks",
+        "D. Spiritual leaders"
+      ],
+      "answer": "A. Nattasuda Taephant"
+    },
+    {
+      "question": "What is the belief rooted in?",
+      "options": [
+        "A. Modern psychological theories",
+        "B. Ancient Southeast Asian superstitions",
+        "C. Global religious practices",
+        "D. Scientific evidence of good fortune"
+      ],
+      "answer": "B. Ancient Southeast Asian superstitions"
+    },
+    {
+      "question": "What are the dolls called in Thai?",
+      "options": [
+        "A. Luk thep",
+        "B. Khwan",
+        "C. Praying dolls",
+        "D. Kuman Thong"
+      ],
+      "answer": "A. Luk thep"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

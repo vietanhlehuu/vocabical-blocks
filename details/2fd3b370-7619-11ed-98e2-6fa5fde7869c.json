@@ -1,0 +1,60 @@
+{
+  "title": "Wanted in Uganda: Restaurant Help",
+  "introduction": null,
+  "image": {
+    "id": "2fd32e46-7619-11ed-98e1-2f75d30ca0bc",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4tJ9Kuson2yW8dMBQRv7NM.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Kalungi Nathan / Wikimedia Commons / CC-BY-SA 4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0nhdkysOWyogbC9lxwi3xZ.mpga",
+  "main_content": "The middle class in Uganda is expanding. So too is the country’s tourism. The growth of restaurants is evidence that both foreigners and Ugandans are spending money.\n\nBut the owners of these businesses have often had to turn to other countries to find executive chefs. The reason: a lack of well-trained chefs and other help at Ugandan eateries. Slowly but surely, this is changing.\n\nUganda has a problem not normally found in a low-income country. It has a shortage of local chefs. The demand for well-trained cooks and other kitchen help has grown. But experienced chefs are difficult to find. Jean Byamugisha is with the Uganda Hotel Owners Association.\n\nTo meet the need, many restaurants have turned to neighboring countries for help. Enock Alumasi is from Kenya. He saw that Uganda had a lack of top chefs. So he helped launch the Impact Chef’s Academy in 2013. The academy is the only school in Uganda that offers a full training program for chefs.\n\nThe Impact Chef’s Academy has trained more than 3,000 people in the past two years. Jean Byamugisha says the need is still growing.",
+  "questions": [
+    {
+      "question": "What is happening with the middle class in Uganda?",
+      "options": [
+        "A decline in economic activities leading to a decrease in the middle class.",
+        "An expansion of the middle class alongside growth in tourism.",
+        "The middle class is becoming more affluent but less interested in domestic dining.",
+        "A stagnation of the middle class due to high unemployment rates."
+      ],
+      "answer": "An expansion of the middle class alongside growth in tourism."
+    },
+    {
+      "question": "When was the Impact Chef’s Academy launched?",
+      "options": [
+        "In 2010, alongside the rise of culinary tourism.",
+        "In 2013, to address the shortage of chefs in Uganda.",
+        "In 2015, to provide international chef training.",
+        "In 2011, aimed at enhancing the skills of local cooks."
+      ],
+      "answer": "In 2013, to address the shortage of chefs in Uganda."
+    },
+    {
+      "question": "Who helped launch the Impact Chef’s Academy?",
+      "options": [
+        "Jean Byamugisha from the Uganda Hotel Owners Association.",
+        "Enock Alumasi from Kenya, recognizing the need for chefs.",
+        "A group of Ugandan restaurant owners seeking to diversify.",
+        "An international organization focused on culinary education."
+      ],
+      "answer": "Enock Alumasi from Kenya, recognizing the need for chefs."
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

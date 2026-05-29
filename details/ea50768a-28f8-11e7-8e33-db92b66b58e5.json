@@ -1,0 +1,60 @@
+{
+  "title": "Gauguin Painting Sells for Nearly $300 Million",
+  "introduction": null,
+  "image": {
+    "id": "8b3e8bd9-1aa0-44b7-8047-43b189b9287f",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4EkW42sH3e37E0TRDbOaVz.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 679
+    },
+    "attribution": "Paul Gauguin (1848–1903) / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4trgPCyGtdFPJNedJruOHo.mpga",
+  "main_content": "A colorful Paul Gauguin painting of two Tahitian girls has been sold for a record-breaking price.\n\nMedia reports say the French artist’s 1892 oil painting “Nafea Faa Ipoipo” (“When Will You Marry?”) has sold for nearly $300 million, surpassing the $259 million Qatar paid three years ago for Paul Cezanne’s “The Card Players.”\n\nThe state-financed Qatar Museums also reportedly is the buyer of “Nafea,” which was sold by a Swiss family trust.\n\nRudolf Staechelin, a Sotheby’s retiree who lives in Basel and manages the Staechelin Family Trust, has confirmed the sale, but not the purchaser.\n\nThe trust owns a major collection of about 20 impressionist and post-Impressionist works of art. “Nafea” is part of the collection and has been on loan to the Kunstmuseum Basel for almost 50 years. The Kunstmuseum closed its doors last week while it undergoes renovations.\n\nMeanwhile, “Nafea” is scheduled to go on exhibit in several museums, including Washington’s Phillips Collection in October.\n\nStaechelin told The New York Times the painting’s buyer will take possession of it early next year.\n\nStaechelin’s grandfather assembled the art collection during and after World War I.",
+  "questions": [
+    {
+      "question": "What was the previous record price for a painting before Gauguin's \"Nafea Faa Ipoipo\" was sold?",
+      "options": [
+        "$259 million for Cezanne's \"The Card Players\"",
+        "$200 million for a Picasso painting",
+        "$300 million for Van Gogh's \"Irises\"",
+        "$250 million for a da Vinci painting"
+      ],
+      "answer": "$259 million for Cezanne's \"The Card Players\""
+    },
+    {
+      "question": "Who reportedly bought the painting \"Nafea Faa Ipoipo\"?",
+      "options": [
+        "An anonymous Swiss collector",
+        "The state-financed Qatar Museums",
+        "A private art dealer in London",
+        "A consortium of American museums"
+      ],
+      "answer": "The state-financed Qatar Museums"
+    },
+    {
+      "question": "Who was the seller of \"Nafea Faa Ipoipo\"?",
+      "options": [
+        "A public corporation",
+        "A private collector from Paris",
+        "A Swiss family trust",
+        "The Kunstmuseum Basel"
+      ],
+      "answer": "A Swiss family trust"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

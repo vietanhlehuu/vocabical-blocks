@@ -1,0 +1,40 @@
+{
+  "title": "Google Announces New Services and Products",
+  "introduction": null,
+  "image": {
+    "id": "fb1ffba8-f1d7-4dd1-95ec-6df76938bd92",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/7drgnlk6snsG2d8xGJyWOo.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Jijithecat / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1vCpq5aUn5VAXyMDCXVz8x.mpga",
+  "main_content": "Last week, Google held a conference where the company announced what it has planned for the coming months.",
+  "questions": [
+    {
+      "question": "What did Google announce at the conference?",
+      "options": [
+        "Plans for the coming months",
+        "A new physical product line",
+        "A partnership with third-party vendors",
+        "A major office relocation"
+      ],
+      "answer": "Plans for the coming months"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

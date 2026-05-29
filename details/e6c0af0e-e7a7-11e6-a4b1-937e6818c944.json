@@ -1,0 +1,60 @@
+{
+  "title": "A New Camera Records Invisible Motion",
+  "introduction": null,
+  "image": {
+    "id": "060efff5-40d9-4119-9231-500292de5b98",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/0BQo9QyuZd7oNM3ZuE4VL6.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 336
+    },
+    "attribution": "Arne List / Wikimedia Commons / CC-BY-SA 3.0",
+    "public_attribution": true,
+    "lock_version": 6,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5G3X0PgbPxwC4bTJigQNdP.mpga",
+  "main_content": "The world is in never-ending motion, even when objects seem to be perfectly still. Researchers at the Massachusetts Institute of Technology use a special camera that shows these seemingly invisible movements.\n\nMany objects around us vibrate when hit by soundwaves. But the movements are not visible to the human eye.\n\nThe movements can be recorded with a special high-speed camera called a motion microscope.\n\nMichael Rubinstein is the lead researcher of the motion microscope technology. He has made his research open to the public, so anyone can make magnified videos of their own.\n\nNeil Wadhwa is a graduate student at the Massachusetts Institute of Technology. He recorded and amplified the movements of a person’s face with a motion microscope. The recording shows the man’s blood pressure going up and down with every heartbeat.\n\nMr. Wadhwa says the motion microscope can be very useful for observing important movements, like those of a baby during pregnancy or of an infant breathing.\n\nMr. Wadhwa says recording invisible motion also could be used in other ways. He says the technology can help engineers detect vibrations of buildings, bridges, and construction materials.",
+  "questions": [
+    {
+      "question": "Who is Michael Rubinstein?",
+      "options": [
+        "A graduate student conducting research on soundwaves.",
+        "The lead researcher of the motion microscope technology.",
+        "An engineer developing building materials.",
+        "A public advocate for research funding."
+      ],
+      "answer": "The lead researcher of the motion microscope technology."
+    },
+    {
+      "question": "What did Neil Wadhwa do using the microscope?",
+      "options": [
+        "He generated soundwaves to test building vibrations.",
+        "He recorded and amplified the movements of a person's face.",
+        "He created a public demonstration of microscope technology.",
+        "He developed the motion microscope's software."
+      ],
+      "answer": "He recorded and amplified the movements of a person's face."
+    },
+    {
+      "question": "How can the microscope be used?",
+      "options": [
+        "To create entertainment videos for public display.",
+        "To measure the visual changes in a person's expression.",
+        "To observe important movements like those in pregnancy or breathing.",
+        "To track the motion of celestial bodies."
+      ],
+      "answer": "To observe important movements like those in pregnancy or breathing."
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

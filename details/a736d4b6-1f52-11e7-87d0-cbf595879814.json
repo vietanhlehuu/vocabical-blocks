@@ -1,0 +1,60 @@
+{
+  "title": "Report: Explosive Growth May Exhaust Web Space",
+  "introduction": null,
+  "image": {
+    "id": "dbf1603f-0fe0-44ce-ac3a-2c93654da6ec",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6h1cyqi4xVV5NA94GqHknU.jpeg",
+    "dimensions": {
+      "x": 400,
+      "y": 224
+    },
+    "attribution": "Benjamin.doe / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2Hj6x7ciXfuxcw8bDOoMEJ.mpga",
+  "main_content": "A new report by the cloud-services firm Akamai says the global World Wide Web is getting significantly faster, but also warns that the explosive growth in the number of connected devices may exhaust the limited remaining space currently available on the Internet.\n\nThe report concludes that Internet connectivity continues to grow in every part of the world, with total users approaching 3.2 billion. Presently there are approximately two connected devices for every person on the planet; the report predicts that number will grow to three devices per capita by 2019.\n\nThe United States still leads the world in the number of unique Internet addresses, followed by China and Brazil, two countries that are seeing rapid growth.\n\nAccording to the report, average global connection speeds rose by 10 percent over last year, rising to approximately 5 megabits per second. However, less than 5 percent of the world’s population has access to Internet speeds of 25 megabits or higher.\n\nSouth Korea topped the list of average connection speeds at 23.6 megabits with one in five residents having access to broadband speed — a new global high. Ireland, Hong Kong, Sweden and the Netherlands rounded out the top five nations.\n\nThe report says the unbridled growth is contributing to a looming problem: The Internet is running out of the addresses needed to connect devices to the web.\n\nMuch of the web uses Internet Protocol version 4, or IPv4, to govern data traffic. IPv4 has a total of 4.29 billion unique addresses for computers, tablets and other digital devices to connect and route traffic.\n\nBut with billions of addresses already used up, and the potential of the so-called “Internet of Things” to rapidly claim what addresses remain, IPv4 will run out of room in the near future, analysts say.\n\nA new version of the web, known as IPv6, has been available for more than a decade and would vastly increase the number of potential addresses for devices connecting to the web. The problem, Belson said, is that without a definitive threat looming, service providers have been lax in updating their systems.",
+  "questions": [
+    {
+      "question": "What is the danger behind the growth of the Internet?",
+      "options": [
+        "A. The increasing number of connected devices may exhaust the limited remaining space on the Internet.",
+        "B. Enhanced connection speeds could lead to more data consumption than the infrastructure can handle.",
+        "C. The rise in Internet users is outpacing the development of cybersecurity measures.",
+        "D. The shift from IPv4 to IPv6 is causing confusion among Internet service providers."
+      ],
+      "answer": "A. The increasing number of connected devices may exhaust the limited remaining space on the Internet."
+    },
+    {
+      "question": "How many Internet users are in the world?",
+      "options": [
+        "A. Approximately 2.5 billion users.",
+        "B. Close to 3.2 billion users.",
+        "C. Over 4 billion users.",
+        "D. Exactly 3 billion users."
+      ],
+      "answer": "B. Close to 3.2 billion users."
+    },
+    {
+      "question": "Which are the top three countries in the world by the number of users?",
+      "options": [
+        "A. United States, China, India.",
+        "B. United States, China, Brazil.",
+        "C. Brazil, India, Russia.",
+        "D. China, Brazil, United Kingdom."
+      ],
+      "answer": "B. United States, China, Brazil."
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

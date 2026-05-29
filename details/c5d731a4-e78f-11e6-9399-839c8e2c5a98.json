@@ -1,0 +1,60 @@
+{
+  "title": "‘A Rolling Stone Gathers No Moss’",
+  "introduction": null,
+  "image": {
+    "id": "5f90a83d-a81e-41c3-ae5b-ed8a520fc056",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2uKNX7f5prdAy0Alk7QRHi.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 357
+    },
+    "attribution": "Rowland Scherman, National Archives and Records Administration / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 2,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/35RGixeQKiL6ktRnoiR0ub.mpga",
+  "main_content": "Today we explain a very old saying that has had a big influence on rock and roll music. That saying is: “a rolling stone gathers no moss.” One meaning is that a person who never settles down in one place will not be successful. Another is that someone who is always moving, with no roots in one place, avoids responsibilities.\n\nExperts say it all started with a song by the American singer and guitarist Muddy Waters. His music influenced singers like Elvis Presley and Bob Dylan. In 1950, Muddy Waters recorded a song called “Rollin’ Stone.”\n\nA British rock group is said to have taken its name from Muddy Waters’ song. The Rolling Stones performed for the first time in 1962. The group’s members called themselves “the world’s greatest rock and roll band.”\n\nIn 1965, Bob Dylan released his song “Like a Rolling Stone.” It is one of his best-known and most influential works.\n\nIn 1967, a young man named Jann Wenner started a magazine he named “Rolling Stone.” It is still popular today.",
+  "questions": [
+    {
+      "question": "When did The Rolling Stones first perform?",
+      "options": [
+        "1950",
+        "1962",
+        "1965",
+        "1967"
+      ],
+      "answer": "1962"
+    },
+    {
+      "question": "What artists were influenced by Muddy Waters?",
+      "options": [
+        "The Beatles and Jimi Hendrix",
+        "Elvis Presley and Bob Dylan",
+        "Led Zeppelin and Pink Floyd",
+        "Queen and Nirvana"
+      ],
+      "answer": "Elvis Presley and Bob Dylan"
+    },
+    {
+      "question": "Who started the magazine “Rolling Stone”?",
+      "options": [
+        "Muddy Waters",
+        "Elvis Presley",
+        "Jann Wenner",
+        "Bob Dylan"
+      ],
+      "answer": "Jann Wenner"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

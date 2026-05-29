@@ -1,0 +1,60 @@
+{
+  "title": "Critics Slam Batman vs. Superman Movie",
+  "introduction": null,
+  "image": {
+    "id": "7bb7fd12-b98a-408d-8703-d4b04dca5234",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3lS8dCHS40KWTP1jQPNFJ6.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Julie Scott / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0Tlj3NSB7QbYuwjNqYK4tq.mpga",
+  "main_content": "“Batman vs. Superman: Dawn of Justice” is a movie a lot of people are excited about.\n\nSince the Batman movie series started in 1989, movies with Batman have sold almost $2 billion of tickets in the U.S.\n\nThe same site says since 1978, the six Superman movies have sold over $800 million in tickets.\n\nSo, putting the two characters together, should result in a big movie.\n\nBut what happens if critics do not like it?\n\nWe will find out on Thursday night, when the film comes out in the U.S.\n\nSome early showings have produced disappointing reviews.\n\nSome critics say the two-and-a-half-hour film is too long.\n\nOne critic from the magazine Us Weekly calls it “151 minutes of gloom and doom.”\n\nAnother critic, Michael Phillips from the Chicago Tribune, says, “humankind deserves a better blockbuster.”  The headline of his article is “Yawn of Justice.”\n\nBut not every reviewer hates the film.\n\nSo far it looks like lots of fans ignored the reviews and purchased tickets.",
+  "questions": [
+    {
+      "question": "Why did people think “Batman vs. Superman: Dawn of Justice” would be a big movie?",
+      "options": [
+        "Because both characters have a long history in film with significant ticket sales.",
+        "Because it is directed by a well-known filmmaker.",
+        "Because it was marketed heavily on social media.",
+        "Because it features multiple superheroes teaming up for the first time."
+      ],
+      "answer": "Because both characters have a long history in film with significant ticket sales."
+    },
+    {
+      "question": "How long is the film?",
+      "options": [
+        "120 minutes",
+        "130 minutes",
+        "151 minutes",
+        "150 minutes"
+      ],
+      "answer": "151 minutes"
+    },
+    {
+      "question": "What did Michael Phillips call his article about the film?",
+      "options": [
+        "Doomsday Reviews",
+        "Yawn of Justice",
+        "Justice Delayed",
+        "Blockbuster Blues"
+      ],
+      "answer": "Yawn of Justice"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

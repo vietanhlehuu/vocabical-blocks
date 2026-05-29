@@ -1,0 +1,60 @@
+{
+  "title": "Mobile Games Becoming Multi-Billion-Dollar Industry",
+  "introduction": null,
+  "image": {
+    "id": "daa5eae7-1d21-4644-8acf-b504fd43caba",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6ea9Pe6NMdVVIdxaVtw3lC.png",
+    "dimensions": {
+      "x": 1181,
+      "y": 730
+    },
+    "attribution": "FriscoFoodie at English Wikipedia / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4dq43mOIdDDWqDT4qe1IXI.mpga",
+  "main_content": "This week’s annual Electronic Entertainment Exhibition offers an opportunity for gamers and developers to showcase and test their products. E3, running through Thursday in Los Angeles, also offers an occasion on which to gauge the strength of the rapidly growing mobile-gaming market.\n\nHere’s a good measure: Revenue for the mobile-gaming niche is expected to reach $11.4 billion in 2014, up from $5.6 billion in 2009, according to Statista Inc., a statistics company based in New York, N.Y.\n\nFirms that develop games for mobile devices can make huge profits, said Marcos Sanchez, a vice president and spokesman for App Annie, a business intelligence firm with offices in San Francisco and Beijing.\n\n“One company alone is actually pulling in over a billion in revenues,” said Sanchez, who did not identify that firm. “So gaming, from the mobile-app perspective, is a pretty serious thing and there’s some pretty serious revenues associated with it.”\n\nMobile technology is just the latest part of the computer gaming industry’s relatively rapid evolution.\n\nEarly computers were too slow to process the enormous quantity of data needed for realistic pictures, sound and special effects. As the processors became faster and cheaper, manufacturers saw the potential for a large market and developed dedicated game consoles.\n\nNow, fast smartphones and other mobile devices are chipping away at the market share of other gaming platforms, and upstart companies are challenging more prominent, established firms.\n\n“The video games are not just about the console anymore,” said Yoshio Osaki, senior vice president of the International Development Group, a research firm in San Francisco. “And you see a lot of cross-pollination and hybridization.”\n\nMajor corporations such as Sony, Microsoft and Nintendo have newer challengers, he said, citing Wargaming.net and its “League of Legends” play and mobile companies such as King Digital Entertainment with its “Candy Crush Saga” and Supercell with its “Clash of Clans” strategy game.\n\nMany of the gaming companies rely on their devoted gamers for fresh ideas.\n\nMichael Sayman’s commitment to gaming led to his recently becoming Facebook’s youngest employee. The 17-year-old Peruvian “will be working on a system called Parse, which is part of Facebook and works with many [connecting] applications,” he told Voice of America’s Spanish service.\n\nParse software is designed to help others develop even more apps for mobile devices.",
+  "questions": [
+    {
+      "question": "What is the projected revenue for the mobile-gaming industry in 2014?",
+      "options": [
+        "$11.4 billion",
+        "$5.6 billion",
+        "$1 billion",
+        "$10 billion"
+      ],
+      "answer": "$11.4 billion"
+    },
+    {
+      "question": "How is the mobile-gaming market affecting traditional gaming platforms?",
+      "options": [
+        "It is replacing all gaming companies entirely",
+        "It is helping make consoles cheaper",
+        "It is chipping away at the market share of other gaming platforms",
+        "It is reducing the quality of game graphics"
+      ],
+      "answer": "It is chipping away at the market share of other gaming platforms"
+    },
+    {
+      "question": "Which companies were cited by Yoshio Osaki as newer challengers in the gaming industry?",
+      "options": [
+        "Wargaming.net, King Digital Entertainment, and Supercell",
+        "Sony, Microsoft, and Nintendo",
+        "Facebook, Parse, and Statista",
+        "App Annie, Voice of America, and E3"
+      ],
+      "answer": "Wargaming.net, King Digital Entertainment, and Supercell"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

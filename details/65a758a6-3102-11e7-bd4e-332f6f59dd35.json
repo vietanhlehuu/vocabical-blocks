@@ -1,0 +1,60 @@
+{
+  "title": "Oakland Artist Creates Small Homes for Homeless",
+  "introduction": null,
+  "image": {
+    "id": "8f454e45-9774-44a7-ba09-98be36841d93",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4MLZgVerU7UNUG8TTH7BSd.jpeg",
+    "dimensions": {
+      "x": 856,
+      "y": 436
+    },
+    "attribution": "VOA news.",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0MTSY8eKzQ2R8Zxl4cuPEk.mpga",
+  "main_content": "An artist in Oakland, California, is using his skills to help the homeless by building small enclosures that serve as portable homes and offer safety and protection from the elements.\n\nAn industrial section of West Oakland, beneath freeway overpasses, is dotted with tiny houses designed and built by a local artist. Some are little more than one meter wide and several meters long, but come complete with doors and windows. Greg Kloehn has built and given away at least 20 of the structures.\n\nSeveral are on the roadside near where freight trains pass. The artist stops by to visit and a formerly homeless man named Oscar Young embraces him outside Young’s small residence.\n\n“I like to help them,” Kloehn said. “Sure. I mean, it is fun for me. I like to make things, and to do something that makes a big impact on someone’s life is good.”\n\nInside the enclosure, Young gets relief from chilly nights on the street.\n\n“Well, it is better than living on the ground, to tell you the truth, because if it was not for Greg, I would be still on the ground,” he said.\n\nThe artist visits a another friend called Sweet-pea, who lives in one of the houses. In it she keeps herself safe and protects her belongings.\n\nMornings, Kloehn scours the streets for construction materials, which are dumped illegally at night. He brings them to his studio, where he puts the homes together.\n\n“I mean, I have been in the middle of the building process, run out of materials, gotten in my truck drove around to look for something,” he said. “That is my shopping.”\n\nA discarded cabinet door makes a window cover. Shipping pallets become the walls of the structure. He has installed a small electrical unit powered by a solar cell, mounted on the roof.\n\n“I put it on a light, an old lamp, so you could move it around,” he said. “You could keep it optimum to the sun.”\n\nEmpty coffee bags become shingles and a washing machine door and refrigerator shelf become windows. Nails, screws and glue hold it all together.\n\n“I call them the fruits of the urban jungle,” he said. “Here is what is dropping. Here are these natural resources that we can use.”\n\nSome on the streets once had houses of their own, but Sheila Williams has learned to live with less. She settles into a cushioned easy chair, sitting in the open outside her small home.\n\n“I had it all just like you people do out there. But look at me now,” she said. “I have been living in one of Greg’s houses, and I am thankful to that man.”\n\nThe residents have collected discarded wood and other material for Kloehn’s newest shelters. Williams hands him a framed picture of flowers that looks nearly new, another discard found on the side of the road.\n\n“When I finish the homes off, sometimes they come with artwork, everything installed,” Kloehn said.\n\nThe artist says this is not a social project, just someone using his skills to help his homeless neighbors.",
+  "questions": [
+    {
+      "question": "How many houses has the artist built and given away?",
+      "options": [
+        "At least 15 houses",
+        "At least 20 houses",
+        "More than 30 houses",
+        "Only 10 houses"
+      ],
+      "answer": "At least 20 houses"
+    },
+    {
+      "question": "Why does the artist build houses for the homeless?",
+      "options": [
+        "To create a social project",
+        "To showcase his artistry",
+        "To provide safety and protection",
+        "For personal profit"
+      ],
+      "answer": "To provide safety and protection"
+    },
+    {
+      "question": "Where does Kloehn get his materials from?",
+      "options": [
+        "From hardware stores",
+        "From donations by local artists",
+        "From illegal dumps on the streets",
+        "From construction companies"
+      ],
+      "answer": "From illegal dumps on the streets"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

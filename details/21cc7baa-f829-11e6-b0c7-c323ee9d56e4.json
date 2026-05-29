@@ -1,0 +1,60 @@
+{
+  "title": "Dieting Success May Depend on Your Genetics",
+  "introduction": null,
+  "image": {
+    "id": "de1bafbb-b5a2-435e-b8c8-61db61c86641",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6l6wrFkmZobsBWJ6CexD3h.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 786
+    },
+    "attribution": "Peggy Greb / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6WSRG0cundKDuUOi6QHMQb.mpga",
+  "main_content": "It seems like every week there’s a new diet that guarantees weight loss and good health. The Mediterranean diet, or the low carb diet, the Japanese diet are just a few of the latest fads. Now, a new study has found that your genes can play a big role in determining which diet works for you.\n\nResearchers, using specially bred mice, tested different fad diets to see which ones worked, which ones didn’t, and whether a particular diet resulted in poor health.\n\nInvestigators discovered some diets resulted in weight loss for some of the mice but did nothing, or worsened the health, of other rodents.\n\n“We’ve largely viewed diets the same way for the last hundred years, assuming that there’s one optimal diet. And what we’re finding is that the impact of a diet is depending on the genetics of an individual eating the diet,” said geneticist William Barrington of North Carolina State University who helped conduct the research.\n\n“And so when your friend tells you, “I’ve tried this great diet. It’s been great for me. You have to try this,” it may have a different effect for you.”\n\n“There were certain mice that we tested that whatever they ate, it really didn’t change their health status… They were slightly obese no matter what diet they were on,” said Barrington. “So, in some cases it seems that the impact of a diet isn’t very strong in some individuals.”",
+  "questions": [
+    {
+      "question": "How did researchers study dietary fads?",
+      "options": [
+        "They surveyed individuals about their dietary preferences.",
+        "They used specially bred mice to test different diets.",
+        "They analyzed existing studies on human diets.",
+        "They compared the weight loss results of different age groups."
+      ],
+      "answer": "They used specially bred mice to test different diets."
+    },
+    {
+      "question": "What does the impact of a diet depend on?",
+      "options": [
+        "The popularity of the diet in the media.",
+        "The availability of the ingredients in a local area.",
+        "The genetics of the individual following the diet.",
+        "The duration of time spent on the diet."
+      ],
+      "answer": "The genetics of the individual following the diet."
+    },
+    {
+      "question": "What could happen if you try a diet that has worked for someone else?",
+      "options": [
+        "You are guaranteed to achieve the same results.",
+        "It may lead to different effects based on your genetics.",
+        "You will experience rapid weight loss regardless.",
+        "You might find the diet easier than they did."
+      ],
+      "answer": "It may lead to different effects based on your genetics."
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

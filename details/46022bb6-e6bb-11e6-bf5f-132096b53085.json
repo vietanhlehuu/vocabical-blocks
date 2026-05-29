@@ -1,0 +1,60 @@
+{
+  "title": "Apple 1: Old Technology, New Record",
+  "introduction": null,
+  "image": {
+    "id": "e45d845a-0eab-11e7-b419-978b97453ccd",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5dok0RVPWx00Vmqglzrc48.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 268
+    },
+    "attribution": "Macieklew / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0xuVAZVZ20tKFgcrRNVySU.mpga",
+  "main_content": "In the 1970s, a young man named Steve Wozniak made something no one had ever built before. He created a computer “motherboard” that did not need to be put together by the person who bought it. Earlier computers required buyers to assemble the motherboard – the main circuit board, or system board, found in computers. The computer Mr.Wozniak built became known as the Apple-1.\n\nThe age of the personal computer had begun.\n\n“The Apple-1 changed the world and defined the world as we live today.”\n\nThat is Christian Overland. He is vice-president of The Henry Ford Museum in Dearborn, Michigan. Last month, museum officials purchased an Apple-1 computer at a public auction in New York. They paid $905,000 for the device, which is one of the first 50 built. And it is still working.\n\nThe auction house that sold the computer believed it would sell for one-third to one-half of what the museum paid for it. In May of last year, an Apple-1 sold for $671,000 in Germany.\n\nIn 1976, Steve Wozniak and his high school friend Steve Jobs offered to sell 50 Apple-1 computers to a California store for $500 each. The store sold each one for about $667. The two young men built the 50 computers in 30 days at Mr. Jobs’ boyhood home. When people connected the motherboard to a monitor and a keyboard, they had the first personal computer.\n\nChristian Overland says he told Steve Wozniak about the museum’s purchase. He says Mr. Wozniak answered: “That’s pretty cool!”\n\nThe Henry Ford Museum says only 64 of the 200 Apple-1 computers built are known to exist.\n\nOfficials are now working to bring the computer to the museum so visitors can see history.",
+  "questions": [
+    {
+      "question": "What were the buyers of earlier computers required to do?",
+      "options": [
+        "Assemble the motherboard themselves",
+        "Connect the computer to a power source",
+        "Write software for the hardware",
+        "Design the computer case"
+      ],
+      "answer": "Assemble the motherboard themselves"
+    },
+    {
+      "question": "Who is the vice-president of The Henry Ford Museum?",
+      "options": [
+        "Steve Jobs",
+        "Steve Wozniak",
+        "Christian Overland",
+        "John Doe"
+      ],
+      "answer": "Christian Overland"
+    },
+    {
+      "question": "How did Steve Wozniak react to the museum’s purchase of an Apple-1 computer?",
+      "options": [
+        "He expressed surprise at the high price",
+        "He was indifferent to the news",
+        "He found it exciting and cool",
+        "He was disappointed it was sold"
+      ],
+      "answer": "He found it exciting and cool"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

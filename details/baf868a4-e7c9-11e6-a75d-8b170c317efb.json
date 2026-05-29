@@ -1,0 +1,60 @@
+{
+  "title": "Mob Museum Tells About the Mafia in America",
+  "introduction": null,
+  "image": {
+    "id": "c90cda8d-c13c-4bba-a1a9-31cfe837046e",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/67NKZnSqcKoVF27MMLiOac.jpeg",
+    "dimensions": {
+      "x": 4000,
+      "y": 3000
+    },
+    "attribution": "Kremerbi / Wikimedia Commons / CC-BY-SA 3.0",
+    "public_attribution": true,
+    "lock_version": 3,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1IA0YqNq9H0d4KfezlMmGS.mpga",
+  "main_content": "The American city of Las Vegas, Nevada, is known around the world. Las Vegas is famous for excitement, entertainment and casinos –  businesses where lots of money can be won or lost.\n\nIn early 2012, a museum opened in a rarely visited part of the city. The museum tells about organized crime and one of the most famous crime groups in the world:  the American Mafia, also known as “the Mob.”\n\nThe Mob Museum shows how the Mafia grew out of American cities more than a century ago. Many immigrants who settled in the cities were hard-working, and wanted to succeed. But instead of traditional roads to success, some chose a life of crime. The museum tells the stories of the families of mobsters and how they lived.\n\nThe Mob Museum also tells the story of law enforcement efforts to crush the Mafia in Las Vegas and in the United States.\n\nOrganized crime is still a problem. U.S. federal agents continue to arrest people they accuse of having ties to the Mafia. These individuals are sometimes charged with murder, drug trafficking and illegal gambling.\n\nPublic money helps support the Mob Museum. Critics have said the museum wastes the money. But the museum’s founder says it helps the local economy by bringing more people to a part of Las Vegas that few visit.",
+  "questions": [
+    {
+      "question": "When was the museum opened?",
+      "options": [
+        "Early 2010",
+        "Late 2011",
+        "Early 2012",
+        "Mid 2013"
+      ],
+      "answer": "Early 2012"
+    },
+    {
+      "question": "How is the American Mafia also called?",
+      "options": [
+        "The Syndicate",
+        "The Mob",
+        "The Cartel",
+        "The Crew"
+      ],
+      "answer": "The Mob"
+    },
+    {
+      "question": "What helps support the Mob Museum?",
+      "options": [
+        "Private donations",
+        "Public money",
+        "Ticket sales",
+        "Corporate sponsorships"
+      ],
+      "answer": "Public money"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Bladeless Wind Generator Safe for Birds",
+  "introduction": null,
+  "image": {
+    "id": "dbdbb413-7c7a-4f58-9c08-0fd8b7539140",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6griuQ0dQ0sq2AJMqiTIyO.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Aeolus88 / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 2,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1FsoyysazlN8u7sVWQzq1x.mpga",
+  "main_content": "Wind turbines are tall structures with large blades used to produce electricity. But they can be deadly to birds and bats. The turbines’ large blades turn quickly in the sky. Birds and bats sometimes fly into them and are killed.\n\nBut a new type of wind generator may offer an answer to that problem.\n\nIn 2002, Spanish inventor David Yanez saw a short film about the Tacoma Narrows Bridge in the U.S.  Strong winds caused the bridge to collapse in 1940. That incident was an example of the powerful vibrations wind can create. It gave Mr. Yanez the idea for a new type of wind-energy generator.\n\nMr. Yanez and his friend Raoul Martin took the idea to an engineering business. But they were told their idea would never work. So, Mr. Yanez and Mr. Martin built a small wind tunnel to experiment on their own.\n\nThey built a large working model of the generator in a field near their workspace. They called the equipment Vortex.\n\nThe Vortex generator creates about 30 percent less energy than a wind turbine with blades. But it is lighter and less costly to build and maintain. It is made mostly of plastic and has very few moving parts.\n\nMr. Yanez expects the Vortex bladeless generator to be ready for general sale by 2017.",
+  "questions": [
+    {
+      "question": "What animals are killed by the blades of the wind turbines?",
+      "options": [
+        "Deer and squirrels",
+        "Fish and amphibians",
+        "Birds and bats",
+        "Rabbits and foxes"
+      ],
+      "answer": "Birds and bats"
+    },
+    {
+      "question": "Who is David Yanez?",
+      "options": [
+        "A government official",
+        "An inventor of a new wind generator",
+        "A wildlife conservationist",
+        "An engineer at a wind energy company"
+      ],
+      "answer": "An inventor of a new wind generator"
+    },
+    {
+      "question": "Does the Vortex generator create less energy than a wind turbine with blades?",
+      "options": [
+        "Yes, about 30 percent less",
+        "No, it creates more energy",
+        "It creates the same amount of energy",
+        "It creates slightly more energy"
+      ],
+      "answer": "Yes, about 30 percent less"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

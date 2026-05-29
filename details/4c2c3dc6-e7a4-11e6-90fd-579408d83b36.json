@@ -1,0 +1,60 @@
+{
+  "title": "China Looks to Curb Tourism Kickbacks",
+  "introduction": null,
+  "image": {
+    "id": "e45ceff4-0eab-11e7-b3c5-c7857d329002",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5G4A4C8PX47YNlICMQfIbd.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 330
+    },
+    "attribution": "Xiehechaotian / Wikimedia Commons / FAL",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3282apbh335zP6Y4rPDwec.mpga",
+  "main_content": "China is looking to stop cheap vacation tours that force tourists into expensive shops.\n\nThe tourists buy the tours at low cost, but then they are expected to make expensive purchases at stores while on the trip. The shops then give money back to the travel company that sold the low-cost trip.\n\nSometimes, such arrangements lead to conflict between tour guides and tourists.\n\nChina’s National Tourism Administration said Sunday it is looking at new fines for tourists that sign up for the discounted trips.\n\nBefore, Chinese officials placed fines on travel companies that offered such trips.\n\nThe Chinese tourism officials say they hope that fining tourists will stop this kind of discounted travel.\n\nThe new approach follows the death last week of a 54-year-old Chinese mainland tourist in Hong Kong. Chinese officials said he was beaten up outside a jewelry store last week. He reportedly died of a heart attack.\n\nThe tourist reportedly was trying to calm a fight that resulted when two of his fellow tourists refused to make purchases, angering the tour guides.\n\nIn many other countries, including the United States, tour buses commonly stop at “tourist traps.” These shops focus on selling goods to vacationers not from the area. The goods are often over-priced and lower quality.",
+  "questions": [
+    {
+      "question": "What does China want to stop?",
+      "options": [
+        "The promotion of luxury goods to tourists",
+        "Cheap vacation tours that require costly purchases",
+        "Tourist programs that offer free meals",
+        "The rise of online travel agencies"
+      ],
+      "answer": "Cheap vacation tours that require costly purchases"
+    },
+    {
+      "question": "What did Chinese officials place on travel companies that offered discounted trips but made tourists shop in expensive gift stores?",
+      "options": [
+        "Awards for the best companies",
+        "Fines targeting the companies directly",
+        "Restrictions on travel destinations",
+        "Incentives for lower prices"
+      ],
+      "answer": "Fines targeting the companies directly"
+    },
+    {
+      "question": "What are “tourist traps”?",
+      "options": [
+        "Places offering cultural experiences to locals",
+        "Locations with overpriced goods aimed at visitors",
+        "Scenic spots popular among natives",
+        "Restaurants serving authentic local cuisine"
+      ],
+      "answer": "Locations with overpriced goods aimed at visitors"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

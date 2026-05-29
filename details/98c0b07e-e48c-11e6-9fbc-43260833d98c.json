@@ -1,0 +1,60 @@
+{
+  "title": "Mobile Health Apps to Become First Line of Defense",
+  "introduction": null,
+  "image": {
+    "id": "e45d9c10-0eab-11e7-b428-03ae175c511b",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5i8MtIqc1XfbjcQB9I5Xv7.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 651
+    },
+    "attribution": "Kārlis Dambrāns / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4mbVXZMJMdVtBKxf1mzXUL.mpga",
+  "main_content": "The first line of defense against deadly diseases and even water shortages might just be your mobile telephone. A new software application combines health worker registries with information about patients and open messaging systems. The app, called mHero, helps to make sure of a fast response to health care crises and natural disasters.\n\nmHero stands for Mobile Health Worker Electronic Response and Outreach. It uses a revolutionary new messaging platform called RapidPro. The system uses ‘trigger’ words to contact specialized workers if a disease like Ebola is discovered. It also helps users to follow the progress of the people they reached and create real-time data based on their responses.\n\nThe new app was created in Uganda. A month ago, the country has a number of cases of Marburg, a viral hemorrhagic fever similar to Ebola.\n\nSean Blaschke is a health systems specialist at UNICEF, the United Nations Children’s Fund. He explains how Uganda has excelled in providing quick containment.\n\n“You can see with the case of Marburg here how quickly the country mobilized, and suspected cases were followed up in hours and it didn’t move beyond a single index patient. So I think Uganda really does show and provide a model for the rest of the world on how you can build a national sustainable health systems architecture… We are very excited because these tools that are now being scaled up in West Africa, originated in Uganda, were built by Ugandans… These solutions came from Africa and are being used in Africa.”\n\nThe Ugandan Ministry of Health says that in the next three months, mHero systems will be deployed around the country. mHero has wide application since it can present language and reading ability differences by using picture-based references.\n\nTo access these databases, registered healthcare workers, NGOs and medical clinics must first contact the Ministry of Health. Approval to use the records comes shortly after. There are also measures in place to ensure patient medical records are kept confidential. Officials are hoping that mHero, and apps like it, bring a new level of crisis management throughout the African continent.",
+  "questions": [
+    {
+      "question": "What is mHero?",
+      "options": [
+        "A hardware tool for health care",
+        "A mobile application for health crisis response",
+        "A global health initiative by UNICEF",
+        "A new type of hospital treatment system"
+      ],
+      "answer": "A mobile application for health crisis response"
+    },
+    {
+      "question": "Who is Sean Blaschke?",
+      "options": [
+        "A government official in Uganda",
+        "A health systems specialist at UNICEF",
+        "The creator of the mHero app",
+        "A journalist reporting on health issues"
+      ],
+      "answer": "A health systems specialist at UNICEF"
+    },
+    {
+      "question": "Where was the new app was created?",
+      "options": [
+        "In the United States",
+        "In Uganda",
+        "In West Africa",
+        "In Europe"
+      ],
+      "answer": "In Uganda"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Obama Begins Historic Visit to Cuba",
+  "introduction": null,
+  "image": {
+    "id": "f2ac28c4-a52c-494b-9c32-46c2021d0e0e",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/7NuoqZVZHdPnKgHgC4hClK.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "U.S. Department of State from United States / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5931jSwFLsJguRG1HAFFzR.mpga",
+  "main_content": "U.S. President Barack Obama arrived in Cuba Sunday on a historic trip, with the two nations moving to normalize their relations 55 years after they broke off ties.\n\nObama, the first sitting U.S. president to travel to Cuba in almost 90 years, will cap his visit with a direct address to the Cuban people outlining his vision for the future U.S.-Cuba relationship.\n\nThe White House said the visit represents a new beginning in the relationship between the former Cold War enemies, expanding on the formal restoration of their diplomatic ties eight months ago.\n\n“Diplomacy, including having the courage to turn a page on the failed policies of the past, is how we’ve begun a new chapter of engagement with the people of Cuba,” the president said during an appearance at the U.S. State Department several days before his departure.\n\nObama’s speech to the Cuban people, the highlight of his trip, will be an opportunity to look back on the two countries’ complicated history, Ben Rhodes, deputy national security advisor, told reporters in an advance briefing.\n\nThe president’s address on Tuesday morning will “lay out his vision for how the United States and Cubans can work together, to show the Cuban people can pursue a better life,” Rhodes said.\n\nObama also plans to meet with members of Cuban civil society, including human rights activists, despite objections from the government in Havana.\n\nThe White House said the list of people invited to meet with the president during his visit was “non-negotiable.”\n\nThe White House has just announced it is easing restrictions on travel and trade with Cuba.\n\nThe regulatory changes allow for “people-to-people” visits to Cuba, eliminate a ban on Cuban financial transactions going through U.S. banks and allow Cuban citizens to earn salaries in the United States.\n\nFirst lady Michelle Obama will meet with female Cuban students during her time in Havana and the entire first family will attend a baseball game before they leave late Tuesday for a three-day visit to Argentina.",
+  "questions": [
+    {
+      "question": "Why is Barack Obama visiting Cuba?",
+      "options": [
+        "To negotiate a trade deal primarily benefiting the U.S.",
+        "To commemorate the end of the Cold War in Cuba.",
+        "To normalize relations between the U.S. and Cuba after decades of hostility.",
+        "To establish a military base in Cuba."
+      ],
+      "answer": "To normalize relations between the U.S. and Cuba after decades of hostility."
+    },
+    {
+      "question": "How long had it been since a sitting U.S. president had traveled to Cuba?",
+      "options": [
+        "Almost 90 years",
+        "About 10 years",
+        "Exactly 55 years",
+        "More than 100 years"
+      ],
+      "answer": "Almost 90 years"
+    },
+    {
+      "question": "Who does Barack Obama plan to meet with while in Cuba?",
+      "options": [
+        "Business leaders focused on trade.",
+        "Members of the Cuban parliament.",
+        "Cuban civil society members, including human rights activists.",
+        "Cuba's national sports teams."
+      ],
+      "answer": "Cuban civil society members, including human rights activists."
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

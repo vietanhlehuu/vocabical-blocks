@@ -1,0 +1,60 @@
+{
+  "title": "Italy Recovers Black Box From Burned Car Ferry",
+  "introduction": null,
+  "image": {
+    "id": "2ea950a6-737d-4b9a-93c4-cc565553091f",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1Q31V8tK3f2rkNvryOw9nj.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 340
+    },
+    "attribution": "Alessandro Silva/Força Aérea Brasileira / Wikimedia Commons / CC-BY-3.0-br",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5l6J4QTwH0v2rjuvVFuNDx.mpga",
+  "main_content": "Italian investigators have recovered the black box from the Norman Atlantic ferry, moored in the port of Brindisi after a fatal fire at sea that killed at least 11 people.\n\nThe badly burned wreck of the car ferry that caught fire Sunday off the coast of Greece was towed to Italy for inspection. The 17-hour operation started in the Bay of Valona in Albania, where the ferry was anchored after the last survivors were rescued.\n\nAuthorities are preparing to search the ferry for more bodies and clues into what might have caused the onboard fire.\n\nIn addition to the Italian captain and the head of the company that built the ferry, two Italian crew members and two representatives of the Greek ferry line Anek, which rented the Norman Atlantic, are also being investigated.\n\nThe captain of the ferry, Argilio Giacomazzi, made his first comments to reporters Thursday, saying “we did our best, with the help of God. We did our best.”\n\nItaly has said that more than 470 people were rescued, most of them by helicopters that picked up survivors from the top deck and carried them to nearby boats.\n\nProsecutors fear unregistered migrants were smuggled in cars and trucks on board of the ship and might have perished in the flames and smoke.",
+  "questions": [
+    {
+      "question": "Where is the wreck of the ferry being towed?",
+      "options": [
+        "To Greece for investigation",
+        "To Italy for inspection",
+        "To Albania for repairs",
+        "To Brindisi for salvage"
+      ],
+      "answer": "To Italy for inspection"
+    },
+    {
+      "question": "What will authorities be searching the ferry for?",
+      "options": [
+        "Survivors who might still be aboard",
+        "More bodies and clues into the cause of the fire",
+        "Evidence of smuggling activity",
+        "Valuable cargo lost during the fire"
+      ],
+      "answer": "More bodies and clues into the cause of the fire"
+    },
+    {
+      "question": "How many people were rescued?",
+      "options": [
+        "More than 300 individuals",
+        "Approximately 450 people",
+        "More than 470 people",
+        "Fewer than 400 survivors"
+      ],
+      "answer": "More than 470 people"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

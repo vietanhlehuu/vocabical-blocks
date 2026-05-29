@@ -1,0 +1,60 @@
+{
+  "title": "Tampa’s Last Cigar Factory Ponders More Competition From Cuba",
+  "introduction": null,
+  "image": {
+    "id": "9f90b4b8-a9b2-4a43-b597-9d2eade3d9a5",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4r5uT57pa8Ghd2XuDei4ZR.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 340
+    },
+    "attribution": "AlejandroLinaresGarcia / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/434oOQloYSAy5msC0E6tCs.mpga",
+  "main_content": "Rising hopes that the half-century U.S. trade embargo on Cuba might be coming to an end are raising concerns for U.S. cigar makers who may face stiffer competition from Cuban cigar imports.\n\nBut the people who run the last major cigar factory in Tampa, Florida, say they have been making fine cigars for a very long time and expect to keep working far into the future.\n\nThe J.C. Newman cigar factory in the historic Ybor City neighborhood of Tampa is a ballet of complex old machines and deft hands, as 130 people make 60,000 cigars a day.\n\nIf the economic embargo ends, some Cuban cigar makers say they expect to take a quarter of the U.S. premium cigar market soon, and most of it in a period of years.\n\nIf that prediction comes true, it might be a problem for the J.C. Newman factory.\n\nHowever, company Vice President Shanda Lee said the company will continue to be successful, with a blend of old technology and innovations in farming and manufacturing.\n\n“J.C. Newman Cigar company already sells in 83 countries, so we’ve been competing against Cuban cigars outside of North America for quite some time now,” Lee said.\n\nShe said advances in manufacturing, agriculture and tobacco aging mean Newman cigars are as good as many of the cigars being exported from Cuba now.\n\nDavid Savona, executive editor of Cigar Aficionado magazine, said the Cuban products are very good, but that blind taste tests show some cigars from other nations can be as good as the highly regarded Cubans.\n\nTampa’s historic Ybor City once was the cigar capital of the world.\n\nSavona said in 1929 the neighborhood’s factories turned out an astounding 500 million cigars. Historian and blogger Tom Ufer said it started in the late 1800s when industrialist Vicente Martinez-Ybor moved his operation here from Key West, Florida, in search of land and labor.\n\nPreviously, the Spanish-born entrepreneur operated in Cuba.\n\nEventually, many other cigar makers built factories here. Most are gone, though Ybor’s building survives.",
+  "questions": [
+    {
+      "question": "Why are U.S. cigar makers concerned?",
+      "options": [
+        "A potential influx of Cuban cigar imports could increase competition",
+        "The U.S. government is planning to ban cigars altogether",
+        "They are worried about declining quality of domestic cigars",
+        "Cuban cigars have historically been less popular among consumers"
+      ],
+      "answer": "A potential influx of Cuban cigar imports could increase competition"
+    },
+    {
+      "question": "How many cigars can the factory in Tampa make every day?",
+      "options": [
+        "30,000 cigars",
+        "45,000 cigars",
+        "60,000 cigars",
+        "80,000 cigars"
+      ],
+      "answer": "60,000 cigars"
+    },
+    {
+      "question": "Why is the leadership of the J.C. Newman factory confident about the future of their business?",
+      "options": [
+        "They believe Cuban cigars will soon lose their appeal",
+        "Their cigars are made using superior technology and techniques",
+        "They have a strong backing from the U.S. government",
+        "Their factory is the only one left in the United States"
+      ],
+      "answer": "Their cigars are made using superior technology and techniques"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "‘Batman Day’ Marks Caped Crusader’s 75th Anniversary",
+  "introduction": null,
+  "image": {
+    "id": "6b05fb18-ec34-11ea-b0f5-7b5b6636bf80",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1J3s4GLJt6BbXli21Ife14.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Robertoqwerty / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1kqfcCdk4Bxe4QAyA9Ujc9.mpga",
+  "main_content": "In Gotham City and everywhere else Batman is known and loved, fans are celebrating “Batman Day,” honoring the Caped Crusader’s comic-book debut 75 years ago.\n\nThe publisher of Batman comics, DC Entertainment, is handing out thousands of free copies of “Detective Comics #27,” where Batman first appeared in 1939.\n\nAlthough the fictional superhero was “born” in American comics, Batman has moved on through the years, appearing in many parts of the world on television, animated films and in the movies.\n\nBatman is a fictional superhero who appears in American comic books published by DC Comics, as well as in a multitude of movies, television shows, and video games. He was created by Bob Kane and Bill Finger in 1939 to capitalize on the superhero craze that began with Superman. Batman is one of DC Comics’ most recognizable and profitable characters.\n\nBatman is a wealthy vigilante, a freelance crime-fighter who operates in fictional Gotham City (a town much like New York). He wears a bat-like costume and is a brilliant detective and expert practitioner of martial arts. Bruce Wayne – Batman’s “real” identity when he is not in costume – says he pursues criminals to avenge his parents, who were murdered by thugs when he was a child.\n\nTo mark Wednesday’s anniversary, DC Entertainment also is selling Batman “collectibles,” ranging from a special-edition bat-cape to four Batman masks spotlighting the Dark Knight’s iconic looks as artists interpreted them over the past 75 years.\n\nIf you are a fan who cannot make it to a U.S. retailer to pick up a free copy of Detective Comics #27, fear not. It is available for download at www.readDCentertainment.com.\n\n“Batman Day” coincides with the start of this year’s Comic-Con, the California festival that celebrates comic books and other popular arts. Like Batman responding to a bat-signal, pop-culture fans are streaming to San Diego for this year’s meeting.",
+  "questions": [
+    {
+      "question": "How many years ago did Batman make his comic-book debut?",
+      "options": [
+        "60 years ago",
+        "70 years ago",
+        "75 years ago",
+        "80 years ago"
+      ],
+      "answer": "75 years ago"
+    },
+    {
+      "question": "Who created Batman?",
+      "options": [
+        "Stan Lee and Steve Ditko",
+        "Bob Kane and Bill Finger",
+        "Jack Kirby and Joe Simon",
+        "Jim Lee and Frank Miller"
+      ],
+      "answer": "Bob Kane and Bill Finger"
+    },
+    {
+      "question": "Where does Batman operate as a freelance crime-fighter?",
+      "options": [
+        "Metropolis",
+        "Gotham City",
+        "Star City",
+        "Central City"
+      ],
+      "answer": "Gotham City"
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

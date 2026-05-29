@@ -1,0 +1,60 @@
+{
+  "title": "US Ranks 4th in ‘Best Country’ Poll",
+  "introduction": null,
+  "image": {
+    "id": "b520a958-5b4b-4337-b399-616fb0a42719",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5VmXKHMii8C68gUKmUacun.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Tysto / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6HlBP7yBxjCuHtvaLRX0rh.mpga",
+  "main_content": "In the inaugural “Best Countries” ranking, the United States places fourth.\n\nThe rankings, which were compiled by U.S. News & World Report, the University of Pennsylvania’s Wharton School and global brand consultants BAV Consulting, were released at the World Economic Forum in Davos, Switzerland.\n\nThe best country, according to the list, is Germany, followed by Canada and Britain.\n\n“Just as we have done with universities, hospitals and other institutions, our Best Countries portal will be a global homepage for stories and data to help citizens, business leaders and governments evaluate performance in a rapidly changing world,” Mortimer Zuckerman, chairman and editor-in-chief of U.S. News, said in a statement.\n\nThe rankings of 60 countries take into account 24 categories and were derived from a survey of more than 16,000 people. Half of those were called “informed elites” and 4,500 were business leaders.\n\nRespondents gave their perceptions of the countries over nine categories: adventure, citizenship, cultural influence, entrepreneurship, heritage, movers, open for business, power and quality of life.\n The U.S. was first in power, while Germany was best for entrepreneurship. Canada won for quality of life.",
+  "questions": [
+    {
+      "question": "Where were the rankings first presented to the public?",
+      "options": [
+        "At the World Economic Forum in Davos, Switzerland",
+        "In a press conference in Washington D.C.",
+        "During the G20 Summit in Tokyo",
+        "At the United Nations headquarters"
+      ],
+      "answer": "At the World Economic Forum in Davos, Switzerland"
+    },
+    {
+      "question": "Which is the third-best country in the world, according to the rankings?",
+      "options": [
+        "France",
+        "Canada",
+        "Britain",
+        "Australia"
+      ],
+      "answer": "Britain"
+    },
+    {
+      "question": "What does this portal intend to represent?",
+      "options": [
+        "A comprehensive guide to global travel options",
+        "An evaluation of performance in various sectors for citizens, business leaders, and governments",
+        "A historical overview of countries and their economies",
+        "A platform for international news and political discussions"
+      ],
+      "answer": "An evaluation of performance in various sectors for citizens, business leaders, and governments"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

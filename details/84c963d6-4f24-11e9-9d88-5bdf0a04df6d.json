@@ -1,0 +1,60 @@
+{
+  "title": "Miranda Lambert Wins Big (Again) at Country Music Awards",
+  "introduction": null,
+  "image": {
+    "id": "84c942a2-4f24-11e9-9d87-fb8268425358",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6zlZVs6Tp9Iz2DP3iInREP.jpeg",
+    "dimensions": {
+      "x": 420,
+      "y": 600
+    },
+    "attribution": "User:Lukelambert / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1Nx1b8Eg2wAQDgaRSleoHj.mpga",
+  "main_content": "The Country Music Association held its yearly awards Wednesday night in Nashville, Tennessee. Country music stars were out in full force for the event. But the night included rock and pop stars too.\n\nThe biggest winner at the event was musician Miranda Lambert. She won four awards, including Single of the Year. Lambert’s song “Automatic” was the honored single.\n\nMiranda Lambert also performed a definitively non-country song with the currently very popular singer Meghan Trainor. The two shared the stage for Trainor’s song “All About That Bass.”\n\nArtists Carrie Underwood and Brad Paisley were hosts of the awards show again this year.\n\nTaylor Swift broke another record this week. She became the first artist to have three albums sell one million copies in the first week of release. Her most recent “1989” sold more than 1.2 million. It was released October 27th.\n\nLuke Bryan won the CMA’s biggest award Wednesday night. Country music legend Garth Brooks presented Bryan with the Entertainer of the Year award. It was hard to be sure what the young singer was happier about – winning the award or meeting Garth Brooks. “Hey Garth,” Bryan said, “Can I hug you again?”",
+  "questions": [
+    {
+      "question": "Where were the Country Music Awards held?",
+      "options": [
+        "Atlanta, Georgia",
+        "Nashville, Tennessee",
+        "Austin, Texas",
+        "Los Angeles, California"
+      ],
+      "answer": "Nashville, Tennessee"
+    },
+    {
+      "question": "Who was the biggest winner at the event?",
+      "options": [
+        "Carrie Underwood",
+        "Taylor Swift",
+        "Miranda Lambert",
+        "Luke Bryan"
+      ],
+      "answer": "Miranda Lambert"
+    },
+    {
+      "question": "Whose song is “All About That Bass”?",
+      "options": [
+        "Carrie Underwood",
+        "Miranda Lambert",
+        "Meghan Trainor",
+        "Taylor Swift"
+      ],
+      "answer": "Meghan Trainor"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

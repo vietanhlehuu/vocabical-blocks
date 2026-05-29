@@ -1,0 +1,60 @@
+{
+  "title": "Oxfam: Richest One Percent to Own Half of the World’s Wealth",
+  "introduction": null,
+  "image": {
+    "id": "7ca77c30-1576-11e8-9f28-27f9371143d9",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4Q6MkYYQeyIshArbIe2owX.jpeg",
+    "dimensions": {
+      "x": 800,
+      "y": 532
+    },
+    "attribution": "User:Titlutin / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6RUgfwRNqhaisIBgdp6v1H.mpga",
+  "main_content": "A report from the nonprofit group Oxfam says the richest one percent of people in the world will have a majority of the wealth on the planet in 2016.\n\nThe global wealth of the richest people on Earth climbed to 48 percent in 2014. That has increased from 44 percent in 2009. It is likely to pass 50 percent in 2016.\n\nOxfam says that the ‘”explosion in inequality”‘ is holding back the fight against global poverty. The group estimates that one in nine people do not have enough to eat and that more than a billion people still live on just over $1 a day.\n\nThe report said the 80 wealthiest people in the world own $1.9 trillion. That is nearly the same amount shared by the 3.5 billion people at the bottom half of the world’s income scale.\n\nOxfam is asking governments around the world to deal with a number of issues of inequality. The organization is calling on governments to prevent companies and rich individuals from avoiding taxes. It is asking governments to shift taxes from labor and consumption to wealth and income.\n\nOne proposal is to invest in free public services such as healthcare and education. The organization also wants governments to introduce minimum wages for workers, equal pay for women, universal childcare and elderly care services.",
+  "questions": [
+    {
+      "question": "What is Oxfam?",
+      "options": [
+        "A government organization focused on tax regulations",
+        "An international nonprofit group addressing global issues",
+        "A financial institution that invests in developing countries",
+        "A charity that only provides food to those in need"
+      ],
+      "answer": "An international nonprofit group addressing global issues"
+    },
+    {
+      "question": "How many people around the world don’t have enough to eat?",
+      "options": [
+        "One in five people",
+        "One in nine people",
+        "One in twelve people",
+        "One in three people"
+      ],
+      "answer": "One in nine people"
+    },
+    {
+      "question": "How much money do the 80 wealthiest people in the world own?",
+      "options": [
+        "$1 trillion",
+        "$1.5 trillion",
+        "$1.9 trillion",
+        "$2.5 trillion"
+      ],
+      "answer": "$1.9 trillion"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

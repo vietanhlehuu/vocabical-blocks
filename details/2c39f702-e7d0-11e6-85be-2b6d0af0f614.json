@@ -1,0 +1,60 @@
+{
+  "title": "‘You’re Giving Me the Creeps!’",
+  "introduction": null,
+  "image": {
+    "id": "1d226b54-582c-4468-bc73-afa2b255b1cf",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/0syVROQqS7V8siDx5RyfiJ.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 621
+    },
+    "attribution": "Eduardo Pavon / Wikimedia Commons / CC-BY-SA 2.0",
+    "public_attribution": true,
+    "lock_version": 4,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7McWQenc7sWOwlFSkhR2ge.mpga",
+  "main_content": "Americans can sometimes begin a sentence with the words “You’re giving me.” This expression usually describes a person’s reaction to a surprise or to something unpleasant.\n\nWhat if you are asked to speak to a group of important customers? You prepare for your speech, but you still have concerns about how you will perform in front of the group. Minutes before the speech, you might tell a friend that you have “the jitters.” This means you are worried.\n\nWhat if a stranger lives in a house near your home? The man does not appear normal. He may talk to himself, and even raise his voice at imaginary things. He makes you very nervous, even fearful. So, you might say “I get the creeps every time he walks by.” Or you could say, “That guy gives me the creeps.”\n\n“The willies” are a lot like the creeps. You get the willies when you have a nervous feeling, like when you are in a forest and hear something unusual.\n\nHaving a nervous feeling can also mean something or someone is giving you “the heebie-jeebies.”.\n\nYou might say “I got the heebie-jeebies when I saw him looking at me.”\n\nSometimes your body shows you what you are feeling in the form of tiny bumps on your skin called “goosebumps.”\n\nGoosebumps can appear when you are nervous, excited or even very cold. In American English, you might say “I get goosebumps every time I think about it” or “It gives me goosebumps.”",
+  "questions": [
+    {
+      "question": "What would you get if you were nervous about giving a speech?",
+      "options": [
+        "Excitement",
+        "The willies",
+        "The jitters",
+        "Goosebumps"
+      ],
+      "answer": "The jitters"
+    },
+    {
+      "question": "When do you get the willies?",
+      "options": [
+        "When you're in a crowded room",
+        "When you hear something unusual in a forest",
+        "When watching a suspenseful movie",
+        "When someone compliments you"
+      ],
+      "answer": "When you hear something unusual in a forest"
+    },
+    {
+      "question": "What are “goosebumps”?",
+      "options": [
+        "A response to fear or arousal",
+        "A type of cold weather",
+        "A feeling of calmness",
+        "An expression of happiness"
+      ],
+      "answer": "A response to fear or arousal"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

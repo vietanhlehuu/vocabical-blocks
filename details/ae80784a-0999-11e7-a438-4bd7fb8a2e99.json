@@ -1,0 +1,60 @@
+{
+  "title": "Cannes Film Festival Announces Line Up",
+  "introduction": null,
+  "image": {
+    "id": "7fd7fdd4-362a-4038-92a5-a877573ce945",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3tEjVDTmzApacxBWN9Kwmj.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "MOSSOT / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/326H14qYyqIkEdfIpKu7WO.mpga",
+  "main_content": "The world’s most famous film festival has announced its lineup for this year’s competition.\n\nCannes Film Festival officials say they sifted through a record-breaking 1,869 feature films to narrow the field down to the 49 that will be screened next month on the French Riviera. Twenty of the films will battle it out for the top prize, the Palme d’Or.\n\nThe films at the 69th edition of the festival will include the serious, as well as the silly.\n\nAmerican actor-director Sean Penn has received buzz for his film The Last Face, about aid workers in Africa, starring his ex-girlfriend Charlize Theron and Javier Bardem.\n\nLoving, directed by American Jeff Nichols, is the true story about Richard and Mildred Loving, an interracial couple in 1950s America, confronting racism.\n\nThe Neon Demon is a horror film about cannibal fashion models in Los Angeles.\n\nFilms by three female directors are in the competition for the top prize: Germany’s Maren Ade with Toni Erdmann, Britain’s Andrea Arnold with American Honey and France’s Nicole Garcia with From the Land of the Moon.\n\nFestival organizers have been previously criticized for the limited offerings by female directors. “Even though the festival takes place in France, it is not a French festival. It is an international festival,” said Cannes director Thierry Fremaux.\n\nHowever, reporters noted at a news conference there is, so far, only one entry from Latin America and no films from Africa and the Middle East.\n\nWoody Allen’s Cafe Society, starring Kristen Stewart and Jesse Eisenberg, is opening up the festival, but it is not in competition. Also showing out of competition will be the American thriller Money Monster, directed by Jodie Foster with stars George Clooney and Julia Roberts. In addition, Steven Spielberg will screen out of competition his latest, The BFG (The Big Friendly Giant), based on Roald Dahl’s children’s classic.\n\nThe festival dates are May 11 to 22.",
+  "questions": [
+    {
+      "question": "From how many films did the film festival officials have to choose?",
+      "options": [
+        "1,500 feature films",
+        "1,869 feature films",
+        "2,000 feature films",
+        "1,200 feature films"
+      ],
+      "answer": "1,869 feature films"
+    },
+    {
+      "question": "What is the film “The Last Face” about?",
+      "options": [
+        "A love story set in the fashion industry",
+        "A documentary on aid workers in Africa",
+        "Aid workers in Africa dealing with a crisis",
+        "An action thriller about a rescue mission"
+      ],
+      "answer": "Aid workers in Africa dealing with a crisis"
+    },
+    {
+      "question": "How many films directed by women are in the competition?",
+      "options": [
+        "Two films",
+        "Three films",
+        "Four films",
+        "Five films"
+      ],
+      "answer": "Three films"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

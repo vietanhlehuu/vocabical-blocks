@@ -1,0 +1,60 @@
+{
+  "title": "Not All Mother Expressions Are As Nice As Mom",
+  "introduction": null,
+  "image": {
+    "id": "92fc558a-6965-11ed-a080-0b8c9872863b",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1Npt6r8EvMIUM4dfs5Gm37.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 354
+    },
+    "attribution": "Azoreg / Wikimedia Commons / CC-BY-SA 3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5ubdQ28nyVP1zkEn6VF9cy.mpga",
+  "main_content": "In the United States, Mother’s Day falls on the second Sunday in May. It was back in 1908 when a woman named Anna Jarvis created this unofficial holiday to honor mothers. However, Ms. Jarvis would later criticize Mother’s Day. She said it had become too commercial – too much about spending money.\n\nTraditionally, children and husbands celebrate mothers of all ages by buying flowers, cards and other gifts or taking them to dinner in a nice restaurant. We instead will talk about some expressions that use the word “mother.”\n\nTo start with, most mothers give birth. So, your motherland is where you were born and your mother tongue is your native language.\n\nSome cultures believe Mother Earth gave birth to everything that exists on our planet.\n\nYou might think that all expressions about mothers are sweet and loving. Not so.\n\nA boy who is “tied to his mother’s apron strings” is controlled by his mother. We can also call him a “mama’s boy.” Both of these terms are even more insulting if you are talking about a man, not a young boy.",
+  "questions": [
+    {
+      "question": "What is another name for native language?",
+      "options": [
+        "Mother country",
+        "Motherland",
+        "Mother dialect",
+        "Mother accent"
+      ],
+      "answer": "Motherland"
+    },
+    {
+      "question": "What is a boy who is “tied to his mother’s apron strings”?",
+      "options": [
+        "Independent thinker",
+        "Mama's boy",
+        "Courageous child",
+        "Resilient youth"
+      ],
+      "answer": "Mama's boy"
+    },
+    {
+      "question": "Who started Mother’s Day in the US in 1908?",
+      "options": [
+        "Anna Jarvis",
+        "Martha Washington",
+        "Clara Barton",
+        "Helen Keller"
+      ],
+      "answer": "Anna Jarvis"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Soccer Fans Go Crazy When Leicester City Wins After 132 Years",
+  "introduction": null,
+  "image": {
+    "id": "234cbaea-e66e-11e9-bb05-4b41d84aa487",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6St52e8wxJt8TNGWZmrIuy.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 343
+    },
+    "attribution": "Peter Woodentop / Wikimedia Commons / CC-BY-SA-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2xc2vGjqijWGFlXyUCKKQ4.mpga",
+  "main_content": "The Leicester City soccer players were anticipating the result of another game in the English Premier League.\n\nFor the first time in 132 seasons, Leicester City, also known as the Foxes, was positioned to finish the season as the champion of England’s top soccer league.\n\nThe result set off celebrations in England and beyond.\n\nPeople around the world followed the story of Leicester City this season. Thailand is one place that caught fever for the Foxes.\n\nThat is because the owner of the team is from Thailand, and his company, King Power, is the sponsor. Most Thai soccer fans like the famous English teams like Manchester United or Chelsea. But not anymore.\n\nIn fact, a Buddhist monk at a temple in Bangkok blessed the team earlier this season. Now the monk and his temple are considered magical by Leicester City fans.\n\nSports experts say Leicester is one of the most unlikely teams ever to win a major championship.",
+  "questions": [
+    {
+      "question": "What is the other name for Leicester City football club?",
+      "options": [
+        "The Eagles",
+        "The Lions",
+        "The Foxes",
+        "The Wolves"
+      ],
+      "answer": "The Foxes"
+    },
+    {
+      "question": "Why is Leicester City popular in Thailand?",
+      "options": [
+        "They have won multiple championships.",
+        "The team's owner is from Thailand.",
+        "They are sponsored by a Thai company.",
+        "They play friendly matches in Thailand."
+      ],
+      "answer": "The team's owner is from Thailand."
+    },
+    {
+      "question": "What did sports experts say about the Leicester City football club?",
+      "options": [
+        "They have a solid chance to win every season.",
+        "They are considered a favorite this year.",
+        "They are one of the most unlikely teams to win a major championship.",
+        "They have a strong history in soccer."
+      ],
+      "answer": "They are one of the most unlikely teams to win a major championship."
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

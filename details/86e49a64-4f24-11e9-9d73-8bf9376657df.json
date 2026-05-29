@@ -1,0 +1,60 @@
+{
+  "title": "Which Pronoun is Correct: I or Me?",
+  "introduction": null,
+  "image": {
+    "id": "86e47822-4f24-11e9-9d72-8bbeed3879e5",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3FMypEIhVa7fkSJO9AHXOv.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 455
+    },
+    "attribution": "Alborzagros / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/62Vel6CxjsaD4iSkpBmAYI.mpga",
+  "main_content": "English has eight subject pronouns: I, you, he, she, it, we, you and they. Subject pronouns show the actor (or doer) in a sentence. For example, in the sentence “I speak English,” “I” is the actor (doer).\n\nEnglish also has eight object pronouns: me, you, him, her, it, us, you and them. We use an object pronoun to show the receiver of the action in a sentence, as in “She gave the book to me.”  In that sentence, “me” is the receiver.\n\nPeople often confuse subject pronouns and object pronouns in sentences with two receivers.\n\nTake the sentence “President Obama gave an award to my brother and me.”  We can easily see the need for an object pronoun because of the preposition “to.”\n\nA simple way to check for the correct pronoun in a case like this is mentally to eliminate the second person. Try saying in your head “A guest asked me how we met,” or, “A guest asked a friend how we met.”  That simple check makes choosing the correct pronoun easier.\n\nNow you will always know the right pronoun to use – take it from me!",
+  "questions": [
+    {
+      "question": "How many subject pronouns does English have?",
+      "options": [
+        "Six subject pronouns",
+        "Eight subject pronouns",
+        "Ten subject pronouns",
+        "Twelve subject pronouns"
+      ],
+      "answer": "Eight subject pronouns"
+    },
+    {
+      "question": "When do people usually confuse subject and object pronouns?",
+      "options": [
+        "In sentences with a single receiver",
+        "In sentences with two receivers",
+        "In questions only",
+        "In commands only"
+      ],
+      "answer": "In sentences with two receivers"
+    },
+    {
+      "question": "What is a simple way to check for the correct pronoun?",
+      "options": [
+        "Use a dictionary",
+        "Mentally eliminate the second person",
+        "Ask someone else for help",
+        "Write the sentence out loud"
+      ],
+      "answer": "Mentally eliminate the second person"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

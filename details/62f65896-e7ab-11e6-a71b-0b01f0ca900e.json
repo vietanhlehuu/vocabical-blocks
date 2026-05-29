@@ -1,0 +1,60 @@
+{
+  "title": "Invasion of Earth Unlikely, Say Researchers",
+  "introduction": null,
+  "image": {
+    "id": "2d55394b-2a8e-4510-a511-1ad01d6ce059",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1NXbKTbM0ZXWtDxbUcI7Yn.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 289
+    },
+    "attribution": "Freak of Jesus / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 4,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3HK8RW9lzHRz0ISx3fU0sR.mpga",
+  "main_content": "Should we fear an invasion from outer space?\n\nResearchers have been searching and listening for life on other planets. They say we should not be concerned about alien beings any time soon.\n\nMichael Garrett teaches at the University of Leiden. He is also the General and Scientific Director of the Netherlands Institute for Radio Astronomy.\n\nProfessor Garrett has been listening for radio signals from other planets, searching for signs of extraterrestrial life. He says advanced civilizations are either rare or do not exist in the areas of outer space he has examined. He adds that natural processes are most likely responsible for any radio signals that have been received on Earth.\n\nHe says that means “we can all sleep safely in our beds tonight. An alien invasion doesn’t seem at all likely.”",
+  "questions": [
+    {
+      "question": "Who is Michael Garrett?",
+      "options": [
+        "A researcher studying extraterrestrial life at Harvard University",
+        "The General and Scientific Director of the Netherlands Institute for Radio Astronomy",
+        "A renowned scientist known for developing space travel technology",
+        "An author who has written several books on astronomy"
+      ],
+      "answer": "The General and Scientific Director of the Netherlands Institute for Radio Astronomy"
+    },
+    {
+      "question": "What has Professor Garrett been doing?",
+      "options": [
+        "Conducting experiments on space travel propulsion systems",
+        "Listening for radio signals from other planets to find extraterrestrial life",
+        "Writing a book on the history of astronomy",
+        "Teaching courses on the fundamentals of extraterrestrial communication"
+      ],
+      "answer": "Listening for radio signals from other planets to find extraterrestrial life"
+    },
+    {
+      "question": "Is the alien invasion likely?",
+      "options": [
+        "Yes, many researchers believe it is a significant possibility",
+        "No, Professor Garrett states it doesn’t seem likely at all",
+        "Yes, signals received have been traced to sophisticated alien technology",
+        "No, but it is anticipated to happen within the next decade"
+      ],
+      "answer": "No, Professor Garrett states it doesn’t seem likely at all"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

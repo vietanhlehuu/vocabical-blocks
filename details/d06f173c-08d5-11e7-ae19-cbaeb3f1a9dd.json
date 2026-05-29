@@ -1,0 +1,60 @@
+{
+  "title": "Want to Lose Weight? Listen to Yourself Eat",
+  "introduction": null,
+  "image": {
+    "id": "673e2632-de68-455e-8a18-d49f589c3cdf",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/38obwKjv5YIKizgF3v0W5v.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 342
+    },
+    "attribution": "Musée du Cacao et du Chocolat / Wikimedia Commons / CC-BY-SA-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1gXaSoWNlM21NAnARNMrdF.mpga",
+  "main_content": "Restaurant chefs, home cooks, and foodies – people who love good food – often say that we eat with all of our senses.\n\nFirst, we use our sense of sight to appreciate how a meal is presented. Our sense of touch can also be important.\n\nNext, with our sense of smell, we breathe in the aromas. Finally, we enjoy the food with our sense of taste.\n\nBut what about our sense of hearing? Does sound also affect our dining experience?\n\nA new report answers, ‘yes,’ it does.\n\nThat answer comes from researchers at Brigham Young University and Colorado State University in the United States. They found that hearing is important in the eating experience.\n\nHearing is often called “the forgotten food sense,” says Ryan Elder.\n\nElder is an assistant professor of marketing at Brigham Young University’s Marriott School of Management. He says that if people notice the sound the food makes as they eat it, they might eat less.\n\nElder says that when hiding the sounds of eating, like when you watch television or listen to loud music, we take away the sense of hearing. And this may cause you to eat more than you would normally.",
+  "questions": [
+    {
+      "question": "Who are foodies?",
+      "options": [
+        "People who only eat fast food",
+        "Individuals passionate about cooking and enjoying food",
+        "Professional chefs at renowned restaurants",
+        "People who dislike experimenting with new cuisines"
+      ],
+      "answer": "Individuals passionate about cooking and enjoying food"
+    },
+    {
+      "question": "What did the researchers at Brigham Young University and Colorado State University say about hearing?",
+      "options": [
+        "Hearing is not relevant to the eating experience",
+        "Hearing is important and can influence how much we eat",
+        "Hearing is the least effective sense in dining",
+        "Hearing impacts food preparation techniques primarily"
+      ],
+      "answer": "Hearing is important and can influence how much we eat"
+    },
+    {
+      "question": "What can take away the sense of hearing?",
+      "options": [
+        "Eating in a quiet room",
+        "Focusing on the flavors of the food",
+        "Watching television or listening to loud music",
+        "Dining alone without distractions"
+      ],
+      "answer": "Watching television or listening to loud music"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

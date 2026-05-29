@@ -1,0 +1,60 @@
+{
+  "title": "Actress Brings African Experiences to America",
+  "introduction": null,
+  "image": {
+    "id": "4576fca0-7619-11ed-a214-a71e5763869f",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/7alLRLUSsYZmbTdQDrVmWt.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 876
+    },
+    "attribution": "Gage Skidmore / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/680ezizZaoEdoVAhN729gU.mpga",
+  "main_content": "Actress Danai Gurira calls herself a Zimerican.\n\nHer parents came from Zimbabwe. She was born in the American state of Iowa. But her family moved back to Harare, Zimbabwe, when she was five years old. She returned to the United States for college and has lived there ever since.\n\nThe actress may be best known as Michonne, the zombie–killer in the television series “The Walking Dead.” And she is now busy racing between theaters for two plays in New York City – plays that she wrote.\n\nHer play “Familiar” centers on the cultural clashes between American and African traditions.\n\nThe play takes place in the state of Minnesota. The eldest daughter of Zimbabwean parents is getting married to a white man.\n\nBut the setting of her play “Eclipsed” — is something else entirely.\n\nGurira decided to write “Eclipsed” after reading a New York Times story about the civil war in Liberia, and the young women who fought in it.\n\nGurira went to Liberia and met with women who were former soldiers, sex slaves and peace negotiators. She wrote the play based on their stories.",
+  "questions": [
+    {
+      "question": "Who is Danai Gurira?",
+      "options": [
+        "A theater director from Zimbabwe who focuses on American culture",
+        "An actress born in Iowa whose parents are from Zimbabwe",
+        "A playwright known for her work in Los Angeles",
+        "A film producer with no ties to Zimbabwe"
+      ],
+      "answer": "An actress born in Iowa whose parents are from Zimbabwe"
+    },
+    {
+      "question": "What plays did she write?",
+      "options": [
+        "Familiar and Eclipsed",
+        "The Walking Dead and Familiar",
+        "Eclipsed and The Lion King",
+        "Familiar and The Color Purple"
+      ],
+      "answer": "Familiar and Eclipsed"
+    },
+    {
+      "question": "Are the two plays similar?",
+      "options": [
+        "Yes, both explore themes of African-American identity",
+        "No, one focuses on cultural clashes while the other addresses civil war",
+        "Yes, they both take place in Zimbabwe",
+        "No, they are written in different languages"
+      ],
+      "answer": "No, one focuses on cultural clashes while the other addresses civil war"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Fiber Optic Cable Measures Antarctic Ice Melt",
+  "introduction": null,
+  "image": {
+    "id": "669cf5c0-9ded-4f88-86d7-911f8b50b245",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/37cwn6o5GlOu1FNR11v4aL.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Andrew Mandemaker / Wikimedia Commons / CC-BY-SA-2.5",
+    "public_attribution": true,
+    "lock_version": 2,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1Mt2sbst24zn3TN2IW4L3G.mpga",
+  "main_content": "Antarctica is covered with ice that extends past the land and floats on the sea in thick shelves. But those ice shelves are melting quickly. As they melt, the sea level rises, increasing the risk of damaging floods.\n\nScientists have developed a new way to monitor the temperature of the ice shelf and how fast it is melting. They are using a fiber optic cable – like the one connected to your television or home computer. But this cable is as thin as a human hair. And, it is covered with steel to protect it from ocean pressure.\n\nScott Tyler teaches at the University of Nevada in Reno. Professor Tyler is a specialist in hydrology – the movement and quality of water on Earth and other planets. He described the work with fiber optic cable in the journal Research Letters.\n\nProfessor Tyler said researchers set up a base camp on the Ross Ice Shelf. They made a hole in the ice 200 meters deep. Then, they extended the cable 700 meters down into the hole.\n\nHe says the scientists had to work fast.\n\n“The ice shelf temperature is cold. It’s minus 23 C (Celsius). So, it is very cold ice. So the ocean wanted to freeze. And so we figured, we calculated that we had about at minimum 20 minutes of time to get everything down this little, tiny 50-millimeter diameter hole into the ocean before it would freeze solid. And, we did!”\n\nResearchers connected the other end of the cable into equipment on the surface. Images began to appear on the computer screen of what was happening down below. The researchers also learned how cold it was at the other end of the cable.\n\nHe added that researchers could operate the equipment remotely. In other words, they did not have to be on the ice shelf.\n\nMr. Tyler says he hopes to create more fiber optic stations on ice shelves. While satellites can show changes from space, he said, fiber optics can record those changes under ice.",
+  "questions": [
+    {
+      "question": "What risk do melting ice shelves cause?",
+      "options": [
+        "A rise in marine biodiversity",
+        "An increase in sea levels leading to potential flooding",
+        "A decrease in global temperatures",
+        "The establishment of new shipping routes"
+      ],
+      "answer": "An increase in sea levels leading to potential flooding"
+    },
+    {
+      "question": "What did the researchers do on the Ross Ice Shelf?",
+      "options": [
+        "They installed a satellite system to monitor ice changes",
+        "They extended a fiber optic cable deep into the ice",
+        "They conducted surface-level temperature readings only",
+        "They built a permanent research station on the ice"
+      ],
+      "answer": "They extended a fiber optic cable deep into the ice"
+    },
+    {
+      "question": "How much time did the scientists have to perform the operation?",
+      "options": [
+        "At least 10 minutes",
+        "About 20 minutes",
+        "One hour",
+        "Only 5 minutes"
+      ],
+      "answer": "About 20 minutes"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Report: Switzerland Still Tops in Global Competitiveness",
+  "introduction": null,
+  "image": {
+    "id": "d8134f26-a537-4da8-845a-618072ba2d27",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6ZjALl0LQb7RQQZotBvzsN.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Ttrainer / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3LRVYLAafcskx7Q7MTxtT4.mpga",
+  "main_content": "Switzerland ranks as the world’s most competitive country for the seventh year in a row, followed by Singapore and the United States, according to a World Economic Forum report released Tuesday.\n\nRounding out the top 10 in the Global Competitiveness Report 2015-2016 were Germany, the Netherlands, Japan, Hong Kong, Finland, Sweden and the United Kingdom. African countries held up the bottom of the rankings of 140 countries.\n\nThe report said countries that fail to embrace the structural reforms needed to boost productivity and encourage entrepreneurial talent are losing out in the global competitiveness race. It said driving productivity levels forward is important to achieve growth, bring unemployment rates down and be competitive.\n\nIt noted that economic growth has returned in most countries, but not to 2008 pre-crisis levels. The report warned that emerging markets that have failed to improve competitiveness since the recession will have great difficulty absorbing future shocks to the global economy.\n\nMargareta Drzeniek-Hanouz, lead economist and head of Global Competitiveness and Risks for the World Economic Forum, noted that the digitalization of machines and manufacturing is becoming more important in the global economy. But she said the human factor is crucial for future competitiveness.\n\n“And when we see also how the top economies have fared in comparison to some of the economies that rank well, we see that across the board, the common factor is that the top-ranking economies did actually very well in terms of this human factor,” she said. Examples of the human factor, she said, include education, nurturing of talent, the flexibility of the labor market and the ability of the business sector to adapt to changes in the country.",
+  "questions": [
+    {
+      "question": "What is third most competitive country in the world?",
+      "options": [
+        "Switzerland",
+        "Singapore",
+        "United States",
+        "Germany"
+      ],
+      "answer": "United States"
+    },
+    {
+      "question": "Why is increasing productivity important?",
+      "options": [
+        "To enhance global tourism",
+        "To achieve growth, reduce unemployment, and be competitive",
+        "To attract foreign investment",
+        "To maintain traditional manufacturing jobs"
+      ],
+      "answer": "To achieve growth, reduce unemployment, and be competitive"
+    },
+    {
+      "question": "What is one crucial factor for being competitive?",
+      "options": [
+        "Government regulation",
+        "Digitalization of machines",
+        "The human factor",
+        "Natural resources"
+      ],
+      "answer": "The human factor"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

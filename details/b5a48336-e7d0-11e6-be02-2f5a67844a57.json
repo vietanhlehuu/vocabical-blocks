@@ -1,0 +1,60 @@
+{
+  "title": "Movie Tells Story of Mental Health, Poverty",
+  "introduction": null,
+  "image": {
+    "id": "5d161638-d835-4fbe-8ec9-40a2fa1b1ba1",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2peNZ8KaaEnU7qJTAoQtSj.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 716
+    },
+    "attribution": "GabboT / Wikimedia Commons / CC-BY-SA 2.0",
+    "public_attribution": true,
+    "lock_version": 4,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/28AO73OOTiXxat6HuF6wdT.mpga",
+  "main_content": "Director Maya Forbes tells about her family and its struggles with depression, poverty and sex discrimination in her new film, “Infinitely Polar Bear.” The film tells about an American family and how it reacted to events – some of them humorous, and others serious – back in the 1970s.\n\nVOA’s Penelope Poulou spoke recently with Maya Forbes about how her childhood struggles helped her become a successful film writer, producer and director.\n\nActor Mark Rufallo plays Cameron Stuart, a member of a once-powerful family. His ancestors had a lot of money many years ago, but now the family has very little.\n\nCameron Stuart has a severe mental condition. He suffers from manic depression, also known as bipolar disorder.\n\nMaya Forbes used her family’s story as a model for the Stuarts.\n\n“My father was manic depressive, my mother is African-American, my father was from a wealthy New England family, but we didn’t have any money. My mother wanted to send us to great schools.”\n\nMs. Forbes says people like her film because mental illness has affected them in some way.\n\nShe says it was not easy making a film while raising a family. But she says her childhood helped her to become independent and strong.",
+  "questions": [
+    {
+      "question": "Who is Maya Forbes?",
+      "options": [
+        "A film critic who reviews movies",
+        "A successful film writer, producer, and director",
+        "An actor in the film 'Infinitely Polar Bear'",
+        "A school teacher who teaches drama"
+      ],
+      "answer": "A successful film writer, producer, and director"
+    },
+    {
+      "question": "Who does Mark Rufallo play?",
+      "options": [
+        "A wealthy businessman from New England",
+        "Cameron Stuart, a man suffering from manic depression",
+        "Maya Forbes' father",
+        "An independent filmmaker"
+      ],
+      "answer": "Cameron Stuart, a man suffering from manic depression"
+    },
+    {
+      "question": "What was the model for the Stuarts?",
+      "options": [
+        "The life of an unrelated famous actress",
+        "The director's own family experiences with mental illness and poverty",
+        "A fictional family from the 1980s",
+        "An adaptation of a well-known novel"
+      ],
+      "answer": "The director's own family experiences with mental illness and poverty"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

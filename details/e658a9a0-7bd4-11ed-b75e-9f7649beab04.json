@@ -1,0 +1,60 @@
+{
+  "title": "Mediterranean Artists Spread Message of Peace Through Music",
+  "introduction": null,
+  "image": {
+    "id": "e6583dee-7bd4-11ed-b75d-af2e14f5d591",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2tSmGkXjdoGdCUvgkvdbWK.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Henry Mühlpfordt / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3zDzZOCHo5Q3IPpGL48CgJ.mpga",
+  "main_content": "Fifteen artists from 12 Mediterranean countries kicked off the first in a series of annual concerts Saturday at the United Nations in Geneva intended to promote dialogue and understanding among civilizations.\n\nRenowned musicians from Morocco, Egypt, Jordan, Lebanon, Spain, Greece, France, Palestine, Malta, Italy, Tunis, and Cyprus performed in a succession of songs and instrumental pieces accompanied by the Royal Symphony Orchestra of Morocco.\n\nMiquel Angel Moratinos is president of the ONUART Foundation, a private organization that promotes cultural projects at international institutions in Geneva. He said ONUART decided to gather artists from Mediterranean countries so “we could have a clear message to this very moving and turbulent area at this time.”\n\nHe said the 15 artists, who come from different origins and musical styles, are able to convey through their music the message that the troubled Mediterranean region has been and always will be a flourishing civilization despite present and past conflicts.\n\n“I hope that this concert will give the sense of need of having the voice of the people in the Mediterranean to stress that peace is possible, harmony is possible, tolerance is possible in this important area of international community,” he said.\n\nThe concert took place in the Human Rights and Alliance of Civilizations Chamber, a large conference room where the U.N. Human Rights Council meets. The venue is filled with symbolism.\n\nThe message was not lost on Nassir Abdulazia al-Nasser of the United Nations Alliance of Civilization, who is co-organizer of the concert.\n\nAl-Nasser said it is up to politicians, not artists, to resolve the crises, but he is convinced that art is “a vehicle for the promotion of peaceful dialogue between cultures and societies.”\n\n“All forms of art and especially music,” he said, “can build bridges between people who cannot understand each other’s languages, who come from different religious and ethnic backgrounds.”\n\nSpanish singer Maria del Mar Bonet said music, for her, was a way of moving toward dialogue and peace. She told VOA that the Mediterranean is “a place in turmoil, a place of suffering,” and that this must end.\n\n“The fact that each artist selects a work and performs it sends a powerful message that we do not want to suffer anymore,” she said. “We do have to end the suffering, and by coming together as we are doing in this concert, we are taking a great step toward that end.”",
+  "questions": [
+    {
+      "question": "What is the aim of the concerts held at the United Nations?",
+      "options": [
+        "To showcase the musical talents of Mediterranean artists.",
+        "To raise funds for humanitarian projects in the region.",
+        "To promote dialogue and understanding among civilizations.",
+        "To celebrate the historical cultures of Mediterranean countries."
+      ],
+      "answer": "To promote dialogue and understanding among civilizations."
+    },
+    {
+      "question": "What does Moratinos think the artists can convey?",
+      "options": [
+        "A message of conflict resolution through music.",
+        "The essence of Mediterranean suffering and pain.",
+        "The message that the Mediterranean region is a flourishing civilization.",
+        "The importance of preserving traditional musical styles."
+      ],
+      "answer": "The message that the Mediterranean region is a flourishing civilization."
+    },
+    {
+      "question": "How does Al-Nasser think that artists can help solve the crises?",
+      "options": [
+        "By directly intervening in political discussions.",
+        "Through artistic expression that promotes peaceful dialogue.",
+        "By organizing more concerts to gain media attention.",
+        "By encouraging artists to take a political stance."
+      ],
+      "answer": "Through artistic expression that promotes peaceful dialogue."
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

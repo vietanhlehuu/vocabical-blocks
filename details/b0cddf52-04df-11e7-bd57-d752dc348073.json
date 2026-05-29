@@ -1,0 +1,60 @@
+{
+  "title": "‘Dog or Bread?’ Question Takes Over Twitter",
+  "introduction": null,
+  "image": {
+    "id": "41e6387f-401b-44a5-a27b-2c4fc95ca165",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/20LiATtD2dAPUhmQsfv77F.jpeg",
+    "dimensions": {
+      "x": 250,
+      "y": 188
+    },
+    "attribution": "Wl219 at English Wikipedia / Wikimedia Commons / CC-BY-2.5",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7mBeSDLCNglO1T7xZ3NyQL.mpga",
+  "main_content": "This is What’s Trending Today…\n\nThis week, people on Twitter have been trying to identify some pictures. They are asking what, at first, might seem like a strange question: “Is this a photograph of a dog or a photo of a kind of food?”\n\nA woman named Karen Zack, known as @teenybiscuit on Twitter, first posted the question: “Labradoodle or friedchicken?”  Her post included photos of young dogs known as Labradoodles and fried chicken.\n\nLabradoodles are dogs that are a cross between Labrador retrievers and poodles.\n\nThat question led to more viral comparisons between dogs and food. Karen Zack’s next post compared sleeping puppies with a popular bread product: bagels.\n\nMore than 14,000 people retweeted Zack’s “Puppy or Bagel” post.\n\nKaren Zack’s questions have quickly taken over social media. New York magazine called her a “Twitter genius.”\n\nZack herself seems surprised about her Internet fame.",
+  "questions": [
+    {
+      "question": "What was the first question Karen Zack posted on Twitter?",
+      "options": [
+        "Is this a photograph of a cat or a photo of a sandwich?",
+        "Labradoodle or friedchicken?",
+        "Which is cuter, a bunny or a cupcake?",
+        "Can you tell if this is a muffin or a puppy?"
+      ],
+      "answer": "Labradoodle or friedchicken?"
+    },
+    {
+      "question": "What were the sleeping puppies compared to?",
+      "options": [
+        "Croissants",
+        "Bagels",
+        "Danish pastries",
+        "Pancakes"
+      ],
+      "answer": "Bagels"
+    },
+    {
+      "question": "Who called Karen a “Twitter genius”?",
+      "options": [
+        "The New York Times",
+        "BuzzFeed",
+        "New York magazine",
+        "The Washington Post"
+      ],
+      "answer": "New York magazine"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

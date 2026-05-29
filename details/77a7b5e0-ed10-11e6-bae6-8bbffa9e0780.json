@@ -1,0 +1,60 @@
+{
+  "title": "Scientists: Global Sea Level Rise Happening, Unavoidable",
+  "introduction": null,
+  "image": {
+    "id": "e45bdc68-0eab-11e7-b32e-b3fb8bbbbad9",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4KF7hlijSDO2iYLwk0QZzv.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 303
+    },
+    "attribution": "NASA Goddard Space Flight Center from Greenbelt, MD, USA / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3xtserWMWVTWcdGhyg7ceG.mpga",
+  "main_content": "Sea levels worldwide have risen an average of nearly 3 inches (8 centimeters) since 1992, the result of warming waters and melting ice, a panel of NASA scientists said Wednesday. In 2013, a United Nations panel predicted sea levels would rise from 1 to 3 feet (0.3 to 0.9 meters) by the end of the century.\n\nThe new research shows that the sea-level rise most likely will be at the high end of that range, said University of Colorado geophysicist Steve Nerem.\n\nSea levels are rising faster than they did 50 years ago and “it’s very likely to get worse in the future,” Nerem said.\n\nThe changes are not uniform. Some areas showed sea levels rising more than 9 inches (25 centimeters) and other regions, such as along the U.S. West Coast, actually falling, according to an analysis of 23 years of satellite data.\n\nScientists believe ocean currents and natural cycles are temporarily offsetting a sea-level rise in the Pacific, and the U.S. West Coast could see a significant hike in sea levels in the next 20 years.\n\nA rise in global sea levels of more than a meter is unavoidable, scientists say, but they are not sure exactly when, where or how much it will be.\n\nThe NASA experts, working with European scientists, say such major cities as Tokyo and Singapore, the U.S. state of Florida, and a number of island nations could disappear.\n\nThe scientists say current data suggest a rise in ocean levels of at least 1 meter is a certainty in the next 100 to 200 years. But they say it could be much more depending on rate of loss of the polar ice sheets around Greenland and Antarctica.\n\nThey are also unsure when and precisely where the Earth could expect to see such a catastrophic rise in sea levels, saying ocean currents and other natural cycles vary.",
+  "questions": [
+    {
+      "question": "Why have sea levels risen?",
+      "options": [
+        "A. Increased volcanic activity in the oceans.",
+        "B. The result of warming waters and melting ice.",
+        "C. Changes in ocean currents due to human activity.",
+        "D. A natural cycle that has occurred for centuries."
+      ],
+      "answer": "B. The result of warming waters and melting ice."
+    },
+    {
+      "question": "What is Steve Nerem’s prediction for the future?",
+      "options": [
+        "A. Sea levels will stabilize within the next decade.",
+        "B. Sea levels will likely rise at the higher end of previous predictions.",
+        "C. No significant changes are expected in the near future.",
+        "D. The rate of sea level rise will decrease significantly."
+      ],
+      "answer": "B. Sea levels will likely rise at the higher end of previous predictions."
+    },
+    {
+      "question": "Are sea levels rising uniformly?",
+      "options": [
+        "A. Yes, every region is experiencing the same rate of increase.",
+        "B. No, some regions are rising more significantly than others.",
+        "C. Sea levels are stable across all coastal areas.",
+        "D. Only island nations are experiencing any rise in sea levels."
+      ],
+      "answer": "B. No, some regions are rising more significantly than others."
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

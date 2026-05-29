@@ -1,0 +1,60 @@
+{
+  "title": "Boat Building Tradition Still Strong in US Northwest",
+  "introduction": null,
+  "image": {
+    "id": "0a80d47c-a1f8-4968-9a7c-c8b4ceef1828",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/0JonWQ4Wj5JZpRVELGEI3s.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 308
+    },
+    "attribution": "Tomasz Sienicki / Wikimedia Commons / CC-BY-2.5",
+    "public_attribution": true,
+    "lock_version": 8,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/25YayZNbbtRxLSspUoeAcJ.mpga",
+  "main_content": "Humans have been making boats for thousands of years. Archaeologists have found evidence of boat-building by early human beings all over the world. They say early humans used the boats to both hunt and explore.\n\nSome of the earliest boats have been found in the Aleutian Islands, in the northwestern United States. People who lived there long ago ate sea mammals to survive. They used a small, quick kayak to hunt the animals. Russians would later name the kayak a “baidarka.” This kind of boat is only built in the Aleutian Islands.\n\nCorey Freedman works at the Center for Wooden Boats in Seattle, Washington. He teaches students how to build baidarkas using methods that are respectful of the culture.\n\nStudents make the boats the same way boat builders made them hundreds of years ago, except they do not use animal skins.\n\nA student named Jim has been interested in boating for about 40 years. He puts different pieces together without using nails.\n\nMr. Freedman says he has loved boat building since he was a child. And he loves sharing his passion with children who live in an area where the boats were first made.",
+  "questions": [
+    {
+      "question": "What is the name of the small, quick boat used by early humans in the Aleutian Islands?",
+      "options": [
+        "Baidarka",
+        "Canoe",
+        "Dhow",
+        "Longboat"
+      ],
+      "answer": "Baidarka"
+    },
+    {
+      "question": "In which location are baidarkas specifically built?",
+      "options": [
+        "Aleutian Islands",
+        "Seattle",
+        "Northwestern United States",
+        "California"
+      ],
+      "answer": "Aleutian Islands"
+    },
+    {
+      "question": "What is Jim's relation to boating?",
+      "options": [
+        "A boat builder",
+        "A student interested in boating",
+        "An archaeologist",
+        "Corey Freedman's assistant"
+      ],
+      "answer": "A student interested in boating"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

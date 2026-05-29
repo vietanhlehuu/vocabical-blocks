@@ -1,0 +1,60 @@
+{
+  "title": "Russia, Ukraine Fail to Reach Gas Deal as Deadline Looms",
+  "introduction": null,
+  "image": {
+    "id": "aeaf1137-9b4a-431c-8b09-bf51fe724793",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5JcfalSZwjwA2YmTT6AqTD.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Alexander Korchik / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/70HTGCv2N5KRl6KNgFl7iN.mpga",
+  "main_content": "Russian energy giant Gazprom say emergency talks with Ukraine aimed at ending a natural gas pricing dispute have ended without agreement. It says an 0600 UTC deadline for Ukraine to pay a $1.95 billion gas debt still stands.\n\nGazprom spokesman Sergei Kuprianov, speaking early Monday, also said Ukraine will be required to pre-pay for any gas supplied after the deadline, if the debt is not paid in full in the coming hours.\n\nRussia and Ukraine have been embroiled in the energy dispute since April, when Moscow nearly doubled the price of gas to Ukraine to $480 per 1,000 cubic meters. Russia has since offered about a 20 percent discount, but Kyiv negotiators have sought a deeper price cut.\n\nHours ahead of the payment deadline, it remained unclear whether the Kyiv government would act to ease the stalemate before the deadline passes.\n\nThe energy standoff is part of a larger geopolitical crisis spawned early this year by Ukraine’s ouster of its Russian-backed president. Moscow responded weeks later by annexing Ukraine’s Crimean peninsula, despite widespread protests from Western governments.\n\nSunday’s 11th-hour energy talks began as Ukraine concluded a national day of mourning for 49 Ukrainian service members killed when their military transport plane was shot down Saturday by pro-Russian separatists in eastern Ukraine.\n\nThe Ukrainian Defense Ministry said the Ilyushin-76 aircraft was about to land at the Luhansk airport when separatists downed it with a large-caliber machine gun.",
+  "questions": [
+    {
+      "question": "What is the value of Ukraine’s debt towards Russia regarding natural gases?",
+      "options": [
+        "$1.25 billion",
+        "$1.95 billion",
+        "$2.5 billion",
+        "$1.5 billion"
+      ],
+      "answer": "$1.95 billion"
+    },
+    {
+      "question": "What is the current gas price Russia has set for Ukraine per 1000 cubic meters?",
+      "options": [
+        "$400",
+        "$450",
+        "$480",
+        "$500"
+      ],
+      "answer": "$480"
+    },
+    {
+      "question": "How many Ukrainian soldiers have died in the pro-Russian forces’ attack carried on Saturday against a military airplane?",
+      "options": [
+        "29",
+        "49",
+        "50",
+        "35"
+      ],
+      "answer": "49"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

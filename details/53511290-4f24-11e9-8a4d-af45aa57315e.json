@@ -1,0 +1,60 @@
+{
+  "title": "Taylor Swift, Beyonce Top Music and Money Lists",
+  "introduction": null,
+  "image": {
+    "id": "535098f6-4f24-11e9-8a4c-c76308e1957b",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1oS6khFAKjSY4mydavB0Sm.jpeg",
+    "dimensions": {
+      "x": 450,
+      "y": 600
+    },
+    "attribution": "User:Tm / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2c9d6meuny22h1jWDqucIG.mpga",
+  "main_content": "It is all about women in today’s music piece. They made some interesting news this week. But there is also some news you might have expected.\n\nWe start with the not-so-surprising news. Taylor Swift is on top of Billboard Magazine’s top two hundred albums list for a second week. The singer-songwriter’s new CD “1989,” has sold almost 1.7 million copies since its release October 27th.\n\nAlso, this week, Forbes Magazine named Swift the second highest earning woman in music. Guess who was number one on the yearly grouping? Queen Bey, of course. Forbes says Beyonce Knowles made 115 million dollars between June of 2013 and 2014. That also put her at number one on Forbes list of richest celebrities.\n\nAnother music mega star, Madonna, celebrates an anniversary this week. Her extremely successful 1984 album, “Like A Virgin,” turned 30 on Thursday. The album’s song and linked video, “Material Girl,” was such a major hit that the press often calls Madonna herself, “the Material Girl.”\n\nAnd finally, on Monday, Legacy Records released the first-ever album of live performances from Whitney Houston. The music star died in 2012 at 48 years old. The legendary producer, and Houston’s friend, Clive Davis, produced the collection. It includes a CD and a DVD. Davis spoke about the new album during an appearance on the American television program, “The Today Show.”  He said the collection shows that she was the greatest singer of her generation.",
+  "questions": [
+    {
+      "question": "How many copies of the CD “1989” have been sold since October 27th?",
+      "options": [
+        "1.7 million",
+        "500,000",
+        "2 million",
+        "1 million"
+      ],
+      "answer": "1.7 million"
+    },
+    {
+      "question": "What did Forbes Magazine name Taylor Swift?",
+      "options": [
+        "The highest earning woman in music",
+        "The second highest earning woman in music",
+        "The richest musician in the world",
+        "The best-selling artist of the decade"
+      ],
+      "answer": "The second highest earning woman in music"
+    },
+    {
+      "question": "What did Legacy Records release on Monday?",
+      "options": [
+        "A new Taylor Swift album",
+        "The first-ever album of live performances from Whitney Houston",
+        "A tribute album for Madonna",
+        "A greatest hits compilation of Beyonce"
+      ],
+      "answer": "The first-ever album of live performances from Whitney Houston"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

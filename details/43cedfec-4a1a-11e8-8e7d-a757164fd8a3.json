@@ -1,0 +1,60 @@
+{
+  "title": "A Simple Treatment for Parkinson’s Disease: Exercise",
+  "introduction": null,
+  "image": {
+    "id": "43cead9c-4a1a-11e8-8e7c-5bbc20e8f6bb",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/8esoCZrqE7X3Jj9qruMKAeDJpg3gtnwhj1iJqdEykw9.jpeg",
+    "dimensions": {
+      "x": 5184,
+      "y": 3456
+    },
+    "attribution": "Shutterstock",
+    "public_attribution": false,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2rVQ6QT33ebR2Hu10PKtju.mpga",
+  "main_content": "More than six million people around the world suffer from Parkinson’s disease. Parkinson’s disease makes patients shake and their muscles difficult to move. The disease is incurable and only gets worse overtime. Parkinson’s usually affects older people.\n\nCurrent treatments for Parkinson’s are medicine and surgery. But lately many doctors and patients have become interested in a treatment that is simple, does not cost much and seems to be very effective. That treatment is exercise.\n\n“Pick it back up. Put it down. Right leg. Straight arm.Way back. one … two … three …”\n\n​What you hear are 20 senior citizens exercising. They stretch their arms forward and then swing them far back. The instructor watching them closely is a 75-year-old man named Gary Sobel.\n\nMr. Sobel shows the class how to catch and throw – or, as he says, hurl – an imaginary ball. Everyone follows his instructions. But many of the students cannot stop their hands and feet from shaking. And some cannot straighten their bodies.\n\nEveryone in the class has Parkinson’s disease – everyone – even the instructor.\n\nParkinson’s disease is an incurable brain, or neurologic, condition that can make walking and keeping your balance difficult. So, many patients avoid exercise. But these students exercise several times a week.\n\nThey say the exercise helps the symptoms of Parkinson’s. But they also come for another reason – the friendship.",
+  "questions": [
+    {
+      "question": "How many people around the world suffer from Parkinson’s disease?",
+      "options": [
+        "A) Four million",
+        "B) Six million",
+        "C) Eight million",
+        "D) Ten million"
+      ],
+      "answer": "B) Six million"
+    },
+    {
+      "question": "Who does Parkinson’s usually affect?",
+      "options": [
+        "A) Teenagers",
+        "B) Children",
+        "C) Older people",
+        "D) Adults in their thirties"
+      ],
+      "answer": "C) Older people"
+    },
+    {
+      "question": "What is one reason patients with Parkinson’s might avoid exercising?",
+      "options": [
+        "A) They find it too expensive",
+        "B) They worry it will make their condition worse",
+        "C) Their condition makes walking and balance difficult",
+        "D) They prefer to stay home"
+      ],
+      "answer": "C) Their condition makes walking and balance difficult"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "US Millennials Increasingly Live with Parents",
+  "introduction": null,
+  "image": {
+    "id": "da76bbf0-bf1a-11ea-af9a-73c63ca2de94",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/587YhylzDI1EWEJcu7ZpgN.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 291
+    },
+    "attribution": "Leifern / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4YHl4cL4lxONf6VWRIK5l9.mpga",
+  "main_content": "Nearly one-third of U.S. adults between 18 and 34, a group commonly referred to as “millennials”, live with their parents, a new survey shows.\n\nIt’s the first time since 1880, when record-keeping began, that more people of this age are living at home rather than with a spouse, according to 2014 census data analyzed by the Pew Research Center.\n\n“Young adults are not simply less likely to be married; they are forgoing partners altogether, whether spouses or cohabiting partners, wrote Richard Fry, the lead author of the study.\n\nTo put this trend in some perspective, in 1960 more than 60 percent of U.S. young adults were married or cohabiting and residing in their own household. That dropped to 32 percent in 2014.\n\nPew found that millennials not living with their parents lived alone, with relatives, in university housing, or with roommates, the report said.\n\nThe stay-at-home trend was most pronounced among those without a college degree. Young men were more likely to live with their parents than young women, and African-Americans, Hispanics, and Native Americans, especially from less affluent backgrounds, were more likely to be still at home.\n\nThe driving forces behind this shift are the decline in marriage overall and the continuing economic hangover of the 2008 Great Recession.\n\nYoung adults living at home also have wider implications for the economy and could help explain continued slow economic growth, because fewer new households means less demand for furniture, household appliances, or even cable television subscriptions.",
+  "questions": [
+    {
+      "question": "What group of people is referred to as \"millennials\" in the article?",
+      "options": [
+        "Adults between 18 and 34 years old",
+        "Adults over 40 years old",
+        "Teenagers under 18 years old",
+        "Married adults living with a spouse"
+      ],
+      "answer": "Adults between 18 and 34 years old"
+    },
+    {
+      "question": "What did the 2014 census data analyzed by the Pew Research Center show about U.S. young adults?",
+      "options": [
+        "More of them were living at home than with a spouse",
+        "Most of them were married and living with children",
+        "Almost none of them lived with their parents",
+        "They were more likely to own homes than rent"
+      ],
+      "answer": "More of them were living at home than with a spouse"
+    },
+    {
+      "question": "In 1960, what percentage of U.S. young adults were married or cohabiting and living in their own household?",
+      "options": [
+        "More than 60 percent",
+        "32 percent",
+        "18 percent",
+        "50 percent"
+      ],
+      "answer": "More than 60 percent"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

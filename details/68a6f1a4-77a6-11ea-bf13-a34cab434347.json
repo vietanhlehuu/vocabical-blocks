@@ -1,0 +1,60 @@
+{
+  "title": "Queen Elizabeth II Poised to Be Britain’s Longest Serving Ruler",
+  "introduction": null,
+  "image": {
+    "id": "68a5fc22-77a6-11ea-bf12-87159a9b5dd2",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/7iCHMj8RBoNzxiDBcQHNwX.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 709
+    },
+    "attribution": "NASA/Bill Ingalls / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7XFWk1bWs5trVG1zrTo1Hh.mpga",
+  "main_content": "Queen Elizabeth II is set to reach an important milestone – becoming Britain’s longest-ruling head of state.\n\nQueen Elizabeth has worked with 12 British prime ministers, from Winston Churchill to David Cameron. At age 89, she continues to travel and attend official events.\n\nElizabeth came to power after the death of her father, King George VI, on February 6, 1952. At the time, she was only 25 years old. She officially became queen in June of 1953.\n\nThe queen is part of the last generation of Britain’s royal family to be educated at home. The Associated Press reports that she is the first British ruler to have sent an email (1976) or use Twitter, (2014).\n\nRoyal historian Hugo Vickers says that during her rule, Queen Elizabeth has remained dutiful to her country.\n\nOn Wednesday, Elizabeth will beat a record set by her great-great-grandmother, Queen Victoria. Victoria served as queen more than a century ago for 63 years and seven months. Only four other British kings and queens have ruled 50 years or more.",
+  "questions": [
+    {
+      "question": "How many prime ministers has Queen Elizabeth worked with?",
+      "options": [
+        "10 British prime ministers",
+        "12 British prime ministers",
+        "15 British prime ministers",
+        "8 British prime ministers"
+      ],
+      "answer": "12 British prime ministers"
+    },
+    {
+      "question": "Who was the first British ruler to send an email?",
+      "options": [
+        "King George VI",
+        "Queen Victoria",
+        "Queen Elizabeth II",
+        "Winston Churchill"
+      ],
+      "answer": "Queen Elizabeth II"
+    },
+    {
+      "question": "How old is Queen Elizabeth?",
+      "options": [
+        "87 years old",
+        "88 years old",
+        "89 years old",
+        "90 years old"
+      ],
+      "answer": "89 years old"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

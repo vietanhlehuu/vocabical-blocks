@@ -1,0 +1,60 @@
+{
+  "title": "Rare Chinese Vase Set to Fetch Record Price",
+  "introduction": null,
+  "image": {
+    "id": "220c9a38-18f2-11ed-aff3-23dfdb73483f",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4XheZTWnR6tF63GvuaR0Ig.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 619
+    },
+    "attribution": "Vassil / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4vl6fKaU9v0qKDh6smtFuG.mpga",
+  "main_content": "An ancient Chinese vase dating back to the 12th and 13th centuries during the Southern Song Dynasty is set to go to auction at Sotheby’s in Hong Kong April 7. The starting price is set at $7.7 million.\n\nThe 20-centimeter tall vase has been in the possession of a Japanese collector since 1975. The vase is considered a rare example of Chinese ceramics and is part of a collection crafted for the imperial court.\n\n“It has this unusual shape based on an archaic bronze vessel from the 12th to 7th century BC but the shape has been modified to this rare octagonal form”, said Sotheby’s director and international specialist for Chinese works of art, Julian King.\n\nIn an interview with VOA’s Victor Beattie, King said this prized piece could break an auction record set three years ago by another piece from the same collection.\n\n“It could actually sell for quite a bit higher. This is the starting level, so we’re expecting to fetch in excess of $7.7 million. The last major piece in this collection which started at a similar level … then went on to make $27 million,” he said.\n\nKing said nothing quite like this Song Dynasty vase has been seen in the auction market for 40 years.\n\nWhile Sotheby’s has sold ceramics that date back to 2000-3000 BC, the quality of this vase is such that nothing made in the same time period elsewhere in the world comes anywhere near its level of quality.\n\nKing says the craftsmanship was far advanced for the time period.\n\n“It is something with universal appeal. It appeals to investors not only in China, Taiwan and Hong Kong, but in Japan and America. It’s a piece that transcends all cultural boundaries.´\n\nThe vase will be taken on an international exhibition to Shanghai, Beijing, New York and Taiwan before returning to Hong Kong for the auction, which will be part of Sotheby’s Hong Kong Chinese Works of Art Spring Sales.",
+  "questions": [
+    {
+      "question": "What item is put up for auction?",
+      "options": [
+        "A 12th-century bronze vessel",
+        "A 20-centimeter tall Chinese vase",
+        "A rare painting from the Southern Song Dynasty",
+        "An ancient Japanese artifact"
+      ],
+      "answer": "A 20-centimeter tall Chinese vase"
+    },
+    {
+      "question": "Who owned the vase?",
+      "options": [
+        "A Chinese prince",
+        "A Japanese collector since 1975",
+        "The Sotheby’s auction house",
+        "An anonymous bidder from the United States"
+      ],
+      "answer": "A Japanese collector since 1975"
+    },
+    {
+      "question": "For how much did a similar piece sell for?",
+      "options": [
+        "$15 million",
+        "$27 million",
+        "$5 million",
+        "$12 million"
+      ],
+      "answer": "$27 million"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

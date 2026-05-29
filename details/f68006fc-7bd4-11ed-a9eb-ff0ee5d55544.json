@@ -1,0 +1,60 @@
+{
+  "title": "Master Musician Teaches Guitar on Street Corners",
+  "introduction": null,
+  "image": {
+    "id": "f67fc912-7bd4-11ed-a9ea-c74d49049d6d",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1FTku6zRH7maFeDh00G8gn.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Andrewa / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1Pw4bt5gj1Bs7KQECGTnQn.mpga",
+  "main_content": "South Africa abounds with musicians and has produced world-famous artists like Ladysmith Black Mambazo and Miriam Makeba.\n\nYet music lessons are no longer offered in the vast majority of the country’s public schools. The government argues that music isn’t a priority in education.\n\nThe Sidewalk Sessions initiative in Johannesburg begs to differ, and is turning underprivileged children into budding performing artists.\n\nIt’s the brainchild of Kelly Grevler, a highly accomplished young musician with university degrees in music performance and theory and the music business. She’s also completing a master’s degrees in music neuroscience and psychology.\n\nHer initiative, so far, is the work of a one-woman band. On this hot summer’s day in central Johannesburg, Grevler, sporting bright red lipstick and wearing a white vest and jeans, is teaching guitar to some children on a sidewalk under a tree.\n\nGrevler is proud that her students learn, despite the lack of resources. They bang on old guitars on a grubby pavement, seated on plastic chairs, as traffic streams past.\n\n“They are reading music. They are reading actual notes, on music notation. It is so incredible,” she said. “And this is very informal; we don’t even have equipment; we don’t have music stands; we’ve got little pieces of paper [on which she writes the music] and we just manage to do it.”\n\nShe plans to help some of her more successful pupils enroll in music schools.\n\nGrevler said her students aren’t shy to demand that she teaches them “very specific” songs on guitar.\n\n“We always do Rihanna songs; they absolutely love Rihanna. We’ve also done some Justin Bieber. We tried to do a Nicky Minaj song once, but there’s way too much swearing so I banned that song. Not happening!” she said, smiling.",
+  "questions": [
+    {
+      "question": "Why don’t public school students study music anymore?",
+      "options": [
+        "The government says music is not a priority in education.",
+        "Most parents cannot afford music lessons outside school.",
+        "Music education is not viewed as a valuable use of class time.",
+        "There are not enough qualified music instructors available."
+      ],
+      "answer": "The government says music is not a priority in education."
+    },
+    {
+      "question": "In what way can The Sidewalk Sessions initiative change children?",
+      "options": [
+        "By helping them become confident performing artists.",
+        "By providing them with formal music education in public schools.",
+        "By offering free instruments to all children in Johannesburg.",
+        "By connecting them with world-famous artists for mentorship."
+      ],
+      "answer": "By helping them become confident performing artists."
+    },
+    {
+      "question": "How is the students’ lack of resources illustrated in the article?",
+      "options": [
+        "They learn on a sidewalk under a tree with little equipment.",
+        "They are using brand-new instruments in a music classroom.",
+        "They are expected to bring their own music books every week.",
+        "They receive formal training in a fully equipped studio."
+      ],
+      "answer": "They learn on a sidewalk under a tree with little equipment."
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

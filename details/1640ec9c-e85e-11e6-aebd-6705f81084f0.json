@@ -1,0 +1,60 @@
+{
+  "title": "Study: Humans Sleep Less, Better Than Other Animals",
+  "introduction": null,
+  "image": {
+    "id": "e459cf68-0eab-11e7-b200-8337da74c828",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2hFiJntutvBZuqlu0rWPYS.jpeg",
+    "dimensions": {
+      "x": 480,
+      "y": 359
+    },
+    "attribution": "Emilian Robert Vicol from Com. Balanesti, Romania / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1mnE4W65eMT3iSUm6ctOCb.mpga",
+  "main_content": "Humans need less sleep than other mammals, yet their slumber is more efficient, said researchers at Duke University in North Carolina.\n\nIn their study, the scientists researched sleep patterns of hundreds of animals. They discovered humans sleep for shorter periods of time compared to other animals.\n\nThe study also concluded that a human’s sleep is higher quality. A deeper stage of sleep, called rapid eye movement sleep, or REM, makes up 25 percent of a human’s sleep. In primates like monkeys, REM sleep does not reach the five percent mark.\n\n“Humans are unique in having shorter, higher quality sleep,” said David Samson, a study co-author.\n\nSamson’s research team found that humans can prosper with seven hours of sleep a day. Other primates need as many as 14 to 17 hours of sleep.",
+  "questions": [
+    {
+      "question": "How many percent of the human sleep does REM make up?",
+      "options": [
+        "15 percent",
+        "20 percent",
+        "25 percent",
+        "30 percent"
+      ],
+      "answer": "25 percent"
+    },
+    {
+      "question": "Where is the Duke University?",
+      "options": [
+        "California",
+        "North Carolina",
+        "New York",
+        "Texas"
+      ],
+      "answer": "North Carolina"
+    },
+    {
+      "question": "How many percent does REM sleep make up in primates?",
+      "options": [
+        "2 percent",
+        "3 percent",
+        "5 percent",
+        "10 percent"
+      ],
+      "answer": "5 percent"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Millions in India Take Part in World Yoga Day",
+  "introduction": null,
+  "image": {
+    "id": "2fada42c-23e1-47d5-bf42-3db12fb78ac9",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1Rxzbdr4uizrj6HZIXpt61.jpeg",
+    "dimensions": {
+      "x": 640,
+      "y": 427
+    },
+    "attribution": "Joe Laurence, Seychelles News Agency / Wikimedia Commons / CC-BY-4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2oehQ6keB9opJQ6HPY0z9D.mpga",
+  "main_content": "Sprawled out in parks on colorful mats, millions of people across Indian towns and cities bent, stretched, and did breathing exercises on the second International Yoga Day.\n\nBefore joining a group of about 30,000 in the north Indian city of Chandigarh for a mass session in which he performed yoga exercises effortlessly, Indian Prime Minister Narendra Modi pitched yoga as a secular practice that promotes health.",
+  "questions": [
+    {
+      "question": "What did people in India do on the second International Yoga Day?",
+      "options": [
+        "They engaged in group meditation sessions.",
+        "They attended yoga workshops with international instructors.",
+        "They participated in mass yoga exercises in parks.",
+        "They watched yoga performances on television."
+      ],
+      "answer": "They participated in mass yoga exercises in parks."
+    },
+    {
+      "question": "What did Narendra Modi say about yoga?",
+      "options": [
+        "It is a practice primarily for spiritual enlightenment.",
+        "It is essential for achieving a balanced diet.",
+        "It is a secular practice that promotes health.",
+        "It should only be practiced indoors for better focus."
+      ],
+      "answer": "It is a secular practice that promotes health."
+    },
+    {
+      "question": "Where did Narendra Modi join about 30,000 people for a mass yoga session?",
+      "options": [
+        "New Delhi",
+        "Mumbai",
+        "Chandigarh",
+        "Jaipur"
+      ],
+      "answer": "Chandigarh"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

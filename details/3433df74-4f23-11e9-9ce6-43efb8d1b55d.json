@@ -1,0 +1,60 @@
+{
+  "title": "New Technology Lets Us Hear Famous Voice from 1880s",
+  "introduction": null,
+  "image": {
+    "id": "3433bbc0-4f23-11e9-9ce5-33be09b7ba2b",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/ruHdGuVbcAEs0sjO1348gW3tKg8InFjk6uWQUu5e7pv.jpeg",
+    "dimensions": {
+      "x": 1000,
+      "y": 843
+    },
+    "attribution": "Shutterstock",
+    "public_attribution": false,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7hVBKKt6Nx1oxPqrQvJxFX.mpga",
+  "main_content": "March 10th, is the anniversary of the first successful telephone call. Alexander Graham Bell was one of the inventors of the telephone. He completed that first call 139 years ago. He also played an important part in creating sound recordings. The National Museum of American History in Washington, D.C. recently opened an exhibition that plays sounds recorded by Mr. Bell in the 1880s.\n\n“This record has been made by Alexander Graham Bell…”\n\nThat is the only confirmed audio recording of Alexander Graham Bell’s voice. He says: “This record has been made by Alexander Graham Bell…”\n\nThe wax and cardboard disc recording was made in 1885. It captured the inventor’s words as he recited numbers for about four minutes. This is how he ended the recording:\n\n“…in witness whereof, hear my voice, Alexander Graham Bell.”\n\nCarlene Stephens is the curator of the exhibit, which is called “Hear My Voice.”\n\nThe experimental recordings were made using different techniques and materials. The materials include wax discs and glass discs.",
+  "questions": [
+    {
+      "question": "Who is Alexander Graham Bell?",
+      "options": [
+        "A renowned physicist known for his work in optics",
+        "An inventor credited with the invention of the telephone",
+        "A famous composer of classical music in the 19th century",
+        "A pioneer in the field of electrical engineering"
+      ],
+      "answer": "An inventor credited with the invention of the telephone"
+    },
+    {
+      "question": "When did Bell record his voice?",
+      "options": [
+        "In 1885",
+        "In 1890",
+        "In 1880",
+        "In 1900"
+      ],
+      "answer": "In 1885"
+    },
+    {
+      "question": "How is the exhibition that plays sounds recorded by Mr. Bell called?",
+      "options": [
+        "Voices of the Inventors",
+        "The Sound of History",
+        "Hear My Voice",
+        "Echoes of Innovation"
+      ],
+      "answer": "Hear My Voice"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Imax, 3-D Drive Hollywood Box Office in 2015",
+  "introduction": null,
+  "image": {
+    "id": "5ea71930-fee9-4419-9e2c-0bc3e6044287",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2sbdrO0yl242iUywuuOrIN.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Chemical Engineer / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/60W2z6Jw3gFO8x0LGuZ8I8.mpga",
+  "main_content": "The box-office success of the latest Star Wars installment suggests Imax and 3-D films are here to stay, along with their heftier ticket prices.\n\nMore and more big-budget films are being shot with Imax cameras and presented on gigantic screens. Practically all of [last] year’s major movie productions were offered in both formats.\n\nStar Wars: The Force Awakens, released on December 18, generated a record-setting $529 million in global box-office sales for its opening weekend. And that doesn’t include theaters in China, where the film debuts on January 9.\n\nOn its first weekend, [Jurassic World] earned a breathtaking $524 million minimum in ticket sales worldwide.\n\nImax is synonymous with big-budget, high-action thrillers.\n\nAvengers: Age of Ultron, the latest entry in the superhero franchise, has grossed $1.4 billion in worldwide sales. It was released on May 1.\n\nThe year’s top earners included other films released in both Imax and 3-D: Lionsgate’s final Hunger Games installment and Pixar’s Good Dinosaur and Inside Out.\n\nThe latter two attracted families with their witty scripts, wonderful colors and masterful animation. But not all Imax films succeed. Ron Howard’s whale of a film – In the Heart of the Sea, about the 1820 sinking of the American whaling ship Essex – underperformed at the box office even though it inspired the great American novel, Moby Dick.\n\nCritics shot it down as a tale without soul, a good example of how a story’s thrills can be lost in visual extravaganza and technical details.",
+  "questions": [
+    {
+      "question": "How well did the Star Wars movie do on its opening weekend? ",
+      "options": [
+        "It earned $500 million worldwide.",
+        "It generated $529 million in global box-office sales.",
+        "It set a record of $540 million in sales.",
+        "It was outperformed by Jurassic World."
+      ],
+      "answer": "It generated $529 million in global box-office sales."
+    },
+    {
+      "question": "What does Imax mean in the world of cinema, according to the article? ",
+      "options": [
+        "A brand of digital cameras.",
+        "A format for high-budget, high-action films.",
+        "A type of theater seating arrangement.",
+        "A special effects technique."
+      ],
+      "answer": "A format for high-budget, high-action films."
+    },
+    {
+      "question": "What was special about Good Dinosaur and Inside Out?",
+      "options": [
+        "They were both released in 2-D only.",
+        "They attracted families with their witty scripts and animation.",
+        "They were box office failures despite their quality.",
+        "They featured notable live-action performances."
+      ],
+      "answer": "They attracted families with their witty scripts and animation."
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

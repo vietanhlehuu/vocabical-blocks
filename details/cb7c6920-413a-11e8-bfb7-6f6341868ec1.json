@@ -1,0 +1,60 @@
+{
+  "title": "American English vs. British English (part 1)",
+  "introduction": null,
+  "image": {
+    "id": "cb7c30fe-413a-11e8-bfb6-3f12b017b398",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4lLUO1YkzaJS9H6q4q9y8Pfekdsr8Lwdn5GdsIZUfnZ.jpeg",
+    "dimensions": {
+      "x": 5115,
+      "y": 3632
+    },
+    "attribution": "Shutterstock",
+    "public_attribution": false,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2gOZ8c5zH3XpyUOdzbz7KX.mpga",
+  "main_content": "While people in both England and the U.S. speak English, the two types of English can be very different.\n\nFirst, there are differences in spelling. The British like the letter “u” and have kept it in many words. Americans have dropped it. Somewhere in our language history, we decided that “labor,” “color”, and “favorite” were just fine without the “u” next to the “o.”\n\nBut our differences go beyond spelling. Sometimes, we use different words entirely.\n\nHere, we live in apartments with elevators. Over there, they live in flats with lifts.\n\nWe put diapers on our babies and push them in strollers. The British love their babies just as much as we do, but they use nappies and prams instead.\n\nSome British and American idioms have the same meaning, but use different words. For example, in the U.S. if you want to add your opinion to a conversation, you put in your two cents. In the U.K., they put in their tuppence (or two pence) worth.\n\n[This article is divided into 2 parts! Read part 2 tomorrow!]",
+  "questions": [
+    {
+      "question": "Is “colour” the British or American spelling?",
+      "options": [
+        "American spelling",
+        "British spelling",
+        "Canadian spelling",
+        "Australian spelling"
+      ],
+      "answer": "British spelling"
+    },
+    {
+      "question": "What would a British person call an elevator?",
+      "options": [
+        "Lift",
+        "Staircase",
+        "Escalator",
+        "Ramp"
+      ],
+      "answer": "Lift"
+    },
+    {
+      "question": "If a British person “put in his/her two pence worth,” what would an American person do?",
+      "options": [
+        "Give a dollar",
+        "Put in their two cents",
+        "Donate a nickel",
+        "Express an opinion directly"
+      ],
+      "answer": "Put in their two cents"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

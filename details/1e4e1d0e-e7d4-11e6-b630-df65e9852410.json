@@ -1,0 +1,60 @@
+{
+  "title": "Indonesian City Bans Women from Working Late at Night",
+  "introduction": null,
+  "image": {
+    "id": "f568bf4a-45d9-4c41-bd44-303fdbea55b0",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/7T4zMVxptXlLjPDsi8fbE0.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 770
+    },
+    "attribution": "U.S. Navy photo by Photographer's Mate Airman Jordon R. Beesley / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 6,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0DSdpv9ecgc6YLUotvXPWY.mpga",
+  "main_content": "A city in Indonesia recently began enforcing a new regulation that bans women from working after 11 o’clock at night. The regulation has produced a mix of reactions among Indonesians.\n\nThe law took effect last week in Banda Aceh, the capital of Aceh Province.\n\nIlliza Sa’aduddin Djamal is the mayor of Banda Aceh. She is the city’s first female mayor.\n\nMs. Djamal says the Aceh provincial administration approved the law in early June. She says she later made a few changes, based on the situations and conditions in Banda Aceh.\n\nThe law is directed at women who work in what officials are calling recreational areas, such as Internet cafés, coffee shops and sports centers.\n\nAzriana, who like many Indonesians has only one name, is chair of Indonesia’s National Commission on Violence Against Women.\n\nShe says the new law is unnecessary because Aceh’s labor laws already control operating hours for businesses.\n\n“If the Mayor says that the number of cases of sexual violence is high, the problem is in men’s minds, not the women’s. So, restricting women’s spaces is not the answer to this problem.”",
+  "questions": [
+    {
+      "question": "When are women banned to work?",
+      "options": [
+        "After 9 o’clock in the evening",
+        "After 10 o’clock at night",
+        "After 11 o’clock at night",
+        "After midnight"
+      ],
+      "answer": "After 11 o’clock at night"
+    },
+    {
+      "question": "Who is the law directed at?",
+      "options": [
+        "Women in government offices",
+        "Women in recreational areas",
+        "Women in educational institutions",
+        "Women in the manufacturing sector"
+      ],
+      "answer": "Women in recreational areas"
+    },
+    {
+      "question": "Who says that the new law is unnecessary?",
+      "options": [
+        "Illiza Sa’aduddin Djamal",
+        "Azriana",
+        "The Aceh provincial administration",
+        "A local business owner"
+      ],
+      "answer": "Azriana"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

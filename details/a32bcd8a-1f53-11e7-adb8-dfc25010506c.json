@@ -1,0 +1,60 @@
+{
+  "title": "Japanese Red Cross: Many Still Displaced 5 Years After Tsunami",
+  "introduction": null,
+  "image": {
+    "id": "25777a94-cee3-4d3a-8939-bb0d13ced047",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/18hJigrIReeMAmDbNhLWSN.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Abasaa / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3PN0t8CpVVoBNFZmWJfcqR.mpga",
+  "main_content": "The Japanese Red Cross Society said thousands of families and elderly people are still displaced five years after the earthquake and tsunami that devastated the country’s northeast coastline and set off a meltdown at the Fukushima nuclear plant.\n\nIn a statement Thursday, the Red Cross said about 170,000 people are either housed in temporary or rented accommodations, or have moved to other parts of the country to restart their lives.\n\nIt said radioactive contamination from the Dai-ichi nuclear plant has prevented over 100,000 families from returning home. It noted that some families have been able to return, permanently or temporarily, thanks to decontamination efforts.\n\nTadateru Konoe, president of the Japanese Red Cross Society and of the International Federation of Red Cross and Red Crescent Societies, said it is the elderly who are left behind in the temporary housing while younger people move on, leaving the most vulnerable people in a community that is slowly disintegrating.\n\nThe Red Cross said it will take many more years before reconstruction is complete, and in the meantime, it continues to help with medical services, home-building, and social events and activities to help survivors maintain a sense of community.\n\nIn addition, it has set up a Nuclear Disaster Resource Center to improve community preparedness. The center makes use of learning experiences from the Fukushima disaster.",
+  "questions": [
+    {
+      "question": "What caused the displacement of thousands of Japanese families?",
+      "options": [
+        "The ongoing construction of new housing units in the northeast region.",
+        "Radioactive contamination from the Fukushima nuclear plant.",
+        "Natural disasters unrelated to the earthquake and tsunami.",
+        "Government policies that inhibit family reunification efforts."
+      ],
+      "answer": "Radioactive contamination from the Fukushima nuclear plant."
+    },
+    {
+      "question": "Why were some families allowed to return to their homes?",
+      "options": [
+        "They were granted special permissions by the government.",
+        "Decontamination efforts improved safety in their areas.",
+        "They received substantial financial support from the Red Cross.",
+        "Their homes were unaffected by the disaster."
+      ],
+      "answer": "Decontamination efforts improved safety in their areas."
+    },
+    {
+      "question": "Do young people tend to spend more time in temporary housing?",
+      "options": [
+        "Yes, they prefer the flexibility of temporary accommodations.",
+        "No, they often leave to restart their lives elsewhere.",
+        "Yes, they are waiting for permanent housing allocations.",
+        "No, they are more likely to help the elderly in temporary housing."
+      ],
+      "answer": "No, they often leave to restart their lives elsewhere."
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

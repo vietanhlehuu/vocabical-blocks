@@ -1,0 +1,60 @@
+{
+  "title": "China Meets with Latin America Over Trade, Investment",
+  "introduction": null,
+  "image": {
+    "id": "8a6cea4a-efff-11ec-9641-bf9e75169d8c",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4bmfbsyenbc2BJukZA8HJ3.jpeg",
+    "dimensions": {
+      "x": 800,
+      "y": 533
+    },
+    "attribution": "User: Tm / www.flickr.com / CC-BY-2.0\n",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4jF1UoH9rMSEnWjEMqXlnG.mpga",
+  "main_content": "Latin American and Chinese officials have opened two days of talks on trade and investment. The first China/Latin America and the Caribbean Foreign Ministers’ forum is taking place in China’s capital, Beijing.\n\nFour heads of government, including the presidents of Ecuador and Venezuela, traveled to China for the opening ceremony. On Thursday, they and 30 ministers heard President Xi Jinping set a trade goal of $500 billion dollars in 10 years. He also said he expects China’s direct investment to reach $250 billion dollars in the next 10 years. Mr. Xi visited Latin America last year.\n\nTrade between China and Latin America has jumped from $10 billion in 2000 to $257 billion by 2013. Oil, copper, iron ore, soybeans and fresh fruit are among the goods traded.\n\nBefore the meeting, the Chinese president restated his support for Venezuela in its efforts at reforms. The South American nation receives almost all of its foreign currency from oil exports.\n\nVenezuelan President Nicolas Maduro met Wednesday in Beijing with President Xi. Mr. Maduro said he secured a promise of $20 billion in new Chinese investment in the country.\n\nLast July, officials from China and four other countries met to discuss creation of a new bank. The four were Brazil, India, Russia and South Africa.\n\nThe officials discussed what has been called the New Development Bank. It would lend money to developing nations in the same way as the International Monetary Fund does.",
+  "questions": [
+    {
+      "question": "Who is the president of Venezuela?",
+      "options": [
+        "Hugo Chavez",
+        "Nicolas Maduro",
+        "Juan Guaido",
+        "Rafael Correa"
+      ],
+      "answer": "Nicolas Maduro"
+    },
+    {
+      "question": "What trade goal did president Xi Jinping set?",
+      "options": [
+        "$250 billion in 5 years",
+        "$500 billion in 10 years",
+        "$1 trillion in 15 years",
+        "$400 billion in 8 years"
+      ],
+      "answer": "$500 billion in 10 years"
+    },
+    {
+      "question": "Which countries met to discuss creation of a new bank?",
+      "options": [
+        "China, Mexico, Argentina, Colombia",
+        "Brazil, India, Russia, South Africa",
+        "United States, Canada, Australia, New Zealand",
+        "Germany, France, Italy, Spain"
+      ],
+      "answer": "Brazil, India, Russia, South Africa"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

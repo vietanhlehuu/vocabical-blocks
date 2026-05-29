@@ -1,0 +1,60 @@
+{
+  "title": "Hollywood Studios Roll Out Big Budget Flicks",
+  "introduction": null,
+  "image": {
+    "id": "c5ccf871-7f07-4c1a-9a38-d219403b4a54",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/61F9vlNBSTKA3P6F6veFFc.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Mateusz Kudła / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7To2qVKOtu94MjPbdwab8y.mpga",
+  "main_content": "Every summer, big Hollywood studios roll out big budget flicks, rich in special effects and celebrity actors. These blockbusters attract large audiences to multiplex and luxury movie theaters. Revenues from domestic and international ticket sales of these movie behemoths reach the billions of dollars.\n\nThe trend for summer superflicks started forty years ago with Jaws.\n\nFilmmaker Steven Spielberg scared summer vacationers with this suspenseful shark attack story featuring a terrifying great white, a killing machine. Jaws raked in half a billion dollars worldwide, making it the highest grossing film of its time.\n\nIn San Andreas, a massive earthquake threatens to devour California and action superstar Dwayne “The Rock” Johnson plays a rescue pilot battling against time to save his daughter, while in the process saving everyone else lucky enough to be in his path. The exceptional 3D visuals make up for what is, to say the least, a mediocre script. In its opening weekend, San Andreas grossed over $50 million, while Marvel’s latest superhero flick, The Avengers:Age of Ultron, a $250 million production, has so far brought in over a billion dollars worldwide. Disaster films are Hollywood’s major export as they cross cultural barriers and can excite any audience, while top stars such as The Avengers’ Robert Downey Jr, Scarlett Johansson and Chris Hemsworth are bankable the world over.\n\nIn Terminator Genysis, the fifth installment of the Terminator franchise, Arnold Schwarzenegger, soon to be 70, plays the iconic terminator-turned-savior-of-humanity, and proves he can still carry his weight and bring the masses to the theaters.",
+  "questions": [
+    {
+      "question": "How much money do summer blockbusters make?",
+      "options": [
+        "From several million to hundreds of millions annually",
+        "Revenues often reach billions of dollars",
+        "They usually break even with their production costs",
+        "Less than what is spent on production"
+      ],
+      "answer": "Revenues often reach billions of dollars"
+    },
+    {
+      "question": "What does the article say about the movie Jaws and its director, Steven Spielberg?",
+      "options": [
+        "Jaws was the first blockbuster movie ever created",
+        "Steven Spielberg directed Jaws which made half a billion dollars",
+        "Jaws focused on science fiction themes and had little realism",
+        "The film Jaws featured multiple sequels that outperformed the original"
+      ],
+      "answer": "Steven Spielberg directed Jaws which made half a billion dollars"
+    },
+    {
+      "question": "What character does Dwayne Johnson play in the movie San Andreas?",
+      "options": [
+        "A disaster movie planner",
+        "A rescue pilot saving civilians",
+        "A leading scientist studying earthquakes",
+        "A government official coordinating disaster response"
+      ],
+      "answer": "A rescue pilot saving civilians"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

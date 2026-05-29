@@ -1,0 +1,2509 @@
+[
+  {
+    "id": "c260e946-3c78-11e7-b5a5-1f7d81b55241",
+    "title": "Oliver Stone to Direct Film on Snowden",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "5328f5a0-3c78-11e7-8c01-1f22f03b8b7b",
+    "title": "Gaming Industry Breaks Gender Barriers in Pakistan",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "4e6aade2-3c78-11e7-ba69-5fddd98de705",
+    "title": "Mobile Games Becoming Multi-Billion-Dollar Industry",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "f44db972-3c76-11e7-a096-97c084298005",
+    "title": "Russia, Ukraine Fail to Reach Gas Deal as Deadline Looms",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "9a9ee526-3c77-11e7-9003-7705eda6f7f9",
+    "title": "Putin Orders Russian Troops on ‘Full Combat Alert’",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "8d045fa4-3c77-11e7-8a73-3f3be9bd0e0c",
+    "title": "Japan, Philippines Reaffirm Defense Ties",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "ac627c9a-3c78-11e7-bb5c-dfcfab549b73",
+    "title": "White House Seeks $500M to Equip, Train Syrian Opposition",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "d0963758-ed33-11e6-b8af-f79858db7af2",
+    "title": "US, Europe Demand Harsher Russia Sanctions",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "749c5efc-3c78-11e7-911d-235eb572a3e2",
+    "title": "Russia Ordered to Pay $50 Billion in Yukos Case",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "5d8d33b8-3c77-11e7-ba43-bf98f9e52537",
+    "title": "Japanese Economy Sees Worst Quarterly Decline Since 2011",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "1a360dba-3c77-11e7-a0a4-93048b41e21e",
+    "title": "27 Dead in Japan Landslides",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "8502eae4-ecf8-11ee-b7cf-e79733f2303f",
+    "title": "Hamas: Israeli Airstrikes Kill 3 Senior Commanders",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "433a7ac0-e941-11ed-a995-cbed96f51db5",
+    "title": "Actor Jackie Chan ‘Ashamed’ About Son’s Drug Arrest",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "1607a20c-3c78-11e7-8f6d-27d6e2dfdedf",
+    "title": "China Executes 8 on Terrorism Convictions",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "0aeb6a84-3c78-11e7-9074-eb97cd19df99",
+    "title": "Japan Court Rules against TEPCO in Suicide Case",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "f67d7cd0-3c78-11e7-b1a7-abea80cd4110",
+    "title": "Australia ‘Refines’ Search for Missing Malaysian Plane",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "eff9a53c-3c78-11e7-a226-2b8368f23f43",
+    "title": "Hong Kong Officials Raid Home of Media Mogul Critical of Beijing",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "e99dafee-3c78-11e7-b616-c3d404bd8ef8",
+    "title": "Malaysia Airlines to Cut Staff, Routes",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "e1950884-3c77-11e7-baa2-d791cb0af0b6",
+    "title": "Scientists: Coffee and Naps – the Best Combination",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "71a0291a-da9f-11ed-b7e8-275057a2e841",
+    "title": "UN Chief: Political Dialogue Solution to Ukraine Crisis",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "f62c11ea-3bc6-11e7-8c67-1b6397a52698",
+    "title": "Turkey Accuses 33 Police of Plotting to Overthrow Government",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "e78db440-3bc6-11e7-9ee6-33095efead39",
+    "title": "Belief About Source of Intelligence Affects Effort",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "01993912-9d45-11ef-b70f-9f1bf2297dec",
+    "title": "Scientists Decipher Genome of Coffee Plant",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "afa4e228-3c76-11e7-a027-738e97503d87",
+    "title": "Biden: Middle Class Not Feeling Economic Revival",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "3a6cc5c4-62da-11ea-b980-9f1ecbc6e8eb",
+    "title": "Scientists ‘Unveil’ First Semi-aquatic Dinosaur",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "ae38fb84-370f-11e7-bff6-e35d9d7df6f4",
+    "title": "Report: NASA Failing in Mission to Find Dangerous Asteroids Near Earth",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "aa288bf4-370f-11e7-b5f0-a76f7bbecf6e",
+    "title": "Global Population Predicted to Reach Nearly 11 Billion by 2100",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "a83d908c-370f-11e7-8e7e-67a309261cc0",
+    "title": "World’s Rich Get Their Own Facebook",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "687d9514-370f-11e7-8585-63182864a4b9",
+    "title": "New Hints That Dark Matter Exists",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "65f3502c-370f-11e7-8e24-2b8e3ddf4b47",
+    "title": "This Year’s Most Trivial Scientific Research",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "6ad5e526-33e2-11e7-9c6f-2f39b6898cd3",
+    "title": "US: Hackers Steal Xbox Technology, Army Training Software",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "e61f4462-33e1-11e7-87e2-8b5c91af4a9c",
+    "title": "Air Travelers Train for Emergency Situations",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "bd39b9e2-33e1-11e7-a869-bb15551bb1d2",
+    "title": "Loss of Ice Forces Walruses to Dry Shores",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "bb7f754c-33e1-11e7-a4c1-eba7958f56e7",
+    "title": "Three Share Nobel Prize for Discovering Brain’s Navigation",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "b88b91ae-33e1-11e7-af03-ffc45cdc9e61",
+    "title": "Inventors of Energy-Saving Light Source Win 2014 Nobel Prize in Physics",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "66a434b8-3102-11e7-939e-4fa931721e3c",
+    "title": "North American, Asians Treated to ‘Blood Moon’",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "65a758a6-3102-11e7-bd4e-332f6f59dd35",
+    "title": "Oakland Artist Creates Small Homes for Homeless",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "37322352-d26b-11eb-83a1-236fb7b0e087",
+    "title": "Schwarzenegger Pushes for Action at Paris Climate Meeting",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "76c5cdf8-62db-11ea-ba32-f3dd35586fc8",
+    "title": "Contest Seeks to Crown World’s Funniest Person",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "c792493a-3103-11e7-b209-dfaf68ab7864",
+    "title": "Scientists Build Robots to Live With Humans",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "3d968f62-62dc-11ea-8d03-cb3f539908a4",
+    "title": "Network-Sharing System Improves Internet, Cell Phone Connections",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "be9a9f58-3103-11e7-8dee-5b49e6364144",
+    "title": "Most Eurozone Banks Deemed Financially Healthy",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "bcf2b12c-3103-11e7-8aaa-7b7a6ec6f6f1",
+    "title": "Solar Power Plant in Africa to Supply Europe",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "fb115c34-62dc-11ea-9b4a-d32fdc526319",
+    "title": "Modern Technology Helping Weather Predictions",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "f9f2d1f2-3102-11e7-ba35-df80a3995c17",
+    "title": "China to Punish Communist Officials Who Support Dalai Lama",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "ae4bee98-62df-11ea-9031-7b1baa977c62",
+    "title": "Lorde Releases Single for ‘Hunger Games’ Soundtrack",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "a13102b4-3102-11e7-8df2-9b840410f8d8",
+    "title": "Study: On Leaders’ Looks, People Choose Healthy Over Brainy",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "9c063e80-3102-11e7-98c6-33e7b85a33e0",
+    "title": "Dutch Experiment Shows Farming With Salty Water Possible",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "1685cd74-e3ba-11e6-91ed-9350a735f3fc",
+    "title": "Chinese Firm Pays Record Price for Waldorf Astoria",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "a881be36-e3ba-11e6-9534-cbec3a5c0c27",
+    "title": "How to Weather a Solar Storm",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "7d338c70-bf1a-11ea-93d9-bf66fdd2aabf",
+    "title": "WHO: World Must Prepare for Aging Population",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "9228603c-3102-11e7-9a55-6fb632d0feec",
+    "title": "World Oil Prices Plunge Again to Multi-year Lows",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "7162587e-01bd-11ef-bca2-bfe5cf1fddc7",
+    "title": "Rubik’s Cube Finally in Toy Hall of Fame",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "8b79406c-3102-11e7-aee6-2724f15e6827",
+    "title": "Russian Ruble Continues to Fall",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "6782ca78-e3c0-11e6-96f9-bbb468f40993",
+    "title": "Fiber Optic Cable Measures Antarctic Ice Melt",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "2e98d4c2-e3c1-11e6-aa8d-87eafe77d7ba",
+    "title": "Scientists Design Chips to Act Like Human Organs",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "6107722a-2ffb-11e7-97b6-ff0a6063bb9c",
+    "title": "100,000 Workers Protest Belgian Austerity Measures",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "5fa7bdb8-2ffb-11e7-9849-8ffe662d6082",
+    "title": "US Scientists Build the Smallest Particle Accelerator",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "ec9813b0-2f3a-11e7-9272-b71d620f618c",
+    "title": "Scientists Interface Human Brains Over Internet",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "988b366c-2f3a-11e7-9773-67fd20cde1dd",
+    "title": "Murder-for-Hire Charge Dropped Against AC/DC Drummer",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "42d384a2-7617-11ed-af85-43428a3a8647",
+    "title": "Holding a Paintbrush Instead of a Gun",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "7af7daa8-2ffb-11e7-98a1-abea17e53271",
+    "title": "Satellites Discover Amazon’s Isolated Tribes",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "8f6f230e-2f3a-11e7-b490-63e56e5d9093",
+    "title": "Japan Slips Into Recession",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "8dd729ec-2f3a-11e7-921b-23982c59bd9e",
+    "title": "Flying Cell Towers Monitor US Phones",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "46022bb6-e6bb-11e6-bf5f-132096b53085",
+    "title": "Apple 1: Old Technology, New Record",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "bb860304-2f3a-11e7-a920-ab6731ce3a55",
+    "title": "Japanese PM Dissolves Lower House of Parliament",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "aa2d9dc6-77e2-11ea-b35d-b7d51d206359",
+    "title": "US Retailers Upbeat About Holiday Sales",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "b87b7bf8-2f3a-11e7-97eb-030b3b505dd7",
+    "title": "Obama Spares Turkeys in White House Thanksgiving Tradition",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "b63dd584-2f3a-11e7-aabc-2bbc41113f0e",
+    "title": "Danish Man Fined for Selling Spyware App in US",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "b4f3934e-2f3a-11e7-bd1c-8b047ba042ac",
+    "title": "Japan Urges N. Korea to Provide Update on Abductee Probe",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "33c41e74-e485-11e6-a4a8-17374070e05d",
+    "title": "Snake Robot Acts Like Real Snake",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "14d94c94-ec7a-11e6-97e4-a7512b863422",
+    "title": "Obama, Prince William Chat in Oval Office",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "b3a56b20-2f3a-11e7-9732-97972bc0aba2",
+    "title": "US Returns Looted Ancient Artifacts to Thailand",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "9a5764de-2f3a-11e7-96cb-7bf98988eb9e",
+    "title": "Microsoft Employs Robots as Security Guards",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "5acd9e34-e488-11e6-99f5-2324b34511ca",
+    "title": "Spacecraft Makes Historic Landing on a Comet",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "7d8acf70-e486-11e6-a530-4359902fbf3d",
+    "title": "Japan to Ease Restrictions on its Military",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "9cc838b8-2e74-11e7-aba3-f3b690644dae",
+    "title": "Last Remaining Hong Kong Protest Sites to Be Cleared",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "1a41bf54-e487-11e6-995f-f7ab995420df",
+    "title": "Obama Orders Changes to US Immigration Policy",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "64ed761a-2e74-11e7-bd4b-0b3a96925a9e",
+    "title": "Los Angeles Christmas, A Feast for the Senses",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "78c0c26e-e487-11e6-a1ef-cb5516a0007d",
+    "title": "US Hosts Record Number of Foreign Students",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "bc990096-e487-11e6-9fc6-4b34414e9d40",
+    "title": "South Korea Attempting to Reuse More E-Waste",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "74fe35f0-bfd8-11ea-a782-5f087fd30da1",
+    "title": "Understanding of English Improves Worldwide",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "62af77ae-2e74-11e7-9194-8fb14481d2c7",
+    "title": "More US Shoppers Shifting to ECommerce",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "0529e5e0-63a2-11ea-8a3d-13b13d7e8ce5",
+    "title": "Pope Francis Holds Christmas Eve Mass",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "e2ba52c8-63a2-11ea-a694-eb0773996fef",
+    "title": "Hoverboards Ignore Gravity",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "79f6a0ae-e48c-11e6-a32e-83c7dbc84792",
+    "title": "Surgery Safaris: Looking for the Perfect Body",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "406eb830-2e74-11e7-9107-5bc774c31a81",
+    "title": "Search for Missing AirAsia Jet Suspended for Night",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "b549fc0a-e48c-11e6-9e18-b7846065db27",
+    "title": "Disagreement Over Lower Mekong River Dam Project",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "05aa7250-11d1-11ef-8415-73b7c8448f68",
+    "title": "US, Japan, S. Korea to Share Intel on N. Korea",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "ae837ea0-2e74-11e7-8c20-e3260ff24a35",
+    "title": "‘The Interview’ Pulls in $1 Million at Theaters, Sony Says",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "af92ab7c-2e74-11e7-a7fc-bf829c8ce043",
+    "title": "Italy Recovers Black Box From Burned Car Ferry",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "b3c73730-2e74-11e7-a289-6b4fdbc3fa67",
+    "title": "Gmail Blocked in China",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "e3998f10-bfd7-11ea-b0e9-373b74be0aa1",
+    "title": "Researchers Create Artificial Skin With Sense of Touch",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "1161fdbc-28f8-11e7-87e6-c3618d6e5a59",
+    "title": "Searchers Detect Signals from AirAsia Plane’s Black Boxes",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "12c5e074-28f8-11e7-91e6-97d1f7bdb002",
+    "title": "Simple New Test Detects Early Signs of Diabetes",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "35076da6-28f8-11e7-9fc9-932ba23c0c50",
+    "title": "UN Official: Weather Disasters Occurring More Frequently",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "b53c10ce-28f5-11e7-ba69-471b5b96904e",
+    "title": "Japan Unveils Largest Ever Defense Budget",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "694d84d8-28f8-11e7-8516-8fb3d8cdb66e",
+    "title": "FBI: Sony Hackers ‘Sloppy,’ Used North Korean Servers",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "6d3580a0-28f8-11e7-8bff-97297de0692f",
+    "title": "EU Official: US Mass Surveillance is a Business Problem",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "ccebec6a-db2c-11f0-aa00-7b4724a5486f",
+    "title": "Japan Demands IS Release Hostages",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "16fd6a54-ee06-11e6-a63b-8f6322f578a4",
+    "title": "Oxfam: Richest 1% to Own Half the World’s Wealth by 2016",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "524df1f0-ee06-11e6-887f-372bf954af26",
+    "title": "Vietnam Detains Another Blogger for Anti-state Posts",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "90a1393a-28f8-11e7-9803-5362f01ef29d",
+    "title": "US Northeast Braces for Heavy Winter Storm",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "91d819a4-28f8-11e7-9982-3b0fc0f10699",
+    "title": "Hostage Crisis Could Divide Japan Over Plans to Boost Military",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "a6cb9450-ecf8-11ee-82be-4f925eeedb45",
+    "title": "Japan, US Decry Latest Beheading by Islamic State",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "b03307ba-28f8-11e7-88ec-97331cb88287",
+    "title": "Italian Police Crack Down on Organized Crime",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "b1e40c1c-28f8-11e7-987a-f7dd4ab14ba9",
+    "title": "AirAsia 8501 Ascended, Then Stalled Before Crash",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "b35b1c48-28f8-11e7-915d-5b0a699fa99d",
+    "title": "Super Bowl Breaks US TV Viewing Record",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "b544ca72-28f8-11e7-86fd-07c2eea02681",
+    "title": "As Innovation Lags, Taiwan to Retool University Entrance Exams",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "b878d9d6-28f8-11e7-98d5-b3225bd968f3",
+    "title": "Astronomers Spot Oldest Known Star",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "14d15c94-28f9-11e7-b014-7bb7722dcc96",
+    "title": "New Camera Records Invisible Motion",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "14200220-eeb9-11e6-80d2-eb8970c3a584",
+    "title": "TransAsia, Families of Crash Victims Discuss Compensation",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "e243fd72-28f8-11e7-aea8-67e651691d2a",
+    "title": "Oil Price Drop Has Mixed Effects on Texas",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "e4356a30-28f8-11e7-8c5e-77ebd801380e",
+    "title": "Obama: Everyone Who Works Hard Should Get Ahead",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "e59a820c-28f8-11e7-877c-3b448ba7715a",
+    "title": "Germany’s Merkel Rejects Demands to Cancel More Greek Debt",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "e8a60b60-28f8-11e7-87ec-d7766d5d1633",
+    "title": "Poll: Third of Russians Say Sanctions Causing Problems",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "ea50768a-28f8-11e7-8e33-db92b66b58e5",
+    "title": "Gauguin Painting Sells for Nearly $300 Million",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "16272452-28f9-11e7-96ed-47e8ef261f08",
+    "title": "New Material Promises Faster Computer Chips",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "17d410e4-28f9-11e7-bbf9-03bc38cce66f",
+    "title": "Chinese Leader to Make US State Visit",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "4ccc2434-2436-11e7-be94-27fcece7be0c",
+    "title": "Tech Leaders Rank High Among 2014’s Biggest Philanthropists",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "cf26e8ca-2435-11e7-925e-27fef2a0e67e",
+    "title": "Philippines Looks to Geothermal Power to Address Energy Deficit",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "8e747496-eebb-11e6-bcc8-13ef33f2ab26",
+    "title": "Japan Pledges $15.5 Million in Anti-Terror Funds",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "c88ae8b8-2435-11e7-a753-1b01ed244b05",
+    "title": "Cyclones Smash Australia",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "cb484bf4-2435-11e7-a76a-bf8d93fd366d",
+    "title": "‘Birdman’ Takes Top Prize at Oscars",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "2b079f2c-2436-11e7-be8a-537fa4ff7e00",
+    "title": "Novel HIV Vaccine Prevents Disease in Monkeys",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "23727d2c-2436-11e7-bb48-33c77bfe21b0",
+    "title": "Oscar Shout-Out Encourages Protesters in Hong Kong",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "2552bf30-2436-11e7-bf7a-1b3e5ac8c0bc",
+    "title": "New Tool Maps Buildings’ Energy Efficiency",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "26b53006-2436-11e7-8a94-179df534e113",
+    "title": "US Regulators Approve ‘Net Neutrality’ for Internet Providers",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "277ca5b4-2436-11e7-a5c9-6bc7610f0243",
+    "title": "US Will Look to China, Japan for Help Against IS",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "fc7057c4-e7a6-11e6-9154-db9a48fcac19",
+    "title": "India to Change a Culture of Valuing Boys over Girls",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "e9c22848-2435-11e7-a7d4-dfc0403bf8e6",
+    "title": "US Consumer Prices Drop",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "efdd388a-2435-11e7-aee9-bfa870f80d8d",
+    "title": "Philippines Call Center Workers Face Challenges",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "e6c0af0e-e7a7-11e6-a4b1-937e6818c944",
+    "title": "A New Camera Records Invisible Motion",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "220cf8de-18f2-11ed-aff4-67161b3b245b",
+    "title": "Rare Chinese Vase Set to Fetch Record Price",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "1bd887a6-e7a9-11e6-9291-b718cdf0d56e",
+    "title": "Power Outages Renew Interest in Renewable Energy",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "b8d97392-2360-11e7-bd6e-9bfb1e96d48c",
+    "title": "Filipinos Debate Link Between Guns, Violent Crime",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "f6a3a71a-2360-11e7-9b2c-cb4ec60d9d00",
+    "title": "Obama Radio Address: Let Girls Learn",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "74696aba-e7aa-11e6-8f7c-d71d3537ad06",
+    "title": "Understanding the Misunderstood Teenage Brain",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "faef8140-2360-11e7-8183-17efb3eb01bf",
+    "title": "Solar Plane Completes First Leg of World Tour",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "fc9521ee-2360-11e7-899c-ff1c2c0456b3",
+    "title": "Popular US Circus to Phase Out Elephant Acts",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "1853234a-2361-11e7-bc40-47eb70fc0dc0",
+    "title": "US Embassies to Monitor Air Quality",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "9f3b8218-ec92-11e6-930e-c37e560fed21",
+    "title": "Obama: College Has Never Been More Important",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "a1c4ffec-e85e-11e6-b77a-7ffcb8c0928f",
+    "title": "China Stopped Using Organs from Executed Prisoners",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "d5828038-2360-11e7-b042-dfdbf52a158e",
+    "title": "FCC Chairman: Regulate Internet Like Public Utility",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "baf868a4-e7c9-11e6-a75d-8b170c317efb",
+    "title": "Mob Museum Tells About the Mafia in America",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "8ad1f462-e853-11e6-bd00-af6ddc5bde5f",
+    "title": "High-Tech Material Cools Buildings, Sends Heat Into Space",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "d725d782-2360-11e7-ad24-9b1ff7ce6517",
+    "title": "Scientists Aim to Boost Efficiency of Wind Farms",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "9fd17c34-e853-11e6-a786-b31dfd609e00",
+    "title": "Robots Go To Work for Dentists and Patients",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "4f51182e-ec94-11e6-adf8-7fcfb611e5e7",
+    "title": "AeroMobil Says Flying Car Available by 2017",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "f4473e3c-bf25-11ea-86e9-833089fe3846",
+    "title": "Japan Supports US-Led Girls Education Effort, Faces Gender Gap",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "b769874e-7617-11ed-b7ed-6bd8b934e14d",
+    "title": "UK Group Brings Eyeglasses to Rwanda",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "219a64ae-2361-11e7-9c5d-23c698dc68c4",
+    "title": "Japan Arrests Suspect in US Embassy Threats",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "2272574c-2361-11e7-b088-13885a221274",
+    "title": "Pope Urges Residents of Naples to Resist Organized Crime",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "23a36688-2361-11e7-91c7-772a6f934657",
+    "title": "3-D Printer Can Make Billions of Chemical Compounds",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "27caa3a4-99a9-11ea-aaeb-1bc0d39c4bf2",
+    "title": "Search Resumes in Germanwings Crash in the Alps",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "5dba3e8a-413a-11e8-8f13-13b4a5fb0999",
+    "title": "Sri Lankan-American Gives Back to Home Country",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "aacde85e-2361-11e7-aa84-cf0c3595d224",
+    "title": "Documentary Tells of Last Astronaut to Walk on Moon",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "cd87212e-413a-11e8-ba4c-b7367758e4e5",
+    "title": "Small Beer Brewers Gaining Popularity in US",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "ee4d44e0-6471-11ea-9950-f75fe5bdb66a",
+    "title": "Volunteers Get Taste of Mars in Hawaii",
+    "level": 7,
+    "questions_processed": true
+  },
+  {
+    "id": "06b0cf38-2362-11e7-8ab3-3f849dbc63cb",
+    "title": "China: Google Website Security Move ‘Unacceptable’",
+    "level": 7,
+    "questions_processed": true
+  },
+  {
+    "id": "3b49c58e-2361-11e7-8653-9f868eaf6f33",
+    "title": "New Laser Heals Wounds Faster, Without Scarring",
+    "level": 8,
+    "questions_processed": true
+  },
+  {
+    "id": "6582f168-e856-11e6-914e-1b38d00fcf68",
+    "title": "Worms Get Ready to Fly in Space",
+    "level": 7,
+    "questions_processed": true
+  },
+  {
+    "id": "2efd9dca-e85e-11e6-985f-8b6156735604",
+    "title": "Digital or Print? How Do You Read Books?",
+    "level": 7,
+    "questions_processed": true
+  },
+  {
+    "id": "dcfb16ee-e856-11e6-bf94-bff2fb17620a",
+    "title": "Graphene: The Material of the 21st Century",
+    "level": 7,
+    "questions_processed": true
+  },
+  {
+    "id": "44da8296-2361-11e7-8209-23008991d5c2",
+    "title": "California Shifts Water Use in Face of Drought",
+    "level": 8,
+    "questions_processed": true
+  },
+  {
+    "id": "47602c18-e857-11e6-ab44-337f1005e2b4",
+    "title": "Too Much Gaming is a Pain in the Neck",
+    "level": 7,
+    "questions_processed": true
+  },
+  {
+    "id": "dc9d49b0-2361-11e7-afc2-dbbd96f88a3e",
+    "title": "Cherry Blossoms Are Signs of Spring, Hope in Washington",
+    "level": 8,
+    "questions_processed": true
+  },
+  {
+    "id": "0b942234-6473-11ea-a5e1-a708b039c313",
+    "title": "Remembering First Man in Space 54 Years Ago",
+    "level": 7,
+    "questions_processed": true
+  },
+  {
+    "id": "df3cc54c-2361-11e7-8b2e-07529c86b0fb",
+    "title": "EU Accuses Google of Abusing Its Internet Search Dominance",
+    "level": 7,
+    "questions_processed": true
+  },
+  {
+    "id": "2a6ec5be-6474-11ea-a69e-aba6e64bdfc4",
+    "title": "Japan Court Halts Restart of 2 Reactors",
+    "level": 7,
+    "questions_processed": true
+  },
+  {
+    "id": "b533536e-e857-11e6-b394-57d0fdad633c",
+    "title": "Robot Scientist Helps Design New Drugs",
+    "level": 7,
+    "questions_processed": true
+  },
+  {
+    "id": "5f70180a-2361-11e7-acf9-a3cbb7d1700d",
+    "title": "US CEO Cuts Own Pay, Ups Employees’ to $70K a Year",
+    "level": 7,
+    "questions_processed": true
+  },
+  {
+    "id": "ba7c08c8-73c5-11ea-9b46-07fbb02cae70",
+    "title": "Japan’s Maglev Train Breaks Own Speed Record",
+    "level": 8,
+    "questions_processed": true
+  },
+  {
+    "id": "65d8fd38-2361-11e7-9b91-e78bdcbc831b",
+    "title": "Study: Common Hormone Plays Role in Canine-Human Bond",
+    "level": 8,
+    "questions_processed": true
+  },
+  {
+    "id": "676c0686-2361-11e7-af6f-c34df8a86cf3",
+    "title": "Scientists Create ‘Touchable’ Virtual Objects",
+    "level": 8,
+    "questions_processed": true
+  },
+  {
+    "id": "4adb1582-e858-11e6-97d1-ebef1dda6823",
+    "title": "Technology Center in Moscow Seeks Western Companies",
+    "level": 7,
+    "questions_processed": true
+  },
+  {
+    "id": "74f5820a-1ed4-11e7-bef9-6764c1022a8a",
+    "title": "Why Nepal? Science Explains Devastating Earthquake",
+    "level": 8,
+    "questions_processed": true
+  },
+  {
+    "id": "c6113104-1efa-11e7-b87e-033de8549e95",
+    "title": "Music Industry Under Sway of Digital Revolution",
+    "level": 7,
+    "questions_processed": true
+  },
+  {
+    "id": "45d7a5c8-cc13-11ed-a65b-23ac054cd8a7",
+    "title": "In Australia, Tibetan Immigrants Learn to Swim",
+    "level": 7,
+    "questions_processed": true
+  },
+  {
+    "id": "3908de42-7828-11e7-b414-87b7d3538034",
+    "title": "Data Servers Could Heat Private Homes",
+    "level": 8,
+    "questions_processed": true
+  },
+  {
+    "id": "2580c726-e797-11e6-acf9-dbe82be5113b",
+    "title": "Women Seek to Join US Army Rangers",
+    "level": 8,
+    "questions_processed": true
+  },
+  {
+    "id": "fe37839e-edf9-11e6-99f5-e310fa9509d2",
+    "title": "US Energy Agency Announces Wave Energy Prize Competition",
+    "level": 7,
+    "questions_processed": true
+  },
+  {
+    "id": "a9110aa6-1efb-11e7-bead-c32c4da47a57",
+    "title": "Google Opens First Asia Campus in High-Tech Seoul",
+    "level": 7,
+    "questions_processed": true
+  },
+  {
+    "id": "8c9b9e48-e799-11e6-ae51-d7e741f066de",
+    "title": "Is Secondhand Smoke Child Abuse?",
+    "level": 7,
+    "questions_processed": true
+  },
+  {
+    "id": "631512b6-1efd-11e7-85f3-676d30e89e26",
+    "title": "New Book Sheds Light on Steve Jobs’ Legacy",
+    "level": 8,
+    "questions_processed": true
+  },
+  {
+    "id": "688f2d26-1efd-11e7-a5b1-1f7ede13f5e9",
+    "title": "Blues Legend B.B. King Dead at 89",
+    "level": 7,
+    "questions_processed": true
+  },
+  {
+    "id": "6a239f0a-1efd-11e7-bb38-2bf1b000c5d8",
+    "title": "Amazon Gets Patent for Drone Deliveries",
+    "level": 7,
+    "questions_processed": true
+  },
+  {
+    "id": "e256ec00-1efa-11e7-961c-735fd3c2ba06",
+    "title": "World’s First Braille Phone Trial Begins in Australia",
+    "level": 8
+  },
+  {
+    "id": "be8373b0-1efb-11e7-b7e4-233162b814fd",
+    "title": "NASA: Big Antarctica Ice Shelf Is Disintegrating",
+    "level": 7
+  },
+  {
+    "id": "c7e5f608-1efb-11e7-8f25-7b86b66833f3",
+    "title": "State of Emergency Declared for California Oil Spill",
+    "level": 7
+  },
+  {
+    "id": "cb1bd6c6-1efb-11e7-b43a-979090d16b95",
+    "title": "NY Times: Justice Dept. Finds ‘Criminal Wrongdoing’ at GM",
+    "level": 7
+  },
+  {
+    "id": "8b224846-1f52-11e7-b9df-1b4aa0fc349a",
+    "title": "US, Swiss Authorities Unveil Major FIFA Corruption Cases",
+    "level": 7
+  },
+  {
+    "id": "a5916a04-73c8-11ea-8c48-5b4f61d87e81",
+    "title": "Japanese Island Evacuated After Volcanic Eruption",
+    "level": 8
+  },
+  {
+    "id": "e0feb830-1f52-11e7-8370-17a18a2db8de",
+    "title": "Low Oil Prices Challenge China’s Fight Against Pollution",
+    "level": 8
+  },
+  {
+    "id": "ee33c618-2b85-11e8-b73c-fbae25be2d18",
+    "title": "Bad Weather Forces Solar Plane to Land in Japan",
+    "level": 7
+  },
+  {
+    "id": "03d7ba84-1ed4-11e7-929d-3b81049e5620",
+    "title": "Children in Quake Hit Nepal Return to School",
+    "level": 7
+  },
+  {
+    "id": "e5297940-1f52-11e7-98f7-df056ac55b61",
+    "title": "Harvard Gets $400 Million Gift, Biggest Ever",
+    "level": 8
+  },
+  {
+    "id": "04925ca0-1efb-11e7-81cb-0f9e48e1eb31",
+    "title": "Scientists Develop Robots That Adapt to Damage, Keep Working",
+    "level": 8
+  },
+  {
+    "id": "069db0bc-1efb-11e7-b3d5-db442232b73d",
+    "title": "Heat-resistant Glassware Celebrates 100th Anniversary",
+    "level": 7
+  },
+  {
+    "id": "9752b78a-73c9-11ea-baa1-37fa18309737",
+    "title": "Test Using Drop of Blood Can Reveal Person’s Viral Infection History",
+    "level": 7
+  },
+  {
+    "id": "1b340204-ee0b-11e6-af21-ef2963288e6f",
+    "title": "Poll: Eight in 10 Worry About Climate Change",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "57774a1a-1efc-11e7-9978-9394fe870f6b",
+    "title": "Hollywood Studios Roll Out Big Budget Flicks",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "ddaa8af8-1efb-11e7-b89d-7fd82279a5cf",
+    "title": "HSBC Slashes Staff, Puts More Focus on Asia",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "e156f4a2-1efb-11e7-9712-f3285df624b5",
+    "title": "California Orders Large Cuts in Water Use",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "22240f48-1efb-11e7-96b7-6f43289c96b3",
+    "title": "Pope Calls for Worldwide Effort to Combat Global Warming",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "f7da6fe2-e3f6-11ef-b58e-8741d4b5c3e5",
+    "title": "Syrian Hackers Claim to Force US Army Offline",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "067110ae-1f53-11e7-83db-8f3833790ffe",
+    "title": "Report: Cell Phone Data Provides Faster, Better Unemployment Results",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "a0741ce2-1f52-11e7-95f1-fb83680e1419",
+    "title": "Japan to Invest $20 Billion in Indian Solar Power",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "a59285ec-1f52-11e7-a673-5b14363021d9",
+    "title": "Donors Pledge Billions to Help Rebuild Earthquake-hit Nepal",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "a736d4b6-1f52-11e7-87d0-cbf595879814",
+    "title": "Report: Explosive Growth May Exhaust Web Space",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "a926f54e-1f52-11e7-b99f-6baf75a7ce7b",
+    "title": "New Device Detects Pilot Blackouts",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "ab7c23fa-1f52-11e7-a83c-bf64dd63df30",
+    "title": "One-Person Flying Vehicles Close to Reality",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "0658654c-1efc-11e7-9383-1f878e989b2d",
+    "title": "Solar Impulse Flies From Japan for Hawaii",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "1969e96c-1ed4-11e7-b47b-57a150ff9084",
+    "title": "SpaceX Rocket Explodes After Florida Liftoff",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "16174f84-1ed4-11e7-95a5-db0b6b150879",
+    "title": "China Welcomes Partner Nations for New Infrastructure Bank",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "24b5463c-1efb-11e7-8952-a76255ece5f9",
+    "title": "BP to Pay Nearly $19B in US Oil Spill Damages",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "6ffa3ad4-1ed4-11e7-a4eb-23ab9af4ff82",
+    "title": "Alamo Makes UNESCO’s 2015 World Heritage List",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "f41bbbd6-1ed3-11e7-b814-03bf88674194",
+    "title": "World Stocks Soar as Greece Agrees on European Bailout",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "c0b8c5be-1efa-11e7-b8be-dfab96bd1c6b",
+    "title": "Dinosaur Demise Leads to Fish Rise",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "eec09e5e-1ed3-11e7-a0da-0fbd26617bd0",
+    "title": "‘Morpho’ Hackers Pose Corporate Security Threat",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "ec1919ec-1ed3-11e7-a472-d37e7b124067",
+    "title": "‘Amazing’ Glimpses of Pluto from Space Probe Dazzle NASA",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "f3d6f724-7490-11ea-93bc-b76372ac9d45",
+    "title": "Tibetans Celebrate Dalai Lama’s 80th Birthday",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "9f1f624c-7619-11ed-919b-cf74b3f3b7e9",
+    "title": "Pangolins Are Most Trafficked Mammal",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "77f46f42-1efd-11e7-a74f-7f4bb15d9feb",
+    "title": "Weak Solar Activity Puzzles Scientists",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "1953f094-1efc-11e7-a149-47b55b266c36",
+    "title": "Gold Prices Fall to Five-year Low in Asia Trading",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "6cb0afc2-1a0e-11e7-9a08-f7f00d6ab539",
+    "title": "Hoverbike Flying Closer to Reality",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "6a73f750-1a0e-11e7-a83f-bb58a57224d7",
+    "title": "Backup Motor May Save Pilots’ Lives",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "17934836-1ed4-11e7-930b-7f5043a3e4b7",
+    "title": "Marvel Comics Introducing Biracial Spider-Man",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "63a7387a-1a0d-11e7-bae1-ff4e7cb9d795",
+    "title": "Hyperloop Rapid Transit System Construction to Start in 2016",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "619a747a-1a0d-11e7-956e-db6685602275",
+    "title": "‘Malvertisements’ Undermine Internet Trust",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "5aeb7ba6-1a0d-11e7-bdfc-7345a5505177",
+    "title": "Japan Restarts Sendai Nuclear Reactor",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "2fa9c758-7492-11ea-8ab5-f338dedd5404",
+    "title": "Caffeine Shapes Brain to Make Us Buzz",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "a2a341dc-1a16-11e7-95b5-37c3a8431936",
+    "title": "Budget Indian Airline Buys 250 Airbus Jets",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "2c34fc7e-1a0d-11e7-ab40-a3d2d66924a3",
+    "title": "Furniture Printed Out of Plastic Waste",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "c404edf6-1a13-11e7-8ba3-870648a3a9b4",
+    "title": "Stocks: US, Europe Mixed; Asia Mostly Up",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "721a1f06-e78d-11e6-8527-573fb220cde7",
+    "title": "Obama: Alaskans Feel Signs of Climate Change",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "798371e2-1a15-11e7-927b-53da3296eb09",
+    "title": "Another Chemical Plant Explosion in China",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "49386f52-1efb-11e7-b396-737d1f956db2",
+    "title": "Taiwan Pilot Cut Wrong Engine Seconds Before Crash",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "35b21298-1a15-11e7-a83c-eb5e46c99dc9",
+    "title": "Japan Stocks See Record Surge",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "429e8996-1a15-11e7-a9e7-37242bcb4d31",
+    "title": "San Diego Zoo Giant Panda Turns 24",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "f47258f6-1a14-11e7-a7f8-4391ada09494",
+    "title": "US Accuses Volkswagen of Evading Clean Air Laws",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "f1f88104-1a14-11e7-bf37-178d77aebe8a",
+    "title": "World Leaders Gather at UN to Discuss Global Challenges",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "caa1750c-1a14-11e7-9497-afd9e961400a",
+    "title": "NASA: Strong Evidence of Liquid Water on Mars",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "c81ba92e-1a14-11e7-9220-7ff94b60d8ff",
+    "title": "Report: Switzerland Still Tops in Global Competitiveness",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "8b8a3bde-1a13-11e7-93a7-afaee234c351",
+    "title": "WHO: Health Systems for Aging Need Urgent Revamp",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "878223ee-1a13-11e7-b567-330ef04dacac",
+    "title": "First Self-Driving Truck Debuts on European Highways",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "c3d09bc2-1a14-11e7-add6-efccdbca926e",
+    "title": "NASA: Pluto Has Blue Sky",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "f9d83e20-1a12-11e7-bb5c-dfd55e8cc1bd",
+    "title": "Study Links Video Game Use With Weaker School Performance",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "1b620d3a-1efc-11e7-8984-4fa4034c949a",
+    "title": "Martian Science Fiction Film Hopes to Inspire New Scientists",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "c4054252-1a12-11e7-a8a2-3759961a1495",
+    "title": "Typhoon Koppu Hits Philippines",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "efaf6482-7619-11ed-864b-f3279d26f42e",
+    "title": "WHO Alarmed Over ‘Unacceptably’ High Road Accident Deaths",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "a59296d8-1a14-11e7-8d0c-93f58458c66c",
+    "title": "Hurricane Patricia Weakens Over Mexico",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "a2de7e16-1a14-11e7-a993-070785750543",
+    "title": "NYC Council Proposes $50,000 Fines for Home Sharing",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "addf7aba-e7a9-11e6-935d-e38b794808f1",
+    "title": "Reports: US Consumer Confidence Rises, Inflation Stalls",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "dbb294fa-1efd-11e7-a7d8-878a4bf9af46",
+    "title": "White House Launches ‘Presidential’ Facebook Page",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "97d2aa68-1efd-11e7-b575-e70f1c923848",
+    "title": "Scientists Analyze Modern Tennis Technique of Sliding",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "474eb2c6-1efd-11e7-9335-33e230628030",
+    "title": "These Are the Unhealthiest Jobs in America",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "44a51ab0-1efd-11e7-acfc-d7c9f69b2223",
+    "title": "Bird-friendly Bladeless Wind Turbine Mimics Nature",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "405c1760-1efd-11e7-badb-9fa08e2eb68c",
+    "title": "WMO: Current El Nino One of Strongest on Record",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "989db040-1a12-11e7-a69f-87b6c3ffed37",
+    "title": "Emoji Crowned as ‘Word of the Year’",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "93ebafd4-1a12-11e7-9c4f-3328e698f030",
+    "title": "Chocolate is About to Get a Lot More Interesting",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "91138868-1a12-11e7-be2e-8b47dfadf713",
+    "title": "Electronics Make Driving Easier, Safer",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "ebd5c0c0-80f5-11ef-b135-abeff5484756",
+    "title": "Study: On Alcohol Consumption, Women Catching Up With Men",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "85f5f48c-1a14-11e7-bc43-c340850a67e5",
+    "title": "US Retailers Gear Up for Holiday Shopping Season",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "f68006fc-7bd4-11ed-a9eb-ff0ee5d55544",
+    "title": "Master Musician Teaches Guitar on Street Corners",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "835a2338-1a14-11e7-9cb5-6f6495619d58",
+    "title": "US Holiday Cyber Commerce Surges",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "1f809608-1a0f-11e7-9be6-ab6f91bd18eb",
+    "title": "Teenage Girl Sets Goal to Empower Kids with Computer Coding",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "710b53a4-1ed4-11e7-8a91-53b51379f428",
+    "title": "Asia Stocks Drop After Greece Votes ‘No’",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "1bc986aa-1a0f-11e7-95de-4f777200a2a1",
+    "title": "Zuckerberg Makes $45 Billion Charity Pledge to Baby Daughter",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "81329298-1a14-11e7-9423-1ff366a491e1",
+    "title": "New Book on Michael Jackson Explores Singer’s ‘Genius’",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "cbf8986c-1efc-11e7-857d-5f8fac7ab543",
+    "title": "Interested in Tracking Santa? There’s an App for That",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "c5b7f3a8-1efc-11e7-bfd0-fb04a31ddcf1",
+    "title": "Japanese Prime Minister Leaves India with Key Agreements",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "943898a4-1efd-11e7-93db-0fc63ae894f1",
+    "title": "Advanced Technology Turns ‘Air Guitar’ Into Real Instrument",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "cecc74ee-4ab2-11ee-80b3-c305064a17ee",
+    "title": "Global Oil Prices Tumble Again",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "1784f7c6-099a-11e7-af50-1f6e71f43193",
+    "title": "Turkey Demands EU Meet Commitment to Visa-free Travel",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "744951e8-1efb-11e7-8ee0-bf3a30711a77",
+    "title": "3-D Video Games Might be Good for Your Child",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "72e06df0-1efb-11e7-8643-5745f397110e",
+    "title": "Imax, 3-D Drive Hollywood Box Office in 2015",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "6dc279c6-1efb-11e7-990a-2bc24f8dea25",
+    "title": "2015 Was Second Hottest Ever in US",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "e1e886ca-1a0e-11e7-9f0e-63e5e46eeb89",
+    "title": "Great Recession Saw Less Drinking on the Job, More After Work",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "de9d3b5a-1a0e-11e7-8cb8-87d3d0a14e4a",
+    "title": "Lagarde Calls for Diversification of Central Africa’s Resources",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "d5ee5034-1a0e-11e7-8c5b-97cf2b8048bb",
+    "title": "Crude Oil Price Hits 12-year Low",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "d3b2072a-1a0e-11e7-b020-734745c060e6",
+    "title": "Reports Allege Tennis Match Fixing, ATP Denies Claims",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "c5975e58-1f52-11e7-ad5d-334cd8a0d5ca",
+    "title": "Oxfam: Richest 62 People Own Same as Half of World’s Population",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "c42d04be-1f52-11e7-9249-c3e3dd0a58c4",
+    "title": "US Ranks 4th in ‘Best Country’ Poll",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "c351924a-1efc-11e7-9b18-c7793890c085",
+    "title": "‘Worst’ Passwords Revealed",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "23db896a-1a14-11e7-ae45-2fd1d26be833",
+    "title": "Report: Plastic to Outweigh Fish in Oceans by 2050",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "b3388546-1a0e-11e7-92b7-e7f9791147b6",
+    "title": "Report: Any Extraterrestrial Life Likely Extinct",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "affa58d2-1a0e-11e7-afbc-2b29b29deb93",
+    "title": "Google Paid Apple $1 Billion to be Default Search on iPhone, iPad",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "a4f3b42e-1a0e-11e7-8f16-3fc0e684195f",
+    "title": "Japan’s Economy Minister Resigns Over Money Scandal",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "9efa882c-1a0e-11e7-9e41-9f40b68c65ce",
+    "title": "Young Afghan Messi Fan Becomes Internet Celebrity",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "dd62acee-9816-11ec-b1f4-af081b215fcf",
+    "title": "Only Known US Jaguar Shown in Video Roaming Arizona Mountains",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "dd7bb1ba-2c3d-11e8-a655-7b91ac5dd888",
+    "title": "Facebook Soon to Offer More Reactions Than ‘Like’",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "c2ba68b0-1f52-11e7-8aee-6b58a590467d",
+    "title": "Morocco Dedicates 1st Phase of Massive Solar Power Plant",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "35ba758c-1ed4-11e7-b4fa-5339e0f4bda4",
+    "title": "Scientists Detect Gravitational Waves in Landmark Discovery",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "de90105e-1a15-11e7-b697-735ff88c9e96",
+    "title": "Russia’s Car Sales Shrink, Luxury Brands Grow",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "3188f786-1ed4-11e7-b9d7-93754786660f",
+    "title": "Twitter Report Disappointing; Founder Hints at Changes",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "32705d4e-1a0e-11e7-a742-1fa14f0c3fe7",
+    "title": "Deadly Cyclone Hits Fiji Causing Widespread Destruction",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "314637cc-1a0e-11e7-9dbd-fb25a049a819",
+    "title": "Smartphone Cements its Supremacy in Mobile World",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "0cf3d6c8-1efe-11e7-b8fe-af210f0d3790",
+    "title": "ILO: Labor and Wage Gender Gap Remains Wide",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "6791de0c-5529-11e7-8a74-d3667da8d198",
+    "title": "Study: Dogs Recognize Human Emotions on Faces",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "7f518bd2-77b8-11ea-92f8-33961e6e7474",
+    "title": "Google’s AlphaGo Wins First Game of Go in Matchup With Human",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "a32bcd8a-1f53-11e7-adb8-dfc25010506c",
+    "title": "Japanese Red Cross: Many Still Displaced 5 Years After Tsunami",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "f22a0726-7619-11ed-9338-dbbf2777c144",
+    "title": "Will the Next Einstein Come From Africa?",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "d616a8b8-5528-11e7-9b8b-83ed8b8e5551",
+    "title": "Drone Technology Opens Up New Options for Photographers",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "c2018dee-1a0d-11e7-86ec-a375c5356477",
+    "title": "New Life-saving Devices Quickly Identify Health Problems",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "7d8f3398-0999-11e7-8632-5ba1cea97b78",
+    "title": "Largest Oval Blue Diamond to Be Auctioned in Hong Kong",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "b90d76e8-5528-11e7-b4f4-9bbdcdac2909",
+    "title": "Tampa’s Last Cigar Factory Ponders More Competition From Cuba",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "c146d5ce-0e05-11ee-b706-073e9eba4ded",
+    "title": "New App Lets Users Borrow, Share Dogs",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "82731746-5528-11e7-9293-1b1eef6fe89c",
+    "title": "Emotionally Intelligent Robots as Future Human Companions",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "19e3f810-0999-11e7-8396-1794616b049b",
+    "title": "New Apple Smart Phone Racking Up Sales in Crowded Chinese Market",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "7b8b8d84-099a-11e7-95ab-aff05a1a894c",
+    "title": "World’s Obese Outnumber Underweight",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "a8bc5204-bf2a-11ea-97f5-27b04602957b",
+    "title": "Study: Vitamin D Can Significantly Improve Heart Function",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "a86abda4-e959-11e6-b8e7-ff89fca83fb8",
+    "title": "US Credit Card Debt Nears $1 Trillion",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "ec232036-0998-11e7-9210-afe4df7f0029",
+    "title": "Spherical Rock in Bosnia Stirs Controversy",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "96c23994-7619-11ed-9a31-7f115d6f8bf5",
+    "title": "Africa Using Twitter for Political Conversations, Study Finds",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "e96e04fa-0998-11e7-92c4-479f6f3662f3",
+    "title": "Britain’s Daily Mail in Talks to Buy Yahoo",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "6a292a5e-5528-11e7-8dcc-830ceb09fd48",
+    "title": "Spanish ‘Smart’ City Project Saves Time, Money",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "713bbba6-099a-11e7-9337-8b4c24cbee13",
+    "title": "Dozens Still Trapped After Second Japanese Earthquake",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "ae80784a-0999-11e7-a438-4bd7fb8a2e99",
+    "title": "Cannes Film Festival Announces Line Up",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "52f432de-5528-11e7-b6ed-2b127005114f",
+    "title": "Tech Boom Spurs Latest San Francisco Rent Hikes",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "4ff47c4c-04e2-11e7-af0e-7ba3439dc88d",
+    "title": "US Weather Service to Abandon Only-capital-letter Forecasts",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "7889f7e2-04e0-11e7-9ef9-9732bf566c94",
+    "title": "One Minute of ‘Intense’ Exercise May Equal 45 Minutes of Moderate Exercise",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "af831e28-bfdf-11ea-80cb-6fff71287900",
+    "title": "Photographers Document ‘World in a ZIP Code’ US Community",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "610efa7e-04e3-11e7-824c-f721983a18f3",
+    "title": "Court Rules Japan’s Nuclear Reactors Can Continue to Operate",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "2544501a-bf1c-11ea-981d-9f5cce476ea6",
+    "title": "FBI Could Share iPhone Vulnerability",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "43617932-dcb3-11f0-a6ba-c72d67fa46e2",
+    "title": "Climate Change Could Make Parts of Middle East Uninhabitable",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "5c079c20-04e3-11e7-a16c-83ba806b0cd5",
+    "title": "Smart Home Camera Detects Intruders",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "5a00cd02-04e3-11e7-8747-9b51eb71d0ad",
+    "title": "Nepal Begins Reconstruction of Heritage Sites",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "2f57c252-e9fb-11e6-9847-1f6965ed9e5b",
+    "title": "Pop Icon Prince Quietly Helped Afghan Orphans for Years",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "36785e36-04e3-11e7-9fee-f37554bdd071",
+    "title": "132 Years in the Making: Leicester Wins English Premier League Title",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "502471cc-d5b7-11f0-8f88-37305b533395",
+    "title": "Strangers Share Secrets Through Postcards",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "c48c7a56-e9fc-11e6-a212-cfbbaefa4a19",
+    "title": "Astronomers Find Potentially Habitable Planets, Just 40 Light Years Away",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "299536c4-099a-11e7-9bad-a33ba8fb2875",
+    "title": "‘Brexit’ Campaigns Heat Up as Britons Debate EU Role",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "28622528-099a-11e7-a78e-374ce6d90e0a",
+    "title": "More Than Half of World’s Population Still Not Connected to Internet",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "95b55c98-7930-11ec-b203-5f5993022888",
+    "title": "Over 20 Percent of World Plants Face Extinction",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "da77ee1c-bf1a-11ea-af9c-2fddef3ac55f",
+    "title": "US Millennials Increasingly Live with Parents",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "8176a658-0999-11e7-9534-4fd9d83df699",
+    "title": "French Protesters, Police Clash at Labor Reform Strikes",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "0cbd02de-bf2c-11ea-bcac-9f7b16e5a2a7",
+    "title": "Guess Which Beach is ‘Best in the US’?",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "c76349a2-04e2-11e7-b82e-f3817e5e8acc",
+    "title": "Facebook to Respond to Allegations About Screening of Topics",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "439c3af8-7619-11ed-ba7c-a7f0bc67de20",
+    "title": "Somali Man, 61, Graduates From High School",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "a98af876-04e2-11e7-b4a2-7f7c17cd8e89",
+    "title": "US GDP Rises Slightly More Than Predicted",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "7c61fc30-0999-11e7-957a-d3b156419f6b",
+    "title": "First Antibiotic-resistant Superbug Found in US",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "79031df8-0999-11e7-97e2-27f14ff3f81d",
+    "title": "US Urges Food Processors to Cut Salt Content by a Third",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "12eb3cfc-099a-11e7-8c10-1bc6e119aa6b",
+    "title": "Introvert Teens Can Make Effective Leaders",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "9894d772-7619-11ed-a2da-f7440d53ca4e",
+    "title": "Pushing Computers into Africa’s Classrooms",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "7dc53276-099a-11e7-82ff-e36b5b00405d",
+    "title": "China Goes Global with Expanding Investment",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "7761a310-5526-11e7-b3b3-bf3b2fc22231",
+    "title": "Forget Office Cubicles, Try ‘Co-working’",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "0b5f07c6-0999-11e7-9f27-c73548cc4a3a",
+    "title": "Download With Care: Fitness Apps May Not Be Science-based",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "d27d7982-08d6-11e7-b6f3-1345c00feb53",
+    "title": "Russia’s Sharapova Given 2-Year Tennis Ban for Doping",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "fad12c2a-5526-11e7-865c-47720eb143b2",
+    "title": "What Is It Like to Become an Astronaut?",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "0190229a-2be0-11ea-93a3-47ba218901ce",
+    "title": "Wars Cost World $13 Trillion Last Year",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "85302cf8-04e2-11e7-9bef-4fd22314d006",
+    "title": "Air France Pilots Strike Amid Euro 16 Football Championship",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "83c9f718-04e2-11e7-883d-b351f48ab585",
+    "title": "Path to Happiness Revealed in New Book",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "7bd8f2a2-04e2-11e7-a114-fff82a5e8de2",
+    "title": "Free Meals Lead Doctors to Prescribe More Expensive Medicine",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "58b76a1a-04e2-11e7-87b0-efda4666251b",
+    "title": "Millions in India Take Part in World Yoga Day",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "37e3d70c-5527-11e7-b846-df51f1d9798f",
+    "title": "Comic Book Fans Combine Fantasy Costumes, Role Playing",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "7047f770-f9f3-11e6-88e5-970e17e134c3",
+    "title": "Any Alien Contact Likely at Least 1,500 Years Away",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "690d5784-f9f3-11e6-b760-cf2b5025c4e5",
+    "title": "US, Norway to Fight Rapidly Progressing World Deforestation",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "67d8bade-f9f3-11e6-8b42-5bc30bbe6aa1",
+    "title": "Michelle Obama on Striking a Balance Between Job, Motherhood",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "d6b33fc4-f9f3-11e6-8852-bf72e330f628",
+    "title": "Getting Art to the People via the Web",
+    "level": 7,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "01697124-5526-11e7-b656-5be2dcec86ea",
+    "title": "Globalization or Isolation? US Voters Weigh in on Economy",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "d22532dc-f9f3-11e6-82c8-13e32a54ae29",
+    "title": "Who ‘Looks’ Like a Politician? It’s Different in US and China",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "ea85010e-7bd4-11ed-a48b-d32eee1baa00",
+    "title": "Ivorian Taekwondo Champions Head to Rio Olympics",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "cc076730-f9f3-11e6-9df0-5fccf6726916",
+    "title": "US Expected to See More Jobs in Health Care, Fewer in Manufacturing",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "ca68b6d8-f9f1-11e6-bcf2-f7123b994e80",
+    "title": "VW Agrees to Nearly $15B in US Settlement Over Emissions Scandal",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  },
+  {
+    "id": "4db0afac-f829-11e6-bc45-77ce8a3f40bc",
+    "title": "Ivanka Trump: Model, Businesswoman, Daughter to Republican Nominee",
+    "level": 8,
+    "questions_processed": true,
+    "questions_verified": true
+  }
+]

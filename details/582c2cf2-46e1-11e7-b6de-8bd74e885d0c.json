@@ -1,0 +1,60 @@
+{
+  "title": "Trending Today: Barbie Reimagined",
+  "introduction": null,
+  "image": {
+    "id": "6c1cbff9-0dc5-4f63-af89-c4f0d2fd832b",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3I0JDqH0cWQQTdDOXvGdfn.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 349
+    },
+    "attribution": "Carlos Adampol Galindo from DF, México / Wikimedia Commons / CC-BY-SA-2.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1S1MRSOsL915bRVn0vxVE2.mpga",
+  "main_content": "This is What’s Trending Today.\n\nThe Barbie doll has been a part of the American culture for more than 50 years. Tall, blond and blue-eyed, the doll became a symbol of the “all-American girl.”\n\nBut in recent years, critics targeted the doll.\n\nSocial commentators said Barbie was not a good representation of what women do or should look like.\n\nThe toy company that makes Barbie made some changes over the years. For example, it widened Barbie’s waist in a more realistic proportion to the rest of her body.\n\nThe manufacturer announced three new Barbie body types.\n\nMattel describes the new dolls as tall, petite and curvy.\n\nThe dolls will also represent different ethnicities, with a range of skin colors and hairstyles.\n\nLots of people commented about the news on Twitter and Facebook.\n\nSome people were excited to see the changes.",
+  "questions": [
+    {
+      "question": "What did the Barbie doll become?",
+      "options": [
+        "A controversial icon of femininity",
+        "A symbol of financial success",
+        "An educational tool for children",
+        "A representation of environmental sustainability"
+      ],
+      "answer": "A controversial icon of femininity"
+    },
+    {
+      "question": "For how long has the Barbie doll been a part of American culture?",
+      "options": [
+        "Over 25 years",
+        "Over 50 years",
+        "Over 75 years",
+        "Over 100 years"
+      ],
+      "answer": "Over 50 years"
+    },
+    {
+      "question": "What did critics and social commentators say about Barbie?",
+      "options": [
+        "She empowered women around the world",
+        "She was not a good representation of women",
+        "She reflected changes in fashion trends",
+        "She was the most popular toy of all time"
+      ],
+      "answer": "She was not a good representation of women"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

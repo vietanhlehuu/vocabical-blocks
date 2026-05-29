@@ -1,0 +1,60 @@
+{
+  "title": "Only Known US Jaguar Shown in Video Roaming Arizona Mountains",
+  "introduction": null,
+  "image": {
+    "id": "dd62580c-9816-11ec-b1f3-2f98eb4c3d1f",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/60AoZvt0oQjCnZtToToQi8.jpeg",
+    "dimensions": {
+      "x": 790,
+      "y": 480
+    },
+    "attribution": "United States Fish and Wildlife Service / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5erIS3w2pYkAoOVvWHUArY.mpga",
+  "main_content": "A conservation group has released a video showing what it says is the “only known wild jaguar in the United States.”\n\nThe male cat, named El Jefe, was caught on camera by Conservation CATalyst outside Tucson, Arizona in the Santa Rita Mountains.\n\n“These glimpses into his behavior offer the keys to unlocking the mysteries of these cryptic cats,” Aletris Neils, executive director of Conservation CATalyst, said in a statement. “We are able to determine he is an adult male jaguar, currently in prime condition. Every new piece of information is important for conserving northern jaguars and we look forward to building upon these data so that we can collectively make better decisions on how to manage these fascinating and endangered cats.”\n\nAccording to the group, jaguars once lived from South America all the way to the southern and central U.S., but have slowly been killed off.\n\nThe jaguar, which is the third largest cat after lions and tigers, was listed as an endangered species in the U.S. in 1997.\n\n“Just knowing that this amazing cat is right out there, just 25 miles (40 kilometers) from downtown Tucson, is a big thrill,” Randy Serraglio, conservation advocate with the Center, told Fox News. “El Jefe has been living more or less in our backyard for more than three years now. It’s our job to make sure that his home is protected and he can get what he needs to survive.”",
+  "questions": [
+    {
+      "question": "Where was El Jefe seen?",
+      "options": [
+        "In the Santa Rita Mountains, Arizona",
+        "In the forests of South America",
+        "Near the Grand Canyon, Arizona",
+        "On the outskirts of San Francisco, California"
+      ],
+      "answer": "In the Santa Rita Mountains, Arizona"
+    },
+    {
+      "question": "What do scientists currently know about El Jefe?",
+      "options": [
+        "He is a young female jaguar living in a group.",
+        "He is an adult male jaguar in prime condition.",
+        "He has migrated from South America recently.",
+        "He is the largest jaguar in the United States."
+      ],
+      "answer": "He is an adult male jaguar in prime condition."
+    },
+    {
+      "question": "What other species are mentioned in the article?",
+      "options": [
+        "Lynxes and bobcats",
+        "Bears and cougars",
+        "Lions and tigers",
+        "Pumas and cheetahs"
+      ],
+      "answer": "Lions and tigers"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

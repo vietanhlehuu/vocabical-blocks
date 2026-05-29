@@ -1,0 +1,60 @@
+{
+  "title": "Snake Robot Acts Like Real Snake",
+  "introduction": null,
+  "image": {
+    "id": "7ef1341f-fe4b-47bd-9416-040e3c0c6bcf",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3rXGL7df2pSCPciSw1sWsR.jpeg",
+    "dimensions": {
+      "x": 1916,
+      "y": 1696
+    },
+    "attribution": "Steve Jurvetson / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 10,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0KRpiDHVW1m2sYIg7xHVTx.mpga",
+  "main_content": "Five years ago, the Mars Rover Spirit got stuck in sand on the red planet. Spirit is one of the American space agency’s two motorized vehicles on Mars. Recently, the other vehicle – Curiosity – had to go along way to avoid another sandy area. These incidents led some scientists to develop ways to keep the costly robots from being trapped in the sand. These scientists looked to nature for their ideas.\n\nThe researchers flew deadly snakes to Zoo Atlanta in Atlanta, Georgia. The snakes, called sidewinder rattlers, are native to the south western United States.\n\nThe creatures were put in a specially designed sandbox with inclines that could be raised up or lowered. The scientists used high-speed video cameras to record the position of the snakes as they moved sideways up different inclines. Their movement is called sidewinding.\n\nDaniel Goldman teaches physics at the Georgia Institute of Technology in Atlanta. He says the snakes moved easily in the sand – even when the sand began moving.\n\nResearchers wanted to get the MOD-Snake to climb in the same way as the sidewinder rattlers.\n\nThe researchers performed the same experiment with other snakes closely related to the rattlers. But all of those creatures failed to slide up the inclines.\n\nMr. Mendelson adds that the next generation of Mod-Snake may be used to save lives or explore unexplored areas on Earth or even in space.\n\n“Robots are expensive. And a robot gets stuck in the sand, that’s a problem, especially if that sand happens to be, say, on one or another planet, or very distant from an exploration post. And you realize, part of going into this, we realize that sidewinders never ever, ever get stuck on sand!”",
+  "questions": [
+    {
+      "question": "What happened to the Mars Rover Spirit 5 years ago?",
+      "options": [
+        "It successfully completed its mission without any issues.",
+        "It was lost due to a system malfunction.",
+        "It got stuck in sand on the red planet.",
+        "It was replaced by the Curiosity rover."
+      ],
+      "answer": "It got stuck in sand on the red planet."
+    },
+    {
+      "question": "Where can the sidewinder rattlers be found?",
+      "options": [
+        "The forests of the northeastern United States.",
+        "The desert regions of the south western United States.",
+        "The mountainous areas of Canada.",
+        "The wetlands of southern Florida."
+      ],
+      "answer": "The desert regions of the south western United States."
+    },
+    {
+      "question": "What will the next generation of Mod-Snake be able to do according to Mr. Mendelson?",
+      "options": [
+        "Conduct scientific experiments on Mars.",
+        "Save lives or explore unexplored areas on Earth or in space.",
+        "Assist in the repair of the Mars rovers.",
+        "Mimic the movement of all snake species."
+      ],
+      "answer": "Save lives or explore unexplored areas on Earth or in space."
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

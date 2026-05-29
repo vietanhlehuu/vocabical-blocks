@@ -1,0 +1,60 @@
+{
+  "title": "Australia Develops New Technology to Fight Graffiti",
+  "introduction": null,
+  "image": {
+    "id": "c43e25e9-36b9-466f-a566-17ffeb9079ce",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5yItfJnO66sGIyrA9hRnos.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 307
+    },
+    "attribution": "Hans Klysner / Wikimedia Commons / CC-BY-SA 3.0",
+    "public_attribution": true,
+    "lock_version": 5,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5IXlTiht2AkpF4kT7jKptN.mpga",
+  "main_content": "Cities throughout the world spend a lot of money fighting graffiti. Graffiti writers leave their mark in public places, often on walls or other surfaces.\n\nOfficials in Australia have begun using a new technology that can recognize the most commonly used graffiti materials: paint and marker pens.\n\nSome passenger trains in Sydney, Australia are covered in graffiti. Surveillance cameras help police officers stop those who illegally write on train cars. But there are just too many cars. Last year, Sydney Trains – the operator of the city’s rail service – began using a new surveillance system that has an “electronic nose.”\n\nThe device is called “Mousetrap.” It was developed by Technique Risk, an Australian company. Mousetrap can identify gases released by markers and spray paints.\n\nMark Byers founded the company. He says when the device recognizes the smell of graffiti, it sends a message to an alarm, which is connected to a nearby surveillance camera.\n\nPolice guard the trains and train stations. Many of the officers look like passengers. They can quickly react when Mousetrap tells them someone is painting on the walls.",
+  "questions": [
+    {
+      "question": "What helps police officers stop those who illegally write on train cars?",
+      "options": [
+        "Increased patrols by officers",
+        "Surveillance cameras",
+        "Public awareness campaigns",
+        "Heavy fines and penalties"
+      ],
+      "answer": "Surveillance cameras"
+    },
+    {
+      "question": "What is the new device called?",
+      "options": [
+        "Graffiti Hunter",
+        "Mousetrap",
+        "Tag Detector",
+        "Spray Spy"
+      ],
+      "answer": "Mousetrap"
+    },
+    {
+      "question": "What can the device identify?",
+      "options": [
+        "Types of graffiti artists",
+        "Gases released by markers and spray paints",
+        "Patterns in graffiti",
+        "The time of day when graffiti is most common"
+      ],
+      "answer": "Gases released by markers and spray paints"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

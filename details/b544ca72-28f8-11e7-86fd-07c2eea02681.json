@@ -1,0 +1,60 @@
+{
+  "title": "As Innovation Lags, Taiwan to Retool University Entrance Exams",
+  "introduction": null,
+  "image": {
+    "id": "54655e08-e92e-4655-81e2-36663dd562af",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2ZFgBhQbJuQBVFcRMN8oqV.jpeg",
+    "dimensions": {
+      "x": 780,
+      "y": 541
+    },
+    "attribution": "Davidzdh / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3b7n4xrCCiyftLuxPNx0Tz.mpga",
+  "main_content": "Taiwan’s annual university admissions exams are taking place this week as tens of thousands sweat over math and language questions to get into top schools. But the exams that depend exclusively on memorization of high school class content are in their final years as officials worry they put Taiwan at a competitive disadvantage.\n\nTaiwanese officials believe their economy is losing ground to neighbors such as China and South Korea as younger people often shun the risks of starting a company or inventing the next line of high-tech hardware.\n\nTo improve the country’s prospects for innovation, the Ministry of Education will roll out a new screening process for university students so top schools can accept more enterprising people. The new system, effective from 2018, will include personal interviews and let high school graduates show they excelled outside class, not just memorized material as taught.\n\nThe education ministry plans to replace today’s standardized written exams between 2018 and 2021. That would make Taiwan an outlier in East Asia, where university enrollment systems still rely heaviest on tests of memorization. Ma said Taiwan will switch to a Western-style scheme that rewards extracurricular works such as published articles.\n\nChang Wei-chun, a third-year law student at Ming Chuan University in Taipei, said Taiwan’s educational reforms should carry into higher education.\n\nChang said that if officials are thinking about improving innovation, they should promote it through tutorial classes at universities. Chang argues that otherwise, many students won’t dare to do enterprising work because their education has not been practical.",
+  "questions": [
+    {
+      "question": "What do the exams depend on?",
+      "options": [
+        "Creativity and innovation",
+        "Memorization of high school class content",
+        "Practical skills and real-world applications",
+        "Critical thinking and problem-solving abilities"
+      ],
+      "answer": "Memorization of high school class content"
+    },
+    {
+      "question": "Why are officials worried?",
+      "options": [
+        "The exams are too easy and need to be more challenging",
+        "They believe the current system puts Taiwan at a competitive disadvantage",
+        "Students struggle to pass the examinations",
+        "Taiwanese universities have low enrollment numbers"
+      ],
+      "answer": "They believe the current system puts Taiwan at a competitive disadvantage"
+    },
+    {
+      "question": "Why is Taiwan losing ground to its neighbors?",
+      "options": [
+        "Younger people favor starting companies and innovation",
+        "Officials are not investing in education",
+        "Younger generations avoid risks associated with entrepreneurship",
+        "Taiwan does not have enough universities"
+      ],
+      "answer": "Younger generations avoid risks associated with entrepreneurship"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

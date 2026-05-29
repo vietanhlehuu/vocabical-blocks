@@ -1,0 +1,60 @@
+{
+  "title": "Rio’s Trams Await Olympic Tourists",
+  "introduction": null,
+  "image": {
+    "id": "74917f9a-8fdc-4094-bab9-43ce3e96b6be",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3XxbNa57YOISkWHe7bLEkQ.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Fernando Frazão/Agência Brasil / Wikimedia Commons / CC-BY-3.0-br",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2PpiaUoGoVqHCNz0L5trX8.mpga",
+  "main_content": "Over the past century, many cities around the world replaced electric trams, prone to breakdowns and backups, with faster and more spacious buses. But for some reason restored antique trams are a huge tourist attraction.\n\nSo it’s no wonder the authorities in Rio de Janeiro are busy restoring their city’s old tram line ahead of the Summer Olympic Games.\n\nThere’s something special about old trams, such as Istanbul’s Nostalgia Tramway, which returned to the city more than 25 years after it was closed.\n\nIn Rio de Janeiro, an extensive network of tram lines, including the Santa Teresa line, operated for more than a century. As spare parts became harder to find, workshops kept the cars running with patches and improvisation.\n\nBut one by one, the lines closed until only Santa Teresa’s was left. A brake failure in 2011 that injured 50 and killed six people finally forced officials to shut it down, as well.\n\nResponding to pressure from locals and wishing to attract tourists, authorities reopened the line last year, with replicas of the old cars with modern safety features.\n\nIn other parts of Rio, the old trams were replaced by light rail – fast, silent, and air-conditioned. Light rail is expected to handle much of the Olympic traffic.\n\nTraining for drivers takes full seven months.\n\n“All the drivers are being trained both on board and in the simulator for every kind of emergency situation,” says training manager Alexandre Soares.\n\nBut a visit to one of Rio’s many souvenir shops reveals that the light rail line hardly inspires local artists.\n\nIt’s easy to see that a nostalgic ride on the Santa Teresa line, through Rio’s narrow streets and across the Carioca Aqueduct, is something that stays in one’s memory much longer than a quick ride on the modern light rail.",
+  "questions": [
+    {
+      "question": "Why did many cities around the world replace electric trams?",
+      "options": [
+        "They were more environmentally friendly than buses.",
+        "They were prone to breakdowns and backups.",
+        "They required less maintenance than modern alternatives.",
+        "They offered a more scenic route than other forms of transport."
+      ],
+      "answer": "They were prone to breakdowns and backups."
+    },
+    {
+      "question": "How is Istanbul’s old tram line called?",
+      "options": [
+        "The Historic Corridor Tramway",
+        "The Nostalgia Tramway",
+        "The Vintage Tram Line",
+        "The Classic Streetcar Route"
+      ],
+      "answer": "The Nostalgia Tramway"
+    },
+    {
+      "question": "How did the workshops in Rio keep the trams on the Santa Teresa line running?",
+      "options": [
+        "By sourcing new materials from international suppliers.",
+        "By employing skilled artisans to restore them to original condition.",
+        "By using patches and improvisation.",
+        "By implementing weekly maintenance schedules."
+      ],
+      "answer": "By using patches and improvisation."
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

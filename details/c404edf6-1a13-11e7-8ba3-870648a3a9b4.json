@@ -1,0 +1,60 @@
+{
+  "title": "Stocks: US, Europe Mixed; Asia Mostly Up",
+  "introduction": null,
+  "image": {
+    "id": "a676ef03-1152-4368-9060-306ad1eca1a7",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5474u52UjPJG98Hpw2Ce9P.jpeg",
+    "dimensions": {
+      "x": 640,
+      "y": 480
+    },
+    "attribution": "Katrina.Tuliao / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/48FMh8ayhXJv2jV0J17UG9.mpga",
+  "main_content": "Key U.S. stock indexes were little changed at Friday’s close, following a week of wild price swings on global markets.\n\nThe S&P 500 and the NASDAQ rose around one-tenth of a percent while the Dow dropped about one-tenth of a percent. For the week, the Dow ended up with a gain of slightly more than 1 percent.\n\nMajor European stock indexes also were mixed at the close, with the FTSE 100 advancing nearly two-tenths of a percent, while Germany’s DAX lost nine-tenths of a percent, and the CAC in France declined about four-tenths of a percentage point. European shares made big gains the previous day.",
+  "questions": [
+    {
+      "question": "What happened to the European stock markets at Friday’s close?",
+      "options": [
+        "They all ended with substantial gains.",
+        "They were largely unchanged with minor fluctuations.",
+        "They showed mixed results, with some indexes rising and others falling.",
+        "They experienced a significant decline across all major indexes."
+      ],
+      "answer": "They showed mixed results, with some indexes rising and others falling."
+    },
+    {
+      "question": "How did the Dow perform for the week?",
+      "options": [
+        "It fell by more than 1 percent.",
+        "It was unchanged for the week.",
+        "It gained slightly more than 1 percent.",
+        "It gained nearly 5 percent."
+      ],
+      "answer": "It gained slightly more than 1 percent."
+    },
+    {
+      "question": "Which European index advanced nearly two-tenths of a percent?",
+      "options": [
+        "The FTSE 100",
+        "Germany’s DAX",
+        "The CAC in France",
+        "The Dow Jones Industrial Average"
+      ],
+      "answer": "The FTSE 100"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

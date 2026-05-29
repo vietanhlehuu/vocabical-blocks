@@ -1,0 +1,60 @@
+{
+  "title": "Growing Minds Need Greener Spaces",
+  "introduction": null,
+  "image": {
+    "id": "51196a46-bfd9-11ea-a468-fb9b2b1fa115",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4aKcvWcuaB0eGZrJvy0O6U.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 343
+    },
+    "attribution": "Joelvegt / Wikimedia Commons / CC-BY-SA 3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2ucim6ZUOJlbHTJsFIDo7Q.mpga",
+  "main_content": "It is not a secret that spending time outdoors is good for our health. This could be especially important for school children.\n\nNew research suggests that kids may learn better when they are surrounded by greener spaces. Green spaces are spaces filled with vegetation – like trees, flowers and other plants.\n\nBut these days, outdoor time is competing for a child’s attention with indoor activities. Children may find it difficult to resist computers, television and electronic games.\n\nSo, in many parts of the world children are spending less and less time outdoors.\n\nDoctor Payam Dadvand works at the Centre for Research and Environmental Epidemiology in Barcelona. He and his team study how the environment affects health.\n\nDr. Dadvand and his team studied more than 2,600 children from 36 schools in the city. The researchers used information from satellites to learn how much green space surrounded each school.\n\nThe researchers found that the children with higher contact with green space had better ability to memorize. They were also more attentive. The team believes that good air quality is the main reason for the results.",
+  "questions": [
+    {
+      "question": "What in the article is said to be especially important for school children?",
+      "options": [
+        "Spending time indoors",
+        "Engaging in electronic games",
+        "Being surrounded by greener spaces",
+        "Using computers for learning"
+      ],
+      "answer": "Being surrounded by greener spaces"
+    },
+    {
+      "question": "What are green spaces filled with?",
+      "options": [
+        "Concrete and buildings",
+        "Trees, flowers and other plants",
+        "Indoor play areas",
+        "Roads and pathways"
+      ],
+      "answer": "Trees, flowers and other plants"
+    },
+    {
+      "question": "Where and in which city does Doctor Payam Dadvand work?",
+      "options": [
+        "Centre for Research and Health in Madrid",
+        "Centre for Health Studies in Barcelona",
+        "Centre for Research and Environmental Epidemiology in Barcelona",
+        "Centre for Environmental Research in Spain"
+      ],
+      "answer": "Centre for Research and Environmental Epidemiology in Barcelona"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

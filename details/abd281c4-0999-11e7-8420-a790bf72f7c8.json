@@ -1,0 +1,60 @@
+{
+  "title": "Kerry Promotes Benefits of Landmark Trade Pacts",
+  "introduction": null,
+  "image": {
+    "id": "9b8f713d-0e7a-44eb-95f4-0d541847df20",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4jXMZGrcFdfkYZDmbB8jTM.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 480
+    },
+    "attribution": "U.S. Department of State. Cropped by User:Andrew Dalby / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4bNFhw7Ugno2940Hgu4OTf.mpga",
+  "main_content": "Secretary of State John Kerry on Tuesday touted the benefits of two major U.S. trade pacts that have faced skepticism from some members of Congress, trade groups, and presidential candidates.\n\nIn a speech to a Los Angeles international policy group, Kerry said the trade agreements have broad benefits that include defending U.S. strategic interests and strengthening national security.\n\nIn February, foreign officials signed the Trans-Pacific Partnership (TPP), a massive trade deal involving the U.S. and 11 other Pacific Rim countries — a group whose total gross domestic product constitutes about 40 percent of global GDP. The deal, which includes rules for the international trade of drugs, cars, and dairy products, still needs U.S. congressional approval.\n\nThe pact has an uncertain future in the U.S., partly because of U.S. lawmakers’ concerns that the deal would hurt trade and investment.\n\nKerry also cited the benefits of the Transatlantic Trade and Investment Partnership (T-TIP), an investment agreement being negotiated between the U.S. and the European Union. He said that pact would implement “common-sense reforms to remove tariffs, eliminate red tape for goods crossing our borders and promote services.”\n\nKerry’s California appearance wraps up a week-long tour that included stops in Bahrain, Iraq, and Afghanistan. He traveled to California from Japan, where he took part in a meeting of the Group of Seven industrialized nations and visited a World War II memorial site in Hiroshima.",
+  "questions": [
+    {
+      "question": "Who has expressed skepticism towards the two trade pacts?",
+      "options": [
+        "Foreign officials",
+        "Secretaries of State",
+        "Some members of Congress",
+        "The media"
+      ],
+      "answer": "Some members of Congress"
+    },
+    {
+      "question": "What kind of trade does the TPP regulate?",
+      "options": [
+        "International trade of energy resources",
+        "International trade of drugs, cars, and dairy products",
+        "Local trade of agricultural goods",
+        "Digital trade agreements"
+      ],
+      "answer": "International trade of drugs, cars, and dairy products"
+    },
+    {
+      "question": "What will the T-TIP implement?",
+      "options": [
+        "A common currency for trade",
+        "Common-sense reforms to remove tariffs and promote services",
+        "A new tax system for imports",
+        "Stricter regulations on foreign investments"
+      ],
+      "answer": "Common-sense reforms to remove tariffs and promote services"
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

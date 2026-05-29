@@ -1,0 +1,60 @@
+{
+  "title": "New Horizons Space Probe Gets Mission Extension",
+  "introduction": null,
+  "image": {
+    "id": "69a46af3-e71d-49d7-8292-4ef321c000f0",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3DLKfrT7XRjmx9SvvhWp5U.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 634
+    },
+    "attribution": "NASA/JHU APL/SwRI/Steve Gribben / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5ATbpk9BHzDACHPTTjofof.mpga",
+  "main_content": "The U.S. space agency has announced it is extending the mission of the New Horizons spacecraft.\n\nNew Horizons is a spacecraft without a human crew. It was the first spacecraft to visit the dwarf planet Pluto. It gathered pictures and information about the dwarf planet. New Horizons flew close to Pluto in July of 2015.\n\nThe spacecraft will be heading further into what is known as the Kuiper Belt. The Kuiper Belt is an area beyond the planets.\n\nJim Green is NASA’s director of Planetary Science. He said, “The New Horizons mission to Pluto exceeded our expectations.”  He added that NASA is looking forward to continuing explorations with the spacecraft.\n\n“We’re excited to continue onward into the dark depths of the solar system,” he said.\n\nNew Horizons left Earth in January of 2006.",
+  "questions": [
+    {
+      "question": "Are there people on the New Horizons spacecraft?",
+      "options": [
+        "Yes, it has a crew of scientists",
+        "No, it is an uncrewed spacecraft",
+        "Yes, but they are remote-controlled",
+        "No, it is operated by ground control"
+      ],
+      "answer": "No, it is an uncrewed spacecraft"
+    },
+    {
+      "question": "Where will the New Horizons spacecraft be going?",
+      "options": [
+        "Back to Earth",
+        "Into the Kuiper Belt",
+        "To Mars",
+        "Around the Moon"
+      ],
+      "answer": "Into the Kuiper Belt"
+    },
+    {
+      "question": "When did the spacecraft leave Erath?",
+      "options": [
+        "In July of 2015",
+        "In December of 2005",
+        "In January of 2006",
+        "In March of 2006"
+      ],
+      "answer": "In January of 2006"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

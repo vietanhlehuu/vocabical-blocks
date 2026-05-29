@@ -1,0 +1,60 @@
+{
+  "title": "Using Culture to Teach Arabic to American Students",
+  "introduction": null,
+  "image": {
+    "id": "bb68db57-37dc-4706-8012-28db636dcd9f",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5hdU3iR2nhk7Wmzj8xKwWd.jpeg",
+    "dimensions": {
+      "x": 1280,
+      "y": 960
+    },
+    "attribution": "currybet / Wikimedia Commons / CC-BY-SA-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0UkWiYGYQ4IqVakbENjV3J.mpga",
+  "main_content": "Learning a new language is not easy, but an Egyptian in Washington, D.C., says he knows how to make it less difficult.\n\nTamer Elsharkawy teaches Arabic to children. He says that “the magic key to teaching language is culture.”\n\nElsharkawy came to Washington through the State Department’s Teachers of Critical Languages program. The program brings teachers from China and Egypt to the United States. One of the goals is to help American students learn Chinese and Arabic.\n\nThe program helps the teachers and students learn about the cultures of other countries. Elsharkawy says learning languages helps students learn more about the world.\n\nSpanish is the native language of many of Elsharkawy’s students at Cooke Elementary School. So, many of them are learning English and Arabic at the same time.\n\nFlora Lerenman teaches English at Cooke Elementary. She says learning two languages at the same time helps the children learn faster. And she says the children are learning more than just a new language.\n\nElsharkawy said he is also learning about the world. He has explored the local Muslim community and the many cultures in Washington.",
+  "questions": [
+    {
+      "question": "What does Tamer Elsharkawy teach?",
+      "options": [
+        "Mathematics",
+        "Arabic",
+        "Spanish",
+        "English"
+      ],
+      "answer": "Arabic"
+    },
+    {
+      "question": "How many languages are the students at Cooke Elementary School learning at the same time?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "answer": "Two"
+    },
+    {
+      "question": "What are the students also learning about when they learn a new language?",
+      "options": [
+        "Mathematics",
+        "Culture",
+        "History",
+        "Science"
+      ],
+      "answer": "Culture"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

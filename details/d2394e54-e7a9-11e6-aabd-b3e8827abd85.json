@@ -1,0 +1,60 @@
+{
+  "title": "Dogs Can Recognize How You Feel",
+  "introduction": null,
+  "image": {
+    "id": "e457c18c-0eab-11e7-b0bd-57839471bf94",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/14jwlOwGFqM99WvY1fgRkK.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 340
+    },
+    "attribution": "Thomas Zimmermann (THWZ) / Wikimedia Commons / CC-BY-SA 3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3myPYEwnIT4PXQOoCqDgOC.mpga",
+  "main_content": "So you think you know your dog. But how well does your dog know you? She probably recognizes you when she sees you. But can a dog tell by simply looking at you whether you have a happy or an angry expression on your face? Researchers in Austria have taught pet dogs to know the difference.\n\nDogs are very mindful of sound. When dog owners shout or speak in a strong, harsh voice, dogs often act guilty and quietly move away from the area.\n\nRecently, researchers found that dogs can look at our faces, and tell the difference between a smile and a frown.\n\nResearchers at the University of Veterinary Medicine, Vienna performed a series of experiments. They taught dogs to recognize facial expressions. They showed the dogs two pictures of either the upper or lower half of a person’s face. On one picture, the person looked happy. The other appeared angry.\n\nThe dogs were then shown images of the eyes or mouths of people they had never seen before. They were also shown the left half of the faces used in training.\n\nCorsin Muller led the study.\n\nOnce the dogs learned to recognize which image was happy or angry, they could easily identify the same expressions in pictures of any face.\n\nCorsin Muller says future studies will try to show whether dogs can learn the meaning of facial expressions – for example, whether a frown shows that someone is angry.",
+  "questions": [
+    {
+      "question": "What did researchers in Austria teach dogs?",
+      "options": [
+        "To recognize different dog breeds",
+        "To identify human facial expressions",
+        "To understand human commands",
+        "To perform tricks on command"
+      ],
+      "answer": "To identify human facial expressions"
+    },
+    {
+      "question": "Who led the study?",
+      "options": [
+        "Dr. Anna Schmidt",
+        "Corsin Muller",
+        "Professor John Doe",
+        "Dr. Lisa Gray"
+      ],
+      "answer": "Corsin Muller"
+    },
+    {
+      "question": "What was shown to the dogs during the experiment?",
+      "options": [
+        "Pictures of other dogs",
+        "Sounds made by humans",
+        "Images of faces showing different emotions",
+        "Videos of human activities"
+      ],
+      "answer": "Images of faces showing different emotions"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

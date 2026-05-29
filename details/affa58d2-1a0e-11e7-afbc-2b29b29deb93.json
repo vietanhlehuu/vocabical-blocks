@@ -1,0 +1,60 @@
+{
+  "title": "Google Paid Apple $1 Billion to be Default Search on iPhone, iPad",
+  "introduction": null,
+  "image": {
+    "id": "e980c821-7ea2-4ac9-ac7a-cf1c58143a23",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/76c44EPqG5StYARgDUTjs3.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 527
+    },
+    "attribution": "kiel / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5VmIsUMYqQH0VUTLnQwc95.mpga",
+  "main_content": "Search giant Google reportedly paid archnemesis Apple $1 billion to remain the default search engine for Apple’s mobile devices, according to a report by Bloomberg News.\n\nBloomberg made the claim based on court documents in a copyright lawsuit filed by Oracle Corporation against Google.\n\nGoogle, which is now under the umbrella company Alphabet, pays Apple a percentage of the revenue it earns via search, but the exact percentage has never been disclosed.\n\nBloomberg reported the revenue sharing reached as high as 34 percent.\n\nThe court paper cited by the news agency is no longer available online, and neither Apple nor Google have commented.\n\nBloomberg reported that the transcript vanished without a trace from electronic court records earlier this week.\n\nOracle’s lawsuit claimed Google used its Java software to develop Android, Google’s mobile operating system, but never paid for it.\n\nAccording to the BBC, the $1 billion amount has been reported before by firms such as Morgan Stanley.\n\n“It’s a very lucrative business to be the browser of choice on a device or the search engine on a device,” Chris Green, a technology analyst at Lewis, told the BBC.\n\nAlphabet launched in August of 2015 and is run by Google’s current leaders, including CEO Larry Page and his team of co-founder Sergey Brin and CFO Ruth Porat.",
+  "questions": [
+    {
+      "question": "Why has Google paid Apple $1 billion so far?",
+      "options": [
+        "To terminate a lawsuit filed by Oracle Corporation",
+        "To retain the status of default search engine on Apple devices",
+        "To increase its revenue share from Apple",
+        "To fund Apple's development of new mobile features"
+      ],
+      "answer": "To retain the status of default search engine on Apple devices"
+    },
+    {
+      "question": "According to the article, what does Google pay Apple?",
+      "options": [
+        "A fixed annual payment of $1 billion",
+        "An undisclosed percentage of search revenue",
+        "A flat fee for each Apple device sold",
+        "A one-time licensing payment for Safari"
+      ],
+      "answer": "An undisclosed percentage of search revenue"
+    },
+    {
+      "question": "Why did Oracle sue Google?",
+      "options": [
+        "For using Java software without compensation",
+        "For unfair competition in mobile advertising",
+        "For not complying with software licensing agreements",
+        "For breach of contract in search engine services"
+      ],
+      "answer": "For using Java software without compensation"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

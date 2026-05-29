@@ -1,0 +1,60 @@
+{
+  "title": "Pope Francis Holds Christmas Eve Mass",
+  "introduction": null,
+  "image": {
+    "id": "0529ac24-63a2-11ea-8a3c-93f49979a1c0",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3NVbEyRTVxH6t5Jq7nIbTf.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 340
+    },
+    "attribution": "Sean Fornelli / Wikimedia Commons / CC-BY-SA-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6vfZoWjBggJRs8tI4GbC5F.mpga",
+  "main_content": "On Christmas Eve, Pope Francis called on the world’s 1.2 billion Roman Catholics to remember that God’s message of peace “is stronger than darkness and corruption.”\n\nThousands gathered at St. Peter’s Basilica Wednesday night to hear the pope lead a solemn Christmas Eve Mass. He urged Christians to allow God to love them, emphasizing just how much the world needs tenderness today.\n\nBefore the Mass, the pope telephoned Christian refugees at a camp in Iraq. He told them, “You are like Jesus on Christmas night. There was no room for him either, and he had to flee to Egypt later to save himself.”\n\nThe refugees have fled Islamic State fighters who have persecuted Shi’ite Muslims, Christians and others in Syria and Iraq.\n\nThe pope’s phone call and nighttime Mass kicked off a busy few weeks for the 78-year-old pontiff. His schedule includes his traditional Christmas Day speech, New Year’s Eve vespers and 2015 greetings a few hours later.\n\nIn mid-January, he will give his annual foreign policy address to diplomats accredited to the Holy See before boarding a plane for a weeklong trip to Sri Lanka and the Philippines.",
+  "questions": [
+    {
+      "question": "What did Pope Francis say about God’s message?",
+      "options": [
+        "It is often ignored by followers of the faith.",
+        "It is stronger than darkness and corruption.",
+        "It is only relevant during Christmas.",
+        "It is a message of wealth and prosperity."
+      ],
+      "answer": "It is stronger than darkness and corruption."
+    },
+    {
+      "question": "What did he urge people to do?",
+      "options": [
+        "Seek out material wealth.",
+        "Allow God to love them.",
+        "Focus on political issues.",
+        "Prepare for the New Year celebrations."
+      ],
+      "answer": "Allow God to love them."
+    },
+    {
+      "question": "Why does Pope Francis have a busy schedule during this time of the year?",
+      "options": [
+        "He is preparing for the Vatican's financial reports.",
+        "He is celebrating a variety of religious events and addresses.",
+        "He is involved in high-level diplomatic negotiations.",
+        "He is planning to visit multiple countries for personal reasons."
+      ],
+      "answer": "He is celebrating a variety of religious events and addresses."
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

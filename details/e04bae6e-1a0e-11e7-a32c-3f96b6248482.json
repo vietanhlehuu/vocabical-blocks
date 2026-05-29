@@ -1,0 +1,60 @@
+{
+  "title": "Twitter Contemplates Lifting 140-Character Limit",
+  "introduction": null,
+  "image": {
+    "id": "1d46bfa4-a30e-49df-97d7-7b368b5c54c4",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/0tF6ndDQpgkai0lhvnh1C0.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Andy Melton from Boise, ID, USA / Wikimedia Commons / CC-BY-SA-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/71Hx6EYVDkrpxtOBEvPwLt.mpga",
+  "main_content": "News that Twitter is contemplating lifting the 140-character limit on tweets and expanding to 10,000 has been met with mixed reaction in its estimated user base of 300 million.\n\nThe story was first posted on the website Re/code. The site reported that the project, which is internally called “Beyond 140,” would start at the end of March.\n\nThe goal of any revamping would be to increase Twitter’s audience and generate revenue, something that has eluded the company. The move to extend the character limit is viewed as a way to make Twitter more approachable, like Facebook.\n\nTwitter has yet to turn a profit.\n\nTwitter CEO Jack Dorsey defended the idea on Twitter, saying, “We’ve spent a lot of time observing what people are doing on Twitter, and we see them taking screenshots of text and tweeting it. Instead, what if that text … was actually text? Text that could be searched. Text that could be highlighted. That’s more utility and power.”\n\nDorsey launched Twitter in 2006 with a strict 140-character limit so that it could be used via text messages, which had a 160-character limit at the time. Some Twitter users oppose the idea of a longer character limit, saying the tweets would become too long.\n\nAnalyst Michael Pachter of Wedbush Securities said increasing the limit on tweets could be a “good, baby step” toward attracting more users.\n\n“Twitter is an afterthought in social media right now,” Pachter told the Associated Press. “They need to do something to drive more usage of the service. If people start using the service more frequently, other users will come join in, too.”\n\nTwitter’s stock lost over 2 percent over the news.",
+  "questions": [
+    {
+      "question": "What is Twitter planning to do?\n",
+      "options": [
+        "A) Increase the number of users who tweet photos.",
+        "B) Lift the character limit on tweets from 140 to 10,000.",
+        "C) Introduce a new feature for video tweets.",
+        "D) Change its name to focus more on messaging."
+      ],
+      "answer": "B) Lift the character limit on tweets from 140 to 10,000."
+    },
+    {
+      "question": "Why does Twitter want to expand its character limit?",
+      "options": [
+        "A) To reduce the volume of tweets and simplify interactions.",
+        "B) To make Twitter more user-friendly and generate revenue.",
+        "C) To compete with video-dominant platforms like Instagram.",
+        "D) To eliminate the character limit entirely for premium users."
+      ],
+      "answer": "B) To make Twitter more user-friendly and generate revenue."
+    },
+    {
+      "question": "Why does Twitter currently have a 140-character limit?",
+      "options": [
+        "A) To maintain a distinct identity apart from competitors.",
+        "B) To allow compatibility with text messaging services.",
+        "C) To encourage users to post shorter, more frequent tweets.",
+        "D) To focus on visual content rather than text-heavy posts."
+      ],
+      "answer": "B) To allow compatibility with text messaging services."
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

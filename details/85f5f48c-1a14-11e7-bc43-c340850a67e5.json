@@ -1,0 +1,60 @@
+{
+  "title": "US Retailers Gear Up for Holiday Shopping Season",
+  "introduction": null,
+  "image": {
+    "id": "dffd2855-fc09-40f8-a29d-888aa0b5ede0",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6oeytl13JcEsBHcXRMY1Vg.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 342
+    },
+    "attribution": "ReneS at flickr / Wikimedia Commons / CC-BY-SA-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7ClwxTSxljMWiSekubkzHZ.mpga",
+  "main_content": "It’s the most profitable time of the year for retailers, accounting for 20 to 30 percent of annual revenue.\n\nAnd this year, close to 150 million U.S. citizens will go shopping over Thanksgiving weekend, says Kathy Grannis Allen of the National Retail Federation.\n\n“So this is our Super Bowl,” she said. “And this is really the one time in the year that the gloves are off and the competition just heightens.”\n\nTo compete, some stores will open early and stay open later. Nearly all promise big savings to attract the maximum number of shoppers.\n\nBut this year, some retailers – including Nordstrom and Costco – will remain closed on Thanksgiving, while outerwear retailer REI will be closed on Black Friday as well. While their profits could take a hit, business author Kevin Paul Scott says the message is about tradition and family values.\n\n“And people will remember that,” he said. “And beyond the holidays, when they’re buying Mother’s Day and Father’s Day gifts next May and June, they will remember these retailers – they’ll spend more money there and those retailers win in the long run.”\n\nOverall, more people are opting to avoid the crowds. This year, the NRF says more than half of all holiday purchases will be made online – with one in five Americans using a tablet or smartphone.\n\nThat’s the highest since the NRF started asking the question in 2011.\n\n“The most interesting part is not how much they spend, although that’s important,” Paul Scott said, “but where they’re spending it. And we’re going to see online shopping really, I think, put a dent on a lot of traditional brick-and-mortar stores this year.”",
+  "questions": [
+    {
+      "question": "How many Americans will go shopping over Thanksgiving weekend?",
+      "options": [
+        "150 million",
+        "100 million",
+        "200 million",
+        "50 million"
+      ],
+      "answer": "150 million"
+    },
+    {
+      "question": "What are stores doing in order to increase sales?",
+      "options": [
+        "Offering less discounts",
+        "Closing earlier than usual",
+        "Opening earlier and staying open later",
+        "Reducing inventory"
+      ],
+      "answer": "Opening earlier and staying open later"
+    },
+    {
+      "question": "Why will some retailers be closed on Thanksgiving?",
+      "options": [
+        "To save on operational costs",
+        "To prioritize tradition and family values",
+        "To focus on online sales",
+        "To avoid competition"
+      ],
+      "answer": "To prioritize tradition and family values"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

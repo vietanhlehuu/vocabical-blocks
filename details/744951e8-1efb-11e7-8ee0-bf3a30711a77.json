@@ -1,0 +1,60 @@
+{
+  "title": "3-D Video Games Might be Good for Your Child",
+  "introduction": null,
+  "image": {
+    "id": "2f153c51-8526-41f6-821e-b21b150ee77a",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1QqLKcJBxoWeNhsiIN7R4U.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Maurizio Pesce / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3X2PSPBhsB5HiQfMGh8wtz.mpga",
+  "main_content": "While they have been widely denounced by many social scientists, parents and educators as having little or no value, some in the field of psychology and cognitive science are starting to argue otherwise.\n\nScientists studying the effects of fast moving video games claim they may exercise the brain, like strength training, improving mental acuity and quickness in players that extends to other areas of life.\n\nSo-called first person shooter games require players to be on their guard and respond swiftly when confronted suddenly with an enemy target.\n\nNow, video gaming has moved into the 3-D realm, which puts the player in a virtual world of mayhem.\n\nAccording to a study published in The Journal of Neuroscience, researchers report that those who played three-dimensional video games performed better on demanding recognition tasks.\n\nThey strengthened the function of their hippocampus, a brain structure that’s associated with memory.\n\nParticipants of 3-D games performed better on memory tests than those who played simpler video games.\n\nInvestigators want to see whether video games improve the brain aging in older adults.",
+  "questions": [
+    {
+      "question": "Which kind of specialists are supporting video games? ",
+      "options": [
+        "Social scientists",
+        "Educators",
+        "Psychologists and cognitive scientists",
+        "Neuroscientists"
+      ],
+      "answer": "Psychologists and cognitive scientists"
+    },
+    {
+      "question": "What improvements can fast moving video games bring about? ",
+      "options": [
+        "Enhanced physical strength",
+        "Improved mental acuity and quickness",
+        "Better social skills",
+        "Increased emotional intelligence"
+      ],
+      "answer": "Improved mental acuity and quickness"
+    },
+    {
+      "question": "What do first person shooting games require the player to do? ",
+      "options": [
+        "Engage in strategy planning",
+        "Be on guard and respond swiftly",
+        "Solve complex puzzles",
+        "Interact with others in a team"
+      ],
+      "answer": "Be on guard and respond swiftly"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

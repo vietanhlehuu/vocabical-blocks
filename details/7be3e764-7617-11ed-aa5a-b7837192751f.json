@@ -1,0 +1,60 @@
+{
+  "title": "Phone Apps Help Stop Counterfeiters in Kenya",
+  "introduction": null,
+  "image": {
+    "id": "7be3608c-7617-11ed-aa59-033434705c6d",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4mqfVRmTsE3uxYujmwHOjx.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Marco Verch / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5f63ygiM9urmNUQgsJ00vR.mpga",
+  "main_content": "Counterfeit goods, or false versions of products, may cost the government of Kenya as much as $1 billion each year. But information technology is being used to try to stop the problem.\n\nJemima Mwafigu is a 34-year-old business woman who sells products like perfume and cologne. But in the first year of running her business, she found it hard to keep customers because of counterfeit goods.\n\nMs. Mwafigu says her business has improved since she began using a smartphone application called Barcode Scanner. The app is used to authenticate products. It checks to make sure the products are not counterfeit.\n\nIn 2010, Kenya created the Anti-Counterfeit Agency, or ACA, to fight against illegal trade. The ACA has successfully asked government officials for stronger punishments for counterfeiters.\n\nAgnes Karingu is the agency’s acting deputy director for research and awareness. She says the ACA is trying to stay one step ahead of those making fake goods.\n\nFor business owners in Kenya like Ms. Mwafigu, the new apps will help them know if their products are the real thing.",
+  "questions": [
+    {
+      "question": "What is the app used to authenticate products called?",
+      "options": [
+        "Product Verifier",
+        "Barcode Scanner",
+        "Counterfeit Detector",
+        "Quality Check App"
+      ],
+      "answer": "Barcode Scanner"
+    },
+    {
+      "question": "Who is Jemima Mwafigu?",
+      "options": [
+        "A government official",
+        "An Anti-Counterfeit Agency director",
+        "A businesswoman selling products",
+        "A researcher in counterfeit goods"
+      ],
+      "answer": "A businesswoman selling products"
+    },
+    {
+      "question": "How much money do counterfeit goods (false versions of products) cost the government of Kenya?",
+      "options": [
+        "$500 million",
+        "$1 billion",
+        "$750 million",
+        "$2 billion"
+      ],
+      "answer": "$1 billion"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

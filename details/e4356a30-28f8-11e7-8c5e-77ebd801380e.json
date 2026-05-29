@@ -1,0 +1,60 @@
+{
+  "title": "Obama: Everyone Who Works Hard Should Get Ahead",
+  "introduction": null,
+  "image": {
+    "id": "744b466a-a995-42f7-af92-7cbaacbc289a",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3XRVfFZfDF79mGHhcpHwAU.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 771
+    },
+    "attribution": "U.S. Navy photo by Mass Communication Specialist 2nd Class Eli J. Medellin / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6yH6wgWf3ZO35tFVdeil7R.mpga",
+  "main_content": "U.S. President Barack Obama says with the right policies, the U.S. economy can continue to grow so everyone who works hard can get ahead.\n\nIn his weekly address Saturday, Obama said the $4 trillion spending proposal he sent to Congress Monday is built on middle-class economics. He said his proposed 2016 budget could help families afford childcare, health care, college, paid leave at work, home ownership and savings for retirement, and could return thousands of dollars to a working family’s pockets each year.\n\nThe president said he will work with anyone, Republican or Democrat, who is willing to “give working families more security in a time of constant economic change.”\n\nIn his address, Obama highlighted the U.S. economy’s progress, with more than 3.1 million jobs created in 2014 and a net gain of 267,000 jobs last month.\n\nThe president’s budget blueprint calls for higher taxes on the wealthy, an end to mandated spending cuts and more money to help the country’s financially strapped middle class.\n\nWhile many Democrats have embraced the proposed budget, it has generated strong objections from Republican lawmakers, with many saying the proposals are too costly. Republicans also repeatedly have rejected the president’s call for higher taxes on the wealthy.\n\nThey have instead sought entitlement reforms to government pensions for older Americans and health care programs, in a push to rein in costs that are growing with the aging U.S. population.",
+  "questions": [
+    {
+      "question": "Which social category should benefit the most from Barack Obama’s policies?",
+      "options": [
+        "Upper-class families",
+        "Middle-class families",
+        "Wealthy individuals",
+        "Healthcare providers"
+      ],
+      "answer": "Middle-class families"
+    },
+    {
+      "question": "What does the President of the USA aim to do alongside Republican and Democrat politicians?",
+      "options": [
+        "Increase military spending",
+        "Provide higher taxes for the wealthy",
+        "Give working families more security",
+        "Reduce government programs for the elderly"
+      ],
+      "answer": "Give working families more security"
+    },
+    {
+      "question": "How many jobs have been created in the US in January?",
+      "options": [
+        "267,000 jobs",
+        "3.1 million jobs",
+        "150,000 jobs",
+        "500,000 jobs"
+      ],
+      "answer": "267,000 jobs"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

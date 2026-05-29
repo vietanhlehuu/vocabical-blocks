@@ -1,0 +1,60 @@
+{
+  "title": "Great Recession Saw Less Drinking on the Job, More After Work",
+  "introduction": null,
+  "image": {
+    "id": "e0961f66-73b9-4829-a904-89f821e755f0",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6pmt1Vxi7Pss8si1xGczDc.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 343
+    },
+    "attribution": "TrafficJan82 / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/05yajjB7EuUrRHAGpd5OeU.mpga",
+  "main_content": "While it’s widely known that being laid off from a job can lead some people to drink more alcohol, a new study shows that during the so-called Great Recession in the U.S. from 2007 to 2009, even those who kept their jobs drank more.\n\nWriting in the journal Psychology of Addictive Behaviors, researchers from the University at Buffalo Research Institute on Addictions found that, based on two surveys of more than 5,000 people with jobs, drinking while at work dropped off, but drinking during off hours rose.\n\n“Even among the employed, economic downturns can create sources of work related and financial stress that may lead to lower levels of alcohol use during the work day, but higher levels of excessive and ill-timed alcohol use away from work,” said study author Michael Frone, a senior research scientist at RIA.\n\nFrone said the drop off in at-work drinking likely was due to people not “putting their employment in jeopardy.”\n\nThe researchers also found that middle aged workers tended to drink more than their younger counterparts, who saw no rise in drinking during the economic crisis.\n\nFrone said the increased family and financial responsibilities of middle aged workers could add to stress, making alcohol appealing.\n\nDrinking excessively outside work can still impact work, Frone said.\n\n“Excessive drinking can lead to absenteeism or coming to work hungover, which can affect productivity,” Frone said. “Also, increased drinking after work may lead to family problems, which can affect performance at work.”",
+  "questions": [
+    {
+      "question": "What surprising fact does the study show?",
+      "options": [
+        "More people with jobs chose to drink less alcohol during work hours.",
+        "Even those who retained their jobs increased their alcohol consumption.",
+        "Drinking during work hours remained constant despite economic stress.",
+        "Younger workers experienced a significant rise in alcohol consumption."
+      ],
+      "answer": "Even those who retained their jobs increased their alcohol consumption."
+    },
+    {
+      "question": "When did people start drinking more?",
+      "options": [
+        "During the early 2000s before the Great Recession.",
+        "During off hours amidst the Great Recession.",
+        "While at work during the Great Recession.",
+        "After returning to work post-recession."
+      ],
+      "answer": "During off hours amidst the Great Recession."
+    },
+    {
+      "question": "Why did people start drinking less while at work?",
+      "options": [
+        "Workers were under less financial stress than before.",
+        "They were concerned about jeopardizing their employment.",
+        "Drinking during the day was being discouraged by employers.",
+        "The legal drinking age was strictly enforced during this time."
+      ],
+      "answer": "They were concerned about jeopardizing their employment."
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Report: Plastic to Outweigh Fish in Oceans by 2050",
+  "introduction": null,
+  "image": {
+    "id": "0a878080-ab82-4af3-bfec-2a85a75591a0",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/0JrqZ63YJUBBVnjGJkzYrg.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Loranchet / Wikimedia Commons / CC-BY-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0esgH1s5tJFL00L7cmX4Iz.mpga",
+  "main_content": "There will be more plastic than fish in the world’s oceans by 2050, according to a report by the World Economic Forum released Tuesday.\n\nPlastic has become the most used material everywhere and every day in the modern economy for its combination of functionality and very low production costs.\n\nIts use, especially in packaging, which is the focus of the report, has increased 20 times in the past 50 years, to 311 million tons in 2014, and is expected to double again in 20 years.\n Most plastic packaging is used only once and 95 percent of its value, worth $80 billion to $120 billion annually, is lost to the economy.\n\nThe report predicts that with the current pace, oceans will contain more plastic than fish by 2050 in terms of weight, estimating that by then, the amount of plastic produced globally will have increased three times to more than one billion tons.\n\nThe report considered more problematic the fact that almost a third of all plastic packaging escapes collection systems and ends up in nature or clogging infrastructure.\n\nThe World Economic Forum offers a vision for a global economy in which plastic never becomes waste, but is systematically collected and recycled.\n\nThat means offering people incentives to recycle plastic, use reusable packaging, and encourage countries to improve their waste collection infrastructure to prevent the material from leaking into nature.\n\nThe report is based on interviews with more than 180 experts and on analysis of more than 200 reports.",
+  "questions": [
+    {
+      "question": "Why is plastic the most used material in the world?",
+      "options": [
+        "It has the highest durability compared to other materials.",
+        "Its combination of functionality and very low production costs.",
+        "It is readily available in all countries.",
+        "It is environmentally friendly and recyclable."
+      ],
+      "answer": "Its combination of functionality and very low production costs."
+    },
+    {
+      "question": "How many times is a plastic package usually being used?",
+      "options": [
+        "Once",
+        "Twice",
+        "Three times",
+        "Four times"
+      ],
+      "answer": "Once"
+    },
+    {
+      "question": "What happens to a third of all plastic in the world?",
+      "options": [
+        "It is used for manufacturing new products.",
+        "It escapes collection systems and ends up in nature.",
+        "It is processed and recycled effectively.",
+        "It is stored in landfills without causing harm."
+      ],
+      "answer": "It escapes collection systems and ends up in nature."
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

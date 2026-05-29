@@ -1,0 +1,60 @@
+{
+  "title": "Marvel Comics Introducing Biracial Spider-Man",
+  "introduction": null,
+  "image": {
+    "id": "30cd3b18-772b-477d-bbd3-2752fc75a0fd",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1U5QBuDT6T0GoyuSeHVLAb.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Jeremy Thompson from United States of America / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5cR0AErTUaSwRltdEZAPK6.mpga",
+  "main_content": "Whether it’s in a comic book or on the big screen, fans have always known the man behind the Spider-Man mask as Peter Parker. But that is changing, at least in the comic book world.\n\nMarvel Comics’ Spider-Man is a superhero who connects to people unlike any other comic book character, says fan Daniel Wrobel.\n\n“You cannot really see his face while he is doing his super-heroing. So that is the great thing about him – that anybody could imagine themselves as Peter Parker,” he said.\n\nOr as the character Miles Morales, the new Spider-Man depicted as a biracial teen from Brooklyn, New York.\n\nComic book reader Ryan Groves thinks the timing is right.\n\n“It is about time if you are going to do it for a newer generation or even go with the diversity, then I would definitely go with somebody like that,” he said.\n\nMarvel Comics first introduced Miles Morales in 2011 in an alternative reality storyline of Spider-Man. Also bitten by a spider, he discovered he had super powers including camouflage abilities and increased agility. Marvel is now transitioning him into a new series where he will be Spider-Man, and Peter Parker will be his mentor.\n\nMarvel and Golden Apple Comics employee Joe Slepski have noticed how fans have embraced this fresh face.\n\n“The current up and coming crop of readers are definitely more diverse and so I think image has led the way with this, and Marvel and DC [Comics] are starting to respond in a big way this year,” he said.\n\nThere is a trend of comic book characters being more reflective of what America is today. Marvel says it wants to introduce more characters that mirror its “broad readership.”  The hero Thor is now female, and the new Spider-Man is half Latino and half African-American.",
+  "questions": [
+    {
+      "question": "Why does Spider-Man connect people like no other superhero?",
+      "options": [
+        "Because his identity is fully visible to everyone.",
+        "Because he has the ability to fly and save everyone.",
+        "Because anyone can imagine themselves as Peter Parker due to his concealed identity.",
+        "Because he interacts personally with all his fans."
+      ],
+      "answer": "Because anyone can imagine themselves as Peter Parker due to his concealed identity."
+    },
+    {
+      "question": "How is the new Spider-Man depicted?",
+      "options": [
+        "As a white male from suburban America.",
+        "As a biracial teen from Brooklyn, New York.",
+        "As a middle-aged mentor to Peter Parker.",
+        "As a powerful alien from another planet."
+      ],
+      "answer": "As a biracial teen from Brooklyn, New York."
+    },
+    {
+      "question": "What powers does Morales have?",
+      "options": [
+        "Telepathy and flight.",
+        "Invisibility and super strength.",
+        "Camouflage abilities and increased agility.",
+        "The power to time travel."
+      ],
+      "answer": "Camouflage abilities and increased agility."
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

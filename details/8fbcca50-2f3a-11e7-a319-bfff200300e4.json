@@ -1,0 +1,60 @@
+{
+  "title": "Neuroscientists Awaken ‘Ghosts’ in Brain",
+  "introduction": null,
+  "image": {
+    "id": "a5cddf74-dba9-47cb-81e1-fb3638e09746",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/52roir1C8AL9T0ZPSHIlFe.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 410
+    },
+    "attribution": "jurvetson (Steve Jurvetson) / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7RgUXjKHMwgWA8H4hygHWL.mpga",
+  "main_content": "It’s not an uncommon experience to feel like you are not alone… even when you know you are. It’s a foundation for many scary movies. But many people sense an unseen presence outside the movie theater.\n\nThe skeptic says it’s all in your mind. True enough, a new study says, but that doesn’t mean it’s not real.\n\nAccording to the new research, the feeling of not being alone, or of being watched is real. It’s what happens when your brain gets confused with the information it’s getting from your senses. So, while an invisible presence isn’t really there, the brain creates a ‘ghost’ to help it reconcile the sensory input. Researchers in Switzerland proved it by recreating that eerie sensation in the lab. They say ‘ghosts’ may be triggered by intense physical stress or emotional shock, as well as by neurological and psychiatric disorders.\n\nScientists at the Swiss Federal Institute of Technology in Lausanne (EPFL) analyzed MRIs of 12 patients with brain disorders who reported experiencing these apparitions. They found disturbances in parts of the brain that deal with movement and the position of the body.\n\nIn the lab they recreated the dissonance with a device that sent mixed-up sensory-motor signals to healthy subjects. As the blind-folded participants manipulated a lever in front of them, a robotic hand touched their back. When it mimicked their movements exactly, they felt, oddly, that they were touching their own back. But when the researchers added just a slight delay between the participants’ movement and the robot’s, the people said they felt there was someone else standing behind them, touching them.\n\nWriting in Current Biology, the researchers explain that the test subjects’ brains no longer identified the tactile signals as belonging to their own body, interpreting them instead as something ‘other’ – that unseen presence. The findings could help explain the wide-spread phenomenon of guardian angels, ghosts and other apparitions.",
+  "questions": [
+    {
+      "question": "What do scientists think about the feeling of being watched?",
+      "options": [
+        "It is entirely a figment of imagination without any basis.",
+        "It is a real sensation created by brain confusion over sensory input.",
+        "It signifies a serious mental health issue that needs immediate attention.",
+        "It is a cultural phenomenon that varies across different societies."
+      ],
+      "answer": "It is a real sensation created by brain confusion over sensory input."
+    },
+    {
+      "question": "Why does your brain “invent” a ghost?",
+      "options": [
+        "To provide comfort in times of loneliness and despair.",
+        "To reconcile conflicting sensory information it receives.",
+        "To develop a deeper connection with the supernatural.",
+        "To entertain itself during moments of inactivity."
+      ],
+      "answer": "To reconcile conflicting sensory information it receives."
+    },
+    {
+      "question": "What can trigger “ghosts”?",
+      "options": [
+        "Extreme happiness and joyful experiences.",
+        "Intense physical stress, emotional shock, and certain neurological disorders.",
+        "A lack of sleep and poor dietary habits.",
+        "Meditation and relaxation techniques."
+      ],
+      "answer": "Intense physical stress, emotional shock, and certain neurological disorders."
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Physically Fit Children Do Better in School",
+  "introduction": null,
+  "image": {
+    "id": "e4601bfc-0eab-11e7-b59c-23542fb6f236",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/7jJ5iBCLWsxh8wA04ssc7e.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 769
+    },
+    "attribution": "Airman 1st Class Ericka Engblom / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5gWXj6MjQ9I6hJZDlKs1KR.mpga",
+  "main_content": "Overweight.\n\nOut-of-shape.\n\nFat.\n\nWhatever you want to call it, many studies show that children around the world are becoming less active and less physically fit. The result is an increase in obesity, the condition of being severe overweight, also diabetes and other diseases.\n\nIt is a major concern for public health officials. And it may be that fitness levels affect more than physical health. For students, it may also affect test scores.\n\nVOA’s Carol Pearson was in Redondo Beach, California, with more than 700 children recently. They were walking to school with parents and, in some cases, even their dogs. The students do this once a week. The children may not know it but they walk to help reduce childhood obesity. It is also meant to increase their activity, or fitness, level.\n\n“It’s a good way to get the kids exercising in the morning.”\n\nFor the kids, it’s just fun.\n\n“I like walking to school with my friends.”\n\n“One of my friend’s name is Elissa. And we talk about a lot of things at school. We talk about how hard our homework is and all of the fun activities we’re doing.”\n\nA study from the U.S. Centers for Disease Control and Prevention shows that most American children are physically unfit. But, children in other countries also face this problem.\n\nHealth officials across the world are concerned about rising rates of obesity and type 2 diabetes in children as young as eight. This kind of diabetes is directly related to poor diet and lack of physical activity.\n\nKids need an hour of exercise daily.\n\nThe World Health Organization advises that children between the ages of five and 17 get at least 60 minutes of physical activity every day. The activity should be moderate to very energetic, or vigorous.\n\nStudies on children and exercise show that fitness is good for more than just physical health. A U.S. Institute of Medicine study shows that physical activity helps students with their studies. Professor Charles Hillman says children in his study who had physical activity on a usual basis improved in school. He also says children learn best if physical activity is included during class or before.",
+  "questions": [
+    {
+      "question": "What has become a major concern for public health officials?",
+      "options": [
+        "Increasing levels of physical activity among children",
+        "The rising rates of childhood obesity and type 2 diabetes",
+        "The academic performance of students in school",
+        "The amount of time children spend walking to school"
+      ],
+      "answer": "The rising rates of childhood obesity and type 2 diabetes"
+    },
+    {
+      "question": "How often do students in Redondo Beach, California walk to school? Do they like it?",
+      "options": [
+        "They walk every day and are indifferent about it",
+        "They walk once a week and find it enjoyable",
+        "They walk on weekends only and prefer to stay indoors",
+        "They walk only during special events and dislike it"
+      ],
+      "answer": "They walk once a week and find it enjoyable"
+    },
+    {
+      "question": "Is obesity a problem only in America?",
+      "options": [
+        "Yes, it is primarily an American issue",
+        "No, it is a global issue affecting children in various countries",
+        "Yes, but only in urban areas of America",
+        "No, other countries have even higher obesity rates"
+      ],
+      "answer": "No, it is a global issue affecting children in various countries"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Russia’s Car Sales Shrink, Luxury Brands Grow",
+  "introduction": null,
+  "image": {
+    "id": "f85bc0c5-aa9e-414e-8a8d-8f40b3f715bc",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/7Ye1kvno8Mt3KNaT5Jjt64.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Milhouse35 / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3IgewlRNrDcUO46ElCLIp7.mpga",
+  "main_content": "Russia’s automobile dealers had a bad year in 2015, as the country’s economic woes kept buyers out of showrooms. But, at the opposite ends of the car market, some luxury vehicles and one low-end economy brand are seeing growth.\n\nCar sales in Russia last year dropped by a whopping 36% as the economy shrank and inflation soared.\n\nBut the devalued ruble ironically made luxury cars cheaper in Russia than abroad and drove sales growth, as well-off Russians invested their unstable rubles in physical assets.\n\nLuxury brand sales increased for some, such as Porsche, by as much as 12%. Lexus, a Toyota luxury model, saw sales grow 6%.\n\nIn a written response to questions, car maker Rolls-Royce’s dealer in Moscow told VOA the company’s exports to Russia increased 5% in 2015 and said it is “confident of another successful year” in Russia.\n\n“Although our customers are not immune against the economic challenges,” the company wrote, “many of them felt that uncertain times are the right point for long-term investments.”\n\nBut not all high-end brands are doing well. Mercedes Benz saw sales drop by 15%, except for its mini Smart model, which sold 28% more units. BMW sales were down by 23%.\n\nAs wages have fallen, many Russians have cut costs by taking public transport and scaling back plans to buy cars.\n\n“Purchasing a new car is not one of my financial priorities,” says Moscow Metro employee Eldar Erzin, “because mine is not so old and because of the crisis. I’m pushing this off for now.”",
+  "questions": [
+    {
+      "question": "Why did cars sales in Russia drop last year?",
+      "options": [
+        "A sharp increase in competition among local dealers",
+        "A significant decline in consumer confidence and purchasing power",
+        "New regulations that imposed high tariffs on car imports",
+        "A lack of affordable financing options for buyers"
+      ],
+      "answer": "A significant decline in consumer confidence and purchasing power"
+    },
+    {
+      "question": "What is the irony of a weak ruble?",
+      "options": [
+        "It increased production costs for domestic manufacturers",
+        "It made luxury cars more affordable for Russian buyers compared to foreign markets",
+        "It led to a decrease in foreign investment in the automotive sector",
+        "It resulted in higher resale values for Russian-made cars"
+      ],
+      "answer": "It made luxury cars more affordable for Russian buyers compared to foreign markets"
+    },
+    {
+      "question": "How did many Russians react to the decrease of wages?",
+      "options": [
+        "They began to invest more in luxury items",
+        "They opted for public transportation and postponed car purchases",
+        "They took loans to maintain their standard of living",
+        "They moved to rural areas where car ownership is less essential"
+      ],
+      "answer": "They opted for public transportation and postponed car purchases"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

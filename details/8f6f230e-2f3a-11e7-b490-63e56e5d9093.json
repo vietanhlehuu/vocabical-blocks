@@ -1,0 +1,60 @@
+{
+  "title": "Japan Slips Into Recession",
+  "introduction": null,
+  "image": {
+    "id": "ba084960-42ad-4f1e-b806-5e40190b7832",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5f2MJ8e8YupiHz5sXytGCY.png",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Kansaikiwi / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6x1Y8xR0DCykII9qEfdhVQ.mpga",
+  "main_content": "Japan’s economy, the world’s third largest, has fallen into recession.\n\nNew data show the economy shrank at a 1.6 percent annual rate in July, August and September, after an even sharper decline in the previous quarter. Textbooks often define “recession” as two consecutive quarters of “negative growth.”\n\nThe shrinking economy follows a tax increase that apparently discouraged spending by consumers and businesses. Stories in the financial press say the bad economic news makes it likely that Prime Minister Shinzo Abe will delay another planned tax hike and call an early election.\n\nAbe took office promising to improve the slumping economy through massive public stimulus spending and reforms. The plan often is called “Abenomics.”\n\nThe shrinking economy surprised experts who mostly predicted modest growth for Japan. News of the recession caused stocks to decline in Tokyo and some other major markets.",
+  "questions": [
+    {
+      "question": "What rank has the Japanese economy in the world?",
+      "options": [
+        "Second largest",
+        "Third largest",
+        "Fifth largest",
+        "Largest"
+      ],
+      "answer": "Third largest"
+    },
+    {
+      "question": "How is the term “recession” defined by textbooks?",
+      "options": [
+        "A period of no economic growth",
+        "Two consecutive quarters of negative growth",
+        "A decline in employment rates",
+        "An increase in inflation rates"
+      ],
+      "answer": "Two consecutive quarters of negative growth"
+    },
+    {
+      "question": "Why did the economy shrink?",
+      "options": [
+        "Increase in consumer spending",
+        "Tax increase discouraging spending",
+        "Decrease in public sector employment",
+        "Increase in exports"
+      ],
+      "answer": "Tax increase discouraging spending"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

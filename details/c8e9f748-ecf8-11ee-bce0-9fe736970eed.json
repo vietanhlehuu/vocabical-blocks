@@ -1,0 +1,60 @@
+{
+  "title": "Nigeria Bomb Kills More Than 30, Wounds 80",
+  "introduction": null,
+  "image": {
+    "id": "c8e9897a-ecf8-11ee-bcdf-8bb043dc7da8",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/7ZEgmX4MClLqQxaH0lijqX.jpeg",
+    "dimensions": {
+      "x": 600,
+      "y": 450
+    },
+    "attribution": "Nwuanyi / Wikimedia Commons / CC-BY-SA-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3ea3oa1fQNAOTsaENFREs0.mpga",
+  "main_content": "At least 32 people are dead and 80 others were wounded after an explosion in Nigeria.\n\nThe blast struck a market after sunset in the northeastern city of Yola. No one has claimed responsibility. But NBC News says the explosion was the work of a suicide bomber.\n\nNigerian officials believe the Islamic militant group Boko Haram is connected to the attack. Boko Haram has killed thousands of people as part of its campaign to try to turn Nigeria into an Islamic state.\n\nMost victims were selling food or were passers-by, said police official Othman Abubakar.\n\nThe president of Nigeria, Muhammadu Buhari, sent sympathy to family members of the dead late Tuesday and called the attack “callous.”\n\nThis was the first suspected Boko Haram attack in Nigeria in several weeks.\n\nNigeria recently stepped up in its fight against Boko Haram with the help of the United States and French militaries. Nigeria’s military has reported killing and capturing possible suicide terrorists.",
+  "questions": [
+    {
+      "question": "Which Islamic militant group is connected with the attack?",
+      "options": [
+        "Al-Qaeda",
+        "ISIS",
+        "Boko Haram",
+        "Hezbollah"
+      ],
+      "answer": "Boko Haram"
+    },
+    {
+      "question": "How many people have died or been injured?",
+      "options": [
+        "32 dead and 80 wounded",
+        "50 dead and 100 wounded",
+        "20 dead and 60 wounded",
+        "40 dead and 90 wounded"
+      ],
+      "answer": "32 dead and 80 wounded"
+    },
+    {
+      "question": "Who is Muhammadu Buhari?",
+      "options": [
+        "A police official in Yola",
+        "The president of Nigeria",
+        "A leader of Boko Haram",
+        "An international journalist"
+      ],
+      "answer": "The president of Nigeria"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

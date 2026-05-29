@@ -1,0 +1,60 @@
+{
+  "title": "Animals Dying in California Oil Spill",
+  "introduction": null,
+  "image": {
+    "id": "3e5375dc-c187-11ea-9942-8b5f349a1274",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/0V32fqQYiSgI2S5l7wktta.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 383
+    },
+    "attribution": "Martarano Steve, U.S. Fish and Wildlife Service / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5eoIMAfqt774fun8gYIcnU.mpga",
+  "main_content": "Dead animals have been found along the coast of Central California almost every day for the past two weeks. On May 19, a pipeline broke, releasing thousands of liters of crude oil into the Pacific Ocean and onto California beaches.\n\nIt will be many years before scientists know how the oil spill will affect the area’s ecosystem and environment.\n\nBut rescue workers are taking action now, helping animals affected by the spill.\n\nVOA visited SeaWorld San Diego, the main care center for sea animals covered in oil.\n\nThe elephant seals and California sea lions do not like staying at SeaWorld San Diego. But its Oiled Wildlife Care Center offers these wild animals their best chance at surviving.\n\nJody Westberg is one of the people who have been working to rescue the oil-covered creatures.\n\nThe rescue crews have been working hard to clean the animals so they can return to the wild. It is not easy work. Jody Westberg says the oil spill may have affected the workers, too.",
+  "questions": [
+    {
+      "question": "When did the pipeline break and the oil spilled?",
+      "options": [
+        "On May 19",
+        "On May 17",
+        "On May 15",
+        "On May 20"
+      ],
+      "answer": "On May 19"
+    },
+    {
+      "question": "What is the main care center for sea animals covered in oil?",
+      "options": [
+        "Marine Animal Rehabilitation Center",
+        "SeaWorld San Diego",
+        "Pacific Wildlife Care",
+        "California Oceanic Institute"
+      ],
+      "answer": "SeaWorld San Diego"
+    },
+    {
+      "question": "Who is Jody Westberg?",
+      "options": [
+        "A marine biologist studying oil spills",
+        "One of the people working to rescue oil-covered creatures",
+        "The owner of SeaWorld San Diego",
+        "A wildlife photographer documenting the spill"
+      ],
+      "answer": "One of the people working to rescue oil-covered creatures"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

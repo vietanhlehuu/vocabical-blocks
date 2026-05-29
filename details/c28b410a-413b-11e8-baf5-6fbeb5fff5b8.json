@@ -1,0 +1,60 @@
+{
+  "title": "One School, Five Languages",
+  "introduction": null,
+  "image": {
+    "id": "c28ab2ee-413b-11e8-baf4-c354463e7df9",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/p6r38bjYDMJZvFK010xMUsUjhJgysiIrAfggSZzDBwp.jpeg",
+    "dimensions": {
+      "x": 5520,
+      "y": 3925
+    },
+    "attribution": "Shutterstock",
+    "public_attribution": false,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1KctzWSbPf9XKiHN1QeWZa.mpga",
+  "main_content": "In New York City public schools, 176 different languages are spoken among the more than 1 million students.\n\nFor 160,000 children, English is not their first language. New York’s Department of Education makes learning better for these students by providing dual language programs.\n\nStudents are taught in two languages, English and another one, like Russian or Chinese. Math, and all other regular courses are taught in both languages. And they learn about the culture of the other country.\n\nMilady Baez is Deputy Chancellor of English Language Learners and Student Support. She says these dual language programs will help children succeed in the future.\n\n“The jobs of the future require that our students know more than one language.”\n\nDavid A. Booty Middle School in Brooklyn offers dual language education in four languages: Russian, Mandarin, Spanish and Hebrew.\n\nThe New York schools also offer dual-language programs in seven other languages: Arabic, French, Haitian Creole, Hebrew, Korean, Polish and Spanish. There are plans to add even more languages in the future.",
+  "questions": [
+    {
+      "question": "For how many children in New York English is not the first language?",
+      "options": [
+        "150,000",
+        "160,000",
+        "170,000",
+        "180,000"
+      ],
+      "answer": "160,000"
+    },
+    {
+      "question": "In what languages do the New York schools offer dual-language programs?",
+      "options": [
+        "Russian, Mandarin, French, Arabic",
+        "Russian, Mandarin, Spanish, Hebrew",
+        "Arabic, French, Haitian Creole, Polish",
+        "English, Spanish, Korean, Polish"
+      ],
+      "answer": "Russian, Mandarin, Spanish, Hebrew"
+    },
+    {
+      "question": "What did Milady Baez say about the dual-language programs? How will they help children?",
+      "options": [
+        "They will help children learn math faster.",
+        "They will prepare children for jobs requiring multilingual abilities.",
+        "They will improve children's social skills.",
+        "They will help children adapt to American culture."
+      ],
+      "answer": "They will prepare children for jobs requiring multilingual abilities."
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

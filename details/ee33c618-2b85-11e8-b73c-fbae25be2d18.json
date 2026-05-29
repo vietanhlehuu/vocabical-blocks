@@ -1,0 +1,60 @@
+{
+  "title": "Bad Weather Forces Solar Plane to Land in Japan",
+  "introduction": null,
+  "image": {
+    "id": "ee3339c8-2b85-11e8-b73b-5f66d4fb5970",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1YXdjx4028iY8MWfwCA0j5.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Ed Mullin / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2vlzHEmtfdJ6PsdtVIZwpw.mpga",
+  "main_content": "Bad weather is grounding a solar-powered Swiss airplane in the most difficult leg of its journey around the globe powered only by the sun.\n\nThe Solar Impulse 2 has landed Monday in the Japanese city of Nagoya, delaying a landmark attempt by the solar plane to cross the Pacific Ocean.\n\n“The weather is deteriorating,” Bertrand Piccard, one of the creators of Si2, tweeted Monday. The diversion is “between elation and disappointment,” he said.\n\nSi2 began its trans-Pacific journey Sunday, taking off from Nanjing in eastern China, headed for the U.S. island-state of Hawaii 8,500 kilometers away. Sunday’s trip began after extended delays awaiting suitable weather conditions.\n\nThe carbon fiber single-seat Solar Impulse 2 aircraft has a 72-meter wingspan, which is longer than the wingspan of a Boeing 747, and weighs about as much as a car. The 17,000 solar cells built into the wings harness the sun’s energy, allowing it to fly through the night.\n\nPiccard and Borschberg say they are not out to revolutionize the aviation industry, but are instead aiming to demonstrate that actual alternative energy sources and new technologies can achieve what some consider impossible.\n\nThe aircraft’s route includes stops in Oman, India, Myanmar and China. After crossing the Pacific Ocean via Hawaii, the plane will make up to three stops in the U.S., touching down in Phoenix, Arizona and New York City, and possibly another location depending on weather conditions.",
+  "questions": [
+    {
+      "question": "Why did the plane land in Japan?",
+      "options": [
+        "A. To resupply before continuing its journey.",
+        "B. Bad weather delayed its trans-Pacific crossing.",
+        "C. Mechanical issues required an emergency landing.",
+        "D. It was scheduled for a planned stop in Nagoya."
+      ],
+      "answer": "B. Bad weather delayed its trans-Pacific crossing."
+    },
+    {
+      "question": "How is the plane powered and why can it fly through the night?",
+      "options": [
+        "A. It is fueled by biofuels allowing for extended travel.",
+        "B. It uses solar cells that collect energy during the day.",
+        "C. It has a backup engine that activates in low sunlight.",
+        "D. Its wings are designed to store energy from the wind."
+      ],
+      "answer": "B. It uses solar cells that collect energy during the day."
+    },
+    {
+      "question": "What are the two inventors aiming to do?",
+      "options": [
+        "A. Create a commercial airline using solar technology.",
+        "B. Prove that alternative energy sources can achieve the impossible.",
+        "C. Attract investment for future aviation projects.",
+        "D. Set new records for distance traveled by a single aircraft."
+      ],
+      "answer": "B. Prove that alternative energy sources can achieve the impossible."
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Obama, Prince William Chat in Oval Office",
+  "introduction": null,
+  "image": {
+    "id": "e45e9660-0eab-11e7-b4bc-773268a4da64",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6XntpUYXPfiXp0jiuSwlkL.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Pete Souza / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/49EZxFAzI4UrjnijyoFjZB.mpga",
+  "main_content": "Britain’s Prince William visited Washington for the first time Monday, with the future king of England calling for a crackdown on the illegal trade in world wildlife.\n\nThe prince met with U.S. President Barack Obama at the White House where they talked about the vast criminality involved in the wildlife trade, and the prince then delivered a speech on the issue at a World Bank conference.\n\n“In my view, one of the most insidious forms of corruption and criminality in the world today is the illegal wildlife trade. Here, criminal gangs turn vast profits from the illegal killing or capture of wildlife; armed groups and terrorists swap poached ivory for guns; and middle-men oil the wheels of the trade in return for reward,” he said. “Together they loot our planet, to feed mankind’s ignorant craving for exotic pets, trinkets, cures and ornaments derived from the world’s vanishing and irreplaceable species.”\n\nPrince William said that Britain’s United for Wildlife charity, which he founded with his wife Kate and brother Prince Harry, is spearheading a new examination of the transport industry, from airlines to shipping lines, to try to break the link between suppliers of contraband wildlife and consumers.\n\nWhile the prince was in Washington, Kate, pregnant with the couple’s second child, toured a New York child development center with Chirlane McCray, the wife of New York Mayor Bill de Blasio.\n\nIt was the royal couple’s first visit to the United States since 2011 and the first time either one of them had been to New York or Washington.\n\nAt the White House, Prince William chatted amiably in the Oval Office with President Obama in front of a crush of journalists, but made no public statements before meeting privately.\n\nBritain’s popular royal couple arrived in New York Sunday for their three-day U.S. trip.\n\nLater Monday, the royal couple planned to go to Brooklyn’s Barclays Center to see their first National Basketball Association game, featuring superstar LeBron James and the Cleveland Cavaliers against the Brooklyn Nets.\n\nThe NBA said William and Kate are attending the game as part of a new partnership between the league and the Royal Foundation. The new project will unite NBA players and England’s royalty to stress global wildlife conservation, develop a new generation of conservation leaders and boost the sport of basketball.\n\nThe royal couple’s visit will include some events with other high-profile guests.\n\nFormer U.S. Secretary of State Hillary Clinton and daughter Chelsea are accompanying William and Kate to a New York reception highlighting conservation efforts.\n\nAt a black-tie scholarship fundraiser for Scotland’s University of St. Andrew, other guests are expected to include actor Tom Hanks and opera singer Renee Fleming. Tickets for the event were expected to sell for up to $10,000. William and Kate – the duke and duchess of Cambridge – are graduates of St. Andrew.",
+  "questions": [
+    {
+      "question": "What did Prince William and Barack Obama talk about?",
+      "options": [
+        "The globalization of the wildlife trade",
+        "The impact of climate change on wildlife",
+        "Efforts to combat the illegal wildlife trade",
+        "The economic benefits of sustainable tourism"
+      ],
+      "answer": "Efforts to combat the illegal wildlife trade"
+    },
+    {
+      "question": "What did Prince William’s wife, Kate visit?",
+      "options": [
+        "A royal gala in Washington D.C.",
+        "A child development center in New York",
+        "An environmental conference in Brooklyn",
+        "A historic site in Philadelphia"
+      ],
+      "answer": "A child development center in New York"
+    },
+    {
+      "question": "What NBA game will the royal couple attend?",
+      "options": [
+        "The Brooklyn Nets vs. Miami Heat",
+        "Los Angeles Lakers vs. Chicago Bulls",
+        "Cleveland Cavaliers vs. Brooklyn Nets",
+        "Golden State Warriors vs. Boston Celtics"
+      ],
+      "answer": "Cleveland Cavaliers vs. Brooklyn Nets"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

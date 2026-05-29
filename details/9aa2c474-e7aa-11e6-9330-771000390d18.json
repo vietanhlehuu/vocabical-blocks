@@ -1,0 +1,60 @@
+{
+  "title": "Hawaii Scientists Study Threatened Shark Species",
+  "introduction": null,
+  "image": {
+    "id": "9074560a-36aa-4018-90c0-f31a1a8e89fb",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4Oa3lpKgnuE6Z7u7LoNjyt.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Meri.Aqua / Wikimedia Commons / CC-BY-SA 4.0",
+    "public_attribution": true,
+    "lock_version": 5,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/09jeVl3pnRUgCRk7vIrd8C.mpga",
+  "main_content": "Fishing, climate change and pollution threaten many shark species. Now, scientists are getting a close look at the shark environment. They want to better understand the threats this important animal faces.\n\nThe University of Hawaii research site is on Coconut Island in Hawaii. It is just minutes by motorboat from the shore of Oahu, the most populated of the Hawaiian Islands. The facility is a good place to observe sharks, since they are native to local waters. Some are being kept in this sheltered bay for study.\n\nScientists also observe the behavior of sharks in the open ocean. They place a sensor device in their food to observe the digestion process. They also measure the animals. Then the researchers release the sharks with electronic tracking devices attached to their fins.\n\nThe researchers study tiger sharks, sandbar sharks, blacktip sharks and many others. They recently attached a camera to a sandbar shark to record its everyday activities.\n\nSharks are quick and deadly but rarely attack humans.\n\nCarl Meyer says those rare attacks receive heavy media coverage and are dramatized in movies like 1975’s “Jaws.”",
+  "questions": [
+    {
+      "question": "What threatens many shark species?",
+      "options": [
+        "Fishing, climate change, and pollution",
+        "Overfishing and habitat destruction",
+        "Climate change and pollution",
+        "Only pollution"
+      ],
+      "answer": "Fishing, climate change, and pollution"
+    },
+    {
+      "question": "Why are scientists studying sharks?",
+      "options": [
+        "To learn how to domesticate them",
+        "To understand the threats they face",
+        "To make them faster in the water",
+        "To investigate their impact on human activities"
+      ],
+      "answer": "To understand the threats they face"
+    },
+    {
+      "question": "Which sharks do the researchers study?",
+      "options": [
+        "Tiger sharks, sandbar sharks, and blacktip sharks",
+        "Hammerhead sharks, whale sharks, and tiger sharks",
+        "Sandbar sharks, bull sharks, and great white sharks",
+        "Only tiger sharks"
+      ],
+      "answer": "Tiger sharks, sandbar sharks, and blacktip sharks"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Hold Your Horses!",
+  "introduction": null,
+  "image": {
+    "id": "d9b9a59d-2a60-48f9-9410-39563b7a8c21",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6cqAtvaUjTlsuIVM8WrZY1.jpeg",
+    "dimensions": {
+      "x": 400,
+      "y": 368
+    },
+    "attribution": "Marlynna Pellegrini, her owner and trainer at the time. Uploaded by Lar / Wikimedia Commons / CC-BY-SA 3.0",
+    "public_attribution": true,
+    "lock_version": 2,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4Wx2cpqGW9zZkBx3c67gps.mpga",
+  "main_content": "Today, we tell all about horse expressions!\n\nIn the past, many people depended on horses for transportation, farming and other kinds of work. So, it is not surprising that Americans use a lot of expressions about horses.\n\nToday, if someone acts better than everyone else, you might tell him to “get off your high horse.”\n\nAnd if someone is pushing you to do something, you can say, “Hold your horses!” This is a very informal way to tell someone to calm down and wait.\n\nWhen you get news directly from the best source, you get it straight from the horse’s mouth. If your teacher, for example, tells you there is going to be a test tomorrow, you got that information straight from the horse’s mouth. Don’t worry. This is not the same as saying your teacher has a “horse face.”\n\nSometimes a person keeps arguing a question that has already been settled. They are beating a dead horse. A dead horse is quite different from a dark horse. A dark horse is a person who surprises others by doing better than unexpected.",
+  "questions": [
+    {
+      "question": "What can you tell a person who acts better than everyone else?",
+      "options": [
+        "Walk a mile in someone else's shoes.",
+        "Get off your high horse.",
+        "Put the cart before the horse.",
+        "Make hay while the sun shines."
+      ],
+      "answer": "Get off your high horse."
+    },
+    {
+      "question": "What is an informal way to tell someone to calm down and wait?",
+      "options": [
+        "Take a chill pill.",
+        "Hold your horses!",
+        "Bite the bullet.",
+        "Hit the brakes."
+      ],
+      "answer": "Hold your horses!"
+    },
+    {
+      "question": "Who is a ‘dark horse’?",
+      "options": [
+        "Someone who is very predictable in their actions.",
+        "A person who surprises others by doing better than expected.",
+        "Someone who is well-known in their field.",
+        "A competitor who holds back their true abilities."
+      ],
+      "answer": "A person who surprises others by doing better than expected."
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

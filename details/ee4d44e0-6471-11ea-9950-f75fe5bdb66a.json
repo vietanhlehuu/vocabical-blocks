@@ -1,0 +1,60 @@
+{
+  "title": "Volunteers Get Taste of Mars in Hawaii",
+  "introduction": null,
+  "image": {
+    "id": "ee4cad50-6471-11ea-994f-e360361376fb",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/0SDC0TZ6qgrO4ww50YQPpN.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 541
+    },
+    "attribution": "San Duiego Air & Space Museum / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3xbdZrgiTQsYyqoRaXlEpi.mpga",
+  "main_content": "For generations, people have dreamed of traveling to Mars to explore Earth’s closest planetary neighbor. NASA and other space agencies have announced plans to send people to the Red Planet.\n\nIn the United States, some volunteers are learning how people will react to months of separation from other humans on a Mars base.\n\nWhat would it be like to live on the planet Mars? Volunteers are spending eight months in an area that looks much like the surface of Mars. But actually, they are living in Hawaii.\n\nSix people are isolated high on top of Mauna Loa, a volcanic mountain on the Big Island of Hawaii. They are living on a simulated, or make-believe, Mars Base. The project is called HI-SEAS, or Hawaii Space Exploration Analog and Simulation.\n\nMauna Loa is almost as tall as that Martian mountain. When measured from its base, deep in the ocean, Mauna Loa is the second largest mountain in our solar system, after the one on Mars.\n\nThe six member HI-SEAS crew is mostly self-sufficient. They take care of themselves. Food and supplies are brought to them. But the individuals bringing those supplies cannot communicate with volunteers inside the habitat, or base.\n\nOthers believe the American or European space agencies are the most likely to put people on Mars, maybe in the 2030s, or later.",
+  "questions": [
+    {
+      "question": "What planet is mentioned in the text?",
+      "options": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Earth"
+      ],
+      "answer": "Mars"
+    },
+    {
+      "question": "What does HI-SEAS stand for?",
+      "options": [
+        "Hawaii International Space Exploration and Science",
+        "Hawaiian Interstellar Space Environment and Astronauts",
+        "Hawaii Space Exploration Analog and Simulation",
+        "High-altitude Island Space/Earth Analysis System"
+      ],
+      "answer": "Hawaii Space Exploration Analog and Simulation"
+    },
+    {
+      "question": "How many member are there in the HI-SEAS crew?",
+      "options": [
+        "Four",
+        "Six",
+        "Eight",
+        "Ten"
+      ],
+      "answer": "Six"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

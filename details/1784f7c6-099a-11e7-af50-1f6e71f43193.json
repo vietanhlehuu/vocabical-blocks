@@ -1,0 +1,60 @@
+{
+  "title": "Turkey Demands EU Meet Commitment to Visa-free Travel",
+  "introduction": null,
+  "image": {
+    "id": "123062e9-9815-4bd7-aae2-f699af2ed128",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/0YJyQ3pPAp3SfxL6j4y0Yi.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Prime Minister's Office from Greece / Wikimedia Commons / CC-BY-SA-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7bCTqYVRw0wMhIOkMWrvuC.mpga",
+  "main_content": "Just days after the announcement of a European Union-Turkey refugee deal, President Recep Tayyip Erdogan criticized the bloc, saying it could not be trusted.\n\nHis main concern is the commitment for visa-free travel for Turks through the EU.\n\nUnder the terms of the EU-Turkey agreement, migrants who illegally cross the Aegean and enter Greece from Turkey would be sent back to Turkey. In exchange, Turks would be granted visa-free travel through the EU as early as June, as long as Ankara complies with certain EU conditions.\n\nBut Erdogan is increasing pressure on Brussels to honor its commitment and questioning the sincerity of the 28-member group.\n\nHe said that if Turkey looks to the past from the perspective of values, it can see EU leaders never keep their words and will not do so this time.\n\nErdogan observers say officials are aware of how controversial visa-free travel is, especially for several EU members. France has made clear its opposition and voiced alarm at the prospect of nearly 80 million Turks being able to freely enter EU countries.\n\nAdding to those concerns, say analysts, is that many of the two million Syrians seeking refuge in Turkey could ultimately become citizens of that country. But to achieve visa-free travel Ankara has to comply with 72 EU standards.\n\nAnkara is working hard to comply with the conditions. Among them, a pilot project that calls for introducing biometric identity cards, which is expected to be followed by a requirement for biometric passports. Political consultant Atilla Yesilada of Global Source Partners said achieving visa-free travel is crucial for Erdogan’s political aspirations.",
+  "questions": [
+    {
+      "question": "What does Recep Tayyip Erdogan want to obtain for his country?",
+      "options": [
+        "A) Increased economic aid from the EU",
+        "B) Visa-free travel for Turks through the EU",
+        "C) A military alliance with EU countries",
+        "D) A permanent seat in the United Nations"
+      ],
+      "answer": "B) Visa-free travel for Turks through the EU"
+    },
+    {
+      "question": "What does the EU ask Turkey to do in exchange for visa-free travel?",
+      "options": [
+        "A) Restore diplomatic relations with Greece",
+        "B) Comply with 72 EU standards",
+        "C) Accept more refugees from other countries",
+        "D) Provide military support in EU missions"
+      ],
+      "answer": "B) Comply with 72 EU standards"
+    },
+    {
+      "question": "What is France’s position on this issue?",
+      "options": [
+        "A) France fully supports the EU-Turkey agreement",
+        "B) France is indifferent and does not take a stance",
+        "C) France opposes visa-free travel for Turks",
+        "D) France seeks to renegotiate the terms of the agreement"
+      ],
+      "answer": "C) France opposes visa-free travel for Turks"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

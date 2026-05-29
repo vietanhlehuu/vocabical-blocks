@@ -1,0 +1,60 @@
+{
+  "title": "Teenage Girl Sets Goal to Empower Kids with Computer Coding",
+  "introduction": null,
+  "image": {
+    "id": "184b306e-8eeb-44f9-92eb-ab17f01ec175",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/0jqAzvu5HGW6G4g3AlvDlt.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Matt Biddulph / Wikimedia Commons / CC-BY-SA-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/24bGl9u0jzra2Bvm0QdTLS.mpga",
+  "main_content": "Computer science jobs in the United States are some of the fastest-growing and highest-paying, but a majority of students have no access to computer science classes before high school or college. One teenager, however, became fascinated with the intricacies of computer coding and now works to inspire elementary-age children to code.\n\nSwetha Prabakaran, a junior at Thomas Jefferson High School for Science and Technology in Virginia, founded Everybody Code Now!, a non-profit organization. She and other student volunteers regularly offer a workshop to teach young students about computer science.\n\n“I think it is really powerful to have computer science education coming from a young age because when you are exposed to it when you are younger, you are more creative and you are open-minded,” Prabakaran said. The kids “can learn more, they have more fun with it.”\n\nOn a recent Saturday, almost 30 such students gathered at a library near Washington, D.C., their eyes fixed on their laptop screens.\n\n“This workshop is really, really cool,” fifth-grader Adia Elcock said. “It is fun. I learned how to program things and make lines of code. And doing that is just really exciting.”\n\nPrabakaran says she fell in love with coding after taking an introductory computer science class as a freshman.\n\n“Coding in the simplest term is just telling a computer what to do,” she said. “Even though I am just a student, I can build something that could potentially impact thousands of people through an app. That kind of power and being able to use my creativity, imagination and ideas to create things [that] can affect other people is what I found really captivating about computer science.”\n\nPrabakaran says she began teaching young students how to code about a year ago because she wanted to pass on her own excitement to others. Now the non-profit, partnered with schools, operates in 12 states.",
+  "questions": [
+    {
+      "question": "Why does Swetha Prabakaran volunteer to teach children to code?",
+      "options": [
+        "A) She wants to develop her own coding skills further.",
+        "B) She aims to pass on her excitement for coding to others.",
+        "C) She is required to volunteer as part of her school curriculum.",
+        "D) She seeks to create a business out of her coding skills."
+      ],
+      "answer": "B) She aims to pass on her excitement for coding to others."
+    },
+    {
+      "question": "How is the organization called?",
+      "options": [
+        "A) Kids Can Code",
+        "B) Code for Kids",
+        "C) Everybody Code Now!",
+        "D) Future Coders Initiative"
+      ],
+      "answer": "C) Everybody Code Now!"
+    },
+    {
+      "question": "Why does she think that children should be exposed to computer science at an early age?",
+      "options": [
+        "A) It is important for their academic performance.",
+        "B) It encourages creativity and open-mindedness in learning.",
+        "C) It prepares them for high-paying jobs in the future.",
+        "D) It helps them understand complex mathematics concepts."
+      ],
+      "answer": "B) It encourages creativity and open-mindedness in learning."
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Reports: US Consumer Confidence Rises, Inflation Stalls",
+  "introduction": null,
+  "image": {
+    "id": "a98ee544-affa-45f6-9b14-815a1589a259",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/59x0PqHeYpjgGEseuMnZnN.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 770
+    },
+    "attribution": "Nandaro / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1uQymdOponVzIfDBcoF0Y4.mpga",
+  "main_content": "Economic reports show U.S. consumers are gaining a bit more confidence, while inflation stalls. A separate report found business activity rose in the Chicago area.\n\nA University of Michigan study published Friday says more consumers think their financial situation will improve more than at any time since 2007. The study is based on hundreds of interviews conducted with households in October. Researchers say employment gains and very low inflation are helping consumers shrug off worries about turmoil in stock and commodity markets, faltering exports and other issues.\n\nEconomists track consumer sentiment for clues about future consumer spending because consumer demand drives most U.S. economic activity.\n\nA separate report on inflation showed “core” prices rose just 1.3 percent over the past year, well below the U.S. central bank’s target rate of two percent. Experts look at prices outside the volatile areas of fuel and food to get a clearer picture of the overall economy. Low inflation is one reason the Federal Reserve put off raising interest rates earlier this week.\n\nAnother report looks at companies in the Chicago area, and found business activity surged in October. Experts watch Chicago because its very diverse economy gives hints about the performance of the nationwide economy.",
+  "questions": [
+    {
+      "question": "What does the study say about consumers?",
+      "options": [
+        "Consumers are losing confidence in their financial outlook.",
+        "More consumers expect their financial situation to improve than in recent years.",
+        "Consumers are worried about inflation impacting their purchasing power.",
+        "Most consumers believe their expenses will increase significantly."
+      ],
+      "answer": "More consumers expect their financial situation to improve than in recent years."
+    },
+    {
+      "question": "Why are consumers becoming more confident?",
+      "options": [
+        "Due to rising stock prices and an increase in exports.",
+        "Because of stronger employment gains and low inflation.",
+        "Because of government incentives for spending.",
+        "Due to predictions of a recession making them act before prices rise."
+      ],
+      "answer": "Because of stronger employment gains and low inflation."
+    },
+    {
+      "question": "Why are consumer spending patterns so important for the USA?",
+      "options": [
+        "They have no effect on the economic activity in the country.",
+        "They are a primary driver of U.S. economic activity.",
+        "They reflect consumer confidence exclusively in urban areas.",
+        "They indicate future interest rate changes by the Federal Reserve."
+      ],
+      "answer": "They are a primary driver of U.S. economic activity."
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

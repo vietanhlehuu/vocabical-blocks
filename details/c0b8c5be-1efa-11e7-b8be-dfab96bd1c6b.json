@@ -1,0 +1,60 @@
+{
+  "title": "Dinosaur Demise Leads to Fish Rise",
+  "introduction": null,
+  "image": {
+    "id": "865fdbd5-b319-4a6b-be98-fa79becee68b",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/45YmJvc22uRpxIkKyTiteF.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 322
+    },
+    "attribution": "Zach Tirrell from Plymouth, USA / Wikimedia Commons / CC-BY-SA-2.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3GKelnW72SrlRTUJ9ZvDEl.mpga",
+  "main_content": "The asteroid that triggered a mass extinction and the demise of the dinosaurs 66 million years ago gave rise to a modern age of fishes, according to a new study in the Proceedings of the National Academy of Sciences.\n\nThe ocean was a different place at the time of the massive die off. Sharks and octopus-like creatures were big players, but paleobiologist Elizabeth Sibert said there were large marine reptiles and fish as well, “Except the fish weren’t very dominant.”\n\nThe study suggests that the extinction event killed many animals at both the top and bottom of the food chain, opening niches to the ray-finned fish, which today represent nearly all fish species. Norris was surprised with the speed at which the fish multiplied, suggesting that they “were released from predation or competition by the extinction of other groups of marine life.”\n\n“And they radiated into all these newly vacated spots, and possibly some new things that wouldn’t have existed at all if the extinction hadn’t happened,” Sibert added.\n\nNinety-nine percent of all fish species in the world – from goldfish to tuna and salmon – are classified as ray-finned fish. They have boney skeletons and teeth that are well preserved in the ocean mud.\n\nThe next step for the researchers is to return to the micro-fossil record to find out how the fish responded to other stresses in the ocean, like global warming.",
+  "questions": [
+    {
+      "question": "What event helped start the modern age of fishes?",
+      "options": [
+        "The rise of marine reptiles",
+        "The asteroid that triggered a mass extinction",
+        "Global warming in the oceans",
+        "The increase of shark populations"
+      ],
+      "answer": "The asteroid that triggered a mass extinction"
+    },
+    {
+      "question": "Which creatures dominated the oceans at that time?",
+      "options": [
+        "Ray-finned fish and sharks",
+        "Large marine reptiles and fish",
+        "Octopus-like creatures and small crustaceans",
+        "Coral reefs and other invertebrates"
+      ],
+      "answer": "Large marine reptiles and fish"
+    },
+    {
+      "question": "Why did fish multiply so fast?",
+      "options": [
+        "They had newly developed predatory skills",
+        "They were released from predation or competition",
+        "The availability of new food sources",
+        "The extinction of land animals allowed for ocean expansion"
+      ],
+      "answer": "They were released from predation or competition"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

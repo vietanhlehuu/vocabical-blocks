@@ -1,0 +1,60 @@
+{
+  "title": "China Defends Its Island-Building in the South China Sea",
+  "introduction": null,
+  "image": {
+    "id": "a6d9ef7c-553f-455d-85bc-6194cadbb238",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/54qK1uPlvDmx5UaWSxCDsW.jpeg",
+    "dimensions": {
+      "x": 530,
+      "y": 298
+    },
+    "attribution": "United States Navy / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 2,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6xx9vzp0bQcMSbH32pIs2u.mpga",
+  "main_content": "China has defended its efforts to build up islands and coral reefs in the South China Sea.\n\nThe question about who owns islands and reefs in the South China Sea has caused tensions between China and other countries for many years. The territorial dispute deepened in recent weeks after the release of evidence that China is carrying out a huge island-building project.\n\nChina says it is not the first to build up islands in the disputed waters or to build airstrips, which is true.\n\nChinese officials say the developed islands and reefs will help to support the country’s defense needs.\n\nDefense Ministry official Yang Yujun was asked whether the changes were an attempt to give the military the ability to fight further from China. Mr.Yang answered by saying China’s overall policy remains the same.\n\nMr. Yang said that China “will continue to follow its path of peaceful development and maintain its defensive military posture.”",
+  "questions": [
+    {
+      "question": "Where is China building islands and coral reefs?",
+      "options": [
+        "In the Indian Ocean",
+        "In the South China Sea",
+        "In the Gulf of Mexico",
+        "In the Pacific Ocean"
+      ],
+      "answer": "In the South China Sea"
+    },
+    {
+      "question": "Who is Yang Yujun?",
+      "options": [
+        "A Chinese citizen living abroad",
+        "A defense ministry official",
+        "A military analyst from the U.S.",
+        "An environmental activist"
+      ],
+      "answer": "A defense ministry official"
+    },
+    {
+      "question": "What did Mr.Yang say about China’s policy?",
+      "options": [
+        "It will shift towards aggression",
+        "It will remain focused on peaceful development",
+        "It will involve building more military bases",
+        "It will prioritize economic expansion over defense"
+      ],
+      "answer": "It will remain focused on peaceful development"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

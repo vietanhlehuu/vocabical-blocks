@@ -1,0 +1,60 @@
+{
+  "title": "Gmail Blocked in China",
+  "introduction": null,
+  "image": {
+    "id": "ec51e118-6977-4ff4-b3f7-8d9d2ff0752b",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/7BvbhYARhDNhu3SJwYNH47.png",
+    "dimensions": {
+      "x": 512,
+      "y": 512
+    },
+    "attribution": "Google Inc. / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3Z2CRnUd6SMxpJYW1FSwFh.mpga",
+  "main_content": "The grip on Internet freedom in China has tightened once again, with Google’s Gmail largely inaccessible for a fourth day.\n\nInternet transparency monitor GreatFire.org reports the e-mail service is 84 percent blocked in the country after months of disruptions.\n\nChina has banned other Google products (like Picasa and YouTube) for years, but problems for Gmail users largely began in June, with the 25th anniversary of the Tiananmen Square crackdown on pro-democracy demonstrators.\n\nSince then, GreatFire reports at least 15 days of blocked Gmail usage every month.\n\nInitial reports of difficulty using the web-based email first emerged Friday. Google data shows a sharp drop in China’s Gmail traffic beginning December 26.\n\nChina tightly controls the Internet using the so-called “Great Firewall” system that frequently targets foreign websites, including Facebook and Twitter.\n\nGoogle says the problems accessing Gmail in China are not on the company’s end.\n\nWhen asked about the outage at a news conference on Monday, China’s foreign ministry spokeswoman denied knowledge of the problem and deferred questions to another government agency.\n\n“I don’t have the knowledge about what you just mentioned. The Ministry of Foreign Affairs is not the competent authority in charge of this. Please check with the Internet Information Office,” said Hua Chunying, Chinese Ministry of Foreign Affairs spokeswoman. “But what I can tell you is that China consistently welcomes and supports foreign investors in legally conducting business in China. We will continue to provide an open, transparent and good environment for foreign companies operating in China.”\n\nFreedom House, which assesses Internet freedom around the world, places the country near the bottom of its 2014 rankings due to obstacles to access, limits on content, and violations of user rights.",
+  "questions": [
+    {
+      "question": "What other Google products has China banned?",
+      "options": [
+        "Google Maps and Google Drive",
+        "Picasa and YouTube",
+        "Google Search and Google Scholar",
+        "Google Play Store and Google News"
+      ],
+      "answer": "Picasa and YouTube"
+    },
+    {
+      "question": "How many days each month is Gmail blocked in China?",
+      "options": [
+        "10 days",
+        "15 days",
+        "20 days",
+        "25 days"
+      ],
+      "answer": "15 days"
+    },
+    {
+      "question": "How does China control the Internet?",
+      "options": [
+        "Through the Great Firewall system",
+        "By monitoring all internet communications",
+        "By limiting internet access to rural areas",
+        "Through user surveillance technology"
+      ],
+      "answer": "Through the Great Firewall system"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

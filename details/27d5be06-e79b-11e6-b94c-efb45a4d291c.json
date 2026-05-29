@@ -1,0 +1,60 @@
+{
+  "title": "Project in Cambodia Finds Success in Improving Nutrition",
+  "introduction": null,
+  "image": {
+    "id": "e457939c-0eab-11e7-b0a1-73bdd405509c",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/0sK6Co4QWqJF2ruGrkDdJa.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Department of Foreign Affairs and Trade / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/51pxL3riOV8uO6So4v9CxR.mpga",
+  "main_content": "Malnutrition remains a serious problem in Cambodia. The UN Food and Agriculture Organization says that one in three children under the age of five suffers from poor growth brought about by a poor diet.\n\nCambodia grows enough rice to feed its people. But millions still do not get enough vitamins and minerals.\n\nTim Green is a nutrition expert from Canada’s University of British Columbia. He led a pilot food project in a rural province of Cambodia. It was successful in improving the nutrition of hundreds of families. Now, the program is expanding.\n\nMr. Green says that experts consider diversity of foods an important part of a healthy diet. But he says that is not the case in Cambodia, even though diets are reasonably diverse.\n\nThe lack of nutrients is sometimes called “hidden hunger.” It is especially a problem for children and women. For example, Mr. Green’s research found that the lack of Vitamin B1 is common.\n\nBut, adding Vitamin B1 to fish sauce can solve the problem. The sauce is commonly used in Cambodian foods. Mr. Green’s team did just that.",
+  "questions": [
+    {
+      "question": "What is “hidden hunger”?",
+      "options": [
+        "A term used to describe the lack of access to food",
+        "A phenomenon where a diet lacks essential vitamins and minerals despite sufficient calorie intake",
+        "A condition characterized by obesity in children",
+        "A type of malnutrition caused by food scarcity"
+      ],
+      "answer": "A phenomenon where a diet lacks essential vitamins and minerals despite sufficient calorie intake"
+    },
+    {
+      "question": "What does Tim Green do/What is his job?",
+      "options": [
+        "He is a rice farmer in Cambodia",
+        "He is a nutrition expert at Canada’s University of British Columbia",
+        "He leads a children’s charity in Cambodia",
+        "He is a government official overseeing agricultural development"
+      ],
+      "answer": "He is a nutrition expert at Canada’s University of British Columbia"
+    },
+    {
+      "question": "Was Mr. Green’s pilot food project in Cambodia a success?",
+      "options": [
+        "Yes, it significantly improved nutrition for hundreds of families",
+        "No, it failed to impact any families positively",
+        "Yes, but only for a small number of families",
+        "No, the program has since been discontinued"
+      ],
+      "answer": "Yes, it significantly improved nutrition for hundreds of families"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

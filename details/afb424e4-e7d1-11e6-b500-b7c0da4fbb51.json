@@ -1,0 +1,60 @@
+{
+  "title": "American Muslims Fight Stereotypes",
+  "introduction": null,
+  "image": {
+    "id": "e45c4194-0eab-11e7-b36b-bba1754a62af",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4iMrDdrEgJ0frp8KBSmJRb.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 366
+    },
+    "attribution": "U.S. Department of Homeland Security (DHS) / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0W9ukrshVy0iK5oTJ8VvJj.mpga",
+  "main_content": "Muslims around the world will celebrate the holiday of Eid-al-Fitr, the end of the holy month of Ramadan. Ramadan is a time when Muslims fast and focus on God.\n\nFor Muslims in the United States, it is also a time to reflect and fight negative stereotypes of Islam. Muslims feel Islamic extremists hurt their community.\n\nAhsan Mahmood Khan is the President of the Ahmadiyya Muslim Community Los Angeles East Chapter. He says the news does not reflect who Muslims are.\n\n“You hear a lot in the news about (the Islamic State group) ISIL or ISIS and what is going on in the Middle East. It is just terrible, and we hear this in the news every day.”\n\nMohammed Zafarullah is the imam of the Baitul Hammed Mosque. He says Islam is a religion of peace. But extremism has led to misconceptions about Islam.\n\nA 2011 study showed that Muslims in the U.S. are concerned about the acts of Islamic extremists. The study explains how life became more difficult for Muslim-Americans after the September 11 attacks. Some Muslims reported that people looked at them with suspicion and called them offensive names.",
+  "questions": [
+    {
+      "question": "What does the holiday Eid-al-Fitr mark?",
+      "options": [
+        "The beginning of Ramadan",
+        "The end of the holy month of Ramadan",
+        "A celebration of peace and tolerance",
+        "A time for Muslims to gather in prayer"
+      ],
+      "answer": "The end of the holy month of Ramadan"
+    },
+    {
+      "question": "What did imam Mohammed Zafarullah say about Islam?",
+      "options": [
+        "It is frequently misunderstood due to extremists",
+        "It promotes violence against non-believers",
+        "It is only practiced by a minority of people",
+        "It requires fasting throughout the year"
+      ],
+      "answer": "It is frequently misunderstood due to extremists"
+    },
+    {
+      "question": "What did some Muslims report?",
+      "options": [
+        "Increased acceptance and understanding from the community",
+        "Feeling respected and valued after September 11",
+        "Experiencing suspicion and name-calling after September 11",
+        "A decrease in participation in public events"
+      ],
+      "answer": "Experiencing suspicion and name-calling after September 11"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

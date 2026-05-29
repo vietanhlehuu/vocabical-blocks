@@ -1,0 +1,60 @@
+{
+  "title": "Scientists Developing Technology to Recreate Crime Scenes",
+  "introduction": null,
+  "image": {
+    "id": "23f5a4a4-e6e9-4947-91bf-ac2829cbbdc9",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/15qzQ9JG7wFDoFGtUxTfDt.jpeg",
+    "dimensions": {
+      "x": 500,
+      "y": 375
+    },
+    "attribution": "FBI / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5CcZgcEBjAl4jNIjutlViX.mpga",
+  "main_content": "Police and prosecutors sometimes recreate crime scenes in an effort to better understand cases. They may set up a room to make it look like the room where a murder took place. To do this, they use photographs from the murder scene to set up tables, chairs and other objects just where they were at the time of the murder.\n\nNow, scientists in Switzerland are developing virtual reality technologies to recreate crimes scenes.\n\nThey say this kind of technology can help police, investigators, judges and lawyers better visualize crime scenes.\n\nThe scientists work at the Institute of Forensic Medicine in Zurich. They developed special computer software to create this virtual reality technology. The software program is called Forensic Holodeck. It recreates crime scenes using hand-held three-dimensional, 3-D, scanners. The scanners show the user an object’s length, width and height. The scientists also use the Oculus Rift, equipment often used for video games.\n\nInvestigators use the three-dimensional images to reconstruct the crime. The images are based on reports from witnesses and camera recordings.",
+  "questions": [
+    {
+      "question": "What do scientists use to recreate the murder/crime scene?",
+      "options": [
+        "Traditional photography techniques",
+        "Forensic Holodeck and 3-D scanners",
+        "Physical models made from clay",
+        "Sketches drawn by witnesses"
+      ],
+      "answer": "Forensic Holodeck and 3-D scanners"
+    },
+    {
+      "question": "Where do the scientists work?",
+      "options": [
+        "University of Zurich",
+        "Institute of Forensic Medicine in Zurich",
+        "Criminal Investigation Bureau in Geneva",
+        "Swiss National Police Academy"
+      ],
+      "answer": "Institute of Forensic Medicine in Zurich"
+    },
+    {
+      "question": "The scientists use Oculus Rift. Where is it also used?",
+      "options": [
+        "For educational purposes in schools",
+        "In various manufacturers for creating simulations",
+        "For virtual reality gaming experiences",
+        "In architectural design and planning"
+      ],
+      "answer": "For virtual reality gaming experiences"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

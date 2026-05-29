@@ -1,0 +1,60 @@
+{
+  "title": "Washington Has Three Birthdays",
+  "introduction": null,
+  "image": {
+    "id": "d961c41e-48bc-4ec0-bbcb-a54ca8ffd39f",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6cC0sW9dIoYLjn6wdyVjAN.jpeg",
+    "dimensions": {
+      "x": 968,
+      "y": 644
+    },
+    "attribution": "Marcel Burkhard / Wikimedia Commons / CC-BY-SA-2.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/34DlhjcXFpNgxqKFxQn6zP.mpga",
+  "main_content": "The United States honors the country’s first president on the third Monday in February. The U.S. government gives federal workers a holiday – a paid day off. This year, the federal holiday the government calls George Washington’s Birthday falls on February 16.\n\nBut George Washington was not born on February 16. He was born on February 11, 1731 in the British colony of Virginia. Later, Britain and its colonies changed the kind of calendar they used. The new record-keeping system moved Washington’s birthday to February 22.\n\nSo, for many years, Americans informally celebrated Washington’s birthday on February 22. In the late 1800s, Congress made the day a legal holiday.\n\nThen, about 50 years ago, Congress passed a law to give Americans more 3-day weekends. Lawmakers decided to celebrate George Washington’s birthday on the third Monday in February. That way, workers could extend their traditional two-day weekend to Monday.\n\nBut neither of Washington’s birth dates – February 11 nor February 22 – will ever fall on the third Monday in February. So George Washington’s Birthday is never really George Washington’s birthday.",
+  "questions": [
+    {
+      "question": "Who is George Washington?",
+      "options": [
+        "The first president of the United States",
+        "A British king",
+        "A Civil War general",
+        "The last president of the United States"
+      ],
+      "answer": "The first president of the United States"
+    },
+    {
+      "question": "When was George Washington born?",
+      "options": [
+        "February 11, 1731",
+        "February 16, 1731",
+        "February 22, 1731",
+        "March 4, 1731"
+      ],
+      "answer": "February 11, 1731"
+    },
+    {
+      "question": "Why did Congress move George Washington’s Birthday to the third Monday in February?",
+      "options": [
+        "To give Americans more three-day weekends",
+        "To match Washington’s real birthday",
+        "To honor British calendar changes",
+        "To make it fall on February 22"
+      ],
+      "answer": "To give Americans more three-day weekends"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

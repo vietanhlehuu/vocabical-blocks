@@ -1,0 +1,60 @@
+{
+  "title": "Underground Station in Capital to Become Arts Center",
+  "introduction": null,
+  "image": {
+    "id": "e45b14f4-0eab-11e7-b2bb-8f85f8682e50",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3cONuSTdvZzfRe8CVAHpxu.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "T. Hutama / Wikimedia Commons / CC-BY-SA 4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0KFqANB1NvzOGUcWVWWDEX.mpga",
+  "main_content": "The Dupont Circle park in Washington DC is a busy, crowded place. Popular restaurants and businesses around the circle attract many city residents and visitors. But few people know about the old streetcar station below the street.\n\nBraulio Agnese is the Managing Director of an organization called Dupont Underground. The group wants to change the old station into a place for the arts.\n\n“We see everything from artwork, that fills the space in different ways, light and sound or installations. Or it can be used like a traditional gallery. But also as a curved space, it offers a chance for new kinds of performance.\"\n\nThe system of tunnels was built in the late 1940s. But the streetcars only ran for a short time. They stopped running in the 1960s. Mr. Agnese says the station could become a symbol of how quickly Washington is changing.\n\nDupont Underground is just one example of the trend toward giving a new purpose to unused industrial sites.\n\nBraulio Agnese and his co-workers hope to open the underground station to the public in the next few months.",
+  "questions": [
+    {
+      "question": "Who is Braulio Agnese?",
+      "options": [
+        "A city resident who frequently visits Dupont Circle",
+        "The Managing Director of Dupont Underground",
+        "An architect planning new restaurants",
+        "A local historian studying the streetcar system"
+      ],
+      "answer": "The Managing Director of Dupont Underground"
+    },
+    {
+      "question": "When was the system of tunnels built?",
+      "options": [
+        "In the early 1960s",
+        "In the late 1940s",
+        "In the late 1950s",
+        "In the early 1970s"
+      ],
+      "answer": "In the late 1940s"
+    },
+    {
+      "question": "What will Dupont Underground be changed into?",
+      "options": [
+        "A transportation hub for streetcars",
+        "A shopping mall with restaurants",
+        "An arts space for installations and performances",
+        "A historical museum about Washington DC"
+      ],
+      "answer": "An arts space for installations and performances"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

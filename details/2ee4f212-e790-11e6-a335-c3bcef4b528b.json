@@ -1,0 +1,60 @@
+{
+  "title": "Movie Shows Rap Group ‘Straight Outta Compton’",
+  "introduction": null,
+  "image": {
+    "id": "c7a27eac-9ea8-4091-a9f7-95aee70dc5ce",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/64hjTERy2tsY0yElgajW86.png",
+    "dimensions": {
+      "x": 512,
+      "y": 299
+    },
+    "attribution": "Bjeka / Wikimedia Commons / CC-BY-SA 4.0",
+    "public_attribution": true,
+    "lock_version": 3,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2XQczzGGxDDaIXXBfySVAP.mpga",
+  "main_content": "The music genre known as gangster, or gangsta, rap was born in the poor, dangerous neighborhood of Compton, in Los Angeles, California. The violence of street life there and tense relations between the community and police influenced the sound. Movie director F. Gary Gray explores that world through the story of N.W.A., the band that revolutionized rap in the 1980s.\n\nOne of the band members, O’Shea Jackson, grew up in Compton. He wrote songs on the school bus that reflected his experiences. He later took the stage name Ice Cube.\n\nMr. Gray’s film shows Ice Cube teaming up with his friends – Dre, an expert in music production, Eazy–E, a charismatic performer, as well as MC Ren and DJ Yella. They created the rap group N.W.A. and rapped about drugs, sex, violence and poverty.\n\nF. Gary Gray said he worked hard to keep the story as real as possible, including filming in Compton. The film’s depictions of police violence are especially powerful, coming after the police killings of unarmed black men such as Michael Brown in Ferguson, Missouri, and Eric Garner in New York City.",
+  "questions": [
+    {
+      "question": "What is O’Shea Jackson’s stage name?",
+      "options": [
+        "Ice Cube",
+        "Eazy–E",
+        "MC Ren",
+        "DJ Yella"
+      ],
+      "answer": "Ice Cube"
+    },
+    {
+      "question": "Where was the music genre ‘gangster’ born?",
+      "options": [
+        "New York City",
+        "Los Angeles",
+        "Chicago",
+        "Miami"
+      ],
+      "answer": "Los Angeles"
+    },
+    {
+      "question": "What did N.W.A. rap about?",
+      "options": [
+        "Love and friendship",
+        "Drugs, sex, violence and poverty",
+        "Social inequality and justice",
+        "Nature and the environment"
+      ],
+      "answer": "Drugs, sex, violence and poverty"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

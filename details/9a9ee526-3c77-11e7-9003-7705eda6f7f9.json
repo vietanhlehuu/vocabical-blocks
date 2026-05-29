@@ -1,0 +1,60 @@
+{
+  "title": "Putin Orders Russian Troops on ‘Full Combat Alert’",
+  "introduction": null,
+  "image": {
+    "id": "7a5c7a7e-726f-4d35-9477-c19ce25f7e49",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3itKFlIkwXCE6CuIvVI6Uj.jpeg",
+    "dimensions": {
+      "x": 650,
+      "y": 434
+    },
+    "attribution": "Kremlin.ru / Wikimedia Commons / CC-BY-4.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3Bx3fFaYY8eIIlXIQuclu9.mpga",
+  "main_content": "Russian President Vladimir Putin has ordered troops in central Russia on “full combat alert” for snap drills, a day after Ukrainian President Petro Poroshenko ordered a week-long cease-fire with pro-Russian separatists in the country’s east.\n\nRussian officials say more than 65,000 troops will take part in the new drills. NATO had said Russia has resumed a military buildup along the border.\n\nPoroshenko ordered Ukraine’s military and security forces to cease fire for seven days. He issued the order during a visit Friday to the “anti-terrorist operation” headquarters in eastern Ukraine, but said the order did not mean Ukrainian forces would not fight back if attacked.\n\nThe Ukrainian president discussed details of the plan by phone Thursday with Putin.\n\nThe Russian leader dismissed Ukraine’s cease-fire plan late Friday, noting it lacked an invitation to east Ukrainian rebels to begin talks.\n\nA NATO military officer told VOA Friday that the new Russian troops near the border with Ukraine do not appear to be engaged in “border patrol” duties, but rather appear to be concentrating in staging areas and preparing and awaiting future orders. He said this is not “an encouraging sign.”\n\nDeputy White House Press Secretary Josh Earnest said Friday that the United States is concerned about the buildup of Russian troops along the border with Ukraine.\n\nHis comment came a day after NATO Secretary-General Anders Fogh Rasmussen said “at least a few thousand more” Russian troops had been deployed to the border region, a move he called a “very regrettable step backwards.”\n\nKremlin spokesman Dmitry Peskov said Friday that the deployment had been planned in advance and was designed to reinforce Russia’s border controls.\n\nOn Thursday, President Poroshenko said he would sign an association agreement with the European Union on June 27.\n\nThe refusal by Ukraine’s former pro-Russian president, Viktor Yanukovych, to sign the EU association agreement last November triggered the unrest that led to his ouster earlier this year.",
+  "questions": [
+    {
+      "question": "How many Russian troops will take part in the new military drills?",
+      "options": [
+        "More than 50,000 troops",
+        "More than 65,000 troops",
+        "Approximately 70,000 troops",
+        "Exactly 75,000 troops"
+      ],
+      "answer": "More than 65,000 troops"
+    },
+    {
+      "question": "What did a NATO military officer say the Russian troops near the Ukrainian border appear to be doing?",
+      "options": [
+        "They are engaged in border patrol duties",
+        "They are concentrating in staging areas and awaiting future orders",
+        "They have been ordered to invade Ukraine",
+        "They are participating in joint exercises with Ukraine"
+      ],
+      "answer": "They are concentrating in staging areas and awaiting future orders"
+    },
+    {
+      "question": "How did Kremlin spokesman Dmitry Peskov describe the deployment of Russian troops near the border with Ukraine?",
+      "options": [
+        "It was a routine exercise announced at the last minute",
+        "It was planned in advance and intended to reinforce Russia's border controls",
+        "It was a response to NATO's military exercises in Ukraine",
+        "It was a temporary withdrawal from the border region"
+      ],
+      "answer": "It was planned in advance and intended to reinforce Russia's border controls"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

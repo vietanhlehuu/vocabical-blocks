@@ -1,0 +1,60 @@
+{
+  "title": "Living in a Shipping Container",
+  "introduction": null,
+  "image": {
+    "id": "cb2ebb3a-cb47-4356-8b34-5ca844339eb8",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6BOnW5wcNLtVCT7AY62ovI.jpeg",
+    "dimensions": {
+      "x": 800,
+      "y": 533
+    },
+    "attribution": "Captain Albert E. Theberge, NOAA Corps (ret.) / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3IjVIGj1l1M9jI6VsDCGiS.mpga",
+  "main_content": "Many people do not earn enough money to buy a house in the San Francisco Bay area. Housing prices in northern California can be very high.\n\nSo, some young people have begun making their own houses out of shipping containers. It takes a lot of work and creativity to make a home from the large metal boxes. And those who are doing it must often fight local laws that limit where such homes can be placed.\n\nHeather Stewart is an artist. She and 19 other people live and work in a small community. Their neighborhood is made up of shipping containers and other kinds of small houses.\n\nHeather Stewart and her friend Luke Iseman have been living in the community since April. Before then, they lived in Oakland, a city near San Francisco. But officials forced the two to remove their shipping container houses from a property they had bought with friends. Officials said they were violating local laws.\n So they moved to a large warehouse. They and their friends have placed more than 10 containers inside the building. Each container costs about $2,000. The group wants to keep the small community secret from local officials.",
+  "questions": [
+    {
+      "question": "Who is Heather Stewart?",
+      "options": [
+        "A community organizer fighting housing laws",
+        "An artist living in a shipping container community",
+        "A city official regulating housing in San Francisco",
+        "A real estate agent in northern California"
+      ],
+      "answer": "An artist living in a shipping container community"
+    },
+    {
+      "question": "Where is Heather Stewart’s shipping container house right now?",
+      "options": [
+        "In Oakland, near San Francisco",
+        "In a large warehouse with other containers",
+        "On a purchased property with friends",
+        "In a hidden location outside the city"
+      ],
+      "answer": "In a large warehouse with other containers"
+    },
+    {
+      "question": "How are the housing prices in northern California?",
+      "options": [
+        "Affordable for young people",
+        "Very high and unaffordable for many",
+        "Moderate and manageable for families",
+        "Competitive and decreasing over time"
+      ],
+      "answer": "Very high and unaffordable for many"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

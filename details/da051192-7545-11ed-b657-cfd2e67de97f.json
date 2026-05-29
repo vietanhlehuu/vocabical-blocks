@@ -1,0 +1,60 @@
+{
+  "title": "Schools Closed by Ebola Reopen in Guinea and Liberia",
+  "introduction": null,
+  "image": {
+    "id": "da04ae3c-7545-11ed-b656-7f0a5add419a",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/519pBIAcnsgfwbXTAO6QrG.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 398
+    },
+    "attribution": "User:JuliaBroska / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3vUhTCXGFMKcEN3s0GnmUl.mpga",
+  "main_content": "Children in Guinea started their school year in January. Schools were closed there for five months because of Ebola. In Liberia, the schools are to reopen February 16, 2015.\n\nThe change shows progress on ending the epidemic for both countries. However, not everyone is sure the countries should reopen their schools.\n\nSampson Wesseh’s kids ask him every day. “Papa, when will we return to school?”\n\nMr. Wesseh is glad the Liberian government plans to reopen schools in February. Authorities shut them in July 2014 when the number of Ebola cases increased quickly.\n\nOfficials say schools will have safety measures in place. They will provide thermometers to check children’s’ temperature and chlorine for handwashing.\n\nBut some Liberian parents say they may keep their children home a while longer.\n\nIn Guinea, teachers are also concerned. They worry about the crowding in their schools. It is hard to prevent contact between children.\n\n​Civil society groups said they would protest if the schools did not reopen. These groups say they will go out to schools and check on safety measures. They will make sure there are hand-washing stations. The groups will check to see that schools are taking students’ temperatures every day. A high temperature is an early sign of Ebola.\n\nSchools were only shut for five months in Guinea and Liberia. However, the schools have problems that may continue.",
+  "questions": [
+    {
+      "question": "Why were the schools closed?",
+      "options": [
+        "A) Due to financial problems in the education sector",
+        "B) Because of the outbreak of Ebola",
+        "C) To allow for curriculum changes",
+        "D) Due to a natural disaster affecting the region"
+      ],
+      "answer": "B) Because of the outbreak of Ebola"
+    },
+    {
+      "question": "What would ​Civil society groups do if the schools do not reopen?",
+      "options": [
+        "A) They would organize meetings with parents",
+        "B) They would protest and check on safety measures",
+        "C) They would petition the government for more funding",
+        "D) They would close their organizations temporarily"
+      ],
+      "answer": "B) They would protest and check on safety measures"
+    },
+    {
+      "question": "For how long were schools shut?",
+      "options": [
+        "A) For six months",
+        "B) For three months",
+        "C) For four months",
+        "D) For five months"
+      ],
+      "answer": "D) For five months"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

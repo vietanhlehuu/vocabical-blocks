@@ -1,0 +1,60 @@
+{
+  "title": "Climate Change Could Make Parts of Middle East Uninhabitable",
+  "introduction": null,
+  "image": {
+    "id": "43613d14-dcb3-11f0-a6b9-07dba65894b8",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6mYGEzJ39NK6CLj2ejgFAW.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 323
+    },
+    "attribution": "Jan Michael Pfeiffer / Wikimedia Commons / CC-BY-SA-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0d6PbFiU2rmAuJvbtSvRvl.mpga",
+  "main_content": "Climate change may render parts of the Middle East — now home to over 500 million people — too hot for humans, according to a new study.\n\nResearchers at the Max Planck Institute for Chemistry and the Cyprus Institute say “very hot” days in the region have “doubled” since 1970.\n\n“In the future, the climate in large parts of the Middle East and North Africa could change in such a manner that the very existence of its inhabitants is in jeopardy,” says Jos Lelieveld, Director at the Max Planck Institute and Professor at the Cyprus Institute.\n\nResearchers say that even if global temperature rise is capped at two degrees Celsius compared to the pre-industrial era, “the temperature in summer in these regions will increase more than twofold.”\n\nThat means by mid-century, during the hottest part of summer, “temperatures will not fall below 30 degrees at night, and during daytime they could rise to 46 degrees Celsius.”\n\nFurther out, midday temperatures in the region could reach as high as 50 Celsius, and there could be a tenfold increase in the number of heat waves. Those heat waves are likely to last longer, too, with an average of 80 extremely hot days by the middle of the century compared to 16 now.\n\n“If mankind continues to release carbon dioxide as it does now, people living in the Middle East and North Africa will have to expect about 200 unusually hot days, according to the model projections,” says climate change expert Panos Hadjinicolaou, Associate Professor at the Cyprus Institute.\n\nThe researchers created two models — one in which global temperatures are capped by reductions in greenhouse gases, and another, a “business as usual” model where nothing is done to stem climate change.\n\nUnder both scenarios, the future of the region is not good, they say, adding that “climate change can result in a significant deterioration of living conditions for people living in North Africa and the Middle East, and consequently, sooner or later, many people may have to leave the region.”",
+  "questions": [
+    {
+      "question": "What could happen in the Middle East because of climate change?",
+      "options": [
+        "The increase in biodiversity and agricultural productivity.",
+        "The very existence of its inhabitants is in jeopardy.",
+        "A decrease in global temperatures leading to more rainfall.",
+        "An increase in investment in renewable energy sources."
+      ],
+      "answer": "The very existence of its inhabitants is in jeopardy."
+    },
+    {
+      "question": "How hot could summer days become in the Middle-East by 2050?",
+      "options": [
+        "Temperatures could rise to 40 degrees Celsius during the day.",
+        "Temperatures could rise to 46 degrees Celsius during the day.",
+        "Temperatures could remain below 30 degrees Celsius both day and night.",
+        "Temperatures could drop dramatically to 20 degrees Celsius at night."
+      ],
+      "answer": "Temperatures could rise to 46 degrees Celsius during the day."
+    },
+    {
+      "question": "How many extremely hot days are there in the Middle-East on average each year?",
+      "options": [
+        "16 extremely hot days.",
+        "80 extremely hot days.",
+        "200 extremely hot days.",
+        "50 extremely hot days."
+      ],
+      "answer": "16 extremely hot days."
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

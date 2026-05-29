@@ -1,0 +1,60 @@
+{
+  "title": "Ways to Protect Yourself from Hackers Online",
+  "introduction": null,
+  "image": {
+    "id": "f885f7f8-951a-11e9-b16e-53d24c128e92",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1CHZSGZKXzIRHj2Ydm6IaD.jpeg",
+    "dimensions": {
+      "x": 825,
+      "y": 525
+    },
+    "attribution": "Byseyhanla / Wikimedia Commons / CC-BY-SA 4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6iVpf71Hq8CwYpAqYxk2Xh.mpga",
+  "main_content": "An increase in cyber-attacks and identity theft make the Internet seem like a scary place these days.\n\nLast week, there were reports of a billion dollar theft from European banks and secret viruses on millions of computer systems across Russia, China, India, Iran and elsewhere. This raises a question:\n\nHow can individuals protect or make it more difficult for hackers to access their information?\n\n1. Make your password harder to hack\n\nHard passwords include upper and lower case letters, numbers and special characters. They should be at least eight characters in length. They should also not spell out words easy for hackers to find, like your pet’s name or the name of a family member.\n\n2. Change your password regularly\n\nA very common mistake made by users is to create one hard password, but then never change it. Remembering a long list of complicated passwords can be difficult. But no password is unbreakable. Hackers are better able hack multiple accounts if those accounts all have the same password.\n\n3. Clear your browser history\n\nThis goes for all the devices you use in a day – your home computer, your work computer, or your friend’s iPad. Internet browsers like Firefox or Chrome keep track of where you’ve been and what you’ve done online. It is very easy for anyone who sees that information to steal a detailed record of your online activities.",
+  "questions": [
+    {
+      "question": "What makes the Internet seem like a scary place these days?",
+      "options": [
+        "The presence of hackers and the risks of online shopping",
+        "An increase in cyber-attacks and identity theft",
+        "The limitations in online communication",
+        "The rise of artificial intelligence technologies"
+      ],
+      "answer": "An increase in cyber-attacks and identity theft"
+    },
+    {
+      "question": "What happened last week, according to the article?",
+      "options": [
+        "There were reports of a billion dollar theft from European banks",
+        "A global conference on cybersecurity was held",
+        "A new internet browser was launched",
+        "A social media platform was discovered"
+      ],
+      "answer": "There were reports of a billion dollar theft from European banks"
+    },
+    {
+      "question": "Which action is recommended to help protect your information online?",
+      "options": [
+        "Sharing passwords with friends",
+        "Using the same password for all accounts",
+        "Creating hard passwords, changing them regularly, and clearing your browser history",
+        "Making passwords easy to remember by using family names"
+      ],
+      "answer": "Creating hard passwords, changing them regularly, and clearing your browser history"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

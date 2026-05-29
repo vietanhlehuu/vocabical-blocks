@@ -1,0 +1,60 @@
+{
+  "title": "All-Female Flight Crew, a First for Ethiopia Airlines",
+  "introduction": null,
+  "image": {
+    "id": "95aa1e84-ed27-11ed-9b51-537b45976291",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1sVP1cmTdur5LEHbgrqQIz.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "John Taggart from Claydon Banbury, Oxfordshire / Wikimedia Commons / CC-BY-SA-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6UKckAhS9wdjXcAzYmvlds.mpga",
+  "main_content": "Ethiopian Airlines is dispatching its first-ever flight operated by an all-female crew. The flight was scheduled to depart for Bangkok, Thailand, Wednesday night. The airline says it wants to promote women’s empowerment and encourage more African girls to pursue aviation careers.\n\nEthiopian Airlines CEO Tewolde Gebremariam said attracting more women to aviation jobs is one of the reasons for hosting the female flight, together with empowering women.\n\n“It’s going to be very inspiring for all the women all over the world, aviation women and particularly the African woman. Because, as you know, here in the continent of Africa, we are lagging behind in women empowerment. So this is going to inspire all the school girls in Africa that they have a very bright future in the 21st century,” Gebremariam said.\n\nThe flight is being handled by women in every aspect – from planning, to aircraft maintenance, and from the pilots to air traffic controllers. Even upon arrival in Bangkok, all customs and immigration officers will be female.\n\nEthiopian Airlines says about one third of its employees are women. But the number is smaller when it comes to positions such as pilots and technicians.\n\nTwenty-two-year-old Haymanot Endale is a cabin maintenance technician and has been working at Ethiopian Airlines for two years. She said even though there are many girls working as flight attendants, as a technician she mostly works with men.\n\n“I think that outside of the Ethiopian Airlines, girls think that the work is very difficult, so they did not enter [come work for] this company. But we enter and we see that it is very easy,” Endale said.",
+  "questions": [
+    {
+      "question": "Why did Ethiopian Airlines choose an all-female crew?",
+      "options": [
+        "To celebrate an international women's day event.",
+        "To promote women’s empowerment and encourage more African girls to pursue aviation careers.",
+        "To comply with new regulations mandated by the Ethiopian government.",
+        "To gather data on the performance of female crews compared to male crews."
+      ],
+      "answer": "To promote women’s empowerment and encourage more African girls to pursue aviation careers."
+    },
+    {
+      "question": "What did CEO Tewolde Gebremariam say about the all-female flight?",
+      "options": [
+        "It would face significant operational challenges.",
+        "It serves as inspiration for women, particularly in Africa, where empowerment is lagging.",
+        "It is a marketing strategy to attract more male pilots to the airline.",
+        "It was an initiative only meant for publicity rather than actual empowerment."
+      ],
+      "answer": "It serves as inspiration for women, particularly in Africa, where empowerment is lagging."
+    },
+    {
+      "question": "Which are the departments of an airline company in which very few women work?",
+      "options": [
+        "Cabin crew and customer service.",
+        "Pilots and technicians.",
+        "Flight planning and air traffic control.",
+        "Marketing and finance departments."
+      ],
+      "answer": "Pilots and technicians."
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

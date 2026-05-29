@@ -1,0 +1,60 @@
+{
+  "title": "Air France Pilots Strike Amid Euro 16 Football Championship",
+  "introduction": null,
+  "image": {
+    "id": "b666c36b-4576-4056-ad0a-5dfab1897462",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5YBZ7bwA00ldYCwguuJ6n4.jpeg",
+    "dimensions": {
+      "x": 800,
+      "y": 533
+    },
+    "attribution": "Milad A380 / Wikimedia Commons / CC-BY-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0EXi0uR7LCvuvVeJAsRax2.mpga",
+  "main_content": "Air France pilots went on strike Saturday in pursuit of better working conditions, while France was hosting the European football championship, Europe’s biggest sporting event.\n\nAbout one-fourth of the airline’s pilots were striking. Air France said it canceled about 20 percent of both domestic and international flights Saturday.\n\nThe strike affected flights carrying spectators to cities where the Euro 16 football matches were being played.\n\nPhilippe Evain, president of Air France’s main union, SNPL (Syndicat National des Pilotes de Ligne), said the situation was “totally absurd.”  He blamed “management’s inability to reorganize its schedule” despite efforts by pilots to limit the strike to short shifts.\n\n“There have been a lot of canceled medium-haul flights and we’ve really thought about Euro 2016 fans,” he said. “That’s why we decided to divide this strike in several shifts of two to three hours, which allowed the company to reorganize its planning. We don’t know if it was a deliberate choice or its incapacity to do so, but our senior management decided in many cases to cancel flights.”\n\nIn the past two days, Air France management and the union have not conducted any negotiations, and there are no meetings planned until Tuesday.\n\nWeeks of strikes and demonstrations have been part of a nationwide labor action in response to a bill that would allow employers more freedom to lay off workers and extend working hours.\n\nThe socialist government of President Francois Hollande hopes the bill will energize hiring and the economy, but unions see it as a threat to the fundamental rights of workers.",
+  "questions": [
+    {
+      "question": "What are Air France pilots demanding?",
+      "options": [
+        "A increase in flight destinations",
+        "B better working conditions",
+        "C higher salaries",
+        "D longer layovers"
+      ],
+      "answer": "B better working conditions"
+    },
+    {
+      "question": "How many of Air France’s pilots were on strike?",
+      "options": [
+        "A one-fourth",
+        "B one-third",
+        "C one-half",
+        "D one-fifth"
+      ],
+      "answer": "A one-fourth"
+    },
+    {
+      "question": "Why did the pilots divide the strike into several shifts?",
+      "options": [
+        "A to avoid cancellation of all flights",
+        "B to make it easier for management",
+        "C to ensure a full strike turnout",
+        "D to shorten the duration of disruptions"
+      ],
+      "answer": "A to avoid cancellation of all flights"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

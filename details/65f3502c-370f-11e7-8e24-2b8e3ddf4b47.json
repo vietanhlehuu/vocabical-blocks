@@ -1,0 +1,60 @@
+{
+  "title": "This Year’s Most Trivial Scientific Research",
+  "introduction": null,
+  "image": {
+    "id": "39d6bdb1-20b5-4bab-b92e-687fea49c203",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1l8hN2Uqn1W83jLBnULwup.jpeg",
+    "dimensions": {
+      "x": 387,
+      "y": 221
+    },
+    "attribution": "TimothyPilgrim on en.wikipedia / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5GKGnZdWW0Pd3BOhrvrfs0.mpga",
+  "main_content": "The announcement of this year’s Nobel Prizes is still a couple months off, but the world’s scientific community is already a buzz about the 2014 Ig Nobel prizes, awarded by the satirical science magazine Annals of Improbable Research for the ten most trivial or unusual research papers.\n\nThe awards were officially bestowed Thursday, September 18, at a ceremony at Harvard University.\n\nThis year’s Ig Nobel prize in physics went to a Japanese team for measuring the friction between a shoe and a banana skin when a person steps on it on the floor.\n\nThe biology prize went to a Czech team which documented that dogs prefer to point north-south when they urinate and defecate.\n\nU.S. scientists won the prize in medicine for finding a way to treat nosebleeds by packing the patient’s nose with strips of cured pork.\n\nThe Italian government’s National Institute of Statistics won the economics prize for fulfilling the European Union mandate that each member country increase its national economy. It included revenues from prostitution, illegal drug sales, smuggling and other unlawful financial transactions in its calculation.\n\nItalians also captured the Ig Nobel prize in art for measuring the relative pain suffered by people looking at an ugly or a pretty painting, while they are being shot in the hand by a powerful laser beam.\n\nThe ceremony was conducted in good spirit, honoring what organizers call “achievements that first make people laugh, and then make them think.”",
+  "questions": [
+    {
+      "question": "What is the Ig Nobel prize awarded for?",
+      "options": [
+        "Groundbreaking advancements in science",
+        "The ten most trivial or unusual research papers",
+        "Significant contributions to medical research",
+        "Innovations in technology and engineering"
+      ],
+      "answer": "The ten most trivial or unusual research papers"
+    },
+    {
+      "question": "What was the prize in physics awarded for?",
+      "options": [
+        "Finding a cure for common ailments",
+        "Measuring friction between a shoe and a banana skin",
+        "Innovative designs in footwear",
+        "Understanding gravity's effect on fruit"
+      ],
+      "answer": "Measuring friction between a shoe and a banana skin"
+    },
+    {
+      "question": "What are the prizes honouring, according to the organisers?",
+      "options": [
+        "Achievements that inspire future research",
+        "Innovations that improve everyday life",
+        "Achievements that first make people laugh, and then make them think",
+        "Contributions that advance societal progress"
+      ],
+      "answer": "Achievements that first make people laugh, and then make them think"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Cherry Blossoms Are Signs of Spring, Hope in Washington",
+  "introduction": null,
+  "image": {
+    "id": "0cd958a7-7ac7-425f-a668-426aca063984",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/0OFEb7ReWDn8TndJ00I3S0.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 350
+    },
+    "attribution": "Myrabella / Wikimedia Commons / CC BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/42jEfF2SvwIMpD944S2yeP.mpga",
+  "main_content": "Washington’s famous cherry trees, gifts from Japan more than a century ago, continue to announce the arrival of spring with vibrant colors.\n\nThey also inspired a festival that draws more than 1 million visitors to the District of Columbia every year. This year’s festival will end its 24-day run on Sunday — and the blossoms are to reach their peak bloom this weekend.\n\nAnn McClellan, author of “Cherry Blossoms: The Official Book of the National Cherry Blossom Festival,” said the blossoms are an inspiration.\n\n“Everyone from anywhere can experience how beautiful they are and know that hope comes with them no matter how bad the winter is,” she said.\n\nThe cherry blossoms also symbolize the friendship between the U.S. and Japan. In 1912, Tokyo donated 3,000 cherry trees to Washington, which planted them around the Tidal Basin.\n\n“They were given with the intent to thank the U.S. for its role in brokering the peace treaty of Portsmouth, which ended the Russo-Japanese War,” McClellan said.\n\nBut during World War II, after Japan attacked the U.S. naval base at Pearl Harbor, some of the cherry trees were cut down. McClellan said local people formed groups to protect the rest of the trees.\n\n“They patrolled the Tidal Basin area at night to make sure no other trees were cut down,” she said. “They did call the trees the oriental cherry trees for the remainder of the war.”\n\nThe tradition of the National Cherry Blossom Festival started in 1935. Bob Vogel, national capital regional director for the National Park Service, said that over the years, the event has evolved into a celebration of the culture, art, music and friendship of the two nations.\n\n“It’s a wonderful bonding experience between our two countries,” he said. “Of course, that was the original idea, and I think it’s really fostered and grown.”",
+  "questions": [
+    {
+      "question": "Where did Washington get its famous cherry trees from?",
+      "options": [
+        "California",
+        "France",
+        "Japan",
+        "China"
+      ],
+      "answer": "Japan"
+    },
+    {
+      "question": "How long does the festival run for?",
+      "options": [
+        "10 days",
+        "14 days",
+        "24 days",
+        "30 days"
+      ],
+      "answer": "24 days"
+    },
+    {
+      "question": "How many cherry trees did Japan donate to the US?",
+      "options": [
+        "1,000",
+        "2,000",
+        "3,000",
+        "4,000"
+      ],
+      "answer": "3,000"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

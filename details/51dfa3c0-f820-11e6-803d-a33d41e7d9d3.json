@@ -1,0 +1,60 @@
+{
+  "title": "When Can Older Americans Expect to Retire? Maybe Never",
+  "introduction": null,
+  "image": {
+    "id": "7e231637-4b08-4c1b-828a-4ad084c71e2f",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3q14D1SUxPexwEqYdVFL39.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Thomas Bjørkan / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5XZd1Ogcngqijoq6kh9fNy.mpga",
+  "main_content": "More Americans expect to work past their 65th birthdays and never retire, says a study.\n\nThe Associated Press with the NORC Center for Public Affairs Research polled 1,075 people, age 50 and older.\n\nIn America, the age of 65 is the traditional age to retire.\n\nSixty percent of people aged 50 to 64 said they expect to work past their 65th birthday.\n\nMore than half of those who are already older than 65 said they plan to keep working, too. They say they are working an average of 31 hours per week.\n\nThose 50 years of age or older said finances are the most important factor in the decision to when to retire.\n\nA majority of older workers — especially those who are 65 and older — plan to switch employers, or move into an entirely new profession, as they head into the later years.\n\nThe number of Americans 65 and older jumped 21 percent between 2002 and 2012.\n\nThat number is expected to reach 92 million by 2060.",
+  "questions": [
+    {
+      "question": "How many people were polled?",
+      "options": [
+        "500 people",
+        "1,075 people",
+        "1,500 people",
+        "800 people"
+      ],
+      "answer": "1,075 people"
+    },
+    {
+      "question": "Why do people plan on working past their retirement age?",
+      "options": [
+        "They enjoy their jobs",
+        "They want to travel",
+        "Finances are the most important factor",
+        "They have too much free time"
+      ],
+      "answer": "Finances are the most important factor"
+    },
+    {
+      "question": "Are there more or less older Americans in the US than before?",
+      "options": [
+        "Less older Americans",
+        "More older Americans",
+        "The same number of older Americans",
+        "The data is inconclusive"
+      ],
+      "answer": "More older Americans"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

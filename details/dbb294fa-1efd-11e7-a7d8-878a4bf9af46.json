@@ -1,0 +1,60 @@
+{
+  "title": "White House Launches ‘Presidential’ Facebook Page",
+  "introduction": null,
+  "image": {
+    "id": "3970cbc5-a538-4297-870e-b156e1309625",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1kO6qwVYANH8bp6kAfQHzR.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 205
+    },
+    "attribution": "Daniel Schwen / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7iSWR2KPQb87xJ4mjAsqV0.mpga",
+  "main_content": "With just a year left in office, President Barack Obama has finally joined the ranks of countless heads of state and people around the world with an official page on Facebook, the social network with over a billion members.\n\nThe White House on Monday launched the first-ever Facebook page for the U.S. presidency, sharing a video of Obama walking on the grounds of the White House backyard.\n\nIn his first official post, Obama said he wanted the page to be “a place where we can have real conversations about the most important issues facing our country, a place where you can hear directly from me, and share your own thoughts and stories.”\n\nIn the video, Obama spoke on the importance of taking steps to address climate change, ahead of a United Nations conference in Paris next month on the subject.\n\n“We’ve made a lot of progress to cut carbon pollution here at home, and we’re leading the world to take action as well,” Obama said. “But we’ve got to do more.”\n\n“Because of American leadership, we’ve already been able to get 150 countries that represent about 90 percent of the world’s economy and carbon emissions to agree that we need to come together to create that international framework.”\n\nWithin an hour of making his first post, the president had garnered more than 4,000 “likes” for the message, including one from Facebook COO Sheryl Sandberg. His post and video had also been shared more than 1,800 times.\n\nObama already had a personal Facebook page set up while he was a senator in Chicago. The White House has had a Facebook page since 2009.",
+  "questions": [
+    {
+      "question": "How many members does Facebook have, according to the article?",
+      "options": [
+        "Over 500 million",
+        "Around 1 billion",
+        "More than 2 billion",
+        "Exactly 1 billion"
+      ],
+      "answer": "Around 1 billion"
+    },
+    {
+      "question": "What is Barack Obama doing in his first Facebook video post?",
+      "options": [
+        "Announcing his re-election campaign",
+        "Walking on the White House grounds",
+        "Discussing social media strategy",
+        "Addressing the media directly"
+      ],
+      "answer": "Walking on the White House grounds"
+    },
+    {
+      "question": "What issue does Obama address in this post?",
+      "options": [
+        "Economic growth",
+        "Climate change",
+        "Healthcare reform",
+        "Education policy"
+      ],
+      "answer": "Climate change"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

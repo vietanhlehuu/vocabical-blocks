@@ -1,0 +1,60 @@
+{
+  "title": "Holding a Paintbrush Instead of a Gun",
+  "introduction": null,
+  "image": {
+    "id": "42d352f2-7617-11ed-af84-ebfafdc2c21b",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1Smo8ijFhNBHMsI6mG4uJj.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 366
+    },
+    "attribution": "Jennifer Rensel / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1Gk75kC4sEIu3vmDOh71M7.mpga",
+  "main_content": "The United States-led coalition is beginning to provide weapons and ammunition to fighters defending the city of Kobani, in northern Syria. The city is hoping for help from Kurdish militias in the fight against Islamic State forces.\n\nOne young Kurd has found an unusual way to help the people of Kobani. Instead of a gun, 27-year-old artist Sherzad Ebrahim is using a paintbrush.\n\nMr. Ebrahim comes from the mainly Kurdish city of Afrin, in northwestern Syria. When he first heard about the battle for Kobani, he went to join Kurds defending the city. But he says he soon discovered that he is not a fighter. So he decided to help the best way he could. He crossed the border to Turkey and began to paint.\n\n“The fighter takes up arms to protect people. The writers, write articles and poetry. And we help by painting for our people.”\n\nHis paintings are now being shown in the main square of Suruc, Turkey. Some of the paintings are unpleasant or upsetting. Mr. Ebrahim says the work means to show the evil of the Islamic State. That militant group is known locally by the name “Daesh.”\n\n“Daesh’s policy is clear. It’s all about bombing, blood, shelling and execution. We draw that, but through our own vision.”\n\nHe says he hopes the battle for Kobani will end soon.\n\n“Ensh-Allah (God willing) not one Daesh fighters will remain. And we go back. And we will rebuild everything destroyed by Daesh.”\n\nSherzad Ebrahim says he will donate the money from the sale of his paintings to the people of Kobani now living in Turkey as refugees.",
+  "questions": [
+    {
+      "question": "Where is the city of Kobani located?",
+      "options": [
+        "In northwestern Iraq",
+        "In northern Syria",
+        "In southern Turkey",
+        "In central Iran"
+      ],
+      "answer": "In northern Syria"
+    },
+    {
+      "question": "What does Sherzad Ebrahim do?",
+      "options": [
+        "He fights with weapons",
+        "He writes poetry",
+        "He creates paintings",
+        "He organizes refugee camps"
+      ],
+      "answer": "He creates paintings"
+    },
+    {
+      "question": "What will be done with the money from the sale of the paintings?",
+      "options": [
+        "It will be used to buy more paint supplies",
+        "It will be donated to the people of Kobani living as refugees",
+        "It will fund military operations against Daesh",
+        "It will be given to Turkish authorities for relief efforts"
+      ],
+      "answer": "It will be donated to the people of Kobani living as refugees"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Improve Your English by Using Movements (part 1)",
+  "introduction": null,
+  "image": {
+    "id": "2eea85a1-9815-4d53-b172-c6ef02ffffcf",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1QWp52u43zwGpUfcWpNmRD.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "David Shankbone / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/68ULasXegPl4VMaluHxAXP.mpga",
+  "main_content": "If you are like most students, you probably sit still while learning a new language.\n\nHowever, sitting still may not always be the best way to learn.\n\nEnglish learners can improve their language skills through movement, says Tamara Jones at Howard Community College in Maryland.\n\nSo, what is the relationship between physical movement and the brain?\n\nThe idea is that the brain and the body are joined together. This means that one affects the other.\n\nMany people are familiar with the idea that the brain tells the body to move. And many people are familiar with the idea that repetition – repeating an action over and over again – helps your brain to remember.\n\nHowever, some research, such as a study by Morsella and Krauss, suggests that your body might help your brain to find memories. Movements we make with our body, such as hand gestures, may help us to remember and use the correct words.\n\n[This article is divided into 2 parts! Read part 2 tomorrow!]",
+  "questions": [
+    {
+      "question": "Through what can English learners improve their language skills?",
+      "options": [
+        "By studying grammar rules extensively",
+        "Through movement",
+        "Using only written exercises",
+        "By reading silently to themselves"
+      ],
+      "answer": "Through movement"
+    },
+    {
+      "question": "What helps the brain remember?",
+      "options": [
+        "Listening to music while studying",
+        "Repetition of an action",
+        "Drawing pictures related to vocabulary",
+        "Reading aloud to others"
+      ],
+      "answer": "Repetition of an action"
+    },
+    {
+      "question": "What tells the body to move?",
+      "options": [
+        "The heart's rhythm",
+        "External stimuli from the environment",
+        "The brain",
+        "The lungs' oxygen levels"
+      ],
+      "answer": "The brain"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

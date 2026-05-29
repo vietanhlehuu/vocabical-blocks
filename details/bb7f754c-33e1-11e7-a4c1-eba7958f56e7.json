@@ -1,0 +1,60 @@
+{
+  "title": "Three Share Nobel Prize for Discovering Brain’s Navigation",
+  "introduction": null,
+  "image": {
+    "id": "2a570703-a397-4c5d-bf92-3e73432e7f15",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1HtRrMW1Z3stNuKk6ql9gz.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 467
+    },
+    "attribution": "Per Henning/NTNU / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3ImUJG2nDcQXEO0dLPVsfR.mpga",
+  "main_content": "American-British scientist John O’Keefe and Norwegians May-Britt Moser and Edvard Moser have won the Nobel Prize in medicine for their work in discovering the brain’s inner navigation system.\n\nThe Nobel Assembly at Sweden’s Karolinska Institute said Monday the laureates answered the question of how the brain maps spaces and allows beings to move through complex environments.\n\nO’Keefe, director of the Sainsbury Wellcome Center in Neural Circuits and Behavior at University College London, discovered the mapping mechanism in 1971 by observing the way certain nerve cells activated in a rat’s brain when it was in one part of a room and how other nerve cells activated in a different part.\n\nIn 2005, the Mosers, who are married, identified another type of cell in a nearby part of a rat’s brain that creates a grid system and connects with the mapping cells to make up the brain’s positioning system.\n\nFurther research has shown evidence these same types of cells exist in human brains.\n\nThe Nobel panel says the discoveries have opened new ways to understand other mental activities, including memory, thinking and planning.\n\nThe award comes with a $1.1 million prize, with half going to O’Keefe and the Mosers splitting the other half.\n\nOn Tuesday, the Nobel prize in physics will be awarded, followed by the chemistry prize on Wednesday, literature on Thursday and the Nobel Peace Prize on Friday.",
+  "questions": [
+    {
+      "question": "Why were the three scientists awarded the Nobel Prize?",
+      "options": [
+        "For their research on the effects of different environments on rat behavior.",
+        "For their discovery of the brain's inner navigation system.",
+        "For identifying health benefits of brain mapping in humans.",
+        "For advancing techniques in gene therapy related to neurological diseases."
+      ],
+      "answer": "For their discovery of the brain's inner navigation system."
+    },
+    {
+      "question": "According to the article, what question did they answer?",
+      "options": [
+        "How the brain processes visual information in real-time.",
+        "How the brain maps spaces and allows beings to move through complex environments.",
+        "How the composition of nerve cells affects memory retention.",
+        "How environmental factors influence the development of neural connections."
+      ],
+      "answer": "How the brain maps spaces and allows beings to move through complex environments."
+    },
+    {
+      "question": "How did John O’Keefe discover the mapping mechanism?",
+      "options": [
+        "By analyzing the behavior of rats in a laboratory setting without any spatial cues.",
+        "By observing the activation of specific nerve cells in a rat's brain in different parts of a room.",
+        "By using advanced imaging techniques to pinpoint active brain areas during navigation tasks.",
+        "By conducting experiments with human participants in virtual reality environments."
+      ],
+      "answer": "By observing the activation of specific nerve cells in a rat's brain in different parts of a room."
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

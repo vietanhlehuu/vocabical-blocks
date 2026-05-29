@@ -1,0 +1,60 @@
+{
+  "title": "WHO: Drowning Among Top Causes of Death in Children",
+  "introduction": null,
+  "image": {
+    "id": "2ae56f2a-dd35-488a-aaaf-ce73580199cc",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1IwWpJN0RpAWcN5xi5jt1A.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 383
+    },
+    "attribution": "Vic Brincat from Keswick, Ontario, Canada / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1IXtFLOJZX79Yty0c6cuIv.mpga",
+  "main_content": "The World Health Organization (WHO) says drowning is among the top five causes of death for children under the age of 15.\n\nThe United Nations agency also found that boys and girls living near open water sources, are especially at risk.\n\nChildren in Asia are especially at risk in extreme heat during the summer and during the rainy season.\n\nThe Asia-based group Alliance for Safe Children says drowning rates in developing countries are 10 to 20 times higher than those in developed countries.\n\nBill Kirby of Australia won a gold medal as a swimmer in the 2000 Olympics. He now leads swimming classes and training programs in Asia, mainly in Indonesia and Malaysia.\n\nKirby told VOA that governments and swimming organizations can work together to campaign for improved water safety. “One of the first steps is actually to create a national body that looks after water safety.”",
+  "questions": [
+    {
+      "question": "Children in what part of the world are especially at risk of drowning?",
+      "options": [
+        "North America during winter",
+        "Urban areas in Europe",
+        "Asia during extreme heat and rainy season",
+        "Africa near desert regions"
+      ],
+      "answer": "Asia during extreme heat and rainy season"
+    },
+    {
+      "question": "Who is Bill Kirby and what is he doing now?",
+      "options": [
+        "A former athlete promoting safe swimming practices",
+        "An author writing books about water safety",
+        "A coach training Olympic swimmers in Australia",
+        "A researcher studying drowning prevention techniques"
+      ],
+      "answer": "A former athlete promoting safe swimming practices"
+    },
+    {
+      "question": "What is the first step to improve water safety?",
+      "options": [
+        "To conduct swimming lessons for children",
+        "To create a national body that oversees water safety",
+        "To build more swimming pools in urban areas",
+        "To increase advertising about water hazards"
+      ],
+      "answer": "To create a national body that oversees water safety"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

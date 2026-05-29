@@ -1,0 +1,60 @@
+{
+  "title": "Somali Man, 61, Graduates From High School",
+  "introduction": null,
+  "image": {
+    "id": "439bb826-7619-11ed-ba7b-ab7b44392654",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1iQW1wVGwGs02BfBxd7A38.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Discott / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/73L3n1kfsvNXrkkt7bs6LT.mpga",
+  "main_content": "Ahmed Mohamed Ali dropped out of school to support his family by working when he was 10 years old. Over the years, he became a well-known tailor in his hometown of Bal’ad, Somalia, but he never gave up on his dream of getting an education.\n\nOver the years, he made attempts to go back to school but the economic situation in Somalia forced him to continue working as a tailor.\n\nFour years ago, Ahmed finally got his chance, and this week at the age of 61, the father of four was one of several thousand students who sat for their high school exams.\n\n“People were surprised. They told me to give up because of my age, but I said you are never too old to learn,” he told VOA Somali.\n\nAhmed said he always knew he had to get back to learning at some point.\n\n“Education improves people, it’s a light, and I thought it will be my guide in life for me and my family.”\n\nAhmed Saney, as he is popularly known, says he now wants to go to university and become a doctor. In 61 years, he has never yet left Bal’ad, except on a few occasions when he visited the capital, Mogadishu, just 30 kilometers south.\n\nHis success has made him a social media sensation. After his sudden rise, the town’s administration offered him support. He says he received pledges for help with the cost of a university education.\n\nAhmed has been receiving compliments all week from the community. Even his classmates, who doubted and made fun of him early on because of his age, now find him inspiring.\n\n“Some of my classmates said to me they will try to bring their fathers back into schools,” Ahmed said.\n\nDespite the uncertainty over security and dim job opportunities, as many as 45,000 students have been taking their middle and high school exams.",
+  "questions": [
+    {
+      "question": "Why did Ahmed Mohamed Ali drop out of school?",
+      "options": [
+        "A. To pursue a career in tailoring",
+        "B. To support his family financially",
+        "C. Because he was not interested in studying",
+        "D. To travel to other cities"
+      ],
+      "answer": "B. To support his family financially"
+    },
+    {
+      "question": "Why couldn’t he go back to school earlier?",
+      "options": [
+        "A. He faced opposition from his family",
+        "B. The economic situation in Somalia required him to work",
+        "C. He had low self-esteem and feared failure",
+        "D. He was focused on building his business"
+      ],
+      "answer": "B. The economic situation in Somalia required him to work"
+    },
+    {
+      "question": "What are Ahmed’s plans for the future?",
+      "options": [
+        "A. To start his own tailoring business",
+        "B. To become a well-known social media influencer",
+        "C. To go to university and become a doctor",
+        "D. To travel around the world"
+      ],
+      "answer": "C. To go to university and become a doctor"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "The Language of Love: How Not to Write a Love Letter",
+  "introduction": null,
+  "image": {
+    "id": "697ad7c8-4f23-11e9-bbb8-bf41343d4af2",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/09BzmHs1xlKRRMYCGzr6fq.jpeg",
+    "dimensions": {
+      "x": 480,
+      "y": 360
+    },
+    "attribution": "Emilian Robert Vicol from Com. Balanesti, Romania / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3eVd5sjMviKPreilddJIrf.mpga",
+  "main_content": "Saint Valentine’s Day falls on February 14. Traditionally, Valentine’s Day is the day when lovers show their feelings for each other. They do that with presents like flowers and chocolate. They go out to dinner and maybe go dancing.\n\nSometimes, you fall in love so hard that you must, simply must, tell the person in a love letter.\n\nBut love is hard to explain. The idea of sharing your feelings of love in a letter may fill you with fear.\n\nWell, fear not. Take a pen and choose your best paper. In this day of electronic communication, a handwritten letter may win you big points in the game of love.\n\nBut if you choose to write a love letter in English, here are a few suggestions on what not to do.\n\nDo not make mistakes. Try your best to not make any spelling or grammar mistakes. Nothing kills romantic feelings more than a lover correcting your letter with red ink.\n\nDo not have a friend write your love letter. The person receiving the letter may fall in love with the real letter writer and forget all about you.\n\nDo not use general words. Use specific details about the person you are in love with. Writing about these details proves that you are paying attention. And that is very attractive.\n\nDo not write a love letter as if it was for your English class. A love letter is not homework.",
+  "questions": [
+    {
+      "question": "When is Saint Valentine’s Day?",
+      "options": [
+        "February 14",
+        "March 14",
+        "January 14",
+        "December 14"
+      ],
+      "answer": "February 14"
+    },
+    {
+      "question": "Why shouldn’t you let a friend write a love letter for you?",
+      "options": [
+        "It could be embarrassing for you.",
+        "The recipient may fall in love with your friend instead.",
+        "It's not a traditional way of expressing love.",
+        "A friend may make it less personal."
+      ],
+      "answer": "The recipient may fall in love with your friend instead."
+    },
+    {
+      "question": "What will writing about details prove?",
+      "options": [
+        "That you have spent a lot of time writing the letter.",
+        "That you are paying attention to the person you love.",
+        "That you are good at writing in English.",
+        "That you understand the concept of love."
+      ],
+      "answer": "That you are paying attention to the person you love."
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

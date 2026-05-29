@@ -1,0 +1,60 @@
+{
+  "title": "Belief About Source of Intelligence Affects Effort",
+  "introduction": null,
+  "image": {
+    "id": "4a9f8788-b9f0-4642-b751-f134085de2d3",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2GoKum1PbXpGtcu4kq3I4h.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 388
+    },
+    "attribution": "Al. Aumuller / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4q60XapxYy12NGC36r9pEU.mpga",
+  "main_content": "Researchers at Michigan State University saw instant changes in the brains of study participants when they were told that hard work is more important than genetics.\n\nWhether or not that is true, says lead investigator Hans Schroder, “giving people messages that encourage learning and motivation may promote more efficient performance.”\n\nIn the study, two groups read different articles about intelligence. One said it was largely genetic, the other discussed how challenging environments probably led to the brilliance of Leonardo da Vinci and Albert Einstein.\n\nAfterwards, researchers analyzed brain activity as the participants answered questions about the main points of their article.\n\nWriting in Biological Psychology, Schroder and his colleagues say their work shows that subtle messages about abilities can have a big impact on our attitudes about what we can accomplish.\n\nThose in the study who read that intelligence was genetic focused on their responses as if they were concerned with doing well on the test, but that attention did not lead to improved performance in subsequent sessions.\n\nThose in the other group showed a more efficient brain response after they made a mistake, suggesting they thought they could do better on the next test. And the more attention they paid to errors, the faster they responded the next time.",
+  "questions": [
+    {
+      "question": "What does Hans Schroder believe can lead to more efficient performance?",
+      "options": [
+        "A focus on innate genetic talent",
+        "Messages that encourage learning and motivation",
+        "Reinforcement of past test results",
+        "Minimizing the importance of effort"
+      ],
+      "answer": "Messages that encourage learning and motivation"
+    },
+    {
+      "question": "In what way were the two articles given to the test subjects different?",
+      "options": [
+        "One article discussed intelligence as fixed, the other as changeable",
+        "One article highlighted historical figures, the other contemporary examples",
+        "One argued for the importance of hard work, the other focused on education policies",
+        "One emphasized genetics, the other the impact of challenging environments"
+      ],
+      "answer": "One emphasized genetics, the other the impact of challenging environments"
+    },
+    {
+      "question": "Which group was more likely to do better in subsequent tests?",
+      "options": [
+        "The group that believed intelligence was fixed",
+        "The group that relied on genetic predisposition",
+        "The group that viewed intelligence as developed through effort",
+        "The group that received no feedback on their performance"
+      ],
+      "answer": "The group that viewed intelligence as developed through effort"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

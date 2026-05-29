@@ -1,0 +1,60 @@
+{
+  "title": "Bodies Recovered From Missing AirAsia",
+  "introduction": null,
+  "image": {
+    "id": "e459754a-0eab-11e7-b1c9-6f9abaf1f7f8",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2QBMqQkVZkYpz8e8x8VAkG.jpeg",
+    "dimensions": {
+      "x": 800,
+      "y": 600
+    },
+    "attribution": "User:Fæ / www.dvidshub.net / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3X8osUmn5uw43dNO75Imbb.mpga",
+  "main_content": "Indonesian officials have recovered bodies from the sea near the wreckage of an AirAsia passenger jet. The airplane crashed during a storm on Sunday.\n\nIndonesian television showed rescue helicopters pulling bodies from the Java Sea, in waters about 160 kilometers from Borneo Island. The first images of the bodies showed they were not wearing protective life jackets.\n\nRescue workers had recovered only about one fourth of the passengers and crew at nightfall. They found the bodies soon after discovering the wreckage. It included what appeared to be an orange life jacket, a red and white emergency door, and other objects.\n\nSearches from the air also showed what appeared to be a very large object under the surface of the water. It is believed to be the main body of the airplane.\n\nLate Tuesday, AirAsia confirmed that the wreckage was its lost plane. The passenger jet disappeared on Sunday about halfway through what was supposed to be a two-hour flight from the Indonesian city of Surabaya to Singapore.\n\nThe head of AirAsia, Tony Fernandes, said he is, in his words, “absolutely devastated” at the news. Earlier he said on Twitter that his heart “is filled with sadness for all the families involved.”  He added that, “words cannot express how sorry I am.”",
+  "questions": [
+    {
+      "question": "When did the airplane crash?",
+      "options": [
+        "On Saturday before the storm hit",
+        "On Sunday during a storm",
+        "On Monday following a search operation",
+        "On Tuesday just after noon"
+      ],
+      "answer": "On Sunday during a storm"
+    },
+    {
+      "question": "What did the first images of the bodies show?",
+      "options": [
+        "That they were recovered wearing seats belts",
+        "That they were not wearing protective life jackets",
+        "That they were found clutching personal belongings",
+        "That they were laid out on the beach"
+      ],
+      "answer": "That they were not wearing protective life jackets"
+    },
+    {
+      "question": "Who is Tony Fernandes?",
+      "options": [
+        "The head of the Indonesian rescue team",
+        "A passenger who survived the crash",
+        "The head of AirAsia",
+        "An expert on aviation safety"
+      ],
+      "answer": "The head of AirAsia"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

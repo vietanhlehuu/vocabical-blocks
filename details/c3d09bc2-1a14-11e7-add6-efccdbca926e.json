@@ -1,0 +1,60 @@
+{
+  "title": "NASA: Pluto Has Blue Sky",
+  "introduction": null,
+  "image": {
+    "id": "a15cfa10-5097-48ba-8625-a19dc1927d78",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4uUForJ5XIQiwqorNnIPXs.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 512
+    },
+    "attribution": "NASA/APL/SwRI / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/49IXueDBgkUAZLEnnTu0c1.mpga",
+  "main_content": "Pluto has blue skies and water in ice form, according to the first color photos recently taken by NASA’s New Horizons spacecraft.\n\n“Who would have expected a blue sky in the Kuiper Belt? It’s gorgeous,” said Alan Stern, New Horizons principal investigator from Southwest Research Institute (SwRI), Boulder, Colorado in a statement.\n\nNASA said the particles that cause the blue haze are likely gray or red, but that they scatter blue light in the same way tiny nitrogen particles cause the Earth’s skies to appear blue.\n\nOn Pluto, the scientists said the particles called tholins are likely larger and “soot-like.”\n\nThe photos also revealed the presence of “numerous small, exposed regions of water ice” on the dwarf planet.\n\n“Large expanses of Pluto don’t show exposed water ice,” said science team member Jason Cook, of SwRI, “because it’s apparently masked by other, more volatile ices across most of the planet. Understanding why water appears exactly where it does, and not in other places, is a challenge that we are digging into.”\n\nPluto’s ice, scientists say, is red colored.\n\n“We don’t yet understand the relationship between water ice and the reddish tholin colorants on Pluto’s surface, said Silvia Protopapa, a science team member from the University of Maryland, College Park.\n\nNASA said the New Horizons spacecraft is now approximately 5 billion kilometers from Earth.",
+  "questions": [
+    {
+      "question": "What do color photos reveal about Pluto?",
+      "options": [
+        "Pluto has ring systems similar to Saturn.",
+        "Pluto has blue skies and water in ice form.",
+        "Pluto is predominantly covered in red tholins.",
+        "Pluto has no atmosphere or clouds."
+      ],
+      "answer": "Pluto has blue skies and water in ice form."
+    },
+    {
+      "question": "What did the photos further reveal?",
+      "options": [
+        "There are vast areas of frozen methane on the surface.",
+        "The presence of numerous small, exposed regions of water ice.",
+        "The existence of large liquid oceans beneath the ice.",
+        "Pluto is mostly a barren landscape with no visible features."
+      ],
+      "answer": "The presence of numerous small, exposed regions of water ice."
+    },
+    {
+      "question": "What is one of the scientists’ biggest challenges regarding Pluto?",
+      "options": [
+        "Determining how long Pluto's orbit takes around the Sun.",
+        "Understanding the relationship between water ice and the reddish tholin colorants.",
+        "Figuring out the origin of Pluto's blue skies.",
+        "Calculating the distance of Pluto from Earth."
+      ],
+      "answer": "Understanding the relationship between water ice and the reddish tholin colorants."
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

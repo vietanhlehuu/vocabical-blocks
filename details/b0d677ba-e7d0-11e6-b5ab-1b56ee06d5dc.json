@@ -1,0 +1,60 @@
+{
+  "title": "Warning System Keeps Swimmers Out of Polluted Water",
+  "introduction": null,
+  "image": {
+    "id": "e45cb160-0eab-11e7-b3ae-63647307d235",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/57CL98sob40Jmgz983fekR.jpeg",
+    "dimensions": {
+      "x": 800,
+      "y": 533
+    },
+    "attribution": "Steven W. Belcher / Wikimedia Commons / CC-BY-SA 2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/21rbOh3YyTD335PJkP5p1e.mpga",
+  "main_content": "The dry conditions in California are good for people who like to swim in the Pacific Ocean. But pollution remains a problem in other areas, including popular beaches.\n\nAngelo Bellomo works for the Los Angeles County Department of Public Health.\n\n“When we have runoff from the urban environment, it could be carrying with it contamination due to animal waste (and) sewage; and if those enter the beaches, you want to avoid contact with water during those periods.”\n\nPublic health officials are looking for a fast way to identify water quality levels along the California coast. Currently, they use laboratory tests. If the tests show the quality is poor, warning signs are placed along the coastline.\n\nLeslie Griffin works for an environmental group called “Heal the Bay.” She says the current warning system is not very helpful.\n\nUntil lab tests can be completed faster, researchers in California are using what they call a “predictive modeling system.”\n\nResearchers use computers to gather information about the environment. The researchers then use the data to predict the possible quality of the water that day.\n\nAngelo Bellomo says the predictive modeling system looks promising.",
+  "questions": [
+    {
+      "question": "What can runoff from the urban environment be carrying with it?",
+      "options": [
+        "Industrial chemicals and metals",
+        "Contamination due to animal waste and sewage",
+        "Microplastics and debris",
+        "Agricultural pesticides and fertilizers"
+      ],
+      "answer": "Contamination due to animal waste and sewage"
+    },
+    {
+      "question": "What is used currently to identify water quality levels?",
+      "options": [
+        "Real-time sensor technology",
+        "Predictive modeling systems",
+        "Laboratory tests",
+        "Mobile water testing units"
+      ],
+      "answer": "Laboratory tests"
+    },
+    {
+      "question": "Where does Leslie Griffin work?",
+      "options": [
+        "California Environmental Protection Agency",
+        "Los Angeles County Department of Public Health",
+        "An environmental group called 'Heal the Bay'",
+        "A private research institution"
+      ],
+      "answer": "An environmental group called 'Heal the Bay'"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

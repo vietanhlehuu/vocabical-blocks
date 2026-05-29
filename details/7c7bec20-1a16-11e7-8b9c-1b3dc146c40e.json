@@ -1,0 +1,60 @@
+{
+  "title": "Heavy Flooding Forces Evacuations as Rain Pounds Japan",
+  "introduction": null,
+  "image": {
+    "id": "fd0ca2e8-b40f-4cc5-927f-510a69183545",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/7hUpgD6ys2wxQ3tONt9imj.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Miyuki Meinaka / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4Rnghdo5gTCNuFWsWEBizF.mpga",
+  "main_content": "Heavy rains in already drenched areas of central and northern Japan caused major flooding Thursday, forcing tens of thousands of people to evacuate and setting off dramatic rescues of those who could not get out in time.\n\nThe worst hit area was the city of Joso, about 50 kilometers northeast of the capital, Tokyo, where the banks of the Kinugawa River could not contain the swell of water that surged out into the surrounding community.\n\nThe floodwaters swept away houses, and in the buildings that remained, people climbed to balconies and rooftops seeking help. Television cameras captures the scenes of multiple rescues as military helicopters flew in overhead and pulled multiple people up to safety.\n\nOne man stood on a log and clung to a power pole as the water passed all around him. He was later rescued.\n\nJapan has seen extensive rains this week from what was Typhoon Etau, with rainfall totals in some areas exceeding 50 centimeters.\n\nJapan’s Meteorological Agency posted widespread warnings, urging people to be ready for more flooding and landslides. One reported landslide hit a group of houses and left one woman missing.\n\nPrime Minister Shinzo Abe vowed Thursday to focus on the hardest hit areas and “prioritize the safety of the people.”",
+  "questions": [
+    {
+      "question": "What did the flooding in northern Japan force?",
+      "options": [
+        "the evacuation of tens of thousands of people",
+        "the complete destruction of all buildings",
+        "the cancellation of all flights in the region",
+        "the closure of all schools indefinitely"
+      ],
+      "answer": "the evacuation of tens of thousands of people"
+    },
+    {
+      "question": "Which was the worst hit area?",
+      "options": [
+        "the city of Tokyo",
+        "the city of Joso",
+        "the Kinugawa River",
+        "the metropolitan area of Saitama"
+      ],
+      "answer": "the city of Joso"
+    },
+    {
+      "question": "What happened because of the floodwaters?",
+      "options": [
+        "military helicopters conducted multiple rescues",
+        "a major earthquake was triggered",
+        "all major transportation routes were flooded",
+        "people were left to fend for themselves"
+      ],
+      "answer": "military helicopters conducted multiple rescues"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

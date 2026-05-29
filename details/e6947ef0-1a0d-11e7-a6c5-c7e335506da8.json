@@ -1,0 +1,60 @@
+{
+  "title": "Proposed NYC Museum Touts Trash as Treasure",
+  "introduction": null,
+  "image": {
+    "id": "fa06ec11-ba45-44fc-99e7-8b5d2d69d22f",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/7bnFCSJ0VIYyZzt2AcHgGF.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 362
+    },
+    "attribution": "Ludovic Péron / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6NGsUYOzhSFyUTYfCgASbL.mpga",
+  "main_content": "New York City’s sanitation workers pick up more than 12,000 tons of refuse and recyclables every single collection day. And, through the efforts of one man with a dream, the Sanitation Department has its own museum-like collection of trash — that has become what he calls a “treasure.”\n\nNelson Molina — who worked 34 years with the New York City Department of Sanitation — is the curator of collection.\n\n“In New York City, people throw everything out,” he said. “So, you give me three months, I probably could furnish a two-bedroom apartment. You know, all the stuff that’s out there, living rooms, bedrooms, kitchen, bathrooms, everything. It’s out there.”\n\n“This is the Star of David,” he said, lifting the glass cover off a metal star and reading the attached plaque. “ ’In memory of 9-11, created from the steel of the World Trade Center.’ This was found in the garbage.”\n\nAnother great find: the stained glass windows from a 120-year-old church that Molina picked up from the street.\n\nAnthropologist Robin Nagle says the entire collection provides an insight into the American lifestyle.\n\n“Part of the magic of this collection is how rich it is in detail about the contemporary past of our society, of our city of New York, of American life, going back decades but also very much of the moment,” Nagle said. “Think about how archaeologists look at relics and artifacts from ancient civilizations to read the details of the lives of the people who left that behind. You can do the exact same thing with household trash left on the curb today.”",
+  "questions": [
+    {
+      "question": "What has the Sanitation Department of New York organized?",
+      "options": [
+        "An extensive recycling program to reduce waste.",
+        "A museum-like collection of trash curated by Nelson Molina.",
+        "An initiative to educate the public on waste management.",
+        "A historical record of the city's waste disposal practices."
+      ],
+      "answer": "A museum-like collection of trash curated by Nelson Molina."
+    },
+    {
+      "question": "What is the Star of David plaque made of?",
+      "options": [
+        "Concrete salvaged from building renovations.",
+        "Wood from old furniture found on the streets.",
+        "Steel from the World Trade Center.",
+        "Glass recovered from a shattered window."
+      ],
+      "answer": "Steel from the World Trade Center."
+    },
+    {
+      "question": "What does Robin Nagle think about the collection?",
+      "options": [
+        "It serves as a historical account of sanitation practices.",
+        "It reflects the rich details of contemporary American life.",
+        "It highlights the neglect of the city's cultural heritage.",
+        "It provides a narrow view of the past, lacking diversity."
+      ],
+      "answer": "It reflects the rich details of contemporary American life."
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

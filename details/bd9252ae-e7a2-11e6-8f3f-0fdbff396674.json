@@ -1,0 +1,60 @@
+{
+  "title": "In Combating Obesity, a 12-Year-Old Leads by Example",
+  "introduction": null,
+  "image": {
+    "id": "16cf5661-3a50-4a18-840b-13824819ce96",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/0h2aFQq9yU8i5Lc4NZ1lu2.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Earl McGehee / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 2,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/52KzzxDj2tZdV6pVEpif2v.mpga",
+  "main_content": "The number of overweight children in the U.S. is growing. That is the reason the American Heart Association and the Clinton Foundation created the Alliance for a Healthier Generation.\n\nOver the past 10 years, the Alliance has been coming up with creative ways to fight childhood obesity. One of these ways is inviting young people to be part of the solution.\n\nTwelve-year-old Jodi Evans has always been active. She loves to exercise and play sports including dancing.\n\nJodi is on the Alliance for a Healthier Generation’s Youth Advisory Board. The Alliance chose her for her healthy lifestyle and her involvement in sports.\n\nMegan McIntire is spokeswoman for the Alliance. She says the young people in the Alliance are sharing their viewpoint, or perspective, on how to fight childhood obesity.\n\n“They all are raising their voice on this issue, and giving their perspective on how to combat childhood obesity.\n\nAnd, more importantly, the young Alliance members talk about making healthier food choices with their friends. Ms. McIntire says this is very important. Talking with friends will help to change the current shocking obesity numbers.",
+  "questions": [
+    {
+      "question": "Who (or what) created the Alliance for a Healthier Generation?",
+      "options": [
+        "The American Heart Association and the Clinton Foundation",
+        "The U.S. government",
+        "Health organizations worldwide",
+        "Parents of overweight children"
+      ],
+      "answer": "The American Heart Association and the Clinton Foundation"
+    },
+    {
+      "question": "What does Jodi Evans like doing?",
+      "options": [
+        "Reading books",
+        "Exercising and playing sports",
+        "Watching television",
+        "Playing video games"
+      ],
+      "answer": "Exercising and playing sports"
+    },
+    {
+      "question": "How old is Jodi Evans?",
+      "options": [
+        "10 years old",
+        "11 years old",
+        "12 years old",
+        "13 years old"
+      ],
+      "answer": "12 years old"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

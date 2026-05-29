@@ -1,0 +1,60 @@
+{
+  "title": "Press Freedom Under Threat in Turkey",
+  "introduction": null,
+  "image": {
+    "id": "e45a6c66-0eab-11e7-b25c-2f2511e1084d",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3A3c782I0QYebIJII3OpXq.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 338
+    },
+    "attribution": "Raimond Spekking / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3d1Me9LgQbST10LKDDjuCy.mpga",
+  "main_content": "A coalition of media rights groups says freedom of the press is under attack in Turkey.\n\nThe coalition’s representatives recently completed a visit to the country. They studied the government’s treatment of reporters and the press. The findings were released a month before Turkey’s general elections.\n\nA crowd of supporters of the ruling party demonstrated near the offices of the Hurriyet newspaper last month. They were angry about an article in the newspaper.\n\nThe protesters claimed the story contained lies about Turkish President Recep Tayyip Erdogan. Days later, one of the newspaper’s columnists was attacked.\n\nMelody Patry is with the group Index On Censorship. She was part of the delegation in Turkey.\n\n“But Mohammed Rasool is just one example of the many other journalists and media workers who are being imprisoned and detained for simply doing their job, which is reporting the news, and that is not a crime.”\n\nMehmet Solmaz is the news editor of the Daily Sabah newspaper.\n\nHe says Turkish journalists often like to write about political issues when they should be reporting news and information.",
+  "questions": [
+    {
+      "question": "Why was there a crowd in front of the Hurriyet newspaper offices?",
+      "options": [
+        "A protest against the government's censorship policies",
+        "Anger over a story about Turkish President Recep Tayyip Erdogan",
+        "Support for a new editorial team at the newspaper",
+        "Celebration of a recent award won by the Hurriyet newspaper"
+      ],
+      "answer": "Anger over a story about Turkish President Recep Tayyip Erdogan"
+    },
+    {
+      "question": "\fWho said that press is under attack in Turkey?",
+      "options": [
+        "Mehmet Solmaz",
+        "A coalition of media rights groups",
+        "Recep Tayyip Erdogan",
+        "Melody Patry"
+      ],
+      "answer": "A coalition of media rights groups"
+    },
+    {
+      "question": "\fWho is Recep Tayyip Erdogan?",
+      "options": [
+        "A prominent journalist in Turkey",
+        "The President of Turkey",
+        "A representative from Index On Censorship",
+        "The editor of the Hurriyet newspaper"
+      ],
+      "answer": "The President of Turkey"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

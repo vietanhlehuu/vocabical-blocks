@@ -1,0 +1,60 @@
+{
+  "title": "How Can Golf Appeal to More People?",
+  "introduction": null,
+  "image": {
+    "id": "d48e9a5a-7970-4e85-8348-98fd45ade63f",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6T5XfTbuNqDBHZOlr6U4yN.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 382
+    },
+    "attribution": "Lilrizz / Wikimedia Commons / CC0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2TCubyI8u9Wn2y7QILvCC7.mpga",
+  "main_content": "Golf is big business in America.\n\nThe U.S. is also the world’s biggest market for golf equipment, according to a report from Golf Datatech.\n\nBut the industry is working on ways to make golf more appealing, especially to young Americans.\n\nThe CEO of the U.S.-based World Golf Foundation, Steve Mona, told VOA he believes the current state of golf is stable. His group says about 20 million Americans regularly play the game.\n\nBut Mona also sees the need for change, to get more people to discover and play golf. He said the industry has focused on ways to make the game faster, more playable and fun.​\n\nSome golf courses have expanded fairways so golfers have less chance of losing balls in water or trees. Others move up the starting point for young or new players, so they are closer to the hole.",
+  "questions": [
+    {
+      "question": "Which country has the most golf equipment bought and sold?",
+      "options": [
+        "Canada",
+        "Japan",
+        "United States",
+        "Australia"
+      ],
+      "answer": "United States"
+    },
+    {
+      "question": "What did Steve Mona say about the state of golf?",
+      "options": [
+        "It is declining rapidly.",
+        "It is stable but requires changes.",
+        "It is thriving among young players.",
+        "It is only popular in rural areas."
+      ],
+      "answer": "It is stable but requires changes."
+    },
+    {
+      "question": "Why have they expanded fairways?",
+      "options": [
+        "To accommodate more players at once.",
+        "To reduce the likelihood of losing balls.",
+        "To increase the length of the course.",
+        "To enhance the scenic view of the course."
+      ],
+      "answer": "To reduce the likelihood of losing balls."
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

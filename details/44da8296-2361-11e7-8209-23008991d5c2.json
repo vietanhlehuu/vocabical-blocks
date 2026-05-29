@@ -1,0 +1,60 @@
+{
+  "title": "California Shifts Water Use in Face of Drought",
+  "introduction": null,
+  "image": {
+    "id": "ab226144-bd6d-4e14-917b-5e8dc313da7d",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5CvOm3QGPh8P5X1F5cYMTl.jpeg",
+    "dimensions": {
+      "x": 700,
+      "y": 525
+    },
+    "attribution": "National Oceanic and Atmospheric Administration / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/69Uh8fdYgnq370cmvxnQ6E.mpga",
+  "main_content": "California Governor Jerry Brown said residents of the state must reduce their water consumption by 25 percent to cope with a major drought, and local communities are drawing up new restrictions.\n\nResidents, businesses and water agencies are already making changes.\n\nThis is the fourth year in a row of below average rainfall, which has created moderate to extreme drought conditions. Bill McDonald of the Metropolitan Water District of Southern California says new restrictions should save a precious resource that is drying up.\n\n“Right now, we rely on a lot of snow and rain, and that is not happening,” said McDonald.\n\nFarms use 80 percent of the state’s water to produce much of the nation’s fruit, vegetables and nuts. Farming is largely exempt from the new restrictions, but many farms have seen their water allocations cut to zero.\n\nThey use groundwater for crops, and new rules for pumping it may help preserve the water table, which is being depleted quickly in some places.\n\nAnalyst Caitrin Chappelle of the Public Policy Institute of California says the public wants stronger conservation measures.\n\n“Our recent survey asked the question, do you think local and state government is doing enough about the drought. And we saw the majority said no,” said Chappelle.\n\nAmong new rules already in place, restaurants will face fines if they offer water to customers who have not asked for it.\n\nMajor water users, such as golf courses, will face new restrictions, and local communities are drawing up rules to meet the target of a 25 percent reduction by next year.\n\nSome homeowners are being paid to tear out grass and to landscape with drought-tolerant native plants.\n\nBill McDonald says more homeowners are installing efficient drip irrigation systems.\n\n“And that is the future. That is where we are going, because putting drinking water on a landscape that is ornamental is not a good use of resources,” he said.\n\nAnalysts say there is no single solution to California’s water shortage, but education, better planning and conservation will help the state get through its periodic droughts.\n\nThey say long-term solutions include recycling waste water and strengthening the distribution system, using pricing to encourage more efficient water use and using technology to reduce waste.",
+  "questions": [
+    {
+      "question": "Why do Californians need to reduce their water consumption?",
+      "options": [
+        "To comply with international environmental agreements.",
+        "To cope with a significant drought and ensure sustainable water availability.",
+        "To lower the cost of water supply for businesses in the state.",
+        "To satisfy agricultural demands from surrounding states."
+      ],
+      "answer": "To cope with a significant drought and ensure sustainable water availability."
+    },
+    {
+      "question": "Why have drought conditions been created in California?",
+      "options": [
+        "Due to increased population and urban development.",
+        "Because of four consecutive years of below-average rainfall.",
+        "As a result of mismanagement of water resources by government agencies.",
+        "Due to the overconsumption of water by sports facilities."
+      ],
+      "answer": "Because of four consecutive years of below-average rainfall."
+    },
+    {
+      "question": "What new rule do restaurants in the state have to obey?",
+      "options": [
+        "They must charge patrons for tap water served.",
+        "They cannot serve water unless customers specifically request it.",
+        "They are required to offer free water refills to all customers.",
+        "They must limit the number of customers to conserve water usage."
+      ],
+      "answer": "They cannot serve water unless customers specifically request it."
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

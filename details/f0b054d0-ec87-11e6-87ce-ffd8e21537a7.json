@@ -1,0 +1,60 @@
+{
+  "title": "US Economy Shrinks More Than Expected",
+  "introduction": null,
+  "image": {
+    "id": "2c5becfb-57d3-441a-a7df-38b6e8702301",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1LhfhIXav3Z5HtymfzGIld.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 600
+    },
+    "attribution": "Arnoldius / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6gLBLFng5raiHvylut85tD.mpga",
+  "main_content": "The U.S. economy shrank more than first thought at the beginning of this year.\n\nWednesday’s report from the Commerce Department says the economy shrank at a 2.9 percent annual pace in January, February, and March.\n\nThat is much worse than earlier estimates, and the worst economic growth figures in five years. U.S. officials routinely revise economic estimates as new, more complete data becomes available.\n\nEconomists blame the slowdown on unusually foul winter weather, and many predict the problem will be temporary.\n\nA top White House economic advisor, Jason Furman, says data from April and May show the economy is on track to resume growing soon.\n\nHowever, a second economic study published Wednesday, went against that trend, showing orders for long-lasting manufactured goods unexpectedly fell in May.",
+  "questions": [
+    {
+      "question": "How much did the U.S. economy shrink at an annual pace in January, February, and March, according to the Commerce Department?",
+      "options": [
+        "2.9 percent",
+        "1.9 percent",
+        "3.9 percent",
+        "4.9 percent"
+      ],
+      "answer": "2.9 percent"
+    },
+    {
+      "question": "According to the article, what is the main reason economists give for the slowdown in economic growth?",
+      "options": [
+        "Unusually foul winter weather",
+        "Higher consumer spending",
+        "A strong housing market",
+        "Lower unemployment rates"
+      ],
+      "answer": "Unusually foul winter weather"
+    },
+    {
+      "question": "What did the second economic study published Wednesday show about orders for long-lasting manufactured goods in May?",
+      "options": [
+        "They unexpectedly fell",
+        "They rose sharply",
+        "They stayed unchanged",
+        "They were not reported"
+      ],
+      "answer": "They unexpectedly fell"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

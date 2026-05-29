@@ -1,0 +1,60 @@
+{
+  "title": "Can You Catch a Liar?",
+  "introduction": null,
+  "image": {
+    "id": "38b3ffbc-7cd6-11ee-8ce8-4b258a5b93f5",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4KSy15Fm04KEUSwgftiGL6.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 334
+    },
+    "attribution": "U.S. Navy photo by Photographer’s Mate 1st Class Christopher Mobley / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2sVRpZ3Y4cAxUfxzDnV0p7.mpga",
+  "main_content": "What is the best way to catch someone who is telling a lie?\n\nFor a long time, the traditional method of identifying liars was to watch their body language, including the facial expressions.\n\nMany people – from parents to police officers and airport security personnel – depend on this method. But does a person’s body and face reveal the truth?\n\nNot according to a new study.\n\nTalking, it seems, is the best way to smoke out a liar. That is what researchers in the United Kingdom found out recently. Their investigation took place at an airport.\n\nThe researchers asked volunteers to pretend they were real passengers and then lie to airport security agents. Some of the agents used spoken conversation-based methods. Others depended instead on the person’s body language.\n\nThe agents talking with the passengers were 20 times more likely to catch the liars.\n\nLike many methods, this conversation method has a name. It is called Controlled Cognitive Engagement or CCE, for short.",
+  "questions": [
+    {
+      "question": "What group from the experiment was more likely to catch the liars?",
+      "options": [
+        "Agents using body language cues",
+        "Agents relying on conversation-based methods",
+        "Agents trained in psychology principles",
+        "Agents evaluating emotional responses"
+      ],
+      "answer": "Agents relying on conversation-based methods"
+    },
+    {
+      "question": "What does CCE stand for?",
+      "options": [
+        "Controlled Cognitive Engagement",
+        "Cognitive Communication Effectiveness",
+        "Critical Cognitive Evaluation",
+        "Controlled Conversation Engagement"
+      ],
+      "answer": "Controlled Cognitive Engagement"
+    },
+    {
+      "question": "Where did the investigation take place?",
+      "options": [
+        "At a police station",
+        "In a private laboratory",
+        "At an airport",
+        "In a courtroom"
+      ],
+      "answer": "At an airport"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

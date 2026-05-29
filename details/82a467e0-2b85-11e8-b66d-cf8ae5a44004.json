@@ -1,0 +1,60 @@
+{
+  "title": "Chinese Investors Pour Billions Into Australia",
+  "introduction": null,
+  "image": {
+    "id": "82a3db22-2b85-11e8-b66c-7bbbe20d5dcb",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4QjgbCuu8cJj6hh8f408ri.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Nick-D / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0LehomiPHAlVuSPXlfejxG.mpga",
+  "main_content": "For the first time, China has become the main source of foreign investment in Australia, moving the United States into second place.\n\nLast year, wealthy Chinese investors poured $21.8 billion into Australia, while investment from the United States was worth $13.8 billion.\n\nThe figures are contained in an annual report released by Australia’s Foreign Investment Review Board, which was set up to regulate overseas investments.\n\nMuch of the interest from China has been focused on real estate, where $9.5 billion was spent in 2014. That’s more than twice the amount from U.S. investors on Australian property.\n\nThe flow of Chinese money into Australian real estate has raised political sensitivities, especially in Sydney, where house prices jumped 14 percent last year, and by 60 percent since 2009. Such steep increases are not simply the result of foreign investment, but also because of record-low interest rates in Australia and a shortage of supply.\n\nNevertheless, the government has suggested strict new rules on foreign investment in residential property.\n\nTim Harcourt, an economist at the University of New South Wales Business School, says the influx of investment from China has been unexpected.\n\n“It is quite a new phenomena because traditionally the great Australian foreign investors to Australia were typically European, the U.S. and Japan in more recent years, so China and India were more new players,” he said.\n\nLast year, a parliamentary committee in Canberra found that rather than distorting the Australian residential housing market, foreign investment was, in fact, helping to subdue prices by boosting the supply of new homes. Officials said the benefits also extended to the creation of jobs in construction and tax revenue.\n\nWhile the sale of real estate to the Chinese continues, the sale of farms in Australia to foreigners has become increasingly contentious. Critics argue that it puts Australia’s food security at risk, while proponents insist it helps the financial viability of a key export industry.",
+  "questions": [
+    {
+      "question": "By how much did Chinese investors spend compared to American ones?",
+      "options": [
+        "$7.5 billion more",
+        "$9.5 billion more",
+        "$8 billion more",
+        "$6 billion more"
+      ],
+      "answer": "$7.5 billion more"
+    },
+    {
+      "question": "What was the main area of interest for Chinese investors?",
+      "options": [
+        "Agriculture",
+        "Real estate",
+        "Technology",
+        "Mining"
+      ],
+      "answer": "Real estate"
+    },
+    {
+      "question": "What has raised political sensitivities?",
+      "options": [
+        "The influx of jobs",
+        "The increase in house prices",
+        "The foreign investment regulations",
+        "The sale of farms"
+      ],
+      "answer": "The increase in house prices"
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

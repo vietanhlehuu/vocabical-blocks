@@ -1,0 +1,60 @@
+{
+  "title": "California Orders Large Cuts in Water Use",
+  "introduction": null,
+  "image": {
+    "id": "e4d7e8a6-473e-414e-9d65-dd49e5aefd72",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6xov6sWWJZqP5aaMP7RIHK.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 382
+    },
+    "attribution": "Maryphillips1952 / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7LEjK0DVB3jePtTADpSIxc.mpga",
+  "main_content": "California has ordered some of the largest water cuts on record to help ease shortages during the current drought.\n\nThe move affects more than 100 senior water rights holders in the state’s Delta, San Joaquin and Sacramento regions, including water districts that serve thousands of farmers and others.\n\nThe cuts mark the first time since the 1970s that California has curtailed water use to senior water rights holders in the state. The order affects farmers and others whose rights to the water date from more than a century ago.\n\nCalifornia has already ordered cuts in water use by cities and towns and by many other farmers.\n\nFarmers who have been told to stop all pumping from the state’s watersheds are turning to other sources of water, inducing wells, reservoirs and the open market.\n\nSome farmers are planning to take the state to court, saying they have no backup water supplies.\n\nCalifornia water law is built around preserving the rights of senior water rights holders, and some farmers have built their businesses on the belief that they are always guaranteed access to water.",
+  "questions": [
+    {
+      "question": "Why has California ordered large water cuts?",
+      "options": [
+        "To comply with federal regulations regarding water usage.",
+        "To help ease shortages during the current drought.",
+        "To increase agricultural production in the region.",
+        "To promote conservation among residents."
+      ],
+      "answer": "To help ease shortages during the current drought."
+    },
+    {
+      "question": "Who is affected by the order?",
+      "options": [
+        "Only large agricultural companies with the newest water rights.",
+        "More than 100 senior water rights holders in various regions.",
+        "Only cities and urban areas that have previously reduced usage.",
+        "Only those farmers who have no backup water supplies."
+      ],
+      "answer": "More than 100 senior water rights holders in various regions."
+    },
+    {
+      "question": "Where are farmers trying to get their water from?",
+      "options": [
+        "Local water recycling plants.",
+        "Wells, reservoirs, and the open market.",
+        "Community rainwater harvesting systems.",
+        "Long-distance trucking of water from unaffected states."
+      ],
+      "answer": "Wells, reservoirs, and the open market."
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

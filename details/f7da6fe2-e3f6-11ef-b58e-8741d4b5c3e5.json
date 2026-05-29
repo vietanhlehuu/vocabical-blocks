@@ -1,0 +1,60 @@
+{
+  "title": "Syrian Hackers Claim to Force US Army Offline",
+  "introduction": null,
+  "image": {
+    "id": "f7da1d76-e3f6-11ef-b58d-036eb46bcbff",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/0e5XZTyYEfcHjrL9QIFf2Y.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Capt. Kyle Key / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4mNrNvX7Y3n72N3ttKdMD0.mpga",
+  "main_content": "The U.S. Army said Monday it temporarily took down its website after an element of the Army.mil service provider’s content was compromised in a hacking incident.\n\nA group aligned with the government of Syrian President Bashar al-Assad claimed responsibility. The so-called Syrian Electronic Army boasted of the hack on Twitter, saying, “Your commanders admit they are training the people they have sent you to die fighting,” and shared an image of an anti-U.S. message posted before the website went completely dark.\n\nThe group, which first surfaced online in 2011, has claimed responsibility for hacking a string of other targets, including U.S. Central Command, government contractors and media outlets.\n\nThe site remained offline late Monday afternoon, although the Army said it would only be temporary.\n\n“Today, an element of the Army.mil service provider’s content was compromised,” the Army’s spokesman, Brigadier General Malcolm B. Frost, said in a statement. “After this came to our attention, the Army took appropriate preventive measures to ensure there was no breach of Army data by taking down the website temporarily.”\n\nThe attack on the U.S. Army website occurred days after the U.S. government’s Office of Personnel Management, which collects background information and issues security clearances for millions of of federal employees, acknowledged it was the target of a massive cyber attack.",
+  "questions": [
+    {
+      "question": "Why did the U.S. Army temporarily take down its website?",
+      "options": [
+        "It was undergoing scheduled maintenance.",
+        "An element of the service provider's content was compromised.",
+        "A government order mandated the shutdown.",
+        "It was a response to public backlash."
+      ],
+      "answer": "An element of the service provider's content was compromised."
+    },
+    {
+      "question": "Who was responsible for the incident?",
+      "options": [
+        "A U.S. hacker group",
+        "The Syrian Electronic Army",
+        "An independent hacker",
+        "A foreign government security agency"
+      ],
+      "answer": "The Syrian Electronic Army"
+    },
+    {
+      "question": "What other hacking activities did the group carry out?",
+      "options": [
+        "Hacking U.S. government social media accounts",
+        "Targeting private sector information technology firms",
+        "Hacking U.S. Central Command and media outlets",
+        "Conducting phishing scams against civilians"
+      ],
+      "answer": "Hacking U.S. Central Command and media outlets"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

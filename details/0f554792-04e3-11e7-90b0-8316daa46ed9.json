@@ -1,0 +1,60 @@
+{
+  "title": "Asian-American Adults are the Healthiest: CDC",
+  "introduction": null,
+  "image": {
+    "id": "dc283eaa-35dd-4eff-b1b2-a56107681c94",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6hQhdcNBRr2eZbqAEAwLRc.jpeg",
+    "dimensions": {
+      "x": 800,
+      "y": 538
+    },
+    "attribution": "James Gathany, Centers for Disease Control and Prevention / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3Prhi0U4yMVNTyiAe6VZxr.mpga",
+  "main_content": "Asian-American adults are the healthiest, both physically and psychologically, in the United States, according to data released by the Centers for Disease Control and Prevention.\n\nOf the group, which included Chinese, Filipinos, Asian Indians, Japanese, Vietnamese, and Koreans, Chinese “reported better health on all five measures in this report compared with all U.S. adults.”\n\nThe measures include health status, multiple chronic conditions, serious psychological distress in the last month, and limitations in work or social participation [the degree in which an illness stops a person from participating normally in a work environment or in a social environment].\n\nVietnamese adults were the most likely to report fair or poor health status, but only 17 percent reported so. Still, that was higher than the national average of 12 percent.\n\nFilipinos reported the most chronic conditions, while Japanese experienced the most work limitations, and Koreans were the most likely to report social participation limitations.\n\nFor the results, the CDC looked at data collected from nearly 166,000 adults between 2010 and 2014 as part of the National Health Interview Survey.\n\nAccording to The Huffington Post, some researchers caution about reading too much into the data, saying the survey was skewed toward English speakers. Census data show many Asian-Americans don’t consider themselves proficient in English.\n\nA survey that left out non-English speakers would likely miss those who were older and possibly in worse health.\n\nAbout 15 million Asian-Americans live in the U.S., representing about 5 percent of the population.",
+  "questions": [
+    {
+      "question": "Which are the five measures used in the census?",
+      "options": [
+        "Health status, chronic conditions, psychological distress, work limitations, social participation limitations",
+        "Physical activity, mental health evaluations, health insurance coverage, social participation, smoking status",
+        "Emergency hospital visits, legal health rights, chronic conditions, health status, health education",
+        "Nutrition intake, exercise frequency, sleep patterns, routine check-ups, health insurance"
+      ],
+      "answer": "Health status, chronic conditions, psychological distress, work limitations, social participation limitations"
+    },
+    {
+      "question": "What did Vietnamese adults report most often?",
+      "options": [
+        "The highest levels of psychological distress compared to other groups",
+        "Chronic conditions at the lowest rates among all Asian-American groups",
+        "Fair or poor health status, the highest among Asian-American adults",
+        "Social participation limitations greater than any other group"
+      ],
+      "answer": "Fair or poor health status, the highest among Asian-American adults"
+    },
+    {
+      "question": "Which group experienced the most work limitations?",
+      "options": [
+        "Vietnamese adults with the highest fair or poor health status",
+        "Filipinos who reported chronic health conditions",
+        "Koreans who indicated social participation limitations",
+        "Japanese adults according to the survey findings"
+      ],
+      "answer": "Japanese adults according to the survey findings"
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

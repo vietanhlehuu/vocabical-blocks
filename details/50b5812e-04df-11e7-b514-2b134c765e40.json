@@ -1,0 +1,60 @@
+{
+  "title": "The World’s Best Whisky Is From … Taiwan?",
+  "introduction": null,
+  "image": {
+    "id": "3f96515d-7ef5-419e-8caf-45c0cda1c165",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1vzD95UhxhFM88y5iQymTV.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 768
+    },
+    "attribution": "Jerry Lai from Hsinchu, Taiwan / Wikimedia Commons / CC-BY-SA-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7Y3iNBuTgIr5ZdFEVOsWO0.mpga",
+  "main_content": "The alcoholic drink most people call Scotch has been around for hundreds of years.\n\nAccording to the Scotch Whisky Association of Great Britain (known as the SWA), there is an entry in Scotland’s tax records from 1494 that shows an order of malt used to make 1,500 bottles.\n\nWhisky is produced all over the world, and there are many variations.\n\nFor example, some whisky is aged in barrels that used to hold wine, beer or bourbon. Other than in Scotland, there are well-known distillers in the United States, Japan, Australia, France and other countries.\n\nJudges have been choosing the best whiskies in the world each year since 2007 at an event called “World Whiskies Awards.”\n\nThe title for world’s best single malt whisky was won by Scotland four times, Japan three times and Australia once. Then in 2015, there was a big surprise.\n\nThe best whisky in the world came from Taiwan.\n\nIt came from a distillery called Kavalan.\n\nThe name of the winning whisky is Solist Vinho Barrique.\n\nIf you want to buy this whisky, be prepared to spend more than $100.",
+  "questions": [
+    {
+      "question": "Since when are the “World Whiskies Awards” held?",
+      "options": [
+        "Since 2000",
+        "Since 2007",
+        "Since 1995",
+        "Since 2010"
+      ],
+      "answer": "Since 2007"
+    },
+    {
+      "question": "Is whiskey only produced in Scotland?",
+      "options": [
+        "Yes, only in Scotland",
+        "Yes, but also in Ireland",
+        "No, it is produced worldwide",
+        "No, only in Europe"
+      ],
+      "answer": "No, it is produced worldwide"
+    },
+    {
+      "question": "What is the award winning Taiwanese whiskey called?",
+      "options": [
+        "Kavalan Classic",
+        "Solist Vinho Barrique",
+        "Taiwanese Gold",
+        "Scotch of the East"
+      ],
+      "answer": "Solist Vinho Barrique"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

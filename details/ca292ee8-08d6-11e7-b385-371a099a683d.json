@@ -1,0 +1,60 @@
+{
+  "title": "EU Officials: ‘Britain Will Have to Pay a Price’ for Brexit",
+  "introduction": null,
+  "image": {
+    "id": "65b5e444-c345-4bfc-af23-9f3295cf40be",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/35vLgRxRsEURxY1VQRIK5O.png",
+    "dimensions": {
+      "x": 512,
+      "y": 305
+    },
+    "attribution": "Rlevente / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/64Fa7VrnVDtsy41WGlzw6F.mpga",
+  "main_content": "Britain will have to pay a price, if it exits the European Union — if for no other reason than to send a warning message to other member countries that may consider leaving the bloc.\n\nIn the run-up to Britain’s June 23 referendum, Brussels officials and European lawmakers are warning London it will face tough — if not harsh — negotiations to conclude a post-Brexit free trade deal like Norway’s or Switzerland’s with the EU.",
+  "questions": [
+    {
+      "question": "Why will Britain have to pay a price if it exits the EU?",
+      "options": [
+        "To send a warning message to other member countries that may consider leaving the bloc.",
+        "To fund increased welfare programs.",
+        "To improve its economic standing independently.",
+        "To negotiate better trade deals with the US."
+      ],
+      "answer": "To send a warning message to other member countries that may consider leaving the bloc."
+    },
+    {
+      "question": "What are Brussels officials and European lawmakers warning London about?",
+      "options": [
+        "It will face tough, if not harsh, negotiations for a post-Brexit free trade deal.",
+        "It will automatically receive a Norway-style trade deal.",
+        "It will be excluded from all future trade with the EU.",
+        "It will be able to negotiate without any conditions."
+      ],
+      "answer": "It will face tough, if not harsh, negotiations for a post-Brexit free trade deal."
+    },
+    {
+      "question": "Which countries' trade deals are mentioned as examples of the kind Britain might seek after Brexit?",
+      "options": [
+        "Norway's or Switzerland's",
+        "France's or Germany's",
+        "Canada's or Japan's",
+        "The US's or Australia's"
+      ],
+      "answer": "Norway's or Switzerland's"
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "ILO: Labor and Wage Gender Gap Remains Wide",
+  "introduction": null,
+  "image": {
+    "id": "f9450dbe-657c-4e85-a999-e42d6ba87c4a",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/7aMe7EMqYa9pLu5pNbY3hq.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Dell's Official Flickr Page / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6GVfD53ocsNKCkFVlk1Vzs.mpga",
+  "main_content": "The International Labor Organization reports gender equality in the workplace remains elusive. In advance of International Women’s Day, a new ILO report – “Women at Work: Trends 2016”- finds millions of women worldwide are not getting the same kind of quality, well-paying jobs as men.\n\nNew data in 178 countries present a gloomy picture of the current state of working women. The International Labor Organization’s report shows the gender gap in employment, wages and social protection has changed little in 20 years.\n\nThe report notes significant progress has been made by women in education during the past two decades, but this has not translated into improvements at work. The data show women are less likely to participate in the labor market than men.\n\nILO research department deputy director Lawrence Johnson says last year nearly 1.3 billion women were employed globally, compared to two billion men.\n\nThe report shows women are more likely to be unemployed than men, and young women in particular are at a disadvantage. It says women continue to work longer hours per day than men in both paid and unpaid work. In high- and low-income countries alike, it finds women, on average, carry out at least 2.5 times more unpaid household and care-giving work.\n\nSince women both work and earn less money, the report says they lose out in terms of social and retirement benefits. Globally, women represent nearly 65 percent of people who have reached retirement age without any regular pension.",
+  "questions": [
+    {
+      "question": "What does the new ILO report say?",
+      "options": [
+        "Gender equality in pay has significantly improved over the last decade.",
+        "Women continue to face challenges in employment and wages compared to men.",
+        "The labor market participation rate for women has surpassed that of men.",
+        "Most women now hold high-paying executive positions globally."
+      ],
+      "answer": "Women continue to face challenges in employment and wages compared to men."
+    },
+    {
+      "question": "What area of women’s lives has seen improvements?",
+      "options": [
+        "Employment opportunities in high-income countries.",
+        "Access to education over the past two decades.",
+        "Participation in leadership roles within companies.",
+        "Quality of childcare services available to working mothers."
+      ],
+      "answer": "Access to education over the past two decades."
+    },
+    {
+      "question": "How many more men are employed globally compared with women?",
+      "options": [
+        "Approximately 700 million more men than women are employed.",
+        "Around 800 million men are employed compared to women.",
+        "Two billion men are employed compared to 1.3 billion women.",
+        "The employment figures are equal for men and women globally."
+      ],
+      "answer": "Two billion men are employed compared to 1.3 billion women."
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

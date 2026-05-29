@@ -1,0 +1,60 @@
+{
+  "title": "Astronomers Spot Oldest Known Star",
+  "introduction": null,
+  "image": {
+    "id": "5742d8c6-3af9-4c8e-a9b1-c6b7939b6cec",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2eeseWLOvV7dlflnoWtG7o.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "NASA, ESA and G. Bacon (STScI) / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4Zz3lUaFkMCFLDlx0f1Avs.mpga",
+  "main_content": "An international team of astronomers has discovered the oldest known star in the universe, and it’s more than twice the age of our solar system.\n\nThe star is orbited by five planets, with sizes comparable to those of Mercury and Venus, but the scientists say they are too near their sun to permit habitation.\n\nWriting in the latest Astrophysical Journal, the scientists reported that the solar system most likely dates from a time near the dawn of the universe 13.8 billion years ago.\n\nThe astronomers believe the newly discovered solar system began 11.2 billion years ago. By comparison, our solar system is about 4.5 billion years old.\n\nThe discovery was made using the National Aeronautics and Space Administration’s Kepler planet-hunting spacecraft over a four-year period, and the new star, in the constellation Lyre, has been named Kepler-444.\n\nAccording to the scientists, Kepler-444’s planets orbit their star in less than 10 days, at less than one-tenth of the Earth’s distance from the sun.\n\nThe team included astronomers from Europe, Australia and the United States.",
+  "questions": [
+    {
+      "question": "How old is the newly discovered solar system, according to the scientists?",
+      "options": [
+        "4.5 billion years",
+        "11.2 billion years",
+        "13.8 billion years",
+        "2 billion years"
+      ],
+      "answer": "11.2 billion years"
+    },
+    {
+      "question": "Why do the scientists say the five planets are not habitable?",
+      "options": [
+        "They are too close to their star",
+        "They are made of gas",
+        "They are too far from their star",
+        "They have no moons"
+      ],
+      "answer": "They are too close to their star"
+    },
+    {
+      "question": "How old is our solar system?",
+      "options": [
+        "4.5 billion years",
+        "11.2 billion years",
+        "13.8 billion years",
+        "2 billion years"
+      ],
+      "answer": "4.5 billion years"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

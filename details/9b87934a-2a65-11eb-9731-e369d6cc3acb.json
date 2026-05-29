@@ -1,0 +1,60 @@
+{
+  "title": "World Leaders Seek Climate Change Agreement",
+  "introduction": null,
+  "image": {
+    "id": "9b874002-2a65-11eb-9730-a7b1c208a8bb",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/22jqoL02o8RshT2NAqq1ou.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Awersowy / Wikimedia Commons / CC-BY-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4AIVaaeCPCq72iH65TEYE0.mpga",
+  "main_content": "Representatives from more than 150 countries are meeting in Paris to try to reach an agreement on climate change.\n\nThe world leaders are debating ways to reduce emissions from fossil fuels – like oil and gasoline – to slow the rise of the Earth’s temperature.\n\nThe U.N. says the average global temperature will rise by 1 degree Celsius. The U.N.wants to keep the global temperature from rising by more than 2 degrees Celsius.\n\nThe leaders will be joined by 40,000 delegates and organizers from 130 organizations.\n\nBefore the climate change meeting in Paris began, President Barack Obama met with Chinese President Xi Jinping. Obama said the two countries agree on what is needed to slow global warming.\n\nFrench President Francois Hollande says it will not be easy for the world leaders to reach an agreement. He is also worried about whether small countries have enough money to put in place measures to reduce their emissions. And he is not sure countries can be monitored to ensure they are meeting their promises to limit emissions.",
+  "questions": [
+    {
+      "question": "Who is Francois Hollande?",
+      "options": [
+        "The U.N. Secretary-General",
+        "The French President",
+        "An environmental activist",
+        "The Chinese President"
+      ],
+      "answer": "The French President"
+    },
+    {
+      "question": "Presidents of which two countries met before the climate change meeting in Paris?",
+      "options": [
+        "France and Germany",
+        "United States and China",
+        "Brazil and India",
+        "Australia and Canada"
+      ],
+      "answer": "United States and China"
+    },
+    {
+      "question": "How many delegates will there be at the conference?",
+      "options": [
+        "30,000 delegates",
+        "50,000 delegates",
+        "40,000 delegates",
+        "20,000 delegates"
+      ],
+      "answer": "40,000 delegates"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

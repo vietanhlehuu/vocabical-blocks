@@ -1,0 +1,60 @@
+{
+  "title": "Cybersecurity Market Growing with Increased Hacking",
+  "introduction": null,
+  "image": {
+    "id": "e45e68e8-0eab-11e7-b4a2-1b73dcd09a3e",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6LAWqIQb2OfvY2snbpgIkJ.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 366
+    },
+    "attribution": "U.S. Department of Homeland Security (DHS) / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/21X07eQdaa3bdNTBu2rn3a.mpga",
+  "main_content": "The cybersecurity market is rising at a very fast rate. This age has brought a variety of scams. The scams threaten individuals, companies, governments and organizations across the world.\n\nComputer hackers steal credit card numbers, bank account information and tax records. Hackers steal credit card information online. For example, a hacker can buy items online using a stolen name and information.\n\nThe study found that the world’s biggest economies suffer the greatest losses. The United States, China, Japan and Germany had losses of $200 billion in 2014.\n\nMany companies have had software hacked by cyber criminals. Software tells a computer how to act and what to do. Major companies like Target and General Motors have been hacked.\n\nNonetheless, the U.S. government will spend $14 billion on cybersecurity in 2015. This represents 16 percent of the total amount spent globally every year on information technology.\n\nInternational organizations collaborate to fight cybercrime. Governments, universities and investors participate.",
+  "questions": [
+    {
+      "question": "What can computer hackers do?",
+      "options": [
+        "A) Hack into government databases for confidential information",
+        "B) Steal credit card numbers and purchase items online using stolen information",
+        "C) Create software that protects against other hackers",
+        "D) Access social media accounts for advertising purposes"
+      ],
+      "answer": "B) Steal credit card numbers and purchase items online using stolen information"
+    },
+    {
+      "question": "How much money will the US spend on cybersecurity in 2015?",
+      "options": [
+        "A) $10 billion",
+        "B) $14 billion",
+        "C) $20 billion",
+        "D) $30 billion"
+      ],
+      "answer": "B) $14 billion"
+    },
+    {
+      "question": "What major companies have been hacked (that are mentioned in the text)?",
+      "options": [
+        "A) IBM and Microsoft",
+        "B) Target and General Motors",
+        "C) Amazon and eBay",
+        "D) Facebook and Twitter"
+      ],
+      "answer": "B) Target and General Motors"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

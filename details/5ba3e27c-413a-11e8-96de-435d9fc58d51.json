@@ -1,0 +1,60 @@
+{
+  "title": "New Movie Shows an Unseen Underwater World",
+  "introduction": null,
+  "image": {
+    "id": "5ba3b220-413a-11e8-96dd-1328497b79ad",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/YYNB1xQ5qyRMo0YDIgtS9sZLnNf0sOmbyhXmU6CmItB.jpeg",
+    "dimensions": {
+      "x": 3000,
+      "y": 2000
+    },
+    "attribution": "Shutterstock",
+    "public_attribution": false,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2z3DupVSW0h6y3uzh5H7cS.mpga",
+  "main_content": "Jean-Michel Cousteau has spent a lifetime exploring the seas, like his famous father, the ocean explorer and filmmaker Jacques Cousteau. Now, Jean-Michel Cousteau has produced a 40 minute long documentary from 100 hours of underwater videos. He and his crew used special equipment, to take pictures of the smallest life in the sea.\n\nThe technology enabled the crew to record microscopic underwater animals in slow motion in a 3D, or three-dimensional film. Mr. Cousteau documented 30 new species in the movie, called “Secret Ocean 3D.” Many of these creatures are much too small to be seen with human eyes.\n\nThe results are extraordinary. The new film presents us with a beautiful but often deadly world.\n\nHere, natural resources are never wasted. But as Mr. Cousteau warns, pollutants from human activity such as chemicals, heavy metals and plastic, threaten to destroy this life.",
+  "questions": [
+    {
+      "question": "Who is Jean-Michel Cousteau’s father?",
+      "options": [
+        "A famous marine biologist known for his conservation work",
+        "A renowned ocean explorer and filmmaker",
+        "An author who wrote extensively about marine life",
+        "A scientist who invented underwater diving equipment"
+      ],
+      "answer": "A renowned ocean explorer and filmmaker"
+    },
+    {
+      "question": "How many new species were there in the movie?",
+      "options": [
+        "Ten new species",
+        "Twenty new species",
+        "Thirty new species",
+        "Forty new species"
+      ],
+      "answer": "Thirty new species"
+    },
+    {
+      "question": "What is the title of the movie?",
+      "options": [
+        "Deep Blue Wonders",
+        "Ocean's Hidden Treasures",
+        "Secret Ocean 3D",
+        "Mysteries of the Deep"
+      ],
+      "answer": "Secret Ocean 3D"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Furniture Printed Out of Plastic Waste",
+  "introduction": null,
+  "image": {
+    "id": "47e2c3de-ec38-478d-8f7d-8df494460e79",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2Be5P41BXZKkbJ83zniXTV.jpeg",
+    "dimensions": {
+      "x": 267,
+      "y": 400
+    },
+    "attribution": "Palmetal Metalúrgica - Palmetal / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3vdFogBMkejgziWrKX9dvy.mpga",
+  "main_content": "Rapid expansion of 3D printing technology has started creating a new ecological problem – leftover nylon powder. Thinking about what could be done about the waste, a group of Britain-based students developed a method for turning it into furniture.\n\nA popular 3D printing method called ‘selective laser sintering,’ or SLS, uses metal or plastic powder, typically nylon, for creating various objects, but leaves about 44 percent of it as waste.\n\nUndergraduate students at London’s Royal College of Art, Fabio Hendry and Seongil Choi, developed a simple method for hardening the nylon powder into solid objects.\n\nA nickel-chromium wire is bent into the desired shape, placed in a container and covered in a mix of nylon powder and fine-grained sand. When connected to an electrical source such as a car battery, the mixture hardens around the wire.\n\n“For instance, we create the structure of the wire, fill in the mixture material, turn on the heat for 20 minutes, and after you have a fully usable piece of furniture that is very hard to do any other way,” said Fabio Hendry.\n\nThe thickness of the hardened structure depends on the time the wire is connected to the power source – usually up to 30 minutes. The two students exhibited 12 artistic stools in a variety of shapes.\n\n“It requires no mold. It doesn’t use heavy equipment. It’s very easy and simple to make, and in that sense it’s very sustainable. It doesn’t require a lot of energy to produce a shape,” said Seongil Choi.\n\nThe stools were made as a project whose goal was to explore the usability of various waste products. Hendry and Choi say they hope their method, used on an industrial scale, could substantially reduce the amount of leftover nylon powder.",
+  "questions": [
+    {
+      "question": "What problem has the expansion of using 3D printing?",
+      "options": [
+        "Increased demand for machinery to support production",
+        "Creation of leftover nylon powder waste",
+        "Higher costs of manufacturing processes",
+        "Reduction in the variety of materials available for printing"
+      ],
+      "answer": "Creation of leftover nylon powder waste"
+    },
+    {
+      "question": "What is the downside of SLS?",
+      "options": [
+        "It results in a significant amount of material waste",
+        "It requires specialized personnel to operate",
+        "It produces only small items, limiting utility",
+        "It cannot be used for creating large structures"
+      ],
+      "answer": "It results in a significant amount of material waste"
+    },
+    {
+      "question": "What do you need to do for the plastic waste mixture to harden around the wire?",
+      "options": [
+        "Apply pressure to compress the mixture tightly",
+        "Connect the mixture to an electrical source",
+        "Heat the mixture using a traditional oven",
+        "Allow the mixture to cure over several hours"
+      ],
+      "answer": "Connect the mixture to an electrical source"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

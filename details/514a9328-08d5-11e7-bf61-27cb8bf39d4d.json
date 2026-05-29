@@ -1,0 +1,60 @@
+{
+  "title": "Inky the Octopus: ‘Escape Artist’ and Celebrity",
+  "introduction": null,
+  "image": {
+    "id": "91b8106d-f440-4330-aece-4b6933bd6341",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4Qy0J8FspmtwBbrIjqM2cL.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 414
+    },
+    "attribution": "albert kok / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0jzp23y6kJgx6xphwPDwdC.mpga",
+  "main_content": "A small New Zealand octopus has become an international celebrity. His name is Inky.\n\nInky had been living in an aquarium at the National Aquarium New Zealand since 2014. But, three months ago, Inky managed to escape. And no one has seen the octopus since.\n\nJust this week, Inky has been in newspapers around the world. And the story of his escape went viral on social media.\n\nNew Zealand’s Napier County communications manager, Robyn McLean, said that the aquarium staff noticed Inky was missing one morning.\n\nShe said the top to Inky’s tank was open. The staff then saw a wet path across the floor. The path led to a drainpipe to the Pacific Ocean.\n\nAlthough Inky was about the size of a soccer ball, octopuses have no bones. They are able to fit in very small spaces.\n\nIt’s probable that Inky is now enjoying life in the vast Pacific Ocean.",
+  "questions": [
+    {
+      "question": "Which country does Inky come from?",
+      "options": [
+        "Australia",
+        "New Zealand",
+        "United States",
+        "South Africa"
+      ],
+      "answer": "New Zealand"
+    },
+    {
+      "question": "Why did Inky go viral?",
+      "options": [
+        "He won a national competition",
+        "He was featured in a documentary",
+        "His escape story spread on social media",
+        "He was adopted by a famous celebrity"
+      ],
+      "answer": "His escape story spread on social media"
+    },
+    {
+      "question": "Where is Inky now?",
+      "options": [
+        "In a pet store",
+        "Back in the aquarium",
+        "In the Pacific Ocean",
+        "In a research facility"
+      ],
+      "answer": "In the Pacific Ocean"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

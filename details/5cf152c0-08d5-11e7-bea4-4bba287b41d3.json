@@ -1,0 +1,60 @@
+{
+  "title": "Is Email Stressing You Out?",
+  "introduction": null,
+  "image": {
+    "id": "821b69c7-da9b-4d5e-aae4-42dbe471c6a4",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3xVWsm0ItYTK2h6ZfTkDtU.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 768
+    },
+    "attribution": "Lewis Ronald / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/29YMdMtbRNV15BFjNg2JHd.mpga",
+  "main_content": "Few people would disagree that email makes our lives easier. But email can cause problems.\n\nAnswering all those emails and processing all that information can overload the brain, causing stress.\n\nSo says the Future Work Center, a business based in London. This company carries out psychological research.\n\nThe center’s Richard MacKinnon calls email a double-edged sword. In other words, email can be both good and bad.\n\nPsychologists are concerned about the pressure that workers bring on themselves. Dr. Richard MacKinnon spoke with VOA News on Skype.\n\nHe says that the stress does not come from the number of emails you get.\n\nAccording to the study, there are two very stressful email behaviors. One is leaving email on all day. The other is reading and answering emails early in the day and late at night.",
+  "questions": [
+    {
+      "question": "What can cause stress?",
+      "options": [
+        "The overload of the brain from processing information",
+        "The number of friends on social media",
+        "The frequency of receiving text messages",
+        "The amount of work done during the day"
+      ],
+      "answer": "The overload of the brain from processing information"
+    },
+    {
+      "question": "If something is a double-edged sword, what is it like?",
+      "options": [
+        "It has both positive and negative effects",
+        "It is only beneficial in certain situations",
+        "It is dangerous and should be avoided",
+        "It is outdated and ineffective"
+      ],
+      "answer": "It has both positive and negative effects"
+    },
+    {
+      "question": "What are the two kinds of stressful behaviors that email users can have?",
+      "options": [
+        "Ignoring emails and replying only once a week",
+        "Leaving email on all day and reading them early and late",
+        "Using separate email accounts for work and personal use",
+        "Organizing emails into folders and unsubscribing regularly"
+      ],
+      "answer": "Leaving email on all day and reading them early and late"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

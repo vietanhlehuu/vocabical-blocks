@@ -1,0 +1,60 @@
+{
+  "title": "Thailand Says Progress Made in Fighting Human Trafficking",
+  "introduction": null,
+  "image": {
+    "id": "e45eed68-0eab-11e7-b4ef-f38651a68df9",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6nUETRhESS1uXnwaNmnumK.jpeg",
+    "dimensions": {
+      "x": 800,
+      "y": 600
+    },
+    "attribution": "User:Khaosaming  / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3eNiiTdVgF9iTCDW7YBFBT.mpga",
+  "main_content": "Thailand is reporting progress in efforts to end human trafficking and abuse of migrant workers. Thailand’s government is taking steps after receiving criticism from rights groups and the United States.\n\nIn 2014, the United States government lowered Thailand’s rating in its Trafficking in Persons Report. Researchers reported that Thailand showed few signs of improving its record on illegal labor and human trafficking – the trade in human beings.\n\nRights groups have protested labor abuses in many Thai industries. The groups say many foreigners are paid too little and expected to work long hours under threats of violence.\n\nThere are an estimated three million migrant workers in Thailand. Most of the immigrants are from Burma, Cambodia, Laos and Vietnam. The U.S. report said people from China, Russia, Uzbekistan, India and Fiji are also victims of human trafficking in Thailand. They are often enslaved in labor and the sex trade.\n\nLast year, Thai Prime Minister Prayut Chan-o-cha called for the creation of special anti-trafficking committees.\n\nDon Pramudwinai is the country’s Deputy Foreign Minister. He says the new efforts marked progress in dealing with the issues of human trafficking.\n\nMeasures include stronger rules to protect labor in the fishing industry, including requiring that each worker has a labor agreement.\n\nThe Thai government says it considers the efforts to stop human trafficking of top importance.",
+  "questions": [
+    {
+      "question": "What is human trafficking?",
+      "options": [
+        "A method of legal immigration used by foreigners to work overseas.",
+        "The trade in human beings for labor or sexual exploitation.",
+        "A government program to support migrant workers.",
+        "A form of tourism where workers are hired for short-term projects."
+      ],
+      "answer": "The trade in human beings for labor or sexual exploitation."
+    },
+    {
+      "question": "How many migrant workers are there in Thailand?",
+      "options": [
+        "Approximately one million.",
+        "Around two million.",
+        "An estimated three million.",
+        "More than five million."
+      ],
+      "answer": "An estimated three million."
+    },
+    {
+      "question": "People from what countries are victims of human trafficking in Thailand?",
+      "options": [
+        "Only neighboring Southeast Asian countries.",
+        "Exclusively from Thailand itself.",
+        "Countries including China, Russia, Uzbekistan, India, and Fiji.",
+        "Only developed nations with citizen wage issues."
+      ],
+      "answer": "Countries including China, Russia, Uzbekistan, India, and Fiji."
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

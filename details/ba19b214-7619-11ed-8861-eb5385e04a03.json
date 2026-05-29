@@ -1,0 +1,60 @@
+{
+  "title": "Zimbabwe Asks for Funding to Avoid Food Shortages",
+  "introduction": null,
+  "image": {
+    "id": "ba196f70-7619-11ed-8860-8bacc8dc51d9",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/25Zcc6BXJ1Ph92LPmRgEEJ.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 339
+    },
+    "attribution": "DFID - UK Department for International Development / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/412lLkEU0AMRkBoTo2GcyQ.mpga",
+  "main_content": "The government of Zimbabwe is asking for financial help to avoid food shortages in the country.\n\nThe government says nearly 2.5 million people in Zimbabwe are facing hunger.\n\nThe country is currently battling a drought that has affected much of southern Africa. The government blames the drought on El Niño. \n\nDavid Phiri is the southern Africa coordinator with the U.N. Food and Agriculture Organization. He said Zimbabwe must invest in irrigation to prevent more food shortages.\n\nHe also said Zimbabwe and other governments should encourage conservation agriculture. The goal of conservation agriculture is to protect, improve and make more effective use of nature.\n\nAlthough some observers blame Zimbabwe’s current food shortage on El Niño, others blame government policy.",
+  "questions": [
+    {
+      "question": "What has caused the drought in Zimbabwe?",
+      "options": [
+        "Government policy failures",
+        "El Niño",
+        "Deforestation practices",
+        "Climate change regulations"
+      ],
+      "answer": "El Niño"
+    },
+    {
+      "question": "What did David Phiri say Zimbabwe should invest in?",
+      "options": [
+        "Food production incentives",
+        "Irrigation",
+        "Modern farming equipment",
+        "Technological innovation"
+      ],
+      "answer": "Irrigation"
+    },
+    {
+      "question": "What 2 things do people in Zimbabwe blame the food shortages on?",
+      "options": [
+        "International sanctions and El Niño",
+        "Drought and government policy",
+        "Economic collapse and poor infrastructure",
+        "Agricultural pests and climate change"
+      ],
+      "answer": "Drought and government policy"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "WHO: Smoking Costs More Than You Think",
+  "introduction": null,
+  "image": {
+    "id": "26e9628f-863b-4fa7-9d5f-c661ac2377ba",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1BQMfdKwf8j5XGzipqLUV8.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Tomasz Sienicki / Wikimedia Commons / CC-BY-SA 3.0",
+    "public_attribution": true,
+    "lock_version": 4,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4WMp1CdlHPZbBhQmguAdWq.mpga",
+  "main_content": "A single cigarette sold on a street corner may not cost a lot; however, the overall costs of smoking are huge.\n\nFirst, consider the cost of human life. The World Health Organization says about 10 people die of a tobacco-linked disease every minute. That rate adds up to almost six million people dying from such diseases every year.\n\nFor most people, stopping smoking is hard. Many began smoking as teenagers. They are used to it.\n\nStudies show people who want to stop smoking can do so with different treatments. Some get help from electronic cigarettes, medicine or nicotine patches that reduce one’s desire for the drug.\n\nBut smoking costs more than the life of an individual. It can affect the health of an entire country.\n\nThe World Health Organization says low-income countries depend heavily on taxes from cigarettes. They use the money, in part, to pay the costs of health care for tobacco-related diseases.",
+  "questions": [
+    {
+      "question": "How many people die of a tobacco-linked disease every minute?",
+      "options": [
+        "5 people",
+        "10 people",
+        "15 people",
+        "20 people"
+      ],
+      "answer": "10 people"
+    },
+    {
+      "question": "What countries depend heavily on taxes from cigarettes?",
+      "options": [
+        "High-income countries",
+        "Middle-income countries",
+        "Low-income countries",
+        "Developed countries"
+      ],
+      "answer": "Low-income countries"
+    },
+    {
+      "question": "What is ‘WHO’/what does WHO stand for?",
+      "options": [
+        "World Health Organization",
+        "World Health Office",
+        "World Health Outreach",
+        "World Hygiene Organization"
+      ],
+      "answer": "World Health Organization"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

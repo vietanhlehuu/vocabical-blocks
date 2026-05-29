@@ -1,0 +1,60 @@
+{
+  "title": "High-Level Elephant Anti-Poaching Summit Convenes in Kenya",
+  "introduction": null,
+  "image": {
+    "id": "4d01ba0e-761a-11ed-8fcc-f37620cd2d40",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6tJrFsFoBApJAx1j0oY1Kp.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Charlesjsharp / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7Bp5VmShfbTc4e42SskMWP.mpga",
+  "main_content": "At a lodge beneath the shadows of Mount Kenya, the presidents of Kenya, Botswana, Gabon, and Uganda, as well as conservationists, business people, tourism operators, and global philanthropists, met to discuss a problem devastating countries across Africa: the killing of tens of thousands of elephants every year to feed the illegal ivory trade.\n\nThe three-day Giants Club Summit aims to find solutions to protect elephants and safeguard their landscapes.\n\nOl Pejeta, the largest black rhino sanctuary in East Africa, and a place that has quite a bit of experience with anti-poaching strategies, hosted a day of demonstrations and talks to help summit participants better understand the fight against poaching.\n\nSuch high-level governmental support is crucial to stop the poaching epidemic, says Max Graham, the founder and CEO of Space for Giants, an elephant protection charity that provides technical advice to the Giants Club members and is supporting the summit.\n\n“We haven’t seen anything on the continent dealing directly with this issue, at this level of participation,” Graham said. “And that’s why it’s worthwhile. The political will, and I’ll say this again, if you have political will at the very top, everything else becomes easy.”\n\nFor governments in Africa, the tourism industry provides a strong incentive to protect the wildlife, according to Kenya’s cabinet secretary for tourism, Najib Balala.\n\n“So, yes, we care because it is important for our GDP,” Balala said.\n\nParticipants at the day’s events watched a demonstration by Ol Pejeta’s rapid response team, which showcased how Kenyan police reservists — along with a tracker dog — can land via helicopter at the scene of a crime and begin their work.\n\nThe participants — as well as English actress and model Elizabeth Hurley — also had the opportunity to meet Sudan, the last remaining male northern white rhino in the world, and a 6-month-old white rhino calf named Ringo, who perhaps gives a glimmer of hope in this fight against poaching.",
+  "questions": [
+    {
+      "question": "What groups of people have met to discuss the poaching problem in Africa?",
+      "options": [
+        "Only government officials from Kenya and Uganda",
+        "Local farmers and community leaders",
+        "Presidents, conservationists, business people, tourism operators, and global philanthropists",
+        "Tourists and wildlife enthusiasts"
+      ],
+      "answer": "Presidents, conservationists, business people, tourism operators, and global philanthropists"
+    },
+    {
+      "question": "What does the summit aim to accomplish?",
+      "options": [
+        "To increase tourism revenue in Africa",
+        "To find solutions to protect elephants and safeguard their landscapes",
+        "To promote the illegal ivory trade",
+        "To create a united government against poaching"
+      ],
+      "answer": "To find solutions to protect elephants and safeguard their landscapes"
+    },
+    {
+      "question": "What is Space for Giants?",
+      "options": [
+        "A governmental agency focused on tourism",
+        "An elephant protection charity that provides technical advice to the Giants Club members",
+        "An initiative to commercialize ivory trade",
+        "A conservation program for rhinos"
+      ],
+      "answer": "An elephant protection charity that provides technical advice to the Giants Club members"
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

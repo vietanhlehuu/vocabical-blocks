@@ -1,0 +1,60 @@
+{
+  "title": "Besties, Buds, BFFs … Friends!",
+  "introduction": null,
+  "image": {
+    "id": "e459419c-0eab-11e7-b1ac-0f289f68f134",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2IGpi2Cd3x2y638r6wfQcl.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Alexms22 / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/52kXJmcjTbzRCwLRIZ5yJU.mpga",
+  "main_content": "Language changes over time. Many words and expressions have changed over the centuries.\n\nBut the word “friend” has stayed the same. It is a rare example in the English language. The meaning and usage of “friend” has stayed unchanged for hundreds of years.\n\nWell, that was, until 2005.\n\nThat was when the social website Facebook started using the word as a verb. Now, you can “friend” someone or “unfriend” them. However, using “friend” as a verb only works when talking about Facebook.\n\nBut for now, the correct word for making friends is the verb “befriend.” \n\nIn American English, we often use the saying, “A friend in need is a friend indeed.”  When you are in need, the person who helps you through the difficult times is, indeed, a friend.\n\nThere is also some debate about this expression. Some think it is not “indeed” but “in deed,” as in a person’s actions. The meaning does not change much, but the expression using “in deed” stresses the action of helping a friend in trouble.\n\nTwo people do not have to be together all the time to be called two peas in a pod, people who are like peas in a pod have a lot in common.",
+  "questions": [
+    {
+      "question": "What happened to the word “friend” in 2005?",
+      "options": [
+        "It was added to the Oxford English Dictionary.",
+        "It started being used as a verb on social media.",
+        "Its meaning changed significantly.",
+        "It became obsolete in modern usage."
+      ],
+      "answer": "It started being used as a verb on social media."
+    },
+    {
+      "question": "What do you call 2 people who have a lot in common?",
+      "options": [
+        "Two friends in deed.",
+        "Two peas in a pod.",
+        "Two birds of a feather.",
+        "Two faces of the same coin."
+      ],
+      "answer": "Two peas in a pod."
+    },
+    {
+      "question": "What is the correct word for “making friends”?",
+      "options": [
+        "Coupling.",
+        "Befriending.",
+        "Acquaintancing.",
+        "Fostering."
+      ],
+      "answer": "Befriending."
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

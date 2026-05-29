@@ -1,0 +1,60 @@
+{
+  "title": "Death Toll Rises Above 2,500 in Nepal Earthquake",
+  "introduction": null,
+  "image": {
+    "id": "3334075c-4f23-11e9-bdcc-075e3d1caa7b",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6Vmmk846EbARbELkJQXANS.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Hilmi Hacaloğlu / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7iaveBFgaUqU1fqeqD7Nvi.mpga",
+  "main_content": "A major earthquake struck Nepal on Saturday, destroying parts of Katmandu, the capital city. The quake killed more than 2,500 people.\n\nThe 7.8-magnitude quake shook Mt. Everest, the highest mountain on Earth.\n\nAt least 34 people were also killed in India. Five deaths were reported from Tibet. Bangladesh, Bhutan and the Nepal-China border reported casualties.\n\nThe earthquake hit just before noon, local time. It was relatively close to the surface, centered at a spot 80 kilometers northwest of Kathmandu. Historic structures, including the iconic 19th century tower, the Dharara tower collapsed.\n\nTelevision images showed many injured people crowded outside hospitals in Kathmandu trying to get help. The number of casualties is likely to rise.\n\nBaral said officials feared that the old area of Kathmandu could have suffered the worst damage.",
+  "questions": [
+    {
+      "question": "What was the magnitude of the earthquake?",
+      "options": [
+        "6.5",
+        "7.0",
+        "7.8",
+        "8.1"
+      ],
+      "answer": "7.8"
+    },
+    {
+      "question": "What happened to historic structures (including the Dharara)?",
+      "options": [
+        "They were restored",
+        "They remained intact",
+        "They collapsed",
+        "They were vandalized"
+      ],
+      "answer": "They collapsed"
+    },
+    {
+      "question": "How many people were killed?",
+      "options": [
+        "Over 1,000",
+        "Around 2,500",
+        "More than 3,000",
+        "Exactly 2,500"
+      ],
+      "answer": "More than 2,500"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

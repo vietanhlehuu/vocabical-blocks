@@ -1,0 +1,60 @@
+{
+  "title": "Evil Expressions",
+  "introduction": null,
+  "image": {
+    "id": "dc5159d2-c274-48b3-bb52-4ce81b262f51",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6hjULDEeP0WM94zkARWGZd.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 683
+    },
+    "attribution": "Marktippin / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3f5M5TjpVJtMZcvZtFLpBY.mpga",
+  "main_content": "You can hear many Americans using the words “hell” in everyday expressions.\n\nMany people think of hell as a hot place full of fire. So, a snowball would not have much of a chance there. And that is where this expression comes from: a snowball’s chance in hell.\n\nLet’s say you applied for a promotion at work. But so did your boss’s daughter. You do not have a snowball’s chance in hell.\n\nIt will be a cold day in hell and when hell freezes over also mean the same thing: there is no chance that something will happen.\n\nBut be careful. These expressions are very informal and very strong. You would only use them with your close friends.\n\nSo if your boss asks if your work will be done before you go home, you would never say, “It’ll be a cold day in hell when that happens…” unless you want to lose your job.\n\nSometime, we just use the expression “hell” like this: She’s a hell of a dancer. He’s a hell of a writer. That was a hell of good time. “Hell of a” runs together as if it’s one word.",
+  "questions": [
+    {
+      "question": "What can you say when you think something will never happen?",
+      "options": [
+        "It’s impossible to predict the future.",
+        "I wouldn’t count on it.",
+        "There’s a snowball’s chance in hell.",
+        "It will surely happen eventually."
+      ],
+      "answer": "There’s a snowball’s chance in hell."
+    },
+    {
+      "question": "Can you say “a snowball’s chance in hell” or “it will be a cold day in hell when that happens” to your boss?",
+      "options": [
+        "Yes, because they are common everyday expressions.",
+        "Yes, but only if your boss is close friend.",
+        "No, because they are very informal and very strong.",
+        "No, because they are formal business expressions."
+      ],
+      "answer": "No, because they are very informal and very strong."
+    },
+    {
+      "question": "How else can you say “Jessie is amazing at dancing”?",
+      "options": [
+        "Jessie dances like a professional.",
+        "Jessie is a hell of a dancer.",
+        "Jessie takes dance classes.",
+        "Jessie enjoys dancing a lot."
+      ],
+      "answer": "Jessie is a hell of a dancer."
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

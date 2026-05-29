@@ -1,0 +1,60 @@
+{
+  "title": "‘High Tech’ Devices to Enjoy Holiday Music",
+  "introduction": null,
+  "image": {
+    "id": "e45e207c-0eab-11e7-b47a-770a953efcb5",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/687RET7Ppys7azV7d9iI4P.png",
+    "dimensions": {
+      "x": 512,
+      "y": 512
+    },
+    "attribution": "Google / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3s26e6VQ2NMN74pvutOw8W.mpga",
+  "main_content": "Technology makes listening to holiday music easier than ever. There are endless sources to help you find your favorite Christmas tunes and many other songs.",
+  "questions": [
+    {
+      "question": "What does technology make easier than ever?",
+      "options": [
+        "Listening to holiday music",
+        "Buying holiday gifts",
+        "Writing holiday cards",
+        "Decorating a Christmas tree"
+      ],
+      "answer": "Listening to holiday music"
+    },
+    {
+      "question": "What does the article say there are endless sources for?",
+      "options": [
+        "Finding your favorite Christmas tunes and many other songs",
+        "Learning how to play the piano",
+        "Watching holiday movies",
+        "Making holiday recipes"
+      ],
+      "answer": "Finding your favorite Christmas tunes and many other songs"
+    },
+    {
+      "question": "What kind of music does the article mention finding?",
+      "options": [
+        "Christmas tunes",
+        "Classical symphonies",
+        "Jazz standards",
+        "Opera arias"
+      ],
+      "answer": "Christmas tunes"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

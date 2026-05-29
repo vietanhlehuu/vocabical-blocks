@@ -1,0 +1,60 @@
+{
+  "title": "Water Robots Explore the Celtic Sea",
+  "introduction": null,
+  "image": {
+    "id": "e45bfce8-0eab-11e7-b342-97bbcae58113",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4S616LRUpXhKH4Yj2YRXXa.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 288
+    },
+    "attribution": "NSF and NOAA. / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2PVoy680vUjU7v46C5GMQA.mpga",
+  "main_content": "Scientists in England are using two water vehicles to explore the animal and plant life of the Celtic Sea. The Celtic Sea is a body of water off the southern coast of Ireland. The area is known for its sea life.\n\nOne of the research vehicles is powered by batteries. The vehicle’s low energy requirements permit it to stay afloat for up to 30 days.\n\nStephen Woodward is an engineer who helped design the craft. He says the vehicle has equipment that can detect small organisms called zooplankton and fish.\n\nLavinia Suberg is one of the scientists studying the Celtic Sea.\n\nShe says productive ocean areas, like the Celtic Sea, attract zooplankton. The zooplankton then attract fish. She adds that areas with a large increase of fish often attract sea mammals and birds.\n\nUsing these robotic ocean vehicles greatly reduces the cost of exploring the seas. Scientists can spend more time analyzing the collected information.",
+  "questions": [
+    {
+      "question": "Who helped design one of the water vehicles?",
+      "options": [
+        "Lavinia Suberg",
+        "Stephen Woodward",
+        "A marine biologist",
+        "The research team"
+      ],
+      "answer": "Stephen Woodward"
+    },
+    {
+      "question": "What sea are the scientists studying?",
+      "options": [
+        "The Irish Sea",
+        "The Celtic Sea",
+        "The North Sea",
+        "The Atlantic Ocean"
+      ],
+      "answer": "The Celtic Sea"
+    },
+    {
+      "question": "What reduces the cost of exploring the seas?",
+      "options": [
+        "Using advanced diving equipment",
+        "Employing robotic ocean vehicles",
+        "Hiring more scientists",
+        "Conducting fewer expeditions"
+      ],
+      "answer": "Employing robotic ocean vehicles"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

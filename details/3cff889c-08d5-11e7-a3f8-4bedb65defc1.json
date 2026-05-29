@@ -1,0 +1,60 @@
+{
+  "title": "Bulldozer Fight in Streets of China",
+  "introduction": null,
+  "image": {
+    "id": "e1733d1f-bcc8-4839-84c8-d3cfae845d75",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6rPw92LeMaqIeDgFX1W1FV.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 422
+    },
+    "attribution": "Kuebi = Armin Kübelbeck / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2Fc8LTHntvuOHH93qswvzz.mpga",
+  "main_content": "Some children like to play with toy trucks and bulldozers.\n\nFor kids, it is just a game. But last Saturday in China a construction equipment fight happened in real life. A bulldozer battle broke out in Hebei, in northern China.\n\nThe Associated Press reported that an argument between two companies competing for business started the crashing of heavy equipment.\n\nA video of the fight is just over one minute long. Six bulldozers and other construction machines crashed into each other over and over again.\n\nThe video appeared on YouTube on Sunday. Since then, it has received more than 1.6 million views.\n\nOne person described it as, “Now that’s what I’m talkin’ about … a bulldozer fight!”",
+  "questions": [
+    {
+      "question": "Where did the bulldozer fight break out?",
+      "options": [
+        "Hebei, northern China",
+        "Beijing, southern China",
+        "Shanghai, eastern China",
+        "Guangzhou, western China"
+      ],
+      "answer": "Hebei, northern China"
+    },
+    {
+      "question": "Who started the fight?",
+      "options": [
+        "Two children at a construction site",
+        "An argument between two companies competing for business",
+        "The local government officials",
+        "A group of bystanders"
+      ],
+      "answer": "An argument between two companies competing for business"
+    },
+    {
+      "question": "How many views does the video have?",
+      "options": [
+        "Over 1 million views",
+        "More than 1.6 million views",
+        "Approximately 2 million views",
+        "Just under 1.5 million views"
+      ],
+      "answer": "More than 1.6 million views"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

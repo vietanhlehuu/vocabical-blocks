@@ -1,0 +1,60 @@
+{
+  "title": "Scientists: Coffee and Naps – the Best Combination",
+  "introduction": null,
+  "image": {
+    "id": "bbde6fcd-aaf7-4e66-88bd-4c553781f8db",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5iVDZtuuh47i5FUjleqb4F.jpeg",
+    "dimensions": {
+      "x": 688,
+      "y": 485
+    },
+    "attribution": "Dornicke / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0TpSVRmDFchiaad5YpbTq5.mpga",
+  "main_content": "A series of experiments performed by scientists from UK and Japan suggests that coffee and naps taken together maximize the brain’s alertness much better than when taken alone.\n\nScientists at Loughborough University in Britain found out that tired test takers who drank a cup of coffee and immediately took a 15-minute nap had fewer errors in a driving simulator than those who only drank coffee or only took a nap.\n\nThe secret is in how the combination of caffeine and sleep affects a neuromodulator called adenosine.\n\nNormal activity slowly raises the level of adenosine in the brain, which makes us feel tired. Coffee reduces adenosine, while sleep naturally clears it from the brain.\n\nAs research shows that it takes about 20 minutes for caffeine to start affecting the brain, taking a nap immediately after drinking coffee enhances its effect on adenosine.\n\nScientists say one should drink coffee quickly in order to have enough time for the nap, which should last no more than 20 minutes. For those who do not fall asleep easily, scientists say even a half-asleep stage works.",
+  "questions": [
+    {
+      "question": "What can you do to maximize the brain’s alertness?",
+      "options": [
+        "Only drink coffee right before studying",
+        "Combine coffee with a short nap",
+        "Take a long nap without caffeine",
+        "Drink coffee throughout the day"
+      ],
+      "answer": "Combine coffee with a short nap"
+    },
+    {
+      "question": "Why does the coffee-and-nap combination work so well?",
+      "options": [
+        "It lowers adenosine in the brain and lets caffeine take effect after the nap",
+        "It increases the level of adenosine quickly",
+        "It puts you to sleep immediately after drinking coffee",
+        "It works only because the nap is longer than 20 minutes"
+      ],
+      "answer": "It lowers adenosine in the brain and lets caffeine take effect after the nap"
+    },
+    {
+      "question": "According to the scientists, how long should the nap be?",
+      "options": [
+        "At least 30 minutes",
+        "No more than 20 minutes",
+        "45 minutes for optimal results",
+        "As long as you feel like"
+      ],
+      "answer": "No more than 20 minutes"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "New Apple Smart Phone Racking Up Sales in Crowded Chinese Market",
+  "introduction": null,
+  "image": {
+    "id": "7964f061-0423-4577-a3c5-14d3dc8391cf",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3h4CRuFQoJdxsUqybgO7IN.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "U.S. Department of State from United States / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1iyCVYHWNMKqTasznjb4dh.mpga",
+  "main_content": "Apple’s new iPhone SE has already racked up millions of pre-orders in China, as the company aims to capture more consumers in a country where domestic manufacturers are already facing stiff competition.\n\nThe iPhone SE is the cheapest smart phone Apple has ever produced, and is a new attempt by the company to attract buyers seeking a lower price point in the developing world.\n\nJason Low, an analyst with Canalys, said previously Apple focused on consumers seeking a high-end user experience, at a premium price.\n\n“Apple is aiming for the premium segment. The price is really different, and the segment of the customers is really different. So each of them has their own appeal. For example Apple is a brand that provides a very high-end experience,” he said.\n\nPre-orders for the iPhone SE began last week in North America, Europe and Asia. The phone will become available to customers in another 47 countries later this spring. The iPhone SE includes many of the features in Apple’s iPhone 6s, but the screen is smaller, at only 4 inches (10 centimeters), and the price is much cheaper. The 16 gigabyte version costs $399, and the 64 gigabyte is $499.\n\nSales have stagnated at Apple. In January, the company forecast a drop in sales for Apple products, which would be the first decline since 2003. To boost purchases the company is targeting new customers in China, its biggest market, and India, its fastest growing one.\n\nJames Roy, a Business Analyst at China Market Research Group, said Apple is now challenging Chinese smartphone brands in their home market.\n\n“At this point you have a number of Chinese smartphones that have gotten very good at offering good smartphones at the lower to middle end of the market,” he said.",
+  "questions": [
+    {
+      "question": "What is Apple trying to do with the new iPhone SE?",
+      "options": [
+        "Increase its market share in high-end consumer electronics.",
+        "Capture more consumers in countries with strong domestic brands.",
+        "Focus exclusively on elite consumers looking for the latest technology.",
+        "Target developers with advanced smartphone features."
+      ],
+      "answer": "Capture more consumers in countries with strong domestic brands."
+    },
+    {
+      "question": "\fWhat did Apple previously focus on?",
+      "options": [
+        "Leading the market in budget-friendly smartphones.",
+        "Expanding its product line to include lower-priced models.",
+        "Consumers seeking a high-end user experience at a premium price.",
+        "Developing innovative features for mid-range devices."
+      ],
+      "answer": "Consumers seeking a high-end user experience at a premium price."
+    },
+    {
+      "question": "\fIn what ways is the iPhone SE different from the iPhone 6?",
+      "options": [
+        "It has a larger screen and higher storage capacity.",
+        "It is more expensive and comes with upgraded features.",
+        "It includes many of the same features but has a smaller screen and lower price.",
+        "It targets only premium consumers rather than the budget market."
+      ],
+      "answer": "It includes many of the same features but has a smaller screen and lower price."
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

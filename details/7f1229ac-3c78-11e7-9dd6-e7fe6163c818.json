@@ -1,0 +1,60 @@
+{
+  "title": "N. Korea Designates 6 More Special Economic Zones",
+  "introduction": null,
+  "image": {
+    "id": "4f30a7cd-09c3-433c-aca1-80f306a7bea2",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2PQd1aMQAuIAJkjKyBvS5K.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Roman Harak / Wikimedia Commons / CC-BY-SA-2.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2zwmE5WL9Obm1UFzjySP0t.mpga",
+  "main_content": "North Korea has designated six more Special Economic Zones – SEZs – in areas across the country, including the capital Pyongyang.\n\nThe official Korean Central News Agency reported Wednesday each of the SEZs will focus on technology, export processing, tourism, industrial development, technology development and agricultural development.\n\nSEZs, which draw investment mainly from Chinese firms, are an attempt by the impoverished country to attract foreign capital. Businesses that operate in a SEZ are given special benefits that exempt them from many of North Korea’s tight economic regulations.\n\n“The latest move is for the North to diversify investment options and open attractive areas to foreign investors,” said Im Eul-chul, a research professor of Far Eastern Studies at Kyungnam University in South Korea.\n\nNorth Korea announced last November that it would designate 13 economic development zones.\n\nNorth Korea has had mixed results with its special economic zones over the years. Last year’s announcement included the border city of Shinuiju.\n\nPyongyang had previously designated Shinuiju a special economic zone back in 2002, but had dropped it from economic development without explanation.",
+  "questions": [
+    {
+      "question": "What will the new Special Economic Zones focus on?",
+      "options": [
+        "Tourism, agricultural development, and technology development",
+        "Industrial development, entertainment, and health services",
+        "Export processing, technology development, and education",
+        "A combination of mining, real estate, and regulatory reforms"
+      ],
+      "answer": "Tourism, agricultural development, and technology development"
+    },
+    {
+      "question": "Why are they being created?",
+      "options": [
+        "To reduce reliance on domestic industries",
+        "To attract foreign capital and diversify investment options",
+        "To increase the production of military goods",
+        "To promote domestic tourism within North Korea"
+      ],
+      "answer": "To attract foreign capital and diversify investment options"
+    },
+    {
+      "question": "Which region was designated as a special economic zone in 2002?",
+      "options": [
+        "Pyongyang",
+        "Haeju",
+        "Shinuiju",
+        "Nampo"
+      ],
+      "answer": "Shinuiju"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

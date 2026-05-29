@@ -1,0 +1,60 @@
+{
+  "title": "Court Rules Japan’s Nuclear Reactors Can Continue to Operate",
+  "introduction": null,
+  "image": {
+    "id": "24dbaa58-0fff-4a30-aa54-b066e5d1ee77",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/17Y6tEQVZRn55iBXiUgZTL.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 358
+    },
+    "attribution": "Avda / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3wx839lNK4yYn7CYZdRj3T.mpga",
+  "main_content": "A Japanese court has rejected a challenge to a lower court ruling that allowed the restart of two nuclear reactors.\n\nThe Miyazaki branch of the Fukuoka High Court ruled Wednesday that the Number 1 and Number 2 reactors at the Sendai plant in southwestern Japan could remain operative. Local residents filed suit last year to keep the reactors shut down, arguing that the plant’s operator, Kyushu Electric Power, had underestimated the threat of volcanoes and earthquakes.\n\nAll of Japan’s nuclear reactors were shut down in the aftermath of the March 2011 Fukushima disaster, which occurred when an earthquake triggered a massive tsunami that struck the plant and knocked out its cooling systems, leading to core meltdowns in three of the six reactors.\n It was the world’s worst nuclear accident since the 1986 Chernobyl disaster.\n\nPrime Minister Shinzo Abe has advocated resuming nuclear power production as a key energy source for resource-poor Japan. Sendai’s Number 1 reactor resumed operation last August, with the Number 2 unit coming back online in October.\n\nBack in March, the Otsu District Court ordered Kansai Electric to shut down a nuclear reactor at its Takahama nuclear power plant, located west of Tokyo. The judge raised concerns about the plant’s equipment upgrades and emergency response plans in his ruling, siding with residents who argued that a Fukushima-style incident posed a risk to Lake Biwa, a key water source for the region.",
+  "questions": [
+    {
+      "question": "Why did local residents file a lawsuit against Kyushu Electric Power?",
+      "options": [
+        "They believed the reactors would help the local economy.",
+        "They argued that the threat of natural disasters had been underestimated.",
+        "They wanted the reactors to be upgraded to modern standards.",
+        "They were concerned about electric bills rising due to reactor operation."
+      ],
+      "answer": "They argued that the threat of natural disasters had been underestimated."
+    },
+    {
+      "question": "Why did the Fukushima disaster occur?",
+      "options": [
+        "Human error during the reactor's operation.",
+        "An earthquake triggered a tsunami that overwhelmed safety systems.",
+        "Inadequate training for the emergency response team.",
+        "Failure to follow protocol on equipment maintenance."
+      ],
+      "answer": "An earthquake triggered a tsunami that overwhelmed safety systems."
+    },
+    {
+      "question": "Why do Japanese leaders want to restart the nuclear reactors?",
+      "options": [
+        "To attract foreign investment in the energy sector.",
+        "To contribute to environmental sustainability.",
+        "To maintain energy production in a resource-poor nation.",
+        "To honor international agreements on nuclear energy."
+      ],
+      "answer": "To maintain energy production in a resource-poor nation."
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

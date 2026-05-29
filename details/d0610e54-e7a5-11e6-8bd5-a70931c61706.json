@@ -1,0 +1,60 @@
+{
+  "title": "This Story Is ‘The Cat’s Meow!’",
+  "introduction": null,
+  "image": {
+    "id": "83fc328b-de24-4897-89b8-99e51e438272",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/413FSekHUP5GL9DH9MwDfW.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 767
+    },
+    "attribution": "Normalcy bias / Wikimedia Commons / CC-BY-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3HajjWMAQH7M98RPgjPjlH.mpga",
+  "main_content": "Cats are the most popular pets among Americans. So it is not surprising that there are many expressions about cats.\n\nSometimes, a cat likes to play with a small animal it catches. So if you “play cat and mouse” with someone, you change between different kinds of behavior when dealing with another person. For example, a child might offer something sweet to her little brother and then take it away when he reaches for it.\n\nTwo old and funny expressions describe something that is the best or finest. Americans might say that something is “the cat’s meow” and “the cat’s pajamas.”\n\nChildren might call a child who is easily frightened a “fraidy-cat” or a “scaredy-cat.”\n\nA “copycat” is someone who acts just like someone else or copies another person’s work.\n\nIf you talk about something that was supposed to be a secret, we say you “let the cat out of the bag.” If you are not able to speak or answer a question someone might ask if “the cat has got your tongue.”\n\nYou may have heard this expression: “curiosity killed the cat.” This means being too concerned about things that are not your business might cause problems.",
+  "questions": [
+    {
+      "question": "What would you call a person who copies everything you do?",
+      "options": [
+        "Copycat",
+        "Imitator",
+        "Cloner",
+        "Shadow"
+      ],
+      "answer": "Copycat"
+    },
+    {
+      "question": "What would you call the finest wine you ever tasted?",
+      "options": [
+        "Best in Show",
+        "The Cat's Meow",
+        "Top Shelf",
+        "Elite Vintage"
+      ],
+      "answer": "The Cat's Meow"
+    },
+    {
+      "question": "What would you say to a person who wanted to know too much?",
+      "options": [
+        "Mind your own business",
+        "Curiosity killed the cat",
+        "That's not your concern",
+        "Don't go there"
+      ],
+      "answer": "Curiosity killed the cat"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

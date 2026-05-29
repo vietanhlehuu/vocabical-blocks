@@ -1,0 +1,60 @@
+{
+  "title": "Monkeys Can Be as Spiteful as Humans",
+  "introduction": null,
+  "image": {
+    "id": "e45b1d0a-0eab-11e7-b2be-0740598f9730",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3cwIvWC417qUlHBLlDKSvY.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 768
+    },
+    "attribution": "Malene Thyssen / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0lIOD5LFShiiPHLzus4b08.mpga",
+  "main_content": "Monkeys do not like it when others get more food than they do, according to a new study.\n\nResearchers from Yale and Harvard universities found Capuchin monkeys punish monkeys that get more food.\n\n“This sort of, ‘If I can’t have it, no one can’ response is consistent, and it was previously thought unique to humans,” said Kristin Leimgruber of Harvard University. She is a co-author of the research study.\n\nThe researchers watched as some Capuchin monkeys were given more food than others. They found that monkeys getting the smaller share pulled a rope to collapse a table holding the other monkey’s bigger share.\n\nAnother lead researcher, Yale University psychologist Laurie Santos, explained over email.\n\n“I think what we can conclude about humans is that some of our more embarrassing tendencies have relatively deep roots.”",
+  "questions": [
+    {
+      "question": "What animals did the researchers watch?",
+      "options": [
+        "Capuchin monkeys",
+        "Macaque monkeys",
+        "Tamarins",
+        "Spider monkeys"
+      ],
+      "answer": "Capuchin monkeys"
+    },
+    {
+      "question": "What did the animals getting a smaller share do?",
+      "options": [
+        "Vocalized their displeasure",
+        "Pulled a rope to collapse a table",
+        "Left the area in frustration",
+        "Shared their food with others"
+      ],
+      "answer": "Pulled a rope to collapse a table"
+    },
+    {
+      "question": "Who is Laurie Santos?",
+      "options": [
+        "A co-author of the research study",
+        "A psychologist at Yale University",
+        "A researcher at Harvard University",
+        "An expert on monkey behavior"
+      ],
+      "answer": "A psychologist at Yale University"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

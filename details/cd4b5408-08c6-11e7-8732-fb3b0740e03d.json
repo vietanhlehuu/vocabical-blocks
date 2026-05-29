@@ -1,0 +1,60 @@
+{
+  "title": "General Motors, Lyft Partner to Develop Driverless Taxis",
+  "introduction": null,
+  "image": {
+    "id": "b35a6f28-228a-47b3-937b-0678aa719dae",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5SQxDJuSV8fbT8ZYBHtnOY.jpeg",
+    "dimensions": {
+      "x": 686,
+      "y": 386
+    },
+    "attribution": "Praiselightmedia / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0bNxSZbqnwwHtSgCFAr8ny.mpga",
+  "main_content": "The American car-maker General Motors and Lyft Incorporated, a service, reportedly will start testing GM automobiles as driverless taxis.\n\nThe Wall Street Journal said the tests will involve GM’s electric-powered Chevrolet Bolt.\n\nGM has reportedly invested $500 million in Lyft Inc.\n\nGM also is planning to buy Cruise Automation Inc. for $1 billion. The California-based company has been developing self-driving car technology for two years.\n\nIt [the driverless Chevrolet Bolt] is also seen as a way for GM to compete with U.S. technology companies interested in building driverless cars.\n\nBoth Tesla Motors and Alphabet Inc. have been developing such vehicles for years. Alphabet is part of the U.S. technology company Google.",
+  "questions": [
+    {
+      "question": "Which car did General Motors say their test included?",
+      "options": [
+        "Ford Focus",
+        "Chevrolet Bolt",
+        "Tesla Model S",
+        "Nissan Leaf"
+      ],
+      "answer": "Chevrolet Bolt"
+    },
+    {
+      "question": "What is General Motors planning to buy?",
+      "options": [
+        "Lyft Incorporated",
+        "Cruise Automation Inc.",
+        "Tesla Motors",
+        "Alphabet Inc."
+      ],
+      "answer": "Cruise Automation Inc."
+    },
+    {
+      "question": "Which other 2 companies have been developing driverless vehicles?",
+      "options": [
+        "Ford and Honda",
+        "Tesla Motors and Alphabet Inc.",
+        "BMW and Audi",
+        "Toyota and Nissan"
+      ],
+      "answer": "Tesla Motors and Alphabet Inc."
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

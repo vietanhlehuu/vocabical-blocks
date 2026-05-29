@@ -1,0 +1,60 @@
+{
+  "title": "In America, ‘Everyone’ Is Irish on St. Patrick’s Day",
+  "introduction": null,
+  "image": {
+    "id": "07b90484-48f8-4976-8005-8b008cf6bf78",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/0EZUyPsl8K6CMAIimeg8wS.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 342
+    },
+    "attribution": "Hongreddotbrewhouse / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0xAkw6uaM517h5l4mqAs47.mpga",
+  "main_content": "St. Patrick’s Day is Thursday [17th of March], but some Americans started celebrating two weeks ago.\n\nThe city of Alexandria, Virginia, held its annual St. Patrick’s Day Parade on March 5. So did three cities in New Jersey.\n\nThe holiday is a big deal in America and not only for the 33.1 million Americans who claim Irish ancestry.\n\nMany non-Irish Americans will join Irish friends in wearing green clothes on Thursday.\n\nThe holiday honors Saint Patrick, the patron saint of Ireland. Patrick lived in the 5th century. He was taken by pirates and kept as a slave in Ireland. After he escaped, he trained as a priest before returning to Ireland.\n\nMany Americans will observe St. Patrick’s Day with big parades. The largest is in New York City on Thursday.\n\nAnd don’t forget about Ireland.\n\nThe capital city of Ireland, Dublin, will also have a big parade on Thursday. The theme is, “Imagine If …” Parade officials say it centers on the imagination of Ireland’s youth as they look to the next 100 years.",
+  "questions": [
+    {
+      "question": "What color will people wear on St. Patrick’s Day?",
+      "options": [
+        "White clothes",
+        "Green clothes",
+        "Red clothes",
+        "Blue clothes"
+      ],
+      "answer": "Green clothes"
+    },
+    {
+      "question": "Who is St. Patrick? When did he live?",
+      "options": [
+        "A priest from the 5th century",
+        "An artist from the 6th century",
+        "A king from the 4th century",
+        "A soldier from the 3rd century"
+      ],
+      "answer": "A priest from the 5th century"
+    },
+    {
+      "question": "Why is the holiday a big deal in America?",
+      "options": [
+        "It is only celebrated by those with Irish ancestry",
+        "Many Americans enjoy parades and wearing green",
+        "It honors an American figure from the past",
+        "Only major cities celebrate the event"
+      ],
+      "answer": "Many Americans enjoy parades and wearing green"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

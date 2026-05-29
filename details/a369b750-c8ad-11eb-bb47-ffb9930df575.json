@@ -1,0 +1,60 @@
+{
+  "title": "The Secret Life of Roots",
+  "introduction": null,
+  "image": {
+    "id": "a3691c78-c8ad-11eb-bb46-83309c2085db",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2x0F7z2NewusUgl9AJduU9.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 683
+    },
+    "attribution": "Lamiot / Wikimedia Commons / CC-BY-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0IdjGdxdbFiMC1wcbRQOWB.mpga",
+  "main_content": "Plant roots are important to life on earth. Roots take in water and nutrients that the plant needs to live and grow. They also help secure plants in dirt to prevent erosion – the breakdown of soil by natural forces.\n\nRoots are the subject of a new exhibit at the United States Botanic Garden in Washington, D.C. It shows in great detail what is taking place underground.\n\nThe exhibit is called “Exposed: The Secret Life of Roots.”\n\nVisitors to the Botanic Garden see dried roots hanging on a display wall in a large room. Some of the roots are from native prairie grasses. Others are from crop plants like wheat and corn.\n\nSusan Pell is science and public programs manager at the U.S. Botanic Garden. She says this unexpected sight sends a powerful message to the visitors: Roots are the foundation for life.\n\nThe roots appear to be growing out of a wide view picture of a farmer’s field. Visitors can also see some of the grasses outside the Botanic Garden.",
+  "questions": [
+    {
+      "question": "What is the exhibit called?",
+      "options": [
+        "Roots Unveiled: Nature's Network",
+        "Exposed: The Secret Life of Roots",
+        "Underground Wonders: A Root Exploration",
+        "Life Beneath: The Role of Roots"
+      ],
+      "answer": "Exposed: The Secret Life of Roots"
+    },
+    {
+      "question": "Who is the science and public programs manager at the U.S. Botanic Garden?",
+      "options": [
+        "David Green",
+        "Susan Pell",
+        "Laura White",
+        "James Turner"
+      ],
+      "answer": "Susan Pell"
+    },
+    {
+      "question": "Where is the exhibit?",
+      "options": [
+        "New York Botanical Garden",
+        "United States Botanic Garden in Washington, D.C.",
+        "Chicago Botanic Garden",
+        "Los Angeles County Arboretum"
+      ],
+      "answer": "United States Botanic Garden in Washington, D.C."
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

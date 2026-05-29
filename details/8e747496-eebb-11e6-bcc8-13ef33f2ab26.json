@@ -1,0 +1,60 @@
+{
+  "title": "Japan Pledges $15.5 Million in Anti-Terror Funds",
+  "introduction": null,
+  "image": {
+    "id": "67303723-06c7-4346-b71b-8e832105d549",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/38iF8aJziNsViRvF6eemuv.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "U.S. Department of State from United States / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/27x1amXJUmNNeFZf6HhAY1.mpga",
+  "main_content": "Japan has pledged $15.5 million to help countries in the Middle East and Africa that are battling militants from the Islamic State group.\n\nTokyo’s Foreign Minister Fumio Kishida said Tuesday the aid would support counter-terrorism efforts, including increased border control and investigation capabilities.\n\nMore details of the aid will be unveiled by Vice Foreign Minister Yasuhide at an international anti-terror conference Thursday in Washington, a foreign ministry statement said.\n\nThe counter-terrorism package is twice the amount previously pledged by Kishida during a visit to Brussels last month. Separately, Tokyo has also pledged $200 million to help refugees fleeing Islamic State-controlled areas.\n\nPrime Minister Shinzo Abe has vowed a tough response to the Islamic State militants, who in January beheaded two Japanese hostages – a journalist and his companion.",
+  "questions": [
+    {
+      "question": "What will the money pledged by Japan be used for?",
+      "options": [
+        "A. To strengthen military forces in Japan",
+        "B. To support counter-terrorism efforts in the Middle East and Africa",
+        "C. To increase trade relations with Europe",
+        "D. To aid in the reconstruction of war-torn countries in Asia"
+      ],
+      "answer": "B. To support counter-terrorism efforts in the Middle East and Africa"
+    },
+    {
+      "question": "What did the Japanese Foreign Minister say about the financial aid?",
+      "options": [
+        "A. It will be used exclusively for military training",
+        "B. It focuses on enhancing border control and investigation capabilities",
+        "C. It is intended as a gift to improve diplomatic relations",
+        "D. The funding is conditional upon receiving assistance from the UN"
+      ],
+      "answer": "B. It focuses on enhancing border control and investigation capabilities"
+    },
+    {
+      "question": "What else is Japan doing to help refugees?",
+      "options": [
+        "A. Providing financial aid to neighboring Asian countries",
+        "B. Offering resettlement programs for refugees in Japan",
+        "C. Pledging $200 million to assist refugees fleeing Islamic State-controlled areas",
+        "D. Creating job opportunities for refugees in Japan"
+      ],
+      "answer": "C. Pledging $200 million to assist refugees fleeing Islamic State-controlled areas"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

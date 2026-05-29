@@ -1,0 +1,60 @@
+{
+  "title": "First Antibiotic-resistant Superbug Found in US",
+  "introduction": null,
+  "image": {
+    "id": "aef50cb0-5d88-477f-934c-4fd5cd9ce1d8",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5K8eTaubOUh1V4LZGRlJ4S.jpeg",
+    "dimensions": {
+      "x": 800,
+      "y": 509
+    },
+    "attribution": "James Gathany, Centers for Disease Control and Prevention / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6J1P7QS6sqkGOgepgAX3CY.mpga",
+  "main_content": "In a study published Thursday, Defense Department researchers have confirmed the discovery of antibiotic-resistant bacteria in the urine of a Pennsylvania woman who visited a military clinic last month.\n\nDr. Tom Frieden, director of the Centers for Disease Control and Prevention, said the discovery could mean that we are at the “end of the road” for the antibiotics that we have relied on for so many years. Frieden and other public health officials have long warned against the overuse of antibiotics, which has helped to breed what are known as “superbugs.”\n\nFrieden said the concern is not just for fighting “bad infections” but for the thousands of particularly vulnerable patients, like the “600,000 Americans a year who need cancer treatment, for whom we just assume we’ll treat infections.”\n\nFor some of them, he said, “the medicine cabinet is empty.”\n\nAntibiotics revolutionized medicine in the mid-20th century, making surgeries safer. If infections can’t be treated by antibiotics, people could die from small wounds or minor surgery.\n\nBacteria are constantly evolving, so those that survive the drugs designed to kill them reproduce. That’s normal, and antibiotics themselves do not cause resistance, but improper antibiotic use is one of the key drivers for the development of antibiotic-resistant germs.\n\nTo make matters worse, most people don’t understand that antibiotics can be effective only against bacterial infections, not for viruses like the flu or a cold.\n\nThe CDC says more than 2 million people are infected by drug-resistant germs each year, and 23,000 die of their infections.",
+  "questions": [
+    {
+      "question": "What could the discovery of the antibiotic-resistant bacteria mean?",
+      "options": [
+        "A new form of treatment is on the horizon for infections.",
+        "Antibiotics may soon be replaced by more powerful drugs.",
+        "We may be nearing the end of effective antibiotics.",
+        "All infections will now be considered harmless."
+      ],
+      "answer": "We may be nearing the end of effective antibiotics."
+    },
+    {
+      "question": "How have the so-called “superbugs” appeared?",
+      "options": [
+        "Through the accidental mixing of different bacterial strains in hospitals.",
+        "By the natural evolution of bacteria in response to antibiotic use.",
+        "Due to the complete failure of vaccine programs in recent years.",
+        "As a result of genetic modification in laboratories."
+      ],
+      "answer": "By the natural evolution of bacteria in response to antibiotic use."
+    },
+    {
+      "question": "What could happen if antibiotics couldn’t be used anymore in treating infections?",
+      "options": [
+        "Small wounds and minor surgery could become life-threatening.",
+        "Doctors would have to rely solely on alternative medicine.",
+        "Infections would become completely eradicated.",
+        "Healthcare costs would dramatically decrease."
+      ],
+      "answer": "Small wounds and minor surgery could become life-threatening."
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Screams Have Special Place in Brain",
+  "introduction": null,
+  "image": {
+    "id": "e456f48c-0eab-11e7-bfd2-77800116b650",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/0O1EcN7cnKLOfHTHBrMX63.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 768
+    },
+    "attribution": "DaigoOliva / Wikimedia Commons / CC-BY-SA 2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0MsSygjlQOqwTQ2o0IJ6nc.mpga",
+  "main_content": "Have you ever thought about screaming?\n\nA scream is a natural reaction to sudden, extreme fright. When people hear a truly disturbing scream they usually respond quickly.\n\nNew research helps to explain why screaming is disturbing and useful.\n\nScreams, like those we hear in horror movies, have a special quality that separates them from other noises we make and hear. People of all cultures and languages hear the same thing in a scream: fear.\n\nDavid Poeppel is a neuroscientist at New York University. He wondered why screams are recognized the same way by people all around the world. So, he and his colleagues set up an experiment.\n\nThey recorded screams from movies and from volunteers who took part in the research. The scientists, however, did not measure the screams for loudness or pitch. Instead, they measure how quickly the sounds in the scream changed in volume.\n\nIt was in this area – the change in volume – where screams stand apart from other sounds.\n\nThe researchers found that screams occupy a special part of the acoustic, or sound, spectrum that other sounds do not. Professor Poeppel says screams have a reserved place.",
+  "questions": [
+    {
+      "question": "How do people usually respond when they hear a truly disturbing scream?",
+      "options": [
+        "They often ignore it and continue with their activities.",
+        "They respond quickly to the source of the scream.",
+        "They become curious and try to find its origin.",
+        "They panic and stop whatever they are doing."
+      ],
+      "answer": "They respond quickly to the source of the scream."
+    },
+    {
+      "question": "Who is David Poeppel?",
+      "options": [
+        "A filmmaker specializing in horror movies.",
+        "A neuroscientist at New York University studying sounds.",
+        "A psychologist researching human reactions to fear.",
+        "A musician known for incorporating screams into his work."
+      ],
+      "answer": "A neuroscientist at New York University studying sounds."
+    },
+    {
+      "question": "What did Professor Poeppel and his colleagues record?",
+      "options": [
+        "Only the loudest screams they could find.",
+        "Screams from movies and volunteers participating in their research.",
+        "A variety of normal human vocalizations for comparison.",
+        "Screams specifically from horror films for analysis."
+      ],
+      "answer": "Screams from movies and volunteers participating in their research."
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

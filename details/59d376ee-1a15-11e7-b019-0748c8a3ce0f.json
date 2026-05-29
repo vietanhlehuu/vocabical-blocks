@@ -1,0 +1,60 @@
+{
+  "title": "New Orleans Works to Rebuild Music Scene After Katrina",
+  "introduction": null,
+  "image": {
+    "id": "684b8916-04a8-4697-8466-13ff895d9929",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3AnikgdlQ15aA9ZhTi0Qcj.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 339
+    },
+    "attribution": "thepipe26 / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5SaXBJc8PH0PHOFwlhvxgt.mpga",
+  "main_content": "New Orleans is known for its music. But 10 years ago, the music was drowned out by the howling winds and rising water brought by Hurricane Katrina.\n\nMusicians joined other residents fleeing the city. Part of the effort to bring New Orleans back to life focused on bringing back the musicians and creating a place where they could live and work, and make music.\n\n“Losing that heritage would have taken away the beating heart of New Orleans and damaged it forever,” said Jim Pate, executive director of the nonprofit New Orleans Area Habitat for Humanity. “We are such a unique and fragile environment that we needed to get our musicians back.”  The Musicians’ Village, he said, was one of the first places to which they could return and put down roots.\n\nWith help from 40,000 volunteers, Habitat for Humanity built 72 low-cost homes in one of the city’s residential neighborhoods. The village includes a community center named after New Orleans jazz great Ellis Marsalis that features a performance hall and recording studio.\n\nMore than 170 musicians, like classically trained avant-garde cellist Helen Gillet, have moved in. She joined the crew building the homes and “learned the empowering feeling of actually learning how to do construction, when I thought I would be hopeless at it. It was a great feeling, and then meeting other musicians in that context really brought us together.”\n\nNow, she is recording CDs and collaborating with her neighbors, as New Orleans celebrates the resurgence of its vibrant music culture.",
+  "questions": [
+    {
+      "question": "How are people trying to bring New Orleans back to life?",
+      "options": [
+        "By promoting tourism and large concerts throughout the city.",
+        "By rebuilding homes and supporting musicians to return and thrive.",
+        "By focusing on restoring historical landmarks and buildings.",
+        "By increasing police presence to ensure safety for residents."
+      ],
+      "answer": "By rebuilding homes and supporting musicians to return and thrive."
+    },
+    {
+      "question": "What did Jim Pate say about losing the musical heritage of New Orleans?",
+      "options": [
+        "It would have significantly boosted the local economy.",
+        "It would have harmed the city's identity and culture irreparably.",
+        "It would likely have little impact on the city's future.",
+        "It would make room for new musical styles to emerge."
+      ],
+      "answer": "It would have harmed the city's identity and culture irreparably."
+    },
+    {
+      "question": "What did the volunteers build in New Orleans?",
+      "options": [
+        "A new concert hall specifically for national artists.",
+        "72 low-cost homes and a community center for musicians.",
+        "A sports facility to attract visitors and events.",
+        "Various art installations to beautify the city."
+      ],
+      "answer": "72 low-cost homes and a community center for musicians."
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

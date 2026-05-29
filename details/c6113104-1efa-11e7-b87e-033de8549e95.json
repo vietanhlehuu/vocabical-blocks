@@ -1,0 +1,60 @@
+{
+  "title": "Music Industry Under Sway of Digital Revolution",
+  "introduction": null,
+  "image": {
+    "id": "73750202-cc12-433d-b999-3be59d957fd2",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3VrabHCeS2hgE9S19gethC.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 343
+    },
+    "attribution": "Berthold Werner / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0afidwitITmKbauu9udOZf.mpga",
+  "main_content": "The global reach of music is almost limitless thanks to the digital revolution. Millions of people in every corner of the Earth now can enjoy a vast variety and quantity of music in a way that has never before been possible. This creates both opportunities and problems for professionals in the music industry. Questions about the future of the music industry in this digital age are on the minds of many as they celebrate World Intellectual Property Day.\n\nDirector of the copyright division of the World Intellectual Property Organization, Michelle Woods, says the international copyright law treaties have been updated for the digital era. She says it should be possible for artists in the music industry to continue to earn a living under the new digital system.\n\nBut, she recognizes legitimate concerns, principally those of piracy, have increased under the current system.\n\nDespite the availability of free downloads, digital music sales are accelerating. The industry reports global digital revenues grew nearly seven percent to $6.85 billion last year. For the first time, digital and physical accounted for the same proportion of industry revenues, with both equaling 46 percent.\n\nThe digital revolution is opening up unprecedented opportunities for musicians to disseminate their work and for consumers to expand their musical horizons. The potential for commercial growth is immense. The burgeoning creativity exploding on the Internet will continue to thrive but only if the artists are remunerated for their talent and output. Consumers throughout the world have a stake in putting a brake on the slippery digital system so the rights of musicians are protected and rewarded.",
+  "questions": [
+    {
+      "question": "Why can millions of people around the world enjoy music?",
+      "options": [
+        "A. Due to the emergence of physical music stores in every region.",
+        "B. Because of the digital revolution that has expanded access to music.",
+        "C. As many people have taken up instruments and formed bands.",
+        "D. Because music is often broadcast on national radio stations."
+      ],
+      "answer": "B. Because of the digital revolution that has expanded access to music."
+    },
+    {
+      "question": "What does Michelle Woods say about artists in the digital era?",
+      "options": [
+        "A. They will no longer be able to earn a living from their music.",
+        "B. They can thrive because the international copyright law has been updated.",
+        "C. They should focus on live performances instead of recorded music.",
+        "D. They face less competition due to reduced accessibility to music."
+      ],
+      "answer": "B. They can thrive because the international copyright law has been updated."
+    },
+    {
+      "question": "What kind of concerns have increased in the digital system?",
+      "options": [
+        "A. The quality of music recordings.",
+        "B. The number of artists entering the industry.",
+        "C. Piracy and the unauthorized use of music.",
+        "D. The availability of music in different languages."
+      ],
+      "answer": "C. Piracy and the unauthorized use of music."
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

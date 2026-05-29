@@ -1,0 +1,60 @@
+{
+  "title": "Foreign-Born Players Make Mark in US College Basketball",
+  "introduction": null,
+  "image": {
+    "id": "6a3ad69c-e4a6-4a64-b1b9-0674d9e60cb3",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3ES4hZwu0ulQ8cXHXKcKJP.jpeg",
+    "dimensions": {
+      "x": 500,
+      "y": 375
+    },
+    "attribution": "User:Austin Bjornholt / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4Gir7VZYqkqYalmsAlEyyS.mpga",
+  "main_content": "When physician James Naismith invented basketball in 1891, he had no idea the international impact it would have.\n\nThe sport has come a long way since the days when people would throw a ball into a bottomless peach basket. Today, basketball is a worldwide sport; some of the greatest players in the world play on college and professional teams in the United States.\n\nBrooklyn’s Long Island University, for example, boasts one player from the Netherlands, one from Iceland — and three from Africa.\n\nThe LIU-Brooklyn team is nicknamed “The Blackbirds,” and back in the 1930s and 1940s, LIU was a national powerhouse.\n\nToday, the team plays in the Northeast Conference, which is part of Division I, the top division for collegiate athletics in America. Twenty-one foreign-born players are part of that conference.\n\nThe three African student athletes are serious not only about the game, but about the paid-for scholarships that entitle them to an education.\n\nTwenty-year-old Nura Zanna is from Nigeria. He is a sophomore and plays power forward on the team. His goal is to play in the National Basketball Association, the number one professional basketball league in the world.\n\nBut Zanna realizes there is more to basketball than just playing the game.\n\nGlenn Feidanga, 21, of the Central African Republic is one of Zanna’s teammates. Feidanga got into LIU after being chosen for a basketball camp in Africa and then being invited to play at a high school in Florida.\n\n“It’s a great feeling for myself,” he said of being in America, “because what I have is what a lot of kids in Africa don’t have. Like a lot of kids in Africa, they’re dreaming of coming here. But they’re not lucky enough to get a chance to come.”",
+  "questions": [
+    {
+      "question": "What is basketball today?",
+      "options": [
+        "A regional sport with limited international appeal",
+        "A worldwide sport with a professional league in the U.S.",
+        "An amateur sport played only in schools",
+        "A sport mainly developed in North America"
+      ],
+      "answer": "A worldwide sport with a professional league in the U.S."
+    },
+    {
+      "question": "When did the LIU-Brooklyn team enjoy its best years?",
+      "options": [
+        "In the 1950s",
+        "In the early 2000s",
+        "In the 1930s and 1940s",
+        "In the late 1980s"
+      ],
+      "answer": "In the 1930s and 1940s"
+    },
+    {
+      "question": "What are the three African students playing for LIU serious about?",
+      "options": [
+        "Playing in the National Basketball Association",
+        "Receiving scholarships to support their education",
+        "Becoming professional players in their home countries",
+        "Winning championships in collegiate athletics"
+      ],
+      "answer": "Receiving scholarships to support their education"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

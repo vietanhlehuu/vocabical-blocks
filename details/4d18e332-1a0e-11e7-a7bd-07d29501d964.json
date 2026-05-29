@@ -1,0 +1,60 @@
+{
+  "title": "Training Simulates Drunken or Drugged Driving",
+  "introduction": null,
+  "image": {
+    "id": "28d1d26a-ddb2-4ecb-9ba7-84902ae7e030",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1F1a573MD5JvS8vOMdKH1U.jpeg",
+    "dimensions": {
+      "x": 256,
+      "y": 338
+    },
+    "attribution": "John Hill / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7iqvo9FhKnrccxiz4sC4oE.mpga",
+  "main_content": "Drinking and driving is unsafe at any age and is especially dangerous for young drivers. Teenage drivers are inexperienced, and those who drink and drive are also more likely to engage in binge drinking, according to U.S. government statistics.\n\nU.S. officials say the use of drugs by teenage drivers is also a growing problem.\n\nEducational programs, like one from the automaker Ford, educate young drivers on the dangers of impairment on the road.\n\nAt a test track near Los Angeles, Ford gave a demonstration. Drivers donned a suit with arm and ankle weights, and goggles that distort their vision. Vibrating gloves simulate hand tremors. As drivers maneuvered a course, they tried to avoid hitting construction cones.\n\n“It was so hard,” said Lauren Day, a student at the University of Southern California. “I put the goggles on, and all I could see was little orange dots, which were the cones, and I literally knocked down every single one.”\n\nDay said she does not drink and drive herself, but is nervous about other young people who drive impaired or distracted.\n\nMotor vehicle crashes are the leading cause of death and serious injury among those in their teens and 20s. But there’s not enough awareness of the problem, said Stephanie Dunham, a coordinator with Ford’s Driving Skills for Life program.\n\nDunham said young drivers view the simulation as a challenge. “They want to beat it,” she said, “and they walk away saying, ‘You know what? I can’t do it, and I wouldn’t want to be in that state behind the wheel.’ ”",
+  "questions": [
+    {
+      "question": "Why is drinking and driving especially unsafe for young drivers? ",
+      "options": [
+        "A) They are more likely to binge drink.",
+        "B) They are often under supervision.",
+        "C) They have more experience driving than adults.",
+        "D) They are less likely to cause accidents."
+      ],
+      "answer": "A) They are more likely to binge drink."
+    },
+    {
+      "question": "What is the aim of the program carried out by Ford?",
+      "options": [
+        "A) To increase the number of young drivers.",
+        "B) To educate young drivers on the dangers of impairment.",
+        "C) To reduce the cost of car insurance for teenagers.",
+        "D) To promote binge drinking among young adults."
+      ],
+      "answer": "B) To educate young drivers on the dangers of impairment."
+    },
+    {
+      "question": "What were the drivers wearing during the test?",
+      "options": [
+        "A) Lightweight racing suits.",
+        "B) Heavy suits with arm and ankle weights.",
+        "C) Regular clothing with safety gear.",
+        "D) Protective helmets and goggles only."
+      ],
+      "answer": "B) Heavy suits with arm and ankle weights."
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

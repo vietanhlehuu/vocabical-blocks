@@ -1,0 +1,60 @@
+{
+  "title": "Birds and Their Stories",
+  "introduction": null,
+  "image": {
+    "id": "543afd15-11f4-4610-91f5-2b9db7124356",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2YwJQSBo4hFheRLjeZQLOI.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 331
+    },
+    "attribution": "Ed Schipul from Houston, TX, US / Wikimedia Commons / CC-BY-SA 2.0",
+    "public_attribution": true,
+    "lock_version": 3,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6CqJKaJOsVdrB89dG0uHub.mpga",
+  "main_content": "Today we explain some expressions about birds. For example, if something is “for the birds,” it is worthless or not very interesting. Someone who “eats like a bird” eats very little.\n\nDid you know that if you tell a young person about “the birds and the bees” you are explaining about sex and birth?\n\nHave you ever observed that “birds of a feather flock together”? In other words, people who are similar become friends or do things together. Here is some good advice: “a bird in the hand is worth two in the bush.” This means you should not risk losing something you have by trying to get more of something you do not have.\n\nMost of the people I work with are “early birds.” They believe that “the early bird catches the worm” – they think that a person who gets up early in the morning for work has the best chance of success.\n\nSome bird expressions are about crows, chickens and ducks. For example, when I am driving, I always “travel as the crow flies” – I go the most direct way. Anyone who “eats crow” has to admit a mistake or defeat.",
+  "questions": [
+    {
+      "question": "What does the expression “the birds and the bees” mean?",
+      "options": [
+        "Explaining about sex and birth",
+        "Talking about birds and insects",
+        "Describing a family picnic",
+        "Giving advice about nature"
+      ],
+      "answer": "Explaining about sex and birth"
+    },
+    {
+      "question": "What does “birds of a feather flock together” mean?",
+      "options": [
+        "Similar people become friends or do things together",
+        "Birds always fly in large flocks",
+        "People should avoid others who are different",
+        "Friends always live in the same place"
+      ],
+      "answer": "Similar people become friends or do things together"
+    },
+    {
+      "question": "What do people who “eat crow” have to do?",
+      "options": [
+        "Admit a mistake or defeat",
+        "Refuse to admit they were wrong",
+        "Eat a meal outdoors",
+        "Give up on trying something new"
+      ],
+      "answer": "Admit a mistake or defeat"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

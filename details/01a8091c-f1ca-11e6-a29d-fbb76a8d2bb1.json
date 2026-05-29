@@ -1,0 +1,60 @@
+{
+  "title": "Disney, Wanda Amusement Parks Battle in China",
+  "introduction": null,
+  "image": {
+    "id": "916daf17-68d3-4eac-b5da-636c4a218c38",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4QQ0oQZ3Rkqto3Ttlp3zFg.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "s13n1 / Wikimedia Commons / CC-BY-SA-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2xMMJR0cWz1nVtZviOhOGD.mpga",
+  "main_content": "The newest amusement park in China, Shanghai Disneyland, has opened. And so, the competition between it and Nanchang Wanda Park begins.\n\nBoth parks are large.  Nanchang Wanda covers about 200 hectares. Shanghai Disney is about twice that.  But its admission price is also twice as high. The Wanda park says it has the largest roller coaster in China.\n Both parks also have restaurants, hotels, shopping and live entertainment.\n\nThe competition has already caused disagreement between the companies. Amusement park business experts say the companies need to win the support of China’s young people.\n\nElliott Weiss is a professor at the University of Virginia.  He has studied Shanghai Disney. He said Disney is likely to face difficulties as it builds its business in China.",
+  "questions": [
+    {
+      "question": "Which amusement park is bigger Disney or Wanda?",
+      "options": [
+        "Shanghai Disney is larger than Nanchang Wanda.",
+        "Nanchang Wanda is larger than Shanghai Disney.",
+        "Both parks are the same size.",
+        "Shanghai Disney is 150 hectares."
+      ],
+      "answer": "Shanghai Disney is larger than Nanchang Wanda."
+    },
+    {
+      "question": "Which park is more expensive to get into?",
+      "options": [
+        "Nanchang Wanda has a higher admission price.",
+        "Shanghai Disney has a higher admission price.",
+        "Both parks have the same admission price.",
+        "Admission prices are not mentioned."
+      ],
+      "answer": "Shanghai Disney has a higher admission price."
+    },
+    {
+      "question": "What did Elliott Weiss say about Disney in China?",
+      "options": [
+        "He believes Disney will have an easy time building its business.",
+        "He thinks Disney is likely to face difficulties in China.",
+        "He stated that Disney will dominate the market.",
+        "He has not studied Disney."
+      ],
+      "answer": "He thinks Disney is likely to face difficulties in China."
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

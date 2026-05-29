@@ -1,0 +1,60 @@
+{
+  "title": "Changing Lives One Cup of Coffee at a Time",
+  "introduction": null,
+  "image": {
+    "id": "2a77faba-22c8-431e-a818-932c289c5d40",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1I8VWZWcwZOIisM5p3LJVA.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 402
+    },
+    "attribution": "Mmyers1976 / Wikimedia Commons / CC-BY-SA 4.0",
+    "public_attribution": true,
+    "lock_version": 3,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5ot12HqTfajntTLeS0Wdov.mpga",
+  "main_content": "Denver, Colorado is one of the fastest growing cities in the United States. It also has one of the biggest populations of homeless young people. A Denver coffee shop is seeking to resolve the problem. The Purple Door Coffee Shop employs and trains homeless young people, giving them a second chance to make a new start.\n\nKevin: “Welcome! What can I get for you guys?”\n\nFor many years of his life, Kevin Persons lived on the street. Today, he is working behind the counter of an espresso bar, serving coffee. He is also working to move off the streets and into a home.\n\nWhat makes it a little easier is the mission of the Purple Door Coffee shop. It does not just serve a cup of coffee; it turns lives around.\n\nThe owners of the two-year-old nonprofit hire three to four young adults per year. Shelters such as Urban Peak, where Kevin was staying, recommend young people who are ready to commit to working.\n\nKim Easton, who runs Urban Peak, says the partnership between the shelter and the coffee shop is important.",
+  "questions": [
+    {
+      "question": "Where is The Purple Door Coffee Shop?",
+      "options": [
+        "In New York City",
+        "In Denver, Colorado",
+        "In Los Angeles, California",
+        "In Seattle, Washington"
+      ],
+      "answer": "In Denver, Colorado"
+    },
+    {
+      "question": "Where did Kevin Persons used to live?",
+      "options": [
+        "In a shelter",
+        "On the street",
+        "In a hotel",
+        "With friends"
+      ],
+      "answer": "On the street"
+    },
+    {
+      "question": "What does he do now?",
+      "options": [
+        "Runs a business",
+        "Serves coffee at the coffee shop",
+        "Volunteers at a shelter",
+        "Studies in a school"
+      ],
+      "answer": "Serves coffee at the coffee shop"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

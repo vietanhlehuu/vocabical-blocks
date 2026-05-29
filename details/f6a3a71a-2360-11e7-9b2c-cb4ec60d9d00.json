@@ -1,0 +1,60 @@
+{
+  "title": "Obama Radio Address: Let Girls Learn",
+  "introduction": null,
+  "image": {
+    "id": "5f4e0da1-bbf7-4621-a105-028d766f884d",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2tpwN7OtS9ZzgCL73RAQF3.jpeg",
+    "dimensions": {
+      "x": 500,
+      "y": 489
+    },
+    "attribution": "Laura Lartigue (USAID) / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1XOl61gRcRNtcmPV3uXnu1.mpga",
+  "main_content": "President Barack Obama and first lady Michelle are launching a new initiative on a topic the president says is close to their hearts — girls’ education.\n\n“Let Girls Learn” is the new initiative with a goal of helping girls around the world go to school and stay in school.\n\nThe president, who announced the new program Saturday in his weekly address, said “right now, 62 million girls who should be in school, are not.”\n\nHe said there are various reasons girls are not attending school, including “the risk of being hurt or kidnapped or even killed by men who will do anything to stop girls from learning, is just too great.”\n\nPresident Obama said any country that wants to partner with the U.S. in the Let Girls Learn initiative “needs to get serious about increasing the number of girls in school.”\n\nThe U.S. leader said as the father of two daughters, “I know that there are lots of girls just like Malia and Sasha out there — girls who are funny and caring and inquisitive and strong, and have so much to offer the world.”",
+  "questions": [
+    {
+      "question": "What topic is the new initiative focused on?",
+      "options": [
+        "Boys' education",
+        "Girls' education",
+        "Global health",
+        "Climate change"
+      ],
+      "answer": "Girls' education"
+    },
+    {
+      "question": "What is the goal of the initiative \"Let Girls Learn\"?",
+      "options": [
+        "To increase school funding",
+        "To help girls around the world go to school and stay in school",
+        "To promote co-educational environments",
+        "To enhance vocational training for women"
+      ],
+      "answer": "To help girls around the world go to school and stay in school"
+    },
+    {
+      "question": "According to President Obama, what is one reason many girls are not attending school?",
+      "options": [
+        "Their schools are too far away",
+        "Their parents do not value education",
+        "The risk of being hurt, kidnapped, or killed by men who want to stop girls from learning",
+        "They are required to work on family farms"
+      ],
+      "answer": "The risk of being hurt, kidnapped, or killed by men who want to stop girls from learning"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Bugs Are the New Food",
+  "introduction": null,
+  "image": {
+    "id": "e45bd8a8-0eab-11e7-b32d-df01d834517d",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4JcYUKmnMmu54kjjJal9Sq.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Vijinathkv / Wikimedia Commons / CC-BY-SA 3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7XPlg2uOjpNgb1Dop2QRky.mpga",
+  "main_content": "Americans are generally unwilling to eat bugs. But for at least two billion people worldwide, bugs or insects are a normal part of the diet.\n\nFor instance, fried caterpillars are popular in Tanzania. In Mexico, many people enjoy chili-toasted grasshoppers.\n\nNow, a business in the U.S. state of Oregon is selling finely-ground crickets as human food.\n\nThe company’s name is Cricket Flours – that’s “flour” as in the white, powdery substance usually used in baking. Charles Wilson is the founder and CEO.\n\nWilson says he recognized crickets could be more than a replacement for protein. He sensed a business opportunity. At the time, Wilson was attending the University of Oregon’s law school.\n\nMr. Wilson says cricket flour does not have a strong taste. Maybe, he says, it tastes a little like nuts.\n\nCricket Flours is one of more than a dozen new U.S businesses in the food insects industry. Other businesses focus on cricket farming or snacks made from cricket powder.",
+  "questions": [
+    {
+      "question": "Where do people enjoy eating chili-toasted grasshoppers?",
+      "options": [
+        "Tanzania",
+        "Mexico",
+        "Oregon",
+        "University of Oregon"
+      ],
+      "answer": "Mexico"
+    },
+    {
+      "question": "Who is the founder and CEO of Cricket Flours?",
+      "options": [
+        "Charles Wilson",
+        "John Smith",
+        "Emily Davis",
+        "Michael Brown"
+      ],
+      "answer": "Charles Wilson"
+    },
+    {
+      "question": "What can cricket powder replace?",
+      "options": [
+        "Vegetables",
+        "Carbohydrates",
+        "Protein",
+        "Dairy"
+      ],
+      "answer": "Protein"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Flying Cell Towers Monitor US Phones",
+  "introduction": null,
+  "image": {
+    "id": "82929598-34ed-4812-bfff-9436c81100c4",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3yNzUGdfpkzWXLvGd5C3wS.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 288
+    },
+    "attribution": "Doodybutch / Wikimedia Commons / CC0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1GDKe7iFZw1p7Cek1VTtG1.mpga",
+  "main_content": "According to a report published in Friday’s Wall Street Journal, the U.S. government is using sophisticated equipment mounted on small aircraft to monitor and collect data about cellphone conversations and locations, looking for criminal activity.\n\nThe paper says the U.S. Marshals, the Department of Justice service responsible for the pursuit of fugitives, has used small airplanes such as the popular Cessna 182 equipped with devices similar to those on cell phone towers.\n\nThe devices, called ‘dirtboxes,’ trick cell phones to connect calls through them, rather than through a nearby cell tower. While the plane is flying within the phone’s reach, all calls pass through the ‘dirtbox,’ allowing operators to sift through data and determine which are important to monitor.\n\nSources say ‘dirtboxes’ collect data from cell phones even if they are not in use, but “let go” of the information if operators determine the phone does not belong to a suspect. They also say the program already helped apprehend drug dealers and other fugitives.\n\nThe Wall Street Journal says the planes operate in at least five major cities but could cover most of the U.S.\n\nCritics say the program is similar to the much maligned National Security Agency’s surveillance programs which were exposed by government whistleblower Edward Snowden.",
+  "questions": [
+    {
+      "question": "How is the US government collecting data about cellphone users?",
+      "options": [
+        "By using informants to gather information from local communities",
+        "Through sophisticated equipment mounted on small aircraft",
+        "By monitoring social media activity",
+        "Using satellite imagery to track cellphone signals"
+      ],
+      "answer": "Through sophisticated equipment mounted on small aircraft"
+    },
+    {
+      "question": "What are the US Marshals responsible for?",
+      "options": [
+        "Conducting surveillance on foreign entities",
+        "The pursuit of fugitives",
+        "Managing prison systems across the country",
+        "Overseeing cybersecurity measures"
+      ],
+      "answer": "The pursuit of fugitives"
+    },
+    {
+      "question": "How do “dirtboxes” work?",
+      "options": [
+        "They intercept satellite signals to locate users",
+        "They trick cell phones into routing calls through them",
+        "They provide secure communication for law enforcement",
+        "They enhance signal strength for nearby cell towers"
+      ],
+      "answer": "They trick cell phones into routing calls through them"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

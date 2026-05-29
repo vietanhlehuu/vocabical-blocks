@@ -1,0 +1,60 @@
+{
+  "title": "North American, Asians Treated to ‘Blood Moon’",
+  "introduction": null,
+  "image": {
+    "id": "627d41f6-ac86-4560-a9a7-f22a8651663e",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2zqURFVNo65xWAnVGLINBu.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 502
+    },
+    "attribution": "Tomruen / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4zwKXB1kRiHWOPvKjiXaP6.mpga",
+  "main_content": "Those in North and South America and most parts of East Asia were being treated Wednesday to a rare total lunar eclipse known as a blood moon.\n\nThe lunar landscape glowed a coppery red color as the Earth passed between the sun and the moon, shortly before sunrise in the Americas and just after moonrise in Asia.\n\nThe red color is a result of sunlight passing through the Earth’s atmosphere, where it is scattered before being reflected by the moon.\n\nIt is the second of four total lunar eclipses occurring over a two-year period. The next will occur on April 4 and September 28 of next year.\n\nUnlike solar eclipses, lunar eclipses last for several hours and are visible to a much greater section of Earth. NASA says the only places where Wednesday’s eclipse was not visible was Africa, Europe, and eastern Brazil.\n\nPublic viewings were being held in China, Japan, Australia, and elsewhere. NASA and others have also set up live video feeds to view the phenomenon.",
+  "questions": [
+    {
+      "question": "Which regions could see Wednesday's lunar eclipse?",
+      "options": [
+        "North and South America and most of East Asia",
+        "Africa, Europe, and eastern Brazil",
+        "Australia and New Zealand only",
+        "Only North America"
+      ],
+      "answer": "North and South America and most of East Asia"
+    },
+    {
+      "question": "At what time could people in the Americas see the eclipse?",
+      "options": [
+        "Shortly before sunrise",
+        "Just after sunrise",
+        "At midday",
+        "Late at night"
+      ],
+      "answer": "Shortly before sunrise"
+    },
+    {
+      "question": "Why does the moon appear red during a blood moon?",
+      "options": [
+        "Because sunlight passes through Earth's atmosphere",
+        "Because the moon produces red light on its own",
+        "Because of volcanic activity on the moon",
+        "Because city lights reflect off the moon"
+      ],
+      "answer": "Because sunlight passes through Earth's atmosphere"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

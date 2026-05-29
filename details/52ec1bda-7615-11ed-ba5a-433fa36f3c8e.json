@@ -1,0 +1,60 @@
+{
+  "title": "An Unusual – and Wild – Alarm Clock",
+  "introduction": null,
+  "image": {
+    "id": "52eb9372-7615-11ed-ba59-eb1663c388f3",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2KskC5XDrOcGD1cXfEyJWz.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 446
+    },
+    "attribution": "Falense / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3ejM0nq2WyiCM4NIQQqhTH.mpga",
+  "main_content": "Francie Lubbe of South Africa awoke one morning during her safari trip to an impressive sight. Two female lions were licking the outside of her tent! The lions were licking small drops of water left over from a rain storm.\n\nLubbe quickly began taking a video of the wild animals. She posted the video on Facebook this week.\n\nLubbe was camping in a tent at a national park on the northern border of South Africa near Botswana. The lions are the most famous creatures in the national park. They are called Kalahari lions.\n\nLubbe called the experience “very special.”\n\nShe said the cloth door of her tent was open, but the lions did not enter.\n\nThere are images of the lions looking into the tent from outside, and looking at a barbecue grill where campers cook.\n\nPeople around the world reacted to the video on Facebook and Twitter. And, news organizations also did stories about Lubbe’s morning lion visit.",
+  "questions": [
+    {
+      "question": "Why were the two lions licking the outside of the tent?",
+      "options": [
+        "A. They were hungry and looking for food.",
+        "B. They were attracted to the cloth of the tent.",
+        "C. They were licking small drops of water left from a rain storm.",
+        "D. They were trying to play with Francie."
+      ],
+      "answer": "C. They were licking small drops of water left from a rain storm."
+    },
+    {
+      "question": "What are the lions called?",
+      "options": [
+        "A. South African lions",
+        "B. Kalahari lions",
+        "C. Botswana lions",
+        "D. African desert lions"
+      ],
+      "answer": "B. Kalahari lions"
+    },
+    {
+      "question": "How did Francie Lubbe respond to her experience? ",
+      "options": [
+        "A. She found it frightening and moved to another campsite.",
+        "B. She called the experience 'very special.'",
+        "C. She ignored the lions and continued sleeping.",
+        "D. She attempted to feed the lions."
+      ],
+      "answer": "B. She called the experience 'very special.'"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

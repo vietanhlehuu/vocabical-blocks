@@ -1,0 +1,60 @@
+{
+  "title": "Nepal Opens Everest for First Time Since Quakes",
+  "introduction": null,
+  "image": {
+    "id": "2aed50d0-d3bb-4988-9ce1-b2d3acadfdcc",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1J088jilNXAxSyIwpMFi0K.jpeg",
+    "dimensions": {
+      "x": 800,
+      "y": 532
+    },
+    "attribution": "Maria Ly / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0QyUcnCUQRmdamPt5Z9O2a.mpga",
+  "main_content": "Nepal has opened Mount Everest to climbers for the autumn season, the first time since a deadly earthquake triggered an avalanche that killed 18 climbers earlier this year.\n\nJapanese climber Nobukazu Kuriki will be the first person to make a solo attempt at reaching the 8,850-meter summit. It will be his fifth attempt at climbing Everest. His four previous bids were unsuccessful. His last, in 2012, ended him with losing 9 fingers to frostbite.\n\nHis climb will take place in the autumn season, which is not a popular time for trekkers due to extreme temperatures and less daylight.\n\nDuring a ceremony Sunday in Katmandu, Kuriki said he wanted to give a positive message about Nepal and spread the word that the country was safe for climbers and trekkers.\n\nMore than 400 teams were forced to abandon their attempts after the earthquake-triggered avalanche destroyed a popular trekking route.\n\nThe devastating April 25 earthquake left nearly 9,000 people dead.\n\nNepal has since been struggling to draw tourists and trekkers back to the country. Mountaineering and tourism accounts for a significant percentage of the country’s gross domestic product.\n\nNepal is home to eight of the world’s 14 peaks measuring at over 8,000 meters.",
+  "questions": [
+    {
+      "question": "Why was Everest closed to trekkers?",
+      "options": [
+        "A series of avalanches destroyed a significant number of climbing permits.",
+        "The Nepalese government wanted to prioritize safety after an earthquake.",
+        "Climbers were not able to make it to base camp due to heavy snowfall.",
+        "Health regulations prevented climbers from entering high altitudes."
+      ],
+      "answer": "The Nepalese government wanted to prioritize safety after an earthquake."
+    },
+    {
+      "question": "How many times did Nobukazu Kuriki attempt to reach the top of Mount Everest?",
+      "options": [
+        "Three previous attempts before this one.",
+        "Four previous attempts before this one.",
+        "Five previous attempts before this one.",
+        "Six previous attempts before this one."
+      ],
+      "answer": "Four previous attempts before this one."
+    },
+    {
+      "question": "Why don’t trekkers usually climb Everest in the autumn season?",
+      "options": [
+        "Due to financial difficulties faced by trekkers during this season.",
+        "Extreme temperatures and less daylight make climbing difficult.",
+        "Many climbers prefer to undertake expeditions in the spring.",
+        "Autumn season brings an increased risk of rockfalls."
+      ],
+      "answer": "Extreme temperatures and less daylight make climbing difficult."
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

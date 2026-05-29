@@ -1,0 +1,60 @@
+{
+  "title": "‘Hated’ Drug Company Head Arrested by FBI",
+  "introduction": null,
+  "image": {
+    "id": "e4593ea4-0eab-11e7-b1aa-8f89eaaee2e0",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2HkYrWlm77LSCCrNICWfVq.jpeg",
+    "dimensions": {
+      "x": 267,
+      "y": 273
+    },
+    "attribution": "House Committee on Oversight and Government Reform / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5upMHm6bo7RlkVDXByMBT8.mpga",
+  "main_content": "A U.S. businessman once described as the “most hated man in America” was arrested.\n\nMartin Shkreli was arrested at his New York City apartment, said federal prosecutor Robert Capers.\n\nShkreli, 32, heads New York-based Turing Pharmaceuticals.\n\nHe and his company were criticized after raising the price of a drug used by patients with AIDS and forms of cancer. The price of the drug “Daraprim” increased from $13.50 a pill to $700 a pill. The drug is used all over the world, including Africa.\n\nThe BBC described him as the “the worst man in America.”\n\nAfter the criticism, Shkreli agreed to reduce the price of the cancer/AIDS drug. But recent reports by Forbes and other news organizations said Shkreli has since changed his mind about lowering the price.\n\nShkreli headed the drug firm Retrophin until 2014. Capers said that Shkreli used that company to pay off “his own personal debts.”",
+  "questions": [
+    {
+      "question": "Who was arrested?",
+      "options": [
+        "Robert Capers",
+        "Martin Shkreli",
+        "Daraprim",
+        "AIDS patients"
+      ],
+      "answer": "Martin Shkreli"
+    },
+    {
+      "question": "How did the BBC describe the arrested man?",
+      "options": [
+        "The most hated man in America",
+        "An innovative drug dealer",
+        "The worst man in America",
+        "A misunderstood businessman"
+      ],
+      "answer": "The worst man in America"
+    },
+    {
+      "question": "What is “Daraprim”?",
+      "options": [
+        "A pharmaceutical company",
+        "A pill used for treating AIDS and cancer",
+        "A type of cancer",
+        "A federal prosecutor"
+      ],
+      "answer": "A pill used for treating AIDS and cancer"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

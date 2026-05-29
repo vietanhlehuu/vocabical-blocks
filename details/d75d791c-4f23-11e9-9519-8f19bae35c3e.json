@@ -1,0 +1,60 @@
+{
+  "title": "Elvis Presley’s Airplanes for Sale",
+  "introduction": null,
+  "image": {
+    "id": "d75d5626-4f23-11e9-9518-8342541482bc",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5RA1BP3M0JD8OyYtI2NfdK.jpeg",
+    "dimensions": {
+      "x": 450,
+      "y": 600
+    },
+    "attribution": "Thomas R Machnitzki / CC-BY-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3EjP4EYnnUWHNWdWQMa4bU.mpga",
+  "main_content": "January 8 is the birthday of American rock and roll legend Elvis Presley. He would have turned 80 years old on January 8. But, he died 1977 at the still young age of 42.\n\nOn Friday, someone might get a huge piece of Elvis history.\n\nOn that day, the company Julien’s Auctions will hold a special sale of Elvis Presley’s two airplanes. The special sale is called an auction. That is a public sale where objects are sold to the person or people who offer the most money.\n\nThe planes have been on public view at Graceland for 30 years. They are currently not airworthy.\n\nThe Lisa Marie was Presley’s first jet. It is also the bigger of the two. It could fly up to 28 passengers.\n\nPresley bought it in 1975 for $250,000. Then he spent $300,000 more on repairs and making the inside beautiful. It has an area for sleeping, a conference room for meetings, and a bar – a place for making and enjoying alcoholic drinks.\n\nThe Lisa Marie was named after Presley’s daughter. The plane is rare. There were only 65 of the same kind ever made.",
+  "questions": [
+    {
+      "question": "When is Elvis Presley’s birthday?",
+      "options": [
+        "January 1",
+        "July 4",
+        "January 8",
+        "February 14"
+      ],
+      "answer": "January 8"
+    },
+    {
+      "question": "What is the name of the company that will hold a special sale of Elvis Presley’s two airplanes?",
+      "options": [
+        "Sotheby’s",
+        "Julien’s Auctions",
+        "Heritage Auctions",
+        "Christie’s"
+      ],
+      "answer": "Julien’s Auctions"
+    },
+    {
+      "question": "Who was Presley’s first jet named after?",
+      "options": [
+        "His wife",
+        "His mother",
+        "His daughter",
+        "A friend"
+      ],
+      "answer": "His daughter"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

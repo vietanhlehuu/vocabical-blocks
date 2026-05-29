@@ -1,0 +1,60 @@
+{
+  "title": "Free Meals Lead Doctors to Prescribe More Expensive Medicine",
+  "introduction": null,
+  "image": {
+    "id": "31324c75-053f-4ca2-aea7-b5b16d981ed0",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1Upbr2ziHcySoHPjqseML2.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 512
+    },
+    "attribution": "Sauligno / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5GnfL95K1qbzjBobdQsyrA.mpga",
+  "main_content": "The practice of pharmaceutical sales representatives treating doctors to free meals may be driving up the out-of-pocket price of drugs in the U.S., a new study suggests.\n\nWriting in the journal JAMA Internal Medicine, researchers from the University of California San Francisco found that the marketing practice makes doctors more likely to prescribe expensive name brand drugs, which are not always covered by insurance, over cheaper generics.\n\nThe study found that doctors who were treated to just one meal costing less than $20 “were up to two times as likely to prescribe the promoted brand name drugs as physicians who received no meals.”  Doctors who accepted multiple free meals were three times more likely to prescribe name brand medicine.\n\n“Whether a formal dinner or a brief lunch in a doctor’s office, these encounters are an opportunity for drug company representatives to discuss products with physicians and their staff,” said Adams Dudley, director of the Center for Healthcare Value at the Philip R. Lee Institute for Health Policy Studies at UCSF, and the senior scientist on the study. “The meals may influence physicians’ prescribing decisions.”\n\nPrevious studies have shown that people prescribed more affordable generic drugs are more likely to stay on the medication for the prescribed amount of time while they are less likely to do so with more expensive name brand drugs.\n\n“A lot of the financial burden of using brand name drugs instead of generic drugs falls on the seniors enrolled in Medicare, who pay an average monthly co-pay of $40 to $80 for brand name drugs, but only $1 for generics,” said Colette DeJong, a UCSF medical student who was involved in the study.\n\nPrevious studies have shown that doctors who take payments from pharmaceutical companies through activities like paid speeches are more likely to prescribe the more expensive name brand drugs.",
+  "questions": [
+    {
+      "question": "What is the consequence of pharmaceutical sales representatives treating doctors to free meals?",
+      "options": [
+        "Doctors are less likely to prescribe new medications.",
+        "Doctors prescribe more expensive name brand drugs.",
+        "Doctors become more independent in their prescribing practices.",
+        "Doctors refuse any promotional items from pharmaceutical companies."
+      ],
+      "answer": "Doctors prescribe more expensive name brand drugs."
+    },
+    {
+      "question": "What did the study uncover about doctors who accepted multiple free meals?",
+      "options": [
+        "They are more likely to switch to prescribing generic drugs.",
+        "They are up to three times more likely to prescribe name brand medicine.",
+        "They generally avoid discussing drug options with patients.",
+        "They reduce their overall patient consultations."
+      ],
+      "answer": "They are up to three times more likely to prescribe name brand medicine."
+    },
+    {
+      "question": "Do people stay on the medication for the prescribed amount of time regardless if it is generic or brand name?",
+      "options": [
+        "Yes, adherence is the same for both types of medication.",
+        "No, adherence is higher for generic drugs.",
+        "Yes, but only for patients under 65.",
+        "No, adherence is higher for brand name drugs."
+      ],
+      "answer": "No, adherence is higher for generic drugs."
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

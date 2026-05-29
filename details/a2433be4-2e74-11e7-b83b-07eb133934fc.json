@@ -1,0 +1,60 @@
+{
+  "title": "US Job Growth Now Strongest Since 1999",
+  "introduction": null,
+  "image": {
+    "id": "03f7ae57-f85c-4b47-a84c-36d938944cbb",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/07UANybFFkGQ5AFoi4PxJz.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Tomas Castelazo / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/02qkeJfOBkqIjffXdIVBl5.mpga",
+  "main_content": "The U.S. job market showed a big improvement in November – adding 321,000 jobs last month. Although the unemployment rate remained unchanged from the previous month at 5.8 percent, the latest job numbers for November represents the strongest monthly job totals in nearly three years and the best year of employment growth since 1999.\n\nThe U.S. job market appears to be firing on all cylinders – adding about 100 thousand more jobs than expected in November.\n\nAll told, hiring was strong across all sectors, according to Bankrate.com’s Mark Hamrick, who spoke with VOA on Skype.\n\n“We had business and professional services, we had health care, we had construction, we had manufacturing,” said Hamrick.\n\nAnd best of all, wages – which have been stagnant for many years – have started to inch higher.\n\n“As we just said, wages are rising. People are working more hours, and we’re seeing more people working,” said Hamrick.\n\nPresident Barack Obama said the U.S. economy has now added more than 2.6 million jobs this year. That’s the fastest rate of job growth since the late 1990’s.\n\n“Our businesses have now created 10.9 million jobs over the past 57 months in a row and that’s the longest streak of private sector job growth on record,” said Obama.\n\nHowever, the unemployment rate remained unchanged at 5.8 percent – likely because more Americans resumed their job search. And there may be a good reason for that. Jim Blake at the American institute for Certified Public Accountants said the group’s latest surveys suggest businesses are getting ready to expand.\n\n“I think they [business managers] are anticipating the growth of their businesses, and in order to grow their businesses, they have been living with the minimum amount of payroll, taking their employees and stretching them to the limit. And now they are finally getting comfortable with the environment they are in right now, so that they are willing to reach out and fill those positions,” said Blake.\n\nNovember’s strong job numbers bode well for retailers during the busy holiday shopping season. Despite seasonal adjustments that tend to even out temporary fluctuations – retailers added 50 thousand jobs last month – another sign that the economic mood is starting to lift in the United States.\n",
+  "questions": [
+    {
+      "question": "How many jobs were created in the US last month?",
+      "options": [
+        "250,000",
+        "321,000",
+        "450,000",
+        "500,000"
+      ],
+      "answer": "321,000"
+    },
+    {
+      "question": "Which sectors have hired strongly in the past month?",
+      "options": [
+        "Technology and Finance",
+        "Healthcare and Education",
+        "Business services, healthcare, construction, and manufacturing",
+        "Retail and Hospitality"
+      ],
+      "answer": "Business services, healthcare, construction, and manufacturing"
+    },
+    {
+      "question": "How many jobs have been created in the US this year?",
+      "options": [
+        "1.5 million",
+        "2.6 million",
+        "3 million",
+        "4 million"
+      ],
+      "answer": "2.6 million"
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

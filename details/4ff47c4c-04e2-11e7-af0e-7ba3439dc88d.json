@@ -1,0 +1,60 @@
+{
+  "title": "US Weather Service to Abandon Only-capital-letter Forecasts",
+  "introduction": null,
+  "image": {
+    "id": "82f74880-0d03-4b1f-8ce9-6c0b924af64c",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3z80hEmhE5fzvAKfP3HnRs.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Famartin / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1x2CoBtPvW2VfT0VXmopP6.mpga",
+  "main_content": "For over 100 years, Americans have read weather reports from the National Weather Service in all capital letters.\n\nBut that is about to change, thanks to the Internet, where text in capitals is considered annoying, the equivalent of SHOUTING in a conversation.\n\nStarting on May 11, the NWS will issue most weather forecasts with uppercase and lowercase letters. All caps will be reserved for emergency situations, such as flood or tornado warnings. All caps had been the standard format for the National Weather Service ever since they were first issued by telegraph signals in 1849, according to The Associated Press. When forecasts shifted to Teletype delivery, all caps remained the standard.\n\nNWS flirted with changing its format 20 years ago, but found that outdated receiving equipment in some locations could not handle lowercase letters.\n\nAll caps usage is considered acceptable on the World Wide Web if it is used to emphasize individual words, or words that should be accented in a rhyme. The variety of all caps usage that is frowned on “indicates the writer thinks nearly everything spewing from his mouth is of utmost importance,” according to UrbanDictionary.com, which collects and lists changing or informal language styles.\n\nUrban Dictionary says the unwelcome form of all caps often is accompanied with excessive exclamation points.",
+  "questions": [
+    {
+      "question": "How is text in capitals considered on the Internet?",
+      "options": [
+        "It is seen as a traditional format for communication.",
+        "It is interpreted as shouting in conversation.",
+        "It is regarded as an emotional expression.",
+        "It is deemed acceptable for emphasis and poetry."
+      ],
+      "answer": "It is interpreted as shouting in conversation."
+    },
+    {
+      "question": "When will the NWS use all caps?",
+      "options": [
+        "For all regular weather reports.",
+        "Only during specific emergency situations.",
+        "For forecast updates every hour.",
+        "In communication with other weather agencies."
+      ],
+      "answer": "Only during specific emergency situations."
+    },
+    {
+      "question": "Why didn’t the NWS change the format earlier?",
+      "options": [
+        "They believed the all caps format was more effective.",
+        "Outdated receiving equipment in some locations couldn't handle lowercase letters.",
+        "There was a lack of public support for changing the format.",
+        "Technical issues with telegraph systems needed to be resolved."
+      ],
+      "answer": "Outdated receiving equipment in some locations couldn't handle lowercase letters."
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

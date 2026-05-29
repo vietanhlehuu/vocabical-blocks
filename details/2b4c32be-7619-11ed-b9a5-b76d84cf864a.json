@@ -1,0 +1,60 @@
+{
+  "title": "Hippos: The Life Force of African Rivers",
+  "introduction": null,
+  "image": {
+    "id": "2b4bc194-7619-11ed-b9a4-137391720a46",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6EAigni8O8Eo7gMQQ67vuT.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 343
+    },
+    "attribution": "Jean-Pierre Dalbéra from Paris, France / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7mqxHZ2LrvZ9vRyjuV4NRC.mpga",
+  "main_content": "The hippopotamus is an animal very important to the health of Africa’s rivers and lakes. Their dung, or solid waste, helps Africa’s aquatic ecosystem. But researchers warn that hippo populations are decreasing. They say that could damage ecosystems.\n\nThe hippopotamus is the third-largest land mammal, after the elephant and rhinoceros. Hippos spend as much as 16 hours a day in the water. They go on land at night to feed. They eat more than 200 kilograms of tropical grasses at each feeding. They return to the water where they release their waste.\n\nDouglas McCauley is an assistant professor of several environmental and life sciences. He and his team at the University of California, Santa Barbara, decided to study the waste of hippos.\n\nHe says scientists are interested in how hippos cross the line of ecosystems. He says living in both the land and water worlds means hippos are important providers of nutrients.\n\nEvery year, hippos provide over 60,000 kilograms of dung to African lakes and rivers.\n\nThe study also showed that some species of river fish need the dung in their diets.",
+  "questions": [
+    {
+      "question": "What is happening to the hippo populations in Africa?",
+      "options": [
+        "They are increasing rapidly due to conservation efforts.",
+        "They are decreasing, which could damage ecosystems.",
+        "They are stable and not at risk of decline.",
+        "They are being relocated to different continents."
+      ],
+      "answer": "They are decreasing, which could damage ecosystems."
+    },
+    {
+      "question": "How much time a day do hippos spend in the water?",
+      "options": [
+        "Approximately 12 hours",
+        "Around 16 hours",
+        "Nearly 8 hours",
+        "More than 20 hours"
+      ],
+      "answer": "Around 16 hours"
+    },
+    {
+      "question": "Where does Douglas McCauley work?",
+      "options": [
+        "Harvard University",
+        "University of California, Santa Barbara",
+        "Stanford University",
+        "University of Florida"
+      ],
+      "answer": "University of California, Santa Barbara"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

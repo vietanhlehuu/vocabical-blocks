@@ -1,0 +1,60 @@
+{
+  "title": "Secret to Life? Dance, and Don’t Procrastinate!",
+  "introduction": null,
+  "image": {
+    "id": "e45718c2-0eab-11e7-bfe9-9f6f0bffde8b",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/0VBYsY9WzfQgrVE4TN4aV0.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Talento Tec / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1zvElXiptCyd8gbOAIdz6j.mpga",
+  "main_content": "There is a woman named Tao Porchon-Lynch. She was born in India in 1918. So, if you do the math … she’s 97.\n\nAnd at 97 years young, she has been recognized as the world’s oldest yoga teacher. She has been teaching yoga, full-time, since 1967.\n\nBut that’s not all she’s done.\n\nShe’s also been a model, actress and dancer. And she is a firm believer in positive thinking. Dream the impossible dream, kind of thinker.\n\n“I’m not interested in what I can’t do. Nothing is impossible.”\n\nTao not only talks the talk, she walks the walk. Or rather dances the dance. At age 85 she not only learned how to dance, she won dance competitions.\n\nAnd she offers this advice to the young. “Don’t put off tomorrow what you can do today.”\n\n“Don’t procrastinate. Tomorrow never comes.”\n\nSo, what about retirement? At 97, she is well past the age when many people make retirement plans. Retiring, it turns out, is not Tao’s style.",
+  "questions": [
+    {
+      "question": "What kind of advice does Tao Porchon-Lynch offer?",
+      "options": [
+        "Embrace procrastination for creativity",
+        "Prioritize relaxation over work",
+        "Act promptly on your goals",
+        "Avoid all physical activities in old age"
+      ],
+      "answer": "Act promptly on your goals"
+    },
+    {
+      "question": "How old is Tao Porchon-Lynch?",
+      "options": [
+        "85 years old",
+        "92 years old",
+        "97 years old",
+        "100 years old"
+      ],
+      "answer": "97 years old"
+    },
+    {
+      "question": "When did Tao Porchon-Lynch start teaching yoga?",
+      "options": [
+        "In 1960",
+        "In 1965",
+        "In 1967",
+        "In 1970"
+      ],
+      "answer": "In 1967"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

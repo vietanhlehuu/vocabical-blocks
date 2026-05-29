@@ -1,0 +1,60 @@
+{
+  "title": "‘Fifty Shades of Grey:’ Big Audiences, Bad Reviews",
+  "introduction": null,
+  "image": {
+    "id": "a4201b76-9427-11ec-ab28-930c8d17c823",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/49QhpWeIbhHt9gSP1G2ANu.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 683
+    },
+    "attribution": "Sebaso / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7hQfrfd5sm8scMdnQl6EHY.mpga",
+  "main_content": "The movie “Fifty Shades of Grey” opened last week and sold more than $300 million worth of tickets worldwide. That is more than seven times the amount it cost to make the film.\n\nThe industry newspaper Variety says E. L. James plans to write her own script for “50 Shades Darker.”  But Universal Pictures is “resistant” to the idea.\n\nThe movie has not done nearly as well with the critics. Several movie critics called the film “boring” and “tedious.”  A USA Today newspaper review said watching it “may feel like its own form of torture.”\n\nThe little praise the movie did receive is directed mainly toward actor Dakota Johnson, who plays Anastasia Steele. Jamie Dornan plays Christian Grey, a young, rich and powerful businessman who becomes Anastasia’s lover. The movie is an exploration of their sexual relationship that includes control and bondage.\n\nBoth the book and movie versions of “Fifty Shades of Grey” found larger audiences among women than men. Of course, some men are seeing the movie, although not without risk. A Danish reporter caught one man on camera walking out of the room where “Fifty Shades” had just ended. As soon as he saw the camera he smiled sheepishly and turned around, walking back into the theater. That video has gone viral on the Internet.\n",
+  "questions": [
+    {
+      "question": "How much worth of tickets did the movie “Fifty Shades of Grey” sell worldwide?",
+      "options": [
+        "$150 million",
+        "$300 million",
+        "$450 million",
+        "$600 million"
+      ],
+      "answer": "$300 million"
+    },
+    {
+      "question": "What did movie critics call the movie?",
+      "options": [
+        "Captivating and engaging",
+        "Boring and tedious",
+        "Innovative and groundbreaking",
+        "Unoriginal and predictable"
+      ],
+      "answer": "Boring and tedious"
+    },
+    {
+      "question": "Who plays Anastasia Steele?",
+      "options": [
+        "Dakota Johnson",
+        "Jamie Dornan",
+        "E. L. James",
+        "Sarah Jessica Parker"
+      ],
+      "answer": "Dakota Johnson"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

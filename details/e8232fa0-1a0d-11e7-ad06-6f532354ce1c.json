@@ -1,0 +1,60 @@
+{
+  "title": "DiCaprio Celebrates Best Actor Oscar Win for ‘The Revenant’",
+  "introduction": null,
+  "image": {
+    "id": "d8a23d59-9c70-43db-bab0-5f128db5511a",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6amU9YC92jgfgUZMu8UQPK.jpeg",
+    "dimensions": {
+      "x": 446,
+      "y": 289
+    },
+    "attribution": "Rissir / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4du1CmHuJFNo8viYJsFlPW.mpga",
+  "main_content": "It’s no surprise that one of the main winners of Oscar night was Leonardo DiCaprio, who took home the award for Best Actor in a Leading Role.\n\nHowever, his visceral performance as Hugh Glass, a critically injured 1820s frontiersman fighting for survival in the American wilderness is integral to Oscar winning director Alejandro Inarritu’s film “The Revenant”, and the grand cinematography by Oscar winner Emmanuel Lubezki.\n\nThroughout the film, Leonardo DiCaprio delivers very few words. His character is so heavily wounded he cannot utter many words and later when he starts recovering he is alone in the wilderness. His visions and hallucinations are the only window to his feelings and memories of his love for his dead son and Indian wife.\n\n“Because there [are] very few words he delivers, he has to make you feel cold, sadness, rage, and many complex emotions simultaneously with his body language and only his eyes. That is a very difficult task,” director Inarritu said, describing DiCaprio’s tour de force performance.\n\nLeonardo DiCaprio says his Oscar winning interpretation would not have been possible without Inarritu’s filmmaking vision which takes us into the beautiful West but also into the dreamscape of Glass’s subconscious mind.\n\n“More than anything, what Alejandro wanted to do was to create poetry in that story; what it means to have all the chips stacked against you and this triumph of the human spirit,” DiCaprio said.",
+  "questions": [
+    {
+      "question": "What award did Leonardo DiCaprio receive?",
+      "options": [
+        "Best Actor in a Leading Role",
+        "Best Director",
+        "Best Supporting Actor",
+        "Best Cinematography"
+      ],
+      "answer": "Best Actor in a Leading Role"
+    },
+    {
+      "question": "How do the viewers gain access to the character’s feelings and memories?",
+      "options": [
+        "Through dialogue and narration",
+        "Via his visual hallucinations and visions",
+        "By understanding other characters' perspectives",
+        "Through direct monologues to the audience"
+      ],
+      "answer": "Via his visual hallucinations and visions"
+    },
+    {
+      "question": "Who does Leonardo DiCaprio credit with helping him win an Oscar?",
+      "options": [
+        "Emmanuel Lubezki",
+        "Alejandro Inarritu",
+        "The film's producers",
+        "His co-stars"
+      ],
+      "answer": "Alejandro Inarritu"
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

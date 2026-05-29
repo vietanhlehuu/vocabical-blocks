@@ -1,0 +1,60 @@
+{
+  "title": "Gold Prices Fall to Five-year Low in Asia Trading",
+  "introduction": null,
+  "image": {
+    "id": "33c80073-3de1-467e-a96b-6975aba3faa8",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1Zi0bQDQEo2a0GGArUfB8K.jpeg",
+    "dimensions": {
+      "x": 500,
+      "y": 319
+    },
+    "attribution": "Agnico-Eagle / Wikimedia Commons / CC0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2naU49jGGzBsZTfUMSTtpk.mpga",
+  "main_content": "What some traders described as a “mini flash crash” in early Monday trading in Asia drove the price of gold to its lowest level in five years, falling below $1,100 dollars an ounce.\n\n“In the physical market this would not be possible because that would consume a whole lot of physical gold. But in the futures market, because it’s all digital, as long as you find a buyer to bid for it then that would be possible,” said Luke Chua, sales and operations manager at Bullion Star, a precious metals dealer in Singapore.\n\nThe speculative selling reportedly began at the Singapore Gold Exchange.\n\nA desire to dump gold appeared to have been exacerbated by a perception that concerns about the Greek economy and the volatile Chinese stock markets have somewhat eased.\n\nMystery surrounds China’s possible direct involvement in Monday’s gold short selling.\n\nThere’s no direct evidence so this is just still speculation on the market,” Chua told VOA.\n\nOn Friday, China, the world’s largest gold producer, announced its reserves had increased by 59 percent to 1,658 tons as of the end of June.\n\n“That should drive the price up but that’s not what we’re seeing in the market these few days. And the reason for that is because, currently, the price level is heavily driven by the futures market and not the physical market,” said Chua.\n\nMonday’s gold plunge also affected other precious metals with platinum dropping as much as five percent at one point to its lowest level since February, 2009. Palladium dipped to its lowest price since October, 2012.\n\nPrecious metals traders say they expect a ceiling on gold around its current level or that it could move still lower due to an expected interest rate hike later this year by the U.S. Federal Reserve. That would prompt many investors to see U.S. bonds a better bet than precious metals.",
+  "questions": [
+    {
+      "question": "When was the last time gold was so cheap?",
+      "options": [
+        "In early 2016",
+        "Five years ago",
+        "At the start of 2020",
+        "During the 2008 financial crisis"
+      ],
+      "answer": "Five years ago"
+    },
+    {
+      "question": "Why did people start selling gold?",
+      "options": [
+        "A surge in demand for physical gold",
+        "Concerns about the Greek economy and Chinese stock markets easing",
+        "High interest rates on bonds",
+        "An increase in gold production in China"
+      ],
+      "answer": "Concerns about the Greek economy and Chinese stock markets easing"
+    },
+    {
+      "question": "How large are China’s gold reserves?",
+      "options": [
+        "1,000 tons",
+        "1,658 tons",
+        "2,000 tons",
+        "1,250 tons"
+      ],
+      "answer": "1,658 tons"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

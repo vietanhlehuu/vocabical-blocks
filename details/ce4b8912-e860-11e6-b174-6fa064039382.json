@@ -1,0 +1,60 @@
+{
+  "title": "Alibaba Sets Sales Record on Singles’ Day",
+  "introduction": null,
+  "image": {
+    "id": "e45bd31c-0eab-11e7-b32a-bbab84b27a66",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4HuG8bG8318Y96N775JFCp.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 225
+    },
+    "attribution": "Thomas LOMBARD, designed by HASSELL (architects) / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3csO4qbraegACs5hOnG82L.mpga",
+  "main_content": "Alibaba broke records with sales of $14.3 billion on China’s Singles’ Day.\n\nIt is the largest online shopping day in the world.\n\nOnline sales from last year increased 60 percent, according to Alibaba. Most people shopped on mobile devices, said the firm. The numbers are preliminary and unaudited, the company said.\n\nChina Singles’ Day takes place November 11, or 11.11 each year. Alibaba promoted it as a shopping day in 2009. There are steep discounts and other promotions designed to attract online customers.\n\nChina Singles’ Day “has now become larger than both Cyber Monday and Black Friday combined,” the two biggest shopping days in the U.S., reported NBC News.\n\nJack Ma is Alibaba’s founder and executive chairman. He told journalists in Beijing that the event’s annual growth in the future should be more than 50 percent.\n\nThe company is focusing on international e-commerce for future Singles’ Days.",
+  "questions": [
+    {
+      "question": "What are the two biggest shopping days in the U.S.?",
+      "options": [
+        "Thanksgiving and New Year",
+        "Black Friday and Cyber Monday",
+        "Labor Day and Memorial Day",
+        "Easter and Valentine's Day"
+      ],
+      "answer": "Black Friday and Cyber Monday"
+    },
+    {
+      "question": "What were Alibaba’s sales this Singles Day?",
+      "options": [
+        "$10 billion",
+        "$14.3 billion",
+        "$12 billion",
+        "$15 billion"
+      ],
+      "answer": "$14.3 billion"
+    },
+    {
+      "question": "Who is the founder and executive chairman of Alibaba?",
+      "options": [
+        "Pony Ma",
+        "Jack Ma",
+        "Richard Liu",
+        "Alibaba Group"
+      ],
+      "answer": "Jack Ma"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

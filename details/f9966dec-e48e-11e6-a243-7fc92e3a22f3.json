@@ -1,0 +1,60 @@
+{
+  "title": "China May Lower Number of Crimes Punishable by Death",
+  "introduction": null,
+  "image": {
+    "id": "e45d88c4-0eab-11e7-b41c-7392fca1a4c3",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5dz9arqRpqF809dtti5SZH.jpeg",
+    "dimensions": {
+      "x": 800,
+      "y": 600
+    },
+    "attribution": "Joshua Doubek / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6usJxVFn7CphJLorS06nRH.mpga",
+  "main_content": "Judges in China sentence thousands of people to death every year. And China executes more people each year than any other country. However, the Chinese government has been lowering the number of crimes for which people can be executed.\n\nIn 2011, China removed 13 crimes from a list of crimes that could result in the death penalty. Earlier this year, China announced plans to remove nine more crimes from the list. They include counterfeiting and forcing someone to have sexual relations in exchange for money. These changes have caused a drop in the number of people executed. The human rights group Dui Hua reports China executed 2,400 people last year. That is more executions than the rest of the world combined. But it is only 20 percent as many as in 2002. China executed 12,000 people that year.\n\nEven with the changes, China’s execution rate is still much higher than that of any other country.\n\nHuman rights groups say even though China has reduced the number of people it executes, the country’s judicial system does not release much information. This makes it difficult to know the truth about how many people are executed. The rights group Amnesty International says an increasing number of people are being executed in Xinjiang province, where anti-government protests have taken place.",
+  "questions": [
+    {
+      "question": "According to the text, what happened in 2011?",
+      "options": [
+        "China executed fewer people than in previous years.",
+        "China removed 13 crimes from the death penalty list.",
+        "China introduced new reforms to its judicial system.",
+        "China faced international criticism for its execution practices."
+      ],
+      "answer": "China removed 13 crimes from the death penalty list."
+    },
+    {
+      "question": "How many people were executed in China in 2002?",
+      "options": [
+        "2,400 people",
+        "20,000 people",
+        "12,000 people",
+        "5,000 people"
+      ],
+      "answer": "12,000 people"
+    },
+    {
+      "question": "Why is it difficult to know the truth about how many people are executed in China?",
+      "options": [
+        "The government provides detailed statistics only every few years.",
+        "There is a lack of transparency in China’s judicial system.",
+        "International human rights organizations do not report adequately.",
+        "Most executions are conducted in secret without documentation."
+      ],
+      "answer": "There is a lack of transparency in China’s judicial system."
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

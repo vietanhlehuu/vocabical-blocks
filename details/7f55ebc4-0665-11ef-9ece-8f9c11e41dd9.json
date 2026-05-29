@@ -1,0 +1,60 @@
+{
+  "title": "Students Protest High Cost of Education",
+  "introduction": null,
+  "image": {
+    "id": "7f559bce-0665-11ef-9ecd-ab30ae0b8842",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2MTXtpOaCy6JkfxiS7r33D.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Mehdi Hasan Khan / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/39wOrrT6t28NKZE9zQ5Bmm.mpga",
+  "main_content": "Thousands of protesters marched through London to express anger about the rising cost of higher education.\n\nThe UK joins a growing list of countries that saw angry crowds of students taking to the streets over the past year. South Africa and Chile both had large protests of the cost of higher education in the last few months.\n\nA plan to cut government money that supports full-time university students is the reason for the London protests.\n\nThe problem of higher education costs for poorer people was also at the center of the South African demonstrations. The University of Witwatersrand in Johannesburg announced that it would increase fees by 10.5 percent in 2016. Student protests then caused the university to stop all activity on October 14.\n\nDemonstrations spread to several other universities across the country.\n\nAn important quality uniting these protests around the world is the use of social media. The London-based organization NCAFC created the hashtag #GrantsNotDebt to spread information.\n\nOrganizers in South Africa used the hashtag #FeesMustFall.\n\nViolence has also been present at some of the protests.",
+  "questions": [
+    {
+      "question": "Which 3 countries are mentioned in the article?",
+      "options": [
+        "United States, Canada, Australia",
+        "South Africa, Chile, UK",
+        "Germany, France, Italy",
+        "Brazil, Argentina, Mexico"
+      ],
+      "answer": "South Africa, Chile, UK"
+    },
+    {
+      "question": "When did the University of Witwatersrand stop activity?",
+      "options": [
+        "October 14",
+        "November 1",
+        "September 30",
+        "October 1"
+      ],
+      "answer": "October 14"
+    },
+    {
+      "question": "What quality unites these protests?",
+      "options": [
+        "The involvement of celebrities",
+        "The use of social media",
+        "The focus on environmental issues",
+        "The support of government officials"
+      ],
+      "answer": "The use of social media"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

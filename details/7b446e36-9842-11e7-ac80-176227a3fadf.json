@@ -1,0 +1,60 @@
+{
+  "title": "Blood Test Shows Concussion Injury",
+  "introduction": null,
+  "image": {
+    "id": "d28cacb4-c641-495e-9c5b-52f521e310af",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/f6CPgs1NpWXoY00CP7sCjgFLsUzPJSjPjcAC1vJEhHQ.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 340
+    },
+    "attribution": "University of the Fraser Valley / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/77SN94jX4ml9yRPV5UU6Fi.mpga",
+  "main_content": "A new blood test can tell doctors whether a person has suffered a concussion up to a week after he or she was injured.\n\nA study describing the test was published in the journal JAMA Neurology.\n\nPeople who suffer a head injury should rest soon after they are hurt.\n\nIndividuals who have suffered a concussion do not always show symptoms. Experts say those signs can be delayed, especially in children.\n\nA concussion can lead to a feeling of dizziness, headaches, and an inability to sleep. These problems can exist for a long time.\n\nDoctors at Orlando Health System in Florida developed the new blood test. It shows if a biomarker is in a person’s blood.\n\nResearchers examined the blood of 600 patients. They found the biomarker in the blood of those who had suffered a head injury.\n\nConcussion is a common injury in sports. A blood test soon after a head injury could show if an athlete has suffered a concussion.",
+  "questions": [
+    {
+      "question": "Do people who had a concussion always show symptoms?",
+      "options": [
+        "A) Yes, symptoms are always present immediately after injury.",
+        "B) No, symptoms can be delayed and may not appear at all.",
+        "C) Yes, they show symptoms only in adults.",
+        "D) No, only children experience delayed symptoms."
+      ],
+      "answer": "B) No, symptoms can be delayed and may not appear at all."
+    },
+    {
+      "question": "What can a concussion lead to?",
+      "options": [
+        "A) A feeling of dizziness and headaches.",
+        "B) Immediate and permanent vision loss.",
+        "C) Improved cognitive function after recovery.",
+        "D) Increased athletic performance."
+      ],
+      "answer": "A) A feeling of dizziness and headaches."
+    },
+    {
+      "question": "What is found in the blood of people who had a concussion?",
+      "options": [
+        "A) A deficiency of red blood cells.",
+        "B) Elevated levels of cholesterol.",
+        "C) A specific biomarker indicating a head injury.",
+        "D) Antibodies developed from previous injuries."
+      ],
+      "answer": "C) A specific biomarker indicating a head injury."
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

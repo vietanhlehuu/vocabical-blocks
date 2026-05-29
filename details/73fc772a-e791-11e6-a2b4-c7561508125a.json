@@ -1,0 +1,60 @@
+{
+  "title": "Days of Painful Tooth Repair May Be Over",
+  "introduction": null,
+  "image": {
+    "id": "f6960389-2939-4787-8ddb-67a092151263",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/7VIfTPfcRKhhkY7abG2RTX.jpeg",
+    "dimensions": {
+      "x": 450,
+      "y": 600
+    },
+    "attribution": "Alessio23 / Wikimedia Commons / CC-BY-SA 4.0",
+    "public_attribution": true,
+    "lock_version": 6,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2F4ECY0zjS01DJbGIlK0h8.mpga",
+  "main_content": "A British company says it has developed technology that will end the need for mechanical cleaning of dental cavities.\n\nFor over a century, dentists have been repairing cavities the same way. They first remove the bad, tooth tissue with an electric-powered drill. Then, they fill the hole in the bone with a metallic or plastic substance.\n\nIf the cavity is not too deep, the experience can be unpleasant. However, if it is deep, near the nerve of the tooth, it can be very painful.\n\nA British business called Reminova has developed a method for speeding-up this natural re-mineralization.\n\nThe process begins with a cleaning of the cavity. This does not require power tools. The dentist covers the problem area with a mineral solution, and then uses an electrical current to harden this material. The electricity is too weak for the patient to feel. And the hardened mineral completely fills the cavity.\n\nResearchers say this method could be especially useful for children.",
+  "questions": [
+    {
+      "question": "What company developed this new technology?",
+      "options": [
+        "AstraZeneca",
+        "Reminova",
+        "GlaxoSmithKline",
+        "Align Technology"
+      ],
+      "answer": "Reminova"
+    },
+    {
+      "question": "What does the process of re-mineralization begin with?",
+      "options": [
+        "An electric drill removal",
+        "A mineral solution application",
+        "Application of a plastic filling",
+        "A dental x-ray"
+      ],
+      "answer": "A mineral solution application"
+    },
+    {
+      "question": "Are power tools used in the new process?",
+      "options": [
+        "Yes, they are essential",
+        "Only at the end",
+        "No, they are not used",
+        "Only for cleanup purposes"
+      ],
+      "answer": "No, they are not used"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

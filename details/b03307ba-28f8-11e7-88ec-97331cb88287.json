@@ -1,0 +1,60 @@
+{
+  "title": "Italian Police Crack Down on Organized Crime",
+  "introduction": null,
+  "image": {
+    "id": "c1f17eb9-a5ee-4ac1-9d2a-0bd46a000825",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5txsis6B7CDDot2IAoQGxB.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 334
+    },
+    "attribution": "SkeLeBon / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2f0sTlby1EWRb45dc6BrbA.mpga",
+  "main_content": "Italian police arrested more than 160 alleged members of a mafia group and seized millions of dollars in what was considered a major crackdown on organized crime.\n\nSpeaking to reporters in Bologna, Italy’s anti-mafia chief prosecutor Franco Roberti hailed the operation as an “historic and unprecedented” blow for the group suspected for much of Europe’s cocaine trade.\n\n“This is a deeply implanted and very dangerous criminal organization,” he said about ‘Ndrangheta,’ an organized crime clan from Calabria in southern Italy. Authorities say the group has become deeply rooted in the business community in the rich northern region of the country.\n\nWith wealth in the billions of dollars from cocaine trading, ‘Ndrangheta has become the most powerful crime syndicate in Italy, surpassing Sicily’s Cosa Nostra and Naples’ Camorra.\n\nLast week, Italian police arrested about 30 people in Rome in connection with the group. Dozens of others were detained in and around Milan in November.",
+  "questions": [
+    {
+      "question": "According to the article, how many alleged mafia members were arrested in the latest crackdown?",
+      "options": [
+        "More than 160",
+        "About 30",
+        "Around 100",
+        "More than 200"
+      ],
+      "answer": "More than 160"
+    },
+    {
+      "question": "Where is the ‘Ndrangheta criminal organization from?",
+      "options": [
+        "Calabria",
+        "Sicily",
+        "Rome",
+        "Milan"
+      ],
+      "answer": "Calabria"
+    },
+    {
+      "question": "Which two other crime syndicates in Italy are mentioned as being surpassed by ‘Ndrangheta?",
+      "options": [
+        "Cosa Nostra and Camorra",
+        "La Familia and Camorra",
+        "Cosa Nostra and La Familia",
+        "Camorra and Syndicate of Rome"
+      ],
+      "answer": "Cosa Nostra and Camorra"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

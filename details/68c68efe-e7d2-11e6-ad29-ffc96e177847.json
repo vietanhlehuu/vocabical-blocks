@@ -1,0 +1,60 @@
+{
+  "title": "Baseball Terms",
+  "introduction": null,
+  "image": {
+    "id": "e458be0c-0eab-11e7-b159-7bf7991ea047",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1tNKTXNEFtAvXEboEwWlPd.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 340
+    },
+    "attribution": "Caroline Culler (User:Wgreaves) / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0ttU95F1axjCbNwU7DTLE6.mpga",
+  "main_content": "Baseball is America’s national sport. So it is not unusual that many popular expressions come from baseball.\n\nNow, here are some expressions from baseball. Someone who is on the ball is intelligent and able to do a good job. But a person who threw a curve ball did something unexpected. Someone who steps up to the plate is ready to do his or her job. A pinch hitter takes the place of someone else at a job or activity.\n\nA person who strikes out or goes down swinging attempted something but failed. But someone who hit a home run or hit it out of the park did something extremely well.\n\nSometimes I have to give information quickly, without time to think it over. Then I would say something right off the bat.\n\nIf I say I want to touch base with you, I will talk to you from time to time about something we plan to do.",
+  "questions": [
+    {
+      "question": "Did you do something well or badly if you “hit a homerun”?",
+      "options": [
+        "You did something exceptionally well.",
+        "You faced a significant challenge.",
+        "You encountered a setback.",
+        "You attempted something risky."
+      ],
+      "answer": "You did something exceptionally well."
+    },
+    {
+      "question": "What is another expression for “go down swinging”?",
+      "options": [
+        "To miss the opportunity.",
+        "To try your best even if you fail.",
+        "To avoid taking risks.",
+        "To accept defeat quietly."
+      ],
+      "answer": "To try your best even if you fail."
+    },
+    {
+      "question": "What can you say about Josh if he is intelligent and able to do a good job?",
+      "options": [
+        "He is a pinch hitter.",
+        "He is on the ball.",
+        "He threw a curve ball.",
+        "He hit a home run."
+      ],
+      "answer": "He is on the ball."
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

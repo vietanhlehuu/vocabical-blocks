@@ -1,0 +1,60 @@
+{
+  "title": "Let the Sun Shine In",
+  "introduction": null,
+  "image": {
+    "id": "b07e7d05-c325-489a-bf8a-e694b37a02c1",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5N2SCcR6MsBIp7YpreDRfl.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 288
+    },
+    "attribution": "Deavmi / Wikimedia Commons / CC-BY-SA 3.0",
+    "public_attribution": true,
+    "lock_version": 3,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4SCTvpu4naAWfuTgNlWjwa.mpga",
+  "main_content": "Now, Words and Their Stories, a VOA Learning English program about American expressions. I’m Anna Matteo with expressions using the word “sun.”\n\nThe first expression is about everything, everything under the sun. If you own a store that sold many different items, your advertisements could say you sell everything under the sun. This would not be exactly true, of course.\n\nHere is another example: Let’s say you are talking with a friend you have not seen for a long time. The two of you could have a lot of catching up to do. So, you talk about everything under the sun.\n\nUnder the sun is an old expression – at least 3,000 years old. It means everywhere the sun shines.\n\nThat leads to another expression: a sunshine law. This law says that all government meetings must be open to the public. In some states, sunshine laws also say the government must permit the public to see government records.\n\nAnother expression about the sun is Sunbelt. The word describes the warmer states of the American south, from Florida to California. The warmer weather in the Sunbelt causes many people to move there.",
+  "questions": [
+    {
+      "question": "What does the expression “under the sun” mean?",
+      "options": [
+        "A phrase referring to all items available for sale",
+        "A term for things that are cloudy or gloomy",
+        "An expression signifying everywhere the sun shines",
+        "A legal term for private government meetings"
+      ],
+      "answer": "An expression signifying everywhere the sun shines"
+    },
+    {
+      "question": "How old is the expression “under the sun”?",
+      "options": [
+        "Around 1,000 years old",
+        "At least 3,000 years old",
+        "Over 2,000 years old",
+        "Less than 500 years old"
+      ],
+      "answer": "At least 3,000 years old"
+    },
+    {
+      "question": "What 2 states of the US are mentioned in the article?",
+      "options": [
+        "Texas and Nevada",
+        "Florida and California",
+        "New York and Washington",
+        "Arizona and Colorado"
+      ],
+      "answer": "Florida and California"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

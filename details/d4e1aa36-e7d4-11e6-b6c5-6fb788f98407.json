@@ -1,0 +1,60 @@
+{
+  "title": "Average Americans Gave Away Billions in 2014",
+  "introduction": null,
+  "image": {
+    "id": "2a907434-55c5-4c29-bef9-2aea68e6e5de",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1IJgzHLPtq8WM3s5OyhKn8.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 410
+    },
+    "attribution": "Astanhope / Wikimedia Commons / CC-BY-SA 3.0",
+    "public_attribution": true,
+    "lock_version": 2,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0U6e0DgGeph6V8vMCpzljC.mpga",
+  "main_content": "Last year, Americans again showed they are generous people. A majority of Americans, two-thirds, gave money to charity in 2014. And they gave away more money than ever before. They gave away an estimated total of $358 billion.\n\nThe idea of helping the poor and the less fortunate goes back to the 1700s, when the United States was a British colony. In the 18th century, people gave money to religion and education. But as the country grew and people did well financially, the giving included the arts, health and social causes.\n\nNow, more than two hundred years later, religion and education still receive the most money from Americans. But things are changing. Overall, religion now takes in a smaller percentage of giving. This could be because the United States is seeing a decline, or drop, in religious beliefs, and less people go to church regularly.\n\nMost of the money to charity was from individuals. Another report, from the journal Chronicle of Philanthropy says that the top 50 donors from the U.S.gave a total of $9.8 billion.",
+  "questions": [
+    {
+      "question": "How many Americans gave money to charity in 2014?",
+      "options": [
+        "Approximately one-fifth",
+        "Over two-thirds",
+        "Less than half",
+        "Around one-quarter"
+      ],
+      "answer": "Over two-thirds"
+    },
+    {
+      "question": "What did people give money to in the 18th century?",
+      "options": [
+        "Humanitarian relief efforts",
+        "Political campaigns",
+        "Religion and education",
+        "Artistic endeavors"
+      ],
+      "answer": "Religion and education"
+    },
+    {
+      "question": "How is the word ‘decline’ explained in the article?",
+      "options": [
+        "An increase or rise",
+        "A gradual improvement",
+        "A drop or decrease",
+        "A steady plateau"
+      ],
+      "answer": "A drop or decrease"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

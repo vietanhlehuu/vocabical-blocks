@@ -1,0 +1,60 @@
+{
+  "title": "Still Waiting for Orders, US Military Has ISIL in Its Sights",
+  "introduction": null,
+  "image": {
+    "id": "0d82d96c-761a-11ed-bb81-ff275d1929fd",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1mRsS16lyxfjdTl1fMKKz2.png",
+    "dimensions": {
+      "x": 512,
+      "y": 591
+    },
+    "attribution": "Dbbd88 / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1qz5hIXLfuGTPi7XxuFyKM.mpga",
+  "main_content": "The United States says that, for now, it is only sending military advisers to Baghdad to help the Iraqi government combat advances by militant Sunni Islamists, known as the Islamic State in Iraq and the Levant (ISIL). But the Pentagon says U.S. forces are poised to strike – if ordered to do so.\n\nIn the waters of the Persian Gulf, there are already reminders of the long reach of America’s military might as President Barack Obama warns the Islamic State in Iraq and the Levant not to rest easy.\n\n“We will be prepared to take targeted and precise military action if and when we determine that the situation on the ground requires it,” said Obama.\n\nThe U.S. has been moving resources into place for days. On board the USS George HW Bush there are about 70 aircrafts, including FA-18 Super Hornets and E-2C Hawkeyes, able to help coordinate strikes.\n\nAdditionally, the U.S. Air Force says it has 90 to 100 aircraft – from fighters to bombers to drones – ready to go within hours.\n\nRetired Air Force Lieutenant General David Deptula says “it is a situation that is tailor-made for air power.”\n\nAnd with those aircraft in place, Deptula says ISIL militants could find Baghdad to be out of reach.\n\n“They have to move in sufficient numbers to make a difference. But even if they don’t, with persistent surveillance, you can watch the movement and eliminate it as it occurs,” says Deptula, who is now dean at the Mitchell Institute for Aerospace Studies.\n\nThat’s not to say using air power against ISIL would be easy, a point made by the top U.S. military official to lawmakers Tuesday.\n\n“These forces are very much intermingled. It’s not as easy as looking at an iPhone video of a convoy and them immediately striking it,” said General Martin Dempsey, Chairman, of the Joint Chiefs of Staff.\n\nPart of ISIL’s success comes from its willingness to bury itself in civilian populations. And drawing them out may take some help – like an effective Iraqi army, says former Army Ranger and military analyst, Paul Floyd, now with Stratfor.\n\n“They (the Iraqi security forces) would actually have to be making gains on the ground, flushing ISIL or ISIS out of urban populations to where they could be exposed and open to attacks,” says Floyd.\n\nFor now, the U.S. seems content to fly an increasing number of manned surveillance planes and drones over Iraq, building an ever more precise picture of ISIL’s forces for if and when the call comes to strike.",
+  "questions": [
+    {
+      "question": "What is the United States currently sending to Baghdad to help the Iraqi government combat ISIL advances?",
+      "options": [
+        "Ground troops to fight ISIL directly.",
+        "Military advisers.",
+        "Fighter bombers for immediate strikes.",
+        "No personnel at all."
+      ],
+      "answer": "Military advisers."
+    },
+    {
+      "question": "About how many aircraft are on board the USS George H.W. Bush in the Persian Gulf?",
+      "options": [
+        "About 70 aircraft.",
+        "About 90 to 100 aircraft.",
+        "About 150 aircraft.",
+        "Only 10 aircraft."
+      ],
+      "answer": "About 70 aircraft."
+    },
+    {
+      "question": "Why does General Martin Dempsey say targeting ISIL forces is difficult?",
+      "options": [
+        "The forces are very much intermingled with civilians.",
+        "The U.S. military lacks aircraft in the region.",
+        "ISIL has already left Iraq.",
+        "The Iraqi army has completely defeated ISIL."
+      ],
+      "answer": "The forces are very much intermingled with civilians."
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

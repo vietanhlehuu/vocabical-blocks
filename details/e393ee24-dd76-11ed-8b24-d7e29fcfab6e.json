@@ -1,0 +1,60 @@
+{
+  "title": "‘Highly Effective’ Ebola Vaccine Developed in Guinea",
+  "introduction": null,
+  "image": {
+    "id": "e3939442-dd76-11ed-8b23-abee4d66e163",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1psavTizhB2IcJ1B6v7gWG.jpeg",
+    "dimensions": {
+      "x": 400,
+      "y": 266
+    },
+    "attribution": "United States Army Medical Research Institute of Infectious Diseases / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4G7fzNPYUH32bE35cgEreK.mpga",
+  "main_content": "Researchers say an experimental vaccine has shown to be “highly effective” at preventing the deadly disease Ebola.\n\nThe World Health Organization said Friday that the vaccine has been 100 percent effective at tests performed in Guinea. The British medical journal Lancet has published early test results and analyses of the findings.\n\nNorway’s foreign minister praised the effectiveness of the new vaccine, calling it “the silver bullet” against Ebola.\n\nEbola spread through West Africa last year. The disease killed more than 11,000 people – most of them in Liberia, Guinea and Sierra Leone.\n\nThe vaccine is known as VSV-EBOV. Beginning in March, it was tested on more than 4,000 people in Guinea. All of them had come into close contact with the Ebola virus.\n\nWHO officials say early results were so promising that random tests were stopped this week so everyone at risk could receive the vaccine immediately.\n\nThe WHO’s general director, Margaret Chan, spoke to reporters in Geneva. She said that scientists, doctors and drug companies worked together in development of the vaccine.",
+  "questions": [
+    {
+      "question": "Which journal has published test results of the Ebola vaccine?",
+      "options": [
+        "British Medical Journal",
+        "The Lancet",
+        "Journal of Infectious Diseases",
+        "Ebola Research Journal"
+      ],
+      "answer": "The Lancet"
+    },
+    {
+      "question": "How did Norway’s foreign minister call the vaccine?",
+      "options": [
+        "A breakthrough innovation",
+        "The silver bullet",
+        "A temporary solution",
+        "A last resort"
+      ],
+      "answer": "The silver bullet"
+    },
+    {
+      "question": "How many people in Guinea have been tested since March?",
+      "options": [
+        "1,000",
+        "2,500",
+        "4,000",
+        "5,000"
+      ],
+      "answer": "4,000"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

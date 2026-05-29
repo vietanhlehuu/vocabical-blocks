@@ -1,0 +1,60 @@
+{
+  "title": "Britain’s Daily Mail in Talks to Buy Yahoo",
+  "introduction": null,
+  "image": {
+    "id": "7b5ad8fd-5c18-4161-bc55-3e527490ad8e",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3klZZHnIRNo9NUI9tjFtfC.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 378
+    },
+    "attribution": "infomatique / Wikimedia Commons / CC-BY-SA-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1krfp1hJiugqaZ09PywvSc.mpga",
+  "main_content": "The parent group that owns British tabloid Daily Mail confirms it is in talks with several other parties to launch a bid for Yahoo, which has been struggling in recent years.\n\nThe Daily Mail and General Trust, Daily Mail’s parent company, which also owns the popular website Elite Daily, said Monday it is in the early stages of launching a potential bid for Yahoo, and is in contact with other potential bidders, but declined to provide names of the other firms. “We have been in discussions with a number of parties who are potential bidders,” a spokeswoman for DailyMail.com said in an emailed statement.\n\nThe Wall Street Journal, which originally reported the potential sale Sunday, said that “half a dozen” private equity firms may be involved in financing the DMGT bid. Yahoo set a deadline on April 18 for preliminary bids.\n\nAccording to the Wall Street Journal, there are two possibilities for the potential DMGT bid. In the first, Yahoo’s core web business would be acquired by a private equity firm, while its media and news offerings would be folded into the Daily Mail’s global online operations. The merged media operation would then form a new company to be run by the Daily Mail.\n\nIn the second, the private equity firm would similarly acquire Yahoo’s entire core web business, but the Mail would just take over the news and media properties, without forming a new company and the DGMT would have a smaller equity stake.\n\nEarlier this month, Reuters reported that Time Inc. is also considering a partnership with a private equity firm to bid on Yahoo. U.S. telecommunications giant Verizon, which also owns AOL, has also expressed interest in making a bid.\n\nYahoo, once an internet pioneer with great potential, is still one of the most well-known names on the internet with more than one billion users. But it has struggled to keep up with Google in internet searches and has seen steady losses in advertising revenue.",
+  "questions": [
+    {
+      "question": "What is the Daily Mail and General Trust considering doing?",
+      "options": [
+        "Launching a bid for Yahoo, possibly with the help of private equity firms.",
+        "Forming a new independent company to manage Yahoo's entire business.",
+        "Acquiring Yahoo's social media platforms while ignoring its core web business.",
+        "Joining forces with Google to improve Yahoo's search engine capabilities."
+      ],
+      "answer": "Launching a bid for Yahoo, possibly with the help of private equity firms."
+    },
+    {
+      "question": "According to The Wall Street Journal, how many private equity firms may be involved in financing the DMGT bid?",
+      "options": [
+        "Two private equity firms.",
+        "Three private equity firms.",
+        "Half a dozen private equity firms.",
+        "Ten private equity firms."
+      ],
+      "answer": "Half a dozen private equity firms."
+    },
+    {
+      "question": "In one of the proposed deal structures, who would take over Yahoo's news and media properties?",
+      "options": [
+        "The Daily Mail.",
+        "Google.",
+        "Verizon.",
+        "Time Inc."
+      ],
+      "answer": "The Daily Mail."
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

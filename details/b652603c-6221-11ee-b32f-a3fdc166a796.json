@@ -1,0 +1,60 @@
+{
+  "title": "Germany, Turkey Leaders Meet on Migrant Crisis",
+  "introduction": null,
+  "image": {
+    "id": "b651e684-6221-11ee-b32e-430696cffbb2",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5Cec3Kx38l0LMtSyJZba2Y.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 288
+    },
+    "attribution": "Raimond Spekking / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1gnPROMQhwUZ3TqjcLFJ69.mpga",
+  "main_content": "Turkey and Germany have agreed to a set of measures aimed at tackling the growing Syrian refugee crisis, as thousands of migrants remain stranded on both sides of the Turkish-Syrian border.\n\nSpeaking on Monday in Ankara with German Chancellor Angela Merkel, Turkish Prime Minister Ahmet Davutoglu said the two countries would carry out “joint efforts” for greater NATO involvement in the refugee issue.\n\nDavutoglu said German and Turkish agencies will start working together against human traffickers, as well as participating in joint security efforts to stop illegal migration.\n\nEU countries have pledged $3.3 billion to Turkey to give sanctuary to refugees and to help reduce the number of refugees seeking asylum in Europe.\n\nYet last week both the German and French interior ministers voiced frustration with Ankara over its failure to stem illegal migration despite its previous pledges to do so. They said more than 60,000 migrants traveled from Turkey to Greece in January, a 32-fold increase over the same time last year.\n\nMerkel, whose country let in more than a million refugees last year, said she was “appalled” and “shocked” by the suffering in the Syrian city of Aleppo.\n\nPolitical columnist Semih Idiz says that, despite declarations by Merkel to share the burden of refugees and Davutoglu’s commitment to crack down on illegal migration, doubts remain on both sides’ commitments.\n\n“On the European side, we have had statements that clearly suggest that these refugees should be kept in Turkey. … It’s not clear whether Turkey really wants to address the refugee crisis per se, or whether it is trying to gain some advantages as a result of this crisis in its relations with the EU,” Idiz said.",
+  "questions": [
+    {
+      "question": "What will German and Turkish agencies start doing?",
+      "options": [
+        "Implementing stricter visa regulations for migrants",
+        "Conducting joint security efforts against illegal migration",
+        "Providing financial assistance to refugees in Germany",
+        "Increasing awareness of the refugee crisis in local communities"
+      ],
+      "answer": "Conducting joint security efforts against illegal migration"
+    },
+    {
+      "question": "In what ways has the EU promised to help Turkey regarding the refugee crisis?",
+      "options": [
+        "By sending military support to monitor borders",
+        "By pledging $3.3 billion to assist with refugees",
+        "By negotiating asylum policies for EU member countries",
+        "By offering citizenship to refugees settled in Turkey"
+      ],
+      "answer": "By pledging $3.3 billion to assist with refugees"
+    },
+    {
+      "question": "How many refugees entered Germany last year?",
+      "options": [
+        "Over 500,000",
+        "Less than 200,000",
+        "More than a million",
+        "Approximately 300,000"
+      ],
+      "answer": "More than a million"
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

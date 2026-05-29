@@ -1,0 +1,60 @@
+{
+  "title": "Recording Mozart in Russia’s Ural Mountains",
+  "introduction": null,
+  "image": {
+    "id": "e45cac38-0eab-11e7-b3ab-43551f2675bc",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/56xc02OYfzmH4W7HPpFl8Y.png",
+    "dimensions": {
+      "x": 293,
+      "y": 330
+    },
+    "attribution": "Joseph Lange (1751–1831) / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3AZL8TeSpQnQpfdphxrGfV.mpga",
+  "main_content": "Russia’s political relations with Western countries have worsened because of the situation in Ukraine. Some observers are looking to cultural cooperation to help ease tensions. Take the story of Teodor Currentzis, a Greek-born orchestra conductor. He is now leading a group of musicians and singers from around the world in the Ural Mountains of Russia. Their goal is to record the perfect operatic work of the great Wolfgang Amadeus Mozart.\n\nTeodor Currentzis is just 42 years old. He was born in Greece, but is now a Russian citizen. He moved to Russia after leaving Western Europe in the 1990s. Mr. Currentzis formerly worked in the famous opera houses of Moscow and St. Petersburg. But he decided to go to Perm, a city near the Ural Mountains.\n\nMr. Currentzis is busy recording the operas Mozart wrote with the opera librettist and poet Lorenzo Da Ponte. Sony Classical Records released his orchestra’s recording of Nozze di Figaro, or The Marriage of Figaro, in 2014. The third and final recording, Don Giovanni, will be released later this year.\n\nLast year, singers and musicians from around the world gathered at the Perm Opera House to record Don Giovanni.\n\nMr. Currentzis’ Russian orchestra is called Music Aeterna. He chose its members. They are known for their dedication to the music.",
+  "questions": [
+    {
+      "question": "Where was Teodor Currentzis born?",
+      "options": [
+        "Russia",
+        "Greece",
+        "Italy",
+        "United States"
+      ],
+      "answer": "Greece"
+    },
+    {
+      "question": "Whose operas is Mr. Currentzis recording?",
+      "options": [
+        "Igor Stravinsky",
+        "Lorenzo Da Ponte",
+        "Wolfgang Amadeus Mozart",
+        "Gioachino Rossini"
+      ],
+      "answer": "Wolfgang Amadeus Mozart"
+    },
+    {
+      "question": "How is Mr. Currentzis’ Russian orchestra called?",
+      "options": [
+        "Orchestra of the Ural Mountains",
+        "Music Aeterna",
+        "Perm Symphony",
+        "Classic Voices"
+      ],
+      "answer": "Music Aeterna"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

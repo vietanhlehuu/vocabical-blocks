@@ -1,0 +1,60 @@
+{
+  "title": "Who Doesn’t Have a Tattoo? Body Ink Surges",
+  "introduction": null,
+  "image": {
+    "id": "e45cc2a4-0eab-11e7-b3b6-4f5ed869739c",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/59ZdSbWzOLeA0NK3MLDWoM.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 521
+    },
+    "attribution": "Penny 12 / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5yrayBtco63UgWzaKBlffF.mpga",
+  "main_content": "Tattoos are no longer the sign of a sailor, soldier or criminal. They are wildly popular.\n\nIn America today, lots of people are getting tattoos — especially younger people. Forty percent of men and women aged 26 to 40 have at least one tattoo.\n\nAs a result, the American tattoo business is booming. In 1960, there were only about 50 professional tattoo artists in the United States. Today there are almost 55,000 people working as tattoo artists in the U.S.\n\nIn Britain, tattoos are also surging in popularity. The Guardian reported that a fifth of all British adults have been “inked” – another term for being tattooed.\n\nWhat’s driving the wild popularity of tattoos?\n\nIt could be a search for identity.\n\n“Tattoos, recent research suggests, don’t just express identity, they help define it,” writes Chris Weller in The Atlantic. In an era of rapid and unpredictable change, driven by technology, a tattoo can be a source of stability. This is particularly true for Millennials, who grew up with the Internet, notes Weller.",
+  "questions": [
+    {
+      "question": "What is another term for being tattooed?",
+      "options": [
+        "Marked",
+        "Inked",
+        "Signed",
+        "Branded"
+      ],
+      "answer": "Inked"
+    },
+    {
+      "question": "What did Chris Weller say about tattoos? What can they be a source of?",
+      "options": [
+        "Creativity",
+        "Identity",
+        "Stability",
+        "Freedom"
+      ],
+      "answer": "Stability"
+    },
+    {
+      "question": "How many people are working as tattoo artists in the U.S. today?",
+      "options": [
+        "50,000",
+        "45,000",
+        "55,000",
+        "60,000"
+      ],
+      "answer": "55,000"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

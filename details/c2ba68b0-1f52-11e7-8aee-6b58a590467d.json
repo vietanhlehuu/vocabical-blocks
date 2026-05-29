@@ -1,0 +1,60 @@
+{
+  "title": "Morocco Dedicates 1st Phase of Massive Solar Power Plant",
+  "introduction": null,
+  "image": {
+    "id": "e174aa3f-0834-4dba-9feb-6d7b1d4dce22",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6rQaYZ2AdFHF91KSmgbnG6.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Isofoton.es / Wikimedia Commons / CC-BY-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7em1YcLO2AHcZXBZJ0DAeH.mpga",
+  "main_content": "Morocco’s King Mohammed VI inaugurated the first phase of what will eventually be the world’s biggest concentrated solar energy plant. The project is intended to slash greenhouse gas emissions.\n\nThe massive plant is located outside the central city of Ouarzazate, on the edge of the Sahara desert.\n\n“We can see that it is possible to get energy independence with solar systems and it is a fantastic message for all the African continent and all around the world,” French Environment Minister Segolene Royal said.\n\nA concentrated solar plant collects thermal energy from the sun’s rays in metal mirrors and stores the energy to use at night or during cloud cover.\n\nThe Moroccan plant, called Noor 1, uses 500,000 mirrors spread out over an area as large as 600 football (soccer) fields.\n\nA Saudi-led consortium built the plant with funds from various agencies, including the World Bank and the African Development Bank.\n\nA project statement says “the solar plant underlines the country’s determination to reduce dependence on fossil fuels, use more renewable energy, and move towards low carbon development.”\n\nMorocco lacks many of the natural resources needed to produce energy and must import nearly all its fossil fuels from the Middle East and North Africa.\n\nIt plans to open the next two phases of the plant later this year.",
+  "questions": [
+    {
+      "question": "Why is Morocco building the solar power plant?",
+      "options": [
+        "To increase tourism in the region.",
+        "To achieve energy independence and reduce greenhouse gas emissions.",
+        "To provide temporary jobs for local workers.",
+        "To fulfill international energy agreements."
+      ],
+      "answer": "To achieve energy independence and reduce greenhouse gas emissions."
+    },
+    {
+      "question": "How does the solar plant work?",
+      "options": [
+        "It generates electricity through wind turbines.",
+        "It uses metal mirrors to collect and store thermal energy from the sun.",
+        "It uses solar panels that convert sunlight directly into electricity.",
+        "It relies on geothermal energy to produce power."
+      ],
+      "answer": "It uses metal mirrors to collect and store thermal energy from the sun."
+    },
+    {
+      "question": "How many football fields is the plant spread over?",
+      "options": [
+        "About 60 football fields.",
+        "About 600 football fields.",
+        "About 6,000 football fields.",
+        "About 600 acres."
+      ],
+      "answer": "About 600 football fields."
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

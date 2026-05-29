@@ -1,0 +1,60 @@
+{
+  "title": "Forgotten Speeches Come Alive on YouTube",
+  "introduction": null,
+  "image": {
+    "id": "e45e57ea-0eab-11e7-b49b-77c16e8684d4",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6IDQPc6UjrPtLsoo5GRnPj.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 347
+    },
+    "attribution": "Damon D'Amato from North Hollywood, Calfornia / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1p6BxKj8OJr73KznwdR2QE.mpga",
+  "main_content": "The 1960s was a time of change in the United States and other places. These changes influenced opinions about social issues, and extended to politics and even science. Internet users can now “hear” this period of history through the YouTube website. Visitors can listen to leading Americans and others who spoke 40 or more years ago at the University of California, Los Angeles. Their recorded speeches were forgotten for years, until recently.\n\nTim Groeling is chairman of the university’s Communications Department. He says the audio, or sound, recordings are from an important period in history.\n\n“It’s the combination of this being, I think, dramatic figures speaking at what was really a dramatic time. I mean this is a time period where society is really changing.”\n\nThe recordings were left in storage areas and forgotten until recently, when Tim Groeling discovered an old tape player by chance.\n\n“I was at a thrift store and saw an old reel-to-reel unit for 20 bucks ($20). That, I’m like, ‘I bet that fits with the tapes, and (for) 20 bucks (I) might as well give it a shot.”\n\nHe bought the tape player from the store. Then he asked a former student, Derek Bolin, to help make digital versions of the recordings.\n\nDerek Bolin made digital copies of the speeches recorded between 1962 and 1973.\n\nTim Groeling says that without technology and the Internet, it would be difficult for people to hear these men and women. Three hundred sixty-six of the speeches given at UCLA are now available on the YouTube website.",
+  "questions": [
+    {
+      "question": "Where can you listen to the speeches made at the University of California, Los Angeles given 40 years ago?",
+      "options": [
+        "On the official university website",
+        "In public libraries across California",
+        "On the YouTube website",
+        "During special historical exhibitions"
+      ],
+      "answer": "On the YouTube website"
+    },
+    {
+      "question": "Who is Tim Groeling?",
+      "options": [
+        "A student at the University of California, Los Angeles",
+        "The chairman of the university’s Communications Department",
+        "A historical figure from the 1960s",
+        "A professional tape restoration expert"
+      ],
+      "answer": "The chairman of the university’s Communications Department"
+    },
+    {
+      "question": "Where did he get the tape player?",
+      "options": [
+        "From a donation at the university",
+        "At a thrift store",
+        "From a friend who collected vintage electronics",
+        "At an auction for historical artifacts"
+      ],
+      "answer": "At a thrift store"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

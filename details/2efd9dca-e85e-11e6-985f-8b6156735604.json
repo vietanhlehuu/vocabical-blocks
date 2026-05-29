@@ -1,0 +1,60 @@
+{
+  "title": "Digital or Print? How Do You Read Books?",
+  "introduction": null,
+  "image": {
+    "id": "53971d22-be99-453e-b2b0-fdd35c354501",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2XjQBUZYCwC4rxyPcrDVL7.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 410
+    },
+    "attribution": "NotFromUtrecht / Wikimedia Commons / CC-BY-SA 3.0",
+    "public_attribution": true,
+    "lock_version": 5,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2CVZagbdF6ec31vZa2kMDP.mpga",
+  "main_content": "A South African technology expert says huge numbers of book readers in his country are using electronic reading devices. He says the rising popularity of such devices, known as e-readers, could lead to the slow disappearance of traditional books.\n\nOur story begins at a bookstore in the city of Johannesburg. Many people like to look through a book before buying it. But how much longer will traditional bookstores continue operating?\n\nArthur Goldstuck studies technological developments in Africa for World Wide Worx, a company based in Johannesburg. He says electronic books are growing in popularity and threatening the future of bookstores.\n\nMr. Goldstuck says his brain tells him electronic books are the future of reading in South Africa. But his heart tells him there will always be a place in the country for printed books.\n\nThe number of electronic reading devices in South Africa is growing. But so is the number of stores selling second-hand, used books. Mr. Goldstuck says this is happening because new books are overpriced in South Africa.\n\nDoron Locketz (Book Dealers store owner) says the printed book will survive e-books because South Africans like “face-to-face” service from booksellers.\n\nBut he warns that unless booksellers tell young people about the many reasons for owning printed books, their stores will not survive.",
+  "questions": [
+    {
+      "question": "What can the rising popularity of e-readers lead to?",
+      "options": [
+        "The resurgence of traditional bookstores",
+        "The slow disappearance of traditional books",
+        "A decline in digital literacy",
+        "Increased prices of printed books"
+      ],
+      "answer": "The slow disappearance of traditional books"
+    },
+    {
+      "question": "What does Mr. Goldstuck’s heart tell him?",
+      "options": [
+        "There will always be a demand for electronic books",
+        "Printed books will continue to have a place in South Africa",
+        "All bookstores will inevitably close down",
+        "E-books will completely replace printed materials"
+      ],
+      "answer": "Printed books will continue to have a place in South Africa"
+    },
+    {
+      "question": "The number of e-readers in South Africa is growing. But what else is growing?",
+      "options": [
+        "The number of online bookstores",
+        "The demand for audiobooks",
+        "The number of stores selling second-hand, used books",
+        "The popularity of graphic novels"
+      ],
+      "answer": "The number of stores selling second-hand, used books"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

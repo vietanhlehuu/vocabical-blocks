@@ -1,0 +1,60 @@
+{
+  "title": "Ivorian Taekwondo Champions Head to Rio Olympics",
+  "introduction": null,
+  "image": {
+    "id": "ea84aeac-7bd4-11ed-a48a-5f3fb100bff8",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/44TbREPaRdk1wFLktczWkK.jpeg",
+    "dimensions": {
+      "x": 322,
+      "y": 395
+    },
+    "attribution": "Stefan Pettersson / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5LdS0isZEhOHzlBnMCmKyF.mpga",
+  "main_content": "It is the home stretch for three Ivorian taekwondo athletes who are heading to the Rio Olympics. In their training room in the basement of the national stadium in Abidjan, they spend every morning perfecting their skills under the guidance of their coach.\n\nThe Rio Summer Games are just weeks away, and Ivory Coast has won only one Olympic medal in its history. That was 32 years ago.\n\nRuth Gbagbi, 22, competed in the London Olympics in 2012, and won gold in her category at the African Taekwondo Championships. She also won a gold medal at last year’s African Games.\n\nGbagbi says government support is coming along gradually, as the athletes’ success grows. “But the public,” she said, “yes, we have a lot of fans who approach us, who encourage us. Ivorians are motivated.”\n\nTaekwondo was first introduced in Ivory Coast in the 1960s by a Korean master. The sport is now a popular extracurricular activity in Ivorian schools.\n\nIn this school in Abidjan, 100 pupils dressed in white doboks — the traditional martial arts uniform — are attending an after-school taekwondo class in the school yard. The youngest pupils are only three years old.\n\nAnge-Emmanuel Koffi, 13, says his parents got him involved in taekwondo.\n\n“They saw that I didn’t know how to defend myself and I was withdrawn because of that,” Koffi said.\n\nPart-time coach Ibrahima Soumahoro says the image of the sport has evolved over time.\n\n“We used to think of martial arts practitioners as thugs who assault people,” Soumahoro said. “Now, taekwondo is an Olympic sport. It’s taught in schools and universities. It is practiced by an elite.”\n\nThirteen-year-old Moussa Berthé says he has learned much more than self-defense in five years of practice.\n\n“They teach us to be disciplined,” he said. “This is how you recognize a person who does taekwondo. Discipline, respect, dignity, and wisdom.”\n\nBerthé will be watching the national team compete in Rio.\n\n“They are examples to follow because they are champions, and they come from Ivory Coast so it encourages us to continue taekwondo,” he said.",
+  "questions": [
+    {
+      "question": "Where are the three Ivorian taekwondo athletes training?",
+      "options": [
+        "In a public park in Abidjan",
+        "At the national stadium's basement in Abidjan",
+        "In a specialized taekwondo academy",
+        "At a training facility in Rio"
+      ],
+      "answer": "At the national stadium's basement in Abidjan"
+    },
+    {
+      "question": "How did taekwondo arrive to the Ivory Coast?",
+      "options": [
+        "It was introduced by a local athlete",
+        "A Korean master brought it in the 1960s",
+        "It became popular through television broadcasts",
+        "It was promoted by the Ivorian government"
+      ],
+      "answer": "A Korean master brought it in the 1960s"
+    },
+    {
+      "question": "Why did Ange-Emmanuel Koffi’s parents want him to take up taekwondo?",
+      "options": [
+        "To improve his physical health",
+        "To help him develop self-defense skills",
+        "To earn a scholarship in martial arts",
+        "To make him more sociable"
+      ],
+      "answer": "To help him develop self-defense skills"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

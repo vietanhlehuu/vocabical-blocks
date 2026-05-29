@@ -1,0 +1,60 @@
+{
+  "title": "WHO: Liberia is Ebola-free",
+  "introduction": null,
+  "image": {
+    "id": "728bc776-7a73-4e03-8846-4a871993cf73",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3U90HOyoWP3amD6Soqxvgx.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Linda Bartlett (Photographer) / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4ls3PomfL6g9WhTNzHRqCG.mpga",
+  "main_content": "The World Health Organization has declared Liberia free of the Ebola virus.The move comes after Liberia reported no new Ebola cases for 42 days, twice the maximum incubation period for the deadly disease.\n\n“Interruption of transmission is a monumental achievement for a country that reported the highest number of deaths in the largest, longest, and most complex outbreak since Ebola first emerged in 1976,” said the WHO in a statement.\n\nLiberian President Ellen Johnson Sirleaf told the Associated Press news agency Saturday the damage from the outbreak was “a scar on the conscience of the world.”   She said for some survivors, “The pain and grief will take a generation to heal.”\n\nThe White House said Saturday it is “pleased” by the official end of the outbreak, calling it “an important marker” and congratulating the Liberian people for reaching it. But the statement from the office of U.S. President Barack Obama’s press secretary stressed more must be done.\n\n“While this milestone is important, the world must not forget that the Ebola outbreak still persists in neighboring Sierra Leone and Guinea,” the White House statement said. “We must not let down our guard until the entire region reaches and stays at zero Ebola cases. And we must all work together to strengthen capacity around the world to prevent, detect, and rapidly respond to outbreaks before they become epidemics.”\n\nSierra Leone and Guinea each reported nine cases of the disease last week.",
+  "questions": [
+    {
+      "question": "When was the last Ebola case reported in Liberia?",
+      "options": [
+        "42 days ago",
+        "A week ago",
+        "2 months ago",
+        "Over a year ago"
+      ],
+      "answer": "42 days ago"
+    },
+    {
+      "question": "What did the Liberian President say about the Ebola outbreak?",
+      "options": [
+        "It brought international attention to Liberia",
+        "It will take a generation to heal the pain and grief",
+        "It had no lasting impact on the nation",
+        "It was entirely preventable"
+      ],
+      "answer": "It will take a generation to heal the pain and grief"
+    },
+    {
+      "question": "How did The White House react to the news?",
+      "options": [
+        "They celebrated the achievement without concern",
+        "They warned against complacency and highlighted ongoing issues in the region",
+        "They expressed disappointment over the situation",
+        "They promised immediate aid to Liberia only"
+      ],
+      "answer": "They warned against complacency and highlighted ongoing issues in the region"
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

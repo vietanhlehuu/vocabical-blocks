@@ -1,0 +1,60 @@
+{
+  "title": "Scientists Could be Closer to AIDS Cure",
+  "introduction": null,
+  "image": {
+    "id": "a8681051-9e4b-460c-8cd5-e0078bee4b6a",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/57mGcxAaeQFSyVFJ8o9LSs.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 474
+    },
+    "attribution": "JörgenMoorlag / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0WddBq8rjX1oY6VVwjhRjI.mpga",
+  "main_content": "Since the start of the AIDS epidemic in the 1980s, scientists have been working towards a cure. Now, they may be close to finding one.\n\nResearchers have developed a method to cut the viral DNA from a person’s infected cells. It is called CRISPR/Cas9 and it means the person could be virus-free.\n\nThis gene-editing took place in a scientific lab, but has not been tested on humans yet.\n\n“It’s a big step,” said Kamel Khalili, Ph.D.  He is the lead researcher at the Department of Neuroscience at Temple University in Philadelphia, Pennsylvania. He and his team made the discovery.\n\nBut more tests have to be done to know if it will be a cure for the millions of patients infected with the virus, which causes AIDS.\n\nKhalili and his team have not actually cured any patients yet. However, he believes this gene-editing technology could possibly cure AIDS.",
+  "questions": [
+    {
+      "question": "Since when have scientist been working on a cure for AIDS?",
+      "options": [
+        "Since the 1970s",
+        "Since the early 1980s",
+        "Since the late 1980s",
+        "Since the 1990s"
+      ],
+      "answer": "Since the early 1980s"
+    },
+    {
+      "question": "What did the researchers develop?",
+      "options": [
+        "A vaccine for AIDS",
+        "A method to cut viral DNA",
+        "A new antiviral medication",
+        "A test for HIV"
+      ],
+      "answer": "A method to cut viral DNA"
+    },
+    {
+      "question": "Have any people been cured yet?",
+      "options": [
+        "Yes, many patients have been cured",
+        "No, but testing is still ongoing",
+        "Yes, but only in trials",
+        "No, they have not cured any patients yet"
+      ],
+      "answer": "No, they have not cured any patients yet"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

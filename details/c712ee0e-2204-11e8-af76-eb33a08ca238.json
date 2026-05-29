@@ -1,0 +1,60 @@
+{
+  "title": "The Ups and Downs of Coffee and Caffeine",
+  "introduction": null,
+  "image": {
+    "id": "c7115486-2204-11e8-af75-4393094de569",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5xXasYjzQSWtgjDr6IUK7V.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Julius Schorzman / Wikimedia Commons / CC-BY-SA-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/07EeP7weXahyj6rR1lTVCm.mpga",
+  "main_content": "Many people drink coffee or tea to help them wake in the morning.\n\nSo, it is no surprise that if you get too much caffeine before bedtime, it can keep you awake. It turns out that interrupting your sleep is bad for your health on many levels.\n\nA new study explains how interrupted sleep can affect your mental and physical health. The study also explores how poor sleep can affect the cells in your body.\n\nResearchers from the United States and the United Kingdom have joined to investigate this issue.\n\nThe investigators are from the University of Colorado, Boulder in the U.S. and the Medical Research Council Laboratory of Molecular Biology in Cambridge, England. They found that caffeinated drinks taken up to three hours before expected bedtime can delay normal sleep times.\n\nThe amount of caffeine that disrupted sleep was equal to about two shots of espresso.\n\nNot getting enough sleep can affect a person’s mood. It also disrupts the body’s natural sleep-wake cycle called the circadian rhythm. Your body’s circadian rhythm is found in cells throughout the entire body.\n\nSo, when caffeine disrupts your circadian rhythm, it affects hormone production and the re-growth of new cells in the human body. And this can play a role in many health problems.",
+  "questions": [
+    {
+      "question": "What does the new study explain?",
+      "options": [
+        "The link between sleep duration and diet.",
+        "How interrupted sleep can affect mental and physical health.",
+        "The benefits of drinking coffee before bedtime.",
+        "The optimal amount of caffeine for daily health."
+      ],
+      "answer": "How interrupted sleep can affect mental and physical health."
+    },
+    {
+      "question": "Where are the researchers from?",
+      "options": [
+        "Harvard University and Stanford University.",
+        "University of Colorado, Boulder and Medical Research Council Laboratory of Molecular Biology.",
+        "Cambridge University and Oxford University.",
+        "University of California and Massachusetts Institute of Technology."
+      ],
+      "answer": "University of Colorado, Boulder and Medical Research Council Laboratory of Molecular Biology."
+    },
+    {
+      "question": "What can affect a person’s mood, according to the article?",
+      "options": [
+        "Consuming fruits and vegetables.",
+        "Not getting enough sleep.",
+        "Exercising regularly.",
+        "Consuming excessive amounts of water."
+      ],
+      "answer": "Not getting enough sleep."
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

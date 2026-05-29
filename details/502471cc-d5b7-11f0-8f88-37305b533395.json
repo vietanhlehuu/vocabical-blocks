@@ -1,0 +1,60 @@
+{
+  "title": "Strangers Share Secrets Through Postcards",
+  "introduction": null,
+  "image": {
+    "id": "5023fda0-d5b7-11f0-8f87-477534ddbacc",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3tkOY15ntNL6CZEvwZpjvM.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 332
+    },
+    "attribution": "Tichnor Brothers, Publisher / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4ahdMLJ7cBs8QP6JRtcxLi.mpga",
+  "main_content": "Some people collect stamps. Others acquire art. Frank Warren collects secrets.\n\nStrangers from around the world send him postcards with their confessions, their disappointments, and their hopes for the future.\n\nIt all started about 10 years ago.\n\n“I wanted to find out if people had secrets and if they did, if they’d share them with me,” Warren explained.\n\nSo he printed up 3,000 self-addressed postcards with his home address on one side and a blank space where people could write down a secret — “something they never told anyone before” — decorate the card with artwork and mail it to his home anonymously.\n\nHe handed out the cards to strangers on the streets of Washington, D.C., and waited.\n\n“I didn’t know if I’d get 10 or 20 or none at all,” he confessed, but he needn’t have worried. The response exceeded his wildest expectations.\n\n“As they came to my mailbox with secrets on them, I would scan them and put them on the web,” he said, and soon, more than a million people were visiting his website, PostSecret, from all around the world, and the idea started to spread virally.\n\n“So people from Ireland, Japan, South Africa, the U.K., Greenland, Australia; they started buying their own postcards and making their own postcards and mailing their secrets to me, sometimes in different languages,” Warren said.\n\nIn the 10 years since, he’s received more than 1 million of them, many with colorful designs, original artwork or photographs. Sometimes even written on everyday objects like ballet slippers or balloons.\n\nAnd they’re still coming.\n\nThe messages range from the funny and joyful to the sad and heartbreaking.\n\n“Dear birth mother, I have great parents. I found love. I’m happy,” reads one postcard that features a newborn baby on the same side as the message.\n\n“I give decaf to customers who are rude to me,” reads another, which was written on an actual paper cup from a popular coffee shop chain.\n\nSaid Warren of the endeavor: “I believed that if I could create a safe, nonjudgmental place where people could share these hidden fantasies and fears and hopes, desires, humiliations and funny stories, hidden acts of kindness, it could really be something special.”\n\nHis project, PostSecret, has become something special.",
+  "questions": [
+    {
+      "question": "What do people send Frank Warren?",
+      "options": [
+        "Obscure artwork and paintings",
+        "Postcards with their confessions and secrets",
+        "Letters detailing their personal experiences",
+        "Photographs of their loved ones"
+      ],
+      "answer": "Postcards with their confessions and secrets"
+    },
+    {
+      "question": "How did the project start?",
+      "options": [
+        "By receiving postcards from famous artists",
+        "Through a bet with a friend about collecting secrets",
+        "By printing and distributing postcards to strangers",
+        "With a social media campaign to gather support"
+      ],
+      "answer": "By printing and distributing postcards to strangers"
+    },
+    {
+      "question": "How many postcards did Frank Warren receive up to this day?",
+      "options": [
+        "Approximately 500,000",
+        "Over 2 million",
+        "More than 1 million",
+        "Around 100,000"
+      ],
+      "answer": "More than 1 million"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

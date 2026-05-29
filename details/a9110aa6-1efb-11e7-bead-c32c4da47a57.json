@@ -1,0 +1,60 @@
+{
+  "title": "Google Opens First Asia Campus in High-Tech Seoul",
+  "introduction": null,
+  "image": {
+    "id": "86f80bb0-100a-427b-8fb6-55ba4288b9ec",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/46gKOfJTCvHi7LxSSYpWiy.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 683
+    },
+    "attribution": "The Pancake of Heaven! / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1X3RkN1RY8ZNWM7itj4a7n.mpga",
+  "main_content": "In Seoul Friday Google opened its first campus in Asia to support Internet start-up entrepreneurs. Google hopes the new venture will give Korean high-tech programs and applications access to the world market, and give Google more access to the Korean market.\n\nCompared to the sprawling complex of buildings and green spaces that make up Google’s main campus and corporate headquarters in California’s Silicon Valley, “Campus Seoul, A Google Space” is a small venture.\n\nLocated in an office building in the trendy Gangnam neighborhood, it consists of 2,000 square meters of open office space for Korean Internet entrepreneurs to work.\n\nMary Grove, director of Google for Entrepreneurs says at Campus Seoul, aspiring Internet program developers will get encouragement, mentoring, opportunities to network, and help finding investors. This supportive environment that Google is providing free of charge, she says, also helps the company to penetrate the Korean market.\n\nSouth Korea is one of the few countries in the world where Google is not the top Internet search engine. Instead the Korean company Naver dominates that market.\n\nGoogle has similar facilities in London and Tel Aviv, but this is the company’s first such venture in Asia.\n\nGoogle decided on Seoul because it has some of the fastest Internet speeds, a large talent pool of well-educated engineers, and one of the highest percentages of smart phone users in the world.",
+  "questions": [
+    {
+      "question": "Why did Google open a new campus in Korea?",
+      "options": [
+        "To establish itself as the leading search engine in Korea",
+        "To support Internet start-up entrepreneurs and gain access to the Korean market",
+        "To compete directly with Naver and dominate the local market",
+        "To conduct market research on smartphone usage in Seoul"
+      ],
+      "answer": "To support Internet start-up entrepreneurs and gain access to the Korean market"
+    },
+    {
+      "question": "Is it a big venture?",
+      "options": [
+        "Yes, it consists of several large campuses across multiple cities",
+        "No, it is a small venture compared to Google's main campus in California",
+        "Yes, it is a significant expansion for Google in Asia",
+        "No, it only includes minimal office space without any facilities"
+      ],
+      "answer": "No, it is a small venture compared to Google's main campus in California"
+    },
+    {
+      "question": "What will Internet program developers get at Campus Seoul?",
+      "options": [
+        "Free office space and free internet access only",
+        "Only encouragement and basic mentoring",
+        "Encouragement, mentoring, networking opportunities, and help finding investors",
+        "Access to Google’s proprietary technology and tools"
+      ],
+      "answer": "Encouragement, mentoring, networking opportunities, and help finding investors"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

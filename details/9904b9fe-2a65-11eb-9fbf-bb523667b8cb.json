@@ -1,0 +1,60 @@
+{
+  "title": "Trending Today: OMG! #TwitterDown",
+  "introduction": null,
+  "image": {
+    "id": "9903f938-2a65-11eb-9fbe-fb6f054b4a76",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5wNsJfwHw7wbBwQsrnWc7d.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 340
+    },
+    "attribution": "Harland Quarrington / Wikimedia Commons / OGL",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6KXSasVJZZSB1TTD6pgdYi.mpga",
+  "main_content": "Millions of Twitter users were unable to use the social network last Tuesday, as the company suffered a major outage worldwide.\n\nUsers across Europe, the Middle East, Africa and North America reported having problems. The outages prevented many users on computers and smartphones from sharing and receiving updates and other messages.\n\nTwitter users in northern Europe began to report issues on Tuesday morning. Smartphone users there received the warning: “Tweets aren’t loading right now.”\n\nThe Twitter outages meant that the hashtag #twitterdown trended worldwide, as Twitter remained unavailable in many countries.\n\nOnce users were able to access Twitter again, many posted about what they did during the Twitter outage.\n\nOne user tweeted: “With #twitterdown, I spent some time with my family.They seem like good people.”",
+  "questions": [
+    {
+      "question": "Which hashtag was trending when the Twitter outages happened?",
+      "options": [
+        "#socialmediafail",
+        "#twitterdown",
+        "#outagealert",
+        "#tweetless"
+      ],
+      "answer": "#twitterdown"
+    },
+    {
+      "question": "In which parts of the world did users have troubles?",
+      "options": [
+        "Only in North America",
+        "Europe and North America only",
+        "Europe, the Middle East, Africa and North America",
+        "Worldwide without exception"
+      ],
+      "answer": "Europe, the Middle East, Africa and North America"
+    },
+    {
+      "question": "What did users post after they were able to access Twitter again?",
+      "options": [
+        "They complained about the outage",
+        "They shared their vacation photos",
+        "They discussed political issues",
+        "They talked about spending time with family"
+      ],
+      "answer": "They talked about spending time with family"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

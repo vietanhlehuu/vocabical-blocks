@@ -1,0 +1,60 @@
+{
+  "title": "Italy’s Vincenzo Nibali Wins Tour de France",
+  "introduction": null,
+  "image": {
+    "id": "5698a246-1116-4428-b7ff-7e4e528079a9",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2dP5pKlQ4O3U32AYuTJdM1.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 407
+    },
+    "attribution": "Denismenchov08 / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7k8T1cxvDtyE6zpPxzDQM5.mpga",
+  "main_content": "Italian cyclist Vincenzo Nibali is the winner of this year’s Tour de France.\n\nThe 29-year-old Sicilian held on to the yellow jersey as the overall leader for 19 of the 21 stages, winning four of them, and finished in the main pack of racers Sunday down the Champs Elysées in Paris.\n\nHis margin of victory over runner-up Jean-Christophe Peraud of France was 7:37. Frenchman Thibaut Pinot was third, 8:15 behind the winner, meaning two French riders made the podium for the first time since 1984.\n\nThis year’s three-week race began with three stages in Britain and covered more than 3,600 kilometres.\n\nNibali is the first Italian to win the Tour de France in 16 years, and only the sixth rider to win all three Grand Tours, in France, Italy and Spain.\n\nAfter widespread scandals in the sport involving illegal drug doping, Nibali called himself “a flag-bearer of anti-doping.”\n\nDutch cyclist Marianne Vos won a separate, one-day women’s Tour de France on an 89-kilometre course on the Champs Elysées.\n\nThe top finishing American in the men’s race was Tejay Van Garderen in fifth place, 11:44 behind Nibali.",
+  "questions": [
+    {
+      "question": "How many stages of the Tour de France did Vincenzo Nibali win this year?",
+      "options": [
+        "Two stages",
+        "Three stages",
+        "Four stages",
+        "Five stages"
+      ],
+      "answer": "Four stages"
+    },
+    {
+      "question": "In what year did the last Italian win the Tour de France before Vincenzo Nibali?",
+      "options": [
+        "1998",
+        "2000",
+        "2004",
+        "2008"
+      ],
+      "answer": "1998"
+    },
+    {
+      "question": "How long was the women’s Tour de France?",
+      "options": [
+        "75 kilometres",
+        "80 kilometres",
+        "89 kilometres",
+        "100 kilometres"
+      ],
+      "answer": "89 kilometres"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

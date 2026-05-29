@@ -1,0 +1,60 @@
+{
+  "title": "Oceans To Hold More Plastic Than Fish by 2050",
+  "introduction": null,
+  "image": {
+    "id": "e459bb90-0eab-11e7-b1f4-1b9dcda941b6",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2cNIB2WqVbJ4tcrCtOU55W.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 340
+    },
+    "attribution": "Staffan Scherz / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5rd5dgfyqT1SUWtk4c4eol.mpga",
+  "main_content": "There will be more plastic than fish in the world’s oceans by 2050, unless more recycling takes place.\n\nIf the current trend continues, oceans will contain one ton of plastic for every three tons of fish in 2025.\n\nBy 2050, plastics will weigh more than fish.\n\nThe problem is that each year at least 8 million tons of plastics end up in oceans around the world.\n\nNot all plastic ends up in the ocean just because someone throws a plastic bottle into the water.\n\nPlastic containers and other trash thrown onto streets and sidewalks often are swept into oceans.\n\nThere is a way to slow the amount of plastics going into the oceans – people can recycle more.\n\nThe report’s authors say that currently only about 14 percent of plastics are recycled.\n\nFor decades, scientists have warned that plastics are killing fish.",
+  "questions": [
+    {
+      "question": "What is often swept into the oceans?",
+      "options": [
+        "Plastic containers and other trash thrown onto streets",
+        "Fish discarded by fishermen",
+        "Natural debris from storms",
+        "Sewage and industrial waste"
+      ],
+      "answer": "Plastic containers and other trash thrown onto streets"
+    },
+    {
+      "question": "How much percent of plastic is being recycled?",
+      "options": [
+        "5 percent",
+        "14 percent",
+        "25 percent",
+        "50 percent"
+      ],
+      "answer": "14 percent"
+    },
+    {
+      "question": "How many tons of plastic will there be for every three tons of fish in 2025?",
+      "options": [
+        "One ton of plastic",
+        "Two tons of plastic",
+        "Three tons of plastic",
+        "Four tons of plastic"
+      ],
+      "answer": "One ton of plastic"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

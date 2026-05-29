@@ -1,0 +1,60 @@
+{
+  "title": "Solar-Powered Plane to Fly Around the World",
+  "introduction": null,
+  "image": {
+    "id": "e45b848e-0eab-11e7-b2f9-e79eebeaf3b9",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/40l1QBviAi6a5Ohb2HJQMR.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Anthony Quintano / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7939A5JShr2OeVfpbrBf4k.mpga",
+  "main_content": "The makers and pilots of a solar-powered plane will try to fly it around the world beginning next month.\n\nThe plane is called “Solar Impulse 2,” or SI-2. It arrived in pieces recently in Abu Dhabi in the United Arab Emirates. The plane’s material is mostly plastic strengthened with lightweight glass. It is now being assembled and prepared for its journey around the globe.\n\nThe plane’s wings are 72 meters across. They are covered with more than 17,000 solar cells. These special energy storage containers provide power to the batteries that permit the plane’s four electric motors to operate at night.\n\nOnly one person can sit in the SI-2. In March, the first pilot will take off from Abu Dhabi and fly along the equator, where the sun’s rays are strongest. The plane will land every few days so that the two pilots can take turns flying it.\n\nBertrand Piccard is one of the pilots. He also helped create the project. He says the flight around the world will require that he and the other pilot have a lot of endurance.\n\nAndre Borschberg is the other pilot. He helped Mr. Piccard create the solar planes. He says that although a computer called an autopilot can fly SI-2, he and Mr. Piccard plan to rest or sleep for only 20 minutes at a time.\n\nSI-2 is to return to Abu Dhabi in July.",
+  "questions": [
+    {
+      "question": "How many solar cells are there on the wings of SI-2?",
+      "options": [
+        "Over 10,000",
+        "More than 17,000",
+        "Around 20,000",
+        "Exactly 15,000"
+      ],
+      "answer": "More than 17,000"
+    },
+    {
+      "question": "When will SI-2 return to Abu Dhabi?",
+      "options": [
+        "In March",
+        "In July",
+        "In August",
+        "In December"
+      ],
+      "answer": "In July"
+    },
+    {
+      "question": "Who are the two pilots of SI-2?",
+      "options": [
+        "Bertrand Piccard and Andre Borschberg",
+        "Andre Borschberg and Elon Musk",
+        "Neil Armstrong and Bertrand Piccard",
+        "Richard Branson and Andre Borschberg"
+      ],
+      "answer": "Bertrand Piccard and Andre Borschberg"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

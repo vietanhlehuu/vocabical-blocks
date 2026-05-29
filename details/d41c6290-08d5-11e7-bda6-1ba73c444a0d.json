@@ -1,0 +1,60 @@
+{
+  "title": "The World Needs More Renaissance People",
+  "introduction": null,
+  "image": {
+    "id": "6db2b932-503e-42eb-aa22-8a3e768bc2d3",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3Kzq6mcrBhceWMNUuI3lnn.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Steve Hersey / Wikimedia Commons / CC-BY-SA-1.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6ubgTzc6e4VQbkV0bZ2Aj0.mpga",
+  "main_content": "The word “Renaissance” comes from Old French and means “rebirth.”\n\nThe Renaissance is a period of European history that began in the 14th century. It’s a time when Europe began to awaken from the long period known as the Middle Ages.\n\nDuring the Renaissance, people became more interested in learning.\n\nThe word renaissance can describe anything that is experiencing a rebirth.\n\nArts, crafts and musical styles often undergo a renaissance. For example, you might say that currently in the U.S. playing the ukulele is experiencing a renaissance.\n\nMany people are learning to play this small, Hawaiian guitar. Used in this way, “renaissance” is not capitalized.\n\nIn the U.S, the Harlem Renaissance is an African-American cultural movement of the 1920s and 1930s.\n\nNamed after a neighborhood of New York City, this Renaissance celebrated African-American culture.\n\nHowever, when talking about people, the term Renaissance man or woman refers to a person who is talented in many areas, especially the arts and sciences. Leonardo da Vinci, Michelangelo and Benjamin Franklin often are called Renaissance men.",
+  "questions": [
+    {
+      "question": "What does the word “Renaissance” mean?",
+      "options": [
+        "A revival of interest",
+        "A decline in culture",
+        "A period of stagnation",
+        "A specific artistic movement"
+      ],
+      "answer": "A revival of interest"
+    },
+    {
+      "question": "What is the ukulele?",
+      "options": [
+        "A traditional Hawaiian instrument",
+        "A type of guitar popular in the 19th century",
+        "An ancient string instrument from Europe",
+        "A rare musical composition style"
+      ],
+      "answer": "A traditional Hawaiian instrument"
+    },
+    {
+      "question": "What kind of person is a Renaissance man or woman?",
+      "options": [
+        "An individual focused solely on one discipline",
+        "Someone skilled in various fields, especially arts and sciences",
+        "A person known for their political achievements",
+        "An artist with limited interests"
+      ],
+      "answer": "Someone skilled in various fields, especially arts and sciences"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

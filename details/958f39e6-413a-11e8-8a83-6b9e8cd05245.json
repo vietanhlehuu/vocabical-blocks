@@ -1,0 +1,60 @@
+{
+  "title": "Resounding Earth: Creating Music from Metal",
+  "introduction": null,
+  "image": {
+    "id": "958ef526-413a-11e8-8a82-87456ad5bd32",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/TPgmfRFGjlLkw5uT96vRlBW8RPTBGzOOES1ntxFzxKC.jpeg",
+    "dimensions": {
+      "x": 4632,
+      "y": 3088
+    },
+    "attribution": "Shutterstock",
+    "public_attribution": false,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3q30zsHpyX1xSYJ7810Kci.mpga",
+  "main_content": "Sometimes you can feel the ring of a bell from your head to your feet. Take that idea and expand it and you may have an idea of what American composer Augusta Read Thomas has done. It is called “Resounding Earth” where different metals and over 100 bells from a wide mix of cultures and historic periods are used to create music.\n\nAward-winning American composer Thomas says this is the sound of the Earth.\n\nAugusta Reed Thomas says her composition is like a United Nations of resonances.\n\nOn a recent Sunday, the members of Third Coast Percussion were setting up the instruments to practice “Resounding Earth.” The Chicago-based group was invited to perform the piece at the National Gallery of Art in Washington.\n\nAll together, “Resounding Earth” includes over 350 metal objects, ranging from tiny cluster bells to huge Chinese gongs.\n\nPeter Martin says the 35-minute opus –- piece of music was many years in the making, and every move of the players was carefully planned.\n\nThe composer and the players say they would love to take the music to all the places where the bells were made and share their sound with people around the world.",
+  "questions": [
+    {
+      "question": "Whose idea was “Resounding Earth”?",
+      "options": [
+        "A famous conductor who promotes modern music",
+        "An American composer named Augusta Read Thomas",
+        "A collaboration of various international musicians",
+        "A project initiated by the National Gallery of Art"
+      ],
+      "answer": "An American composer named Augusta Read Thomas"
+    },
+    {
+      "question": "How many objects does “Resounding Earth” include?",
+      "options": [
+        "Over 250 metal objects",
+        "Exactly 350 metal objects",
+        "More than 350 metal objects",
+        "Around 400 metal objects"
+      ],
+      "answer": "More than 350 metal objects"
+    },
+    {
+      "question": "Where would Augusta Read Thomas and the players like to bring their music?",
+      "options": [
+        "To international festivals around the world",
+        "All the places where the bells were made",
+        "The National Gallery of Art only",
+        "To major cities in the United States"
+      ],
+      "answer": "All the places where the bells were made"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

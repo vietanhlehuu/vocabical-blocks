@@ -1,0 +1,60 @@
+{
+  "title": "Japan Urges N. Korea to Provide Update on Abductee Probe",
+  "introduction": null,
+  "image": {
+    "id": "02dc5c30-ff7c-4528-972a-21121d74ddb0",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/05OgkTtQgt1aOBBePnGVcG.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Mark Scott Johnson from Sydney, Australia / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/61E3FEtWpOXwiAqbS6CY1K.mpga",
+  "main_content": "Japan has called on North Korea to provide more information on an investigation into the fate of Japanese citizens abducted by Pyongyang decades ago.\n\nIn May, Pyongyang agreed to reopen a probe into the fate of Japanese abductees and of other missing Japanese in return for Tokyo easing sanctions against North Korea.\n\nLater, Tokyo lifted some of its sanctions, including restrictions on travel and money remittances. But it kept in place a ban on exports to and from North Korea. The North had been expected to present an initial report on the probe by now.\n\nEriko Yamatani, Japan’s Minister of State for The Abduction Issue, said this week that she regretted the delay. “We are asking North Korea to provide a forthcoming and accurate report,” she said.\n\nDespite the delay, Yamatani said her government has no plan to revoke its decision to ease some sanctions against the communist country, saying Tokyo will “keep the principle of action to action.”\n\nThe abduction matter has stalled progress on bilateral relations.\n\nTokyo and Pyongyang do not have diplomatic ties and the two sides have been at odds over what happened to the dozens of Japanese citizens abducted by North Korea in the 1970s and 1980s.\n\nThe Japanese government officially recognizes 17 cases, but Japan’s National Police Agency said there are more than 800 missing Japanese who may have been abducted by the North.\n\nIn 2002, Pyongyang admitted to kidnapping 13 Japanese, mainly to train its spies in Japanese language and customs. It allowed five of the abductees to return home, but claimed that the others had died.",
+  "questions": [
+    {
+      "question": "What did Pyongyang agree to do starting from last May?",
+      "options": [
+        "Reopen an investigation into Japanese abductees and other missing persons.",
+        "Lift all sanctions imposed by Japan.",
+        "Provide a complete list of abductees.",
+        "Establish diplomatic ties with Japan."
+      ],
+      "answer": "Reopen an investigation into Japanese abductees and other missing persons."
+    },
+    {
+      "question": "How did Japan respond?",
+      "options": [
+        "Revoked all sanctions against North Korea immediately.",
+        "Kept some sanctions in place while easing others.",
+        "Ignored the agreement made with Pyongyang.",
+        "Demanded additional guarantees from North Korea."
+      ],
+      "answer": "Kept some sanctions in place while easing others."
+    },
+    {
+      "question": "What did Eriko Yamatani say?",
+      "options": [
+        "Expressed satisfaction with the investigation's progress.",
+        "Regretted the delay and requested an accurate report.",
+        "Proposed stronger sanctions against North Korea.",
+        "Announced a full diplomatic relations initiative."
+      ],
+      "answer": "Regretted the delay and requested an accurate report."
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

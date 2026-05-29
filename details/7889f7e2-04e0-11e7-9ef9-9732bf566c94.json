@@ -1,0 +1,60 @@
+{
+  "title": "One Minute of ‘Intense’ Exercise May Equal 45 Minutes of Moderate Exercise",
+  "introduction": null,
+  "image": {
+    "id": "9c71a8cf-99a1-45da-8aff-4e69573b2860",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4lCkDjfROY5aqkWbAFyygq.jpeg",
+    "dimensions": {
+      "x": 800,
+      "y": 489
+    },
+    "attribution": "Javid Nikpour / Wikimedia Commons / CC-BY-4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3M7TOXI5Z8Wphgmtp83NtH.mpga",
+  "main_content": "Saying you do not have time to exercise may no longer be an excuse, according to one researcher.\n\nWriting in the journal PLOS One, researchers from McMaster University in Canada say that just one minute of intense exercise “produces health benefits similar to longer, traditional endurance training.”\n\n“This is a very time-efficient workout strategy,” says Martin Gibala, a professor of kinesiology at McMaster and lead author on the study. “Brief bursts of intense exercise are remarkably effective.”\n\nFor the study, 27 sedentary men were split into three groups, either performing intense workouts, doing moderate training or doing no training. The researchers monitored each group’s cardiorespiratory health as well as how well their body regulated blood sugar.\n\nThe intense training consisted of three, 20-second “all-out” cycle sprints, “including a two minute warm-up and three minute cool down, and two minutes of easy cycling for recovery between the hard sprints.”\n\nThe moderate group did 45 minutes of cycling with the same warm-up and cool down.\n\nAt the end of the study, ”the results were remarkably similar,” researchers said.\n\n“Most people cite ‘lack of time’ as the main reason for not being active,” said Gibala. “Our study shows that an interval-based approach can be more efficient, you can get health and fitness benefits comparable to the traditional approach, in less time.”",
+  "questions": [
+    {
+      "question": "What does the new research show?",
+      "options": [
+        "Intense exercise can replace longer endurance workouts without health drawbacks.",
+        "Traditional workout methods are more effective than intense exercise.",
+        "Sedentary individuals require at least one hour of exercise for health benefits.",
+        "Only moderate exercise can improve cardiorespiratory health."
+      ],
+      "answer": "Intense exercise can replace longer endurance workouts without health drawbacks."
+    },
+    {
+      "question": "What were the three groups that the 27 men were split into?",
+      "options": [
+        "Intense workouts, moderate training, and no training at all.",
+        "High endurance cycling, low endurance cycling, and flexibility training.",
+        "Short sprints, jogging, and rest periods.",
+        "Strength training, aerobic training, and flexibility exercises."
+      ],
+      "answer": "Intense workouts, moderate training, and no training at all."
+    },
+    {
+      "question": "What did researchers measure during the study?",
+      "options": [
+        "The participants' body weight changes and muscle mass increases.",
+        "Participants' cardiorespiratory health and blood sugar regulation.",
+        "The duration of workouts and participants' adherence to schedules.",
+        "Overall calories burned and the participants' enjoyment of workouts."
+      ],
+      "answer": "Participants' cardiorespiratory health and blood sugar regulation."
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

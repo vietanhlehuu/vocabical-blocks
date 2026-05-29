@@ -1,0 +1,60 @@
+{
+  "title": "Radiohead ‘Disappears’ from Internet, Releases New Song",
+  "introduction": null,
+  "image": {
+    "id": "64832c6b-236f-405b-806c-eb3b2ec6e8d8",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/33fB6gtDXqhSZknyapdRA8.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 543
+    },
+    "attribution": "Alterna2 / http://www.alterna2.com / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3nxN51GvHHcwys1G5BwsLJ.mpga",
+  "main_content": "The English rock band Radiohead once recorded a song called “How to Disappear Completely.”\n\nEarlier this week, the band appeared to have done just that. On Sunday, Radiohead slowly started to disappear from the Internet. Its Facebook posts and tweets were erased. The band’s website went white.\n\nThen, on May 3, the band posted a 15-second video clip on its previously empty Instagram account.\n\nThe video showed an animated bird made of clay. Later that day, it posted another video on Instagram of several animated clay people wearing masks, circling around a woman tied to a tree.\n\nAnd then, finally, came a music video for the band’s first new song in five years.\n\nThe song is called “Burn the Witch.” Scenes from the short Instagram videos appear in the music video.\n\nThe video begins with a man arriving in a new town. At first, the town seems scenic and friendly. But the man begins to see strange things going on.",
+  "questions": [
+    {
+      "question": "What did Radiohead do on the Internet?",
+      "options": [
+        "They launched a new social media campaign.",
+        "They removed their social media presence.",
+        "They started a fundraising initiative online.",
+        "They released an interactive website."
+      ],
+      "answer": "They removed their social media presence."
+    },
+    {
+      "question": "How long has it been since Radiohead have released a song?",
+      "options": [
+        "Three years",
+        "Two years",
+        "Five years",
+        "Four years"
+      ],
+      "answer": "Five years"
+    },
+    {
+      "question": "What is their new song called?",
+      "options": [
+        "Disappear Completely",
+        "Burn the Witch",
+        "How to Fade Away",
+        "Rise from the Ashes"
+      ],
+      "answer": "Burn the Witch"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

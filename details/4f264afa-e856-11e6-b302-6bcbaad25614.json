@@ -1,0 +1,60 @@
+{
+  "title": "‘Cinderella’ Is More Than Just a Movie for Kids",
+  "introduction": null,
+  "image": {
+    "id": "a198e7f6-43ef-4e71-be70-78a948639e7b",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4uvdrPrwcDSPp6QzhOm9hD.jpeg",
+    "dimensions": {
+      "x": 6000,
+      "y": 4000
+    },
+    "attribution": "TSTS Sheng / Wikimedia Commons / CC-BY-SA 2.0",
+    "public_attribution": true,
+    "lock_version": 3,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1tB8F1uKi3hC261RaqPmCP.mpga",
+  "main_content": "Years ago, the American writer Kurt Vonnegut often said there was one story that would always make a million dollars: Cinderella.\n\nIn Hollywood and in today’s economy, it is more like $70 million and that is just a start.\n\n“Cinderella” made that amount in ticket sales when it opened last weekend. But the merchandising deals linked to the movie are also hugely valuable.\n\nThe respected British actor and movie maker Kenneth Branagh directed “Cinderella.”  It stars Lily James as Ella and Academy Award winner Cate Blanchett as her evil stepmother.\n\nReviews of the movie were mixed. Steven Rea of The Philadelphia Inquirer called the film “a winning re-do.”   Richard Corliss of Time magazine wrote that “Disney finally got Cinderella right.” Other critics were not as happy with the film.\n\nSo the artistic success of the film is open to debate. What is clear, however, is the movie’s business success. It is a hit in the theaters but it is also a hit in retail.\n\nThere are products connected to the Disney film targeted not only at little girls, but women, too. For example, the famous shoe designer Jimmy Choo partnered with Disney to create a version of Cinderella’s “glass slippers” or shoes.\n\nYou can buy them for about $5,000. At that price, you would not want to lose one at the ball, even if that is the way you get your prince. Several other shoemakers also accepted Disney deals to design versions of the famous footwear.",
+  "questions": [
+    {
+      "question": "Who said that one story that would always make a million dollars is Cinderella?",
+      "options": [
+        "A. Kenneth Branagh",
+        "B. Richard Corliss",
+        "C. Kurt Vonnegut",
+        "D. Steven Rea"
+      ],
+      "answer": "C. Kurt Vonnegut"
+    },
+    {
+      "question": "Who directed the new “Cinderella” movie?",
+      "options": [
+        "A. Cate Blanchett",
+        "B. Steven Rea",
+        "C. Richard Corliss",
+        "D. Kenneth Branagh"
+      ],
+      "answer": "D. Kenneth Branagh"
+    },
+    {
+      "question": "What did the designer Jimmy Choo create?",
+      "options": [
+        "A. A red carpet for the film premiere",
+        "B. A version of Cinderella’s glass slippers",
+        "C. Costumes for the cast",
+        "D. A children’s book about Cinderella"
+      ],
+      "answer": "B. A version of Cinderella’s glass slippers"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Columbus Discovers America",
+  "introduction": null,
+  "image": {
+    "id": "e45edbca-0eab-11e7-b4e4-1f4c55ec0e2d",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6k8ZPDJrGGZLrhgmLOwqtw.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 317
+    },
+    "attribution": "Dióscoro Puebla (1831–1901) / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/48Gqjd9ATSB3M8vIwRdHEW.mpga",
+  "main_content": "Generations of school children have been taught that Christopher Columbus discovered the New World. In fact, the second Monday in October is celebrated as a national holiday – Columbus Day – to honor the European explorer.\n\nColumbus thought the shortest way to reach the East was to sail west across the Atlantic Ocean. He was right. But he also was wrong. He believed the world was much smaller than it is. He did not imagine the existence of another continent – and another huge ocean – between Europe and East Asia.\n\nColumbus and a crew of 88 men left Spain on August 3, 1492 in three ships – the Niña, the Pinta and the Santa Maria. By October 12, the sailors stood on land again on an island that Columbus named San Salvador.\n\nColumbus explored that island and the nearby islands of what are now known as Cuba and Hispaniola. He believed they were part of the coast of East Asia,which was then called the Indies. He called the people he found there Indians.\n\nIn 1502, Columbus made his final voyage to what some by then were calling the New World. He stayed on the island of Jamaica until he returned home two years later.\n\nDuring all his trips, Columbus explored islands and waterways, searching for that passage to the Indies. He never found it. Nor did he find spices or great amounts of gold. Yet, he always believed that he had found the Indies. He refused to recognize that it really was a new world.\n\nYou may be wondering about the name of this new land. If Christopher Columbus led the explorations, then why is it called “America”? The answer lies with the name of another Italian explorer: Amerigo Vespucci.\n\nHe visited the coast of South America in 1499. He wrote stories about his experiences that were widely read in Europe.\n\nIn 1507, a German mapmaker, Martin Waldseemueller, read Vespucci’s stories. He decided that the writer had discovered the new world, and thought it should be called America in his honor. And so it was.",
+  "questions": [
+    {
+      "question": "When did Columbus leave Spain for his first journey?",
+      "options": [
+        "August 3, 1492",
+        "October 12, 1492",
+        "August 3, 1502",
+        "October 12, 1502"
+      ],
+      "answer": "August 3, 1492"
+    },
+    {
+      "question": "When did Columbus make his last voyage?",
+      "options": [
+        "1492",
+        "1500",
+        "1502",
+        "1507"
+      ],
+      "answer": "1502"
+    },
+    {
+      "question": "Who is America named after?",
+      "options": [
+        "Christopher Columbus",
+        "Martin Waldseemueller",
+        "Amerigo Vespucci",
+        "Hernan Cortes"
+      ],
+      "answer": "Amerigo Vespucci"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

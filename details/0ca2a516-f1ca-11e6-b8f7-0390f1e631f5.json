@@ -1,0 +1,60 @@
+{
+  "title": "#TeaLizard Takes Over Twitter",
+  "introduction": null,
+  "image": {
+    "id": "805d8c1f-4858-437e-b988-cbd34b64b78e",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3uDlgTLtpqA1RxXLwOHZV8.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Chairman of the Joint Chiefs of Staff from Washington D.C, United States / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/29qmzc0jjEkzDW6PqvjhPA.mpga",
+  "main_content": "LeBron James was emotional Sunday night after the National Basketball Association championship.\n\nPhotographs of the basketball star crying after the win spread on social media. To some people, the photos looked a lot like the popular internet meme #CryingJordan.\n\nA meme is a funny image or a video that is copied – with small changes – and spread on social media.\n\nOn Tuesday, the ABC television show Good Morning America asked on Twitter about a possible new #CryingLeBron meme.\n\nThe Tweet included a picture of Kermit the Frog drinking tea.\n\nKermit the Frog is part of the popular Internet meme known as “None of My Business.”\n\nKermit is one of the Muppets, a group of characters created by puppeteer Jim Henson.\n\nGood Morning America’s tweet read: “Does #CryingLeBron join other meme greats like #tealizard, [and] #CryingJordan?”\n\nTwitter users quickly reacted, criticizing the TV show for calling Kermit the Frog a lizard. Kermit is, of course, a frog puppet. Not a lizard puppet.\n\nPeople on social media mocked Good Morning America for mistaking the world-famous frog for a lizard.",
+  "questions": [
+    {
+      "question": "Why did LeBron James cry?",
+      "options": [
+        "He lost a close game",
+        "He was overwhelmed with joy after winning the championship",
+        "He was comforted by his teammates",
+        "He was criticized by fans after the game"
+      ],
+      "answer": "He was overwhelmed with joy after winning the championship"
+    },
+    {
+      "question": "What is an Internet meme?",
+      "options": [
+        "A type of video game",
+        "A funny image or video that is copied and spread on social media",
+        "A sports term used in basketball",
+        "An online news article"
+      ],
+      "answer": "A funny image or video that is copied and spread on social media"
+    },
+    {
+      "question": "Why did people criticize the ABC television show Good Morning America?",
+      "options": [
+        "For not broadcasting live",
+        "For incorrectly labeling Kermit the Frog as a lizard",
+        "For ignoring the LeBron James emotional moment",
+        "For posting an irrelevant meme"
+      ],
+      "answer": "For incorrectly labeling Kermit the Frog as a lizard"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

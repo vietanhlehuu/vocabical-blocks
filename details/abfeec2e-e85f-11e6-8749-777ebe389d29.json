@@ -1,0 +1,60 @@
+{
+  "title": "IMF Adds China’s Yuan to World’s Top Currencies",
+  "introduction": null,
+  "image": {
+    "id": "ccf7eb5e-1b57-4341-b718-1e4012edbd5c",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6EljWE0bHK0zrtbfY81VnA.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 310
+    },
+    "attribution": "AgnosticPreachersKid / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5lajYu5hNMW55FTv6E2z0H.mpga",
+  "main_content": "The International Monetary Fund (IMF) added China’s yuan to its group of key global currencies this week, a historic development that gives new status to the world’s second-largest economy.\n\nThe IMF said the yuan, also called the renminbi, will be added to the group of reserve currencies. Those include the U.S. dollar, Europe’s euro, the Japanese yen and the British pound.\n\nThe new IMF designation will take effect at the end of September 2016.\n\nChina had worked toward winning the designation for several years.\n\nThe IMF decision reflects the declining influence of Europe in world financial markets.\n\nIn the new IMF designation, the IMF will give more weight to China’s currency than to either the yen or the pound.",
+  "questions": [
+    {
+      "question": "What currencies are included in the reserve currencies?",
+      "options": [
+        "A. U.S. dollar, Europe’s euro, Japanese yen, British pound",
+        "B. Bitcoin, Canadian dollar, Swiss franc, Australian dollar",
+        "C. Indian rupee, Russian ruble, South African rand, Argentine peso",
+        "D. Chinese yuan, Brazilian real, Mexican peso, Malaysian ringgit"
+      ],
+      "answer": "A. U.S. dollar, Europe’s euro, Japanese yen, British pound"
+    },
+    {
+      "question": "When will the yuan become a reserve currency?",
+      "options": [
+        "A. Immediately after the IMF's announcement",
+        "B. At the end of September 2016",
+        "C. By the end of 2017",
+        "D. During the next IMF annual meeting in 2015"
+      ],
+      "answer": "B. At the end of September 2016"
+    },
+    {
+      "question": "What does IMF stand for?",
+      "options": [
+        "A. International Monetary Federation",
+        "B. International Monetary Fund",
+        "C. International Market Framework",
+        "D. International Money Fund"
+      ],
+      "answer": "B. International Monetary Fund"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

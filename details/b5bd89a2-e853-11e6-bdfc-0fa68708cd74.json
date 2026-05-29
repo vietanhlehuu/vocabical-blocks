@@ -1,0 +1,60 @@
+{
+  "title": "Entertainer David Bowie and the Berlin Wall",
+  "introduction": null,
+  "image": {
+    "id": "e45cafa8-0eab-11e7-b3ad-3b2aae504af9",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5790n6w7RAQm5yStjhijoZ.jpeg",
+    "dimensions": {
+      "x": 790,
+      "y": 522
+    },
+    "attribution": "Photobra|Adam Bielawski / Wikimedia Commons / CC-BY-SA 3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4ZNRsIahwzt2hNjojmy1my.mpga",
+  "main_content": "David Bowie is a British singer/songwriter who remains one of the recognizable singers in the world of pop/rock music.\n\nBeginning in the late 1960s and continuing through the 1980s, his music was edgy and experimental.\n\nMany of Bowie’s albums and concerts featured strangely dressed characters, like Ziggy Stardust and The Thin White Duke. These characters allowed him to experiment and to create unusual music for that time.\n\nOn June 7, 1987, David Bowie returned to then-West Berlin to perform a concert close to the Berlin Wall.\n\n“We send our wishes to all our friends who are on the other side of the wall,” he said in German. Reportedly, East Germans gathered to listen to the concert on the other side of the wall.\n\nBowie then sang the song Heroes, a song he had written in the capital. The song Heroes is about the Cold War and about the divided city of Berlin. Crowds on the other side of the Berlin Wall in East Germany cheered.\n\nWeeks later then – U.S. President Ronald Reagan made his now-famous speech.\n\n(Here is a portion of the lyrics referring to the Berlin Wall.)\n\nI, I can remember (I remember) Standing, by the wall (by the wall) And the guns shot above our heads (over our heads) And we kissed, as though nothing could fall (nothing could fall) And the shame was on the other side Oh we can beat them, for ever and ever Then we could be Heroes, just for one day",
+  "questions": [
+    {
+      "question": "Who is David Bowie?",
+      "options": [
+        "A renowned British poet known for his literary works",
+        "A British painter celebrated for his abstract art",
+        "A British singer/songwriter recognized in pop/rock music",
+        "A film director famous for his avant-garde movies"
+      ],
+      "answer": "A British singer/songwriter recognized in pop/rock music"
+    },
+    {
+      "question": "When did David Bowie return to then-West Berlin to perform a concert close to the Berlin Wall?",
+      "options": [
+        "In the late 1960s",
+        "On June 7, 1987",
+        "Weeks later in 1988",
+        "After the Berlin Wall fell"
+      ],
+      "answer": "On June 7, 1987"
+    },
+    {
+      "question": "What is the song Heroes about?",
+      "options": [
+        "The Cold War and the divided city of Berlin",
+        "The life of David Bowie in London",
+        "The unification of Germany after World War II",
+        "The struggles of artists in the music industry"
+      ],
+      "answer": "The Cold War and the divided city of Berlin"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

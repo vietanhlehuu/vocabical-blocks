@@ -1,0 +1,60 @@
+{
+  "title": "Indonesian Pianist, 12, Wows Jazz World",
+  "introduction": null,
+  "image": {
+    "id": "0b19c3cc-6a08-4fc2-845e-e6320d44e34a",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/0KwgmybtSDbTrw99kwKstW.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Daryl Durand from Kansas City, United States / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6PrMNdDAxHxPP18GB7OKRo.mpga",
+  "main_content": "People who listen to Joey Alexander play the piano say they are listening to the future of jazz.\n\nAnd Joey is only 12 years old.\n\nBut musicians who work with the 12-year-old are the first to say that age does not matter.\n\nThe young pianist earned two Grammy nominations this year, one for “Best Improvised Jazz Solo” and one for “Best Jazz Instrumental Album.”\n\nHe is one of the youngest musicians ever to earn a Grammy nomination.\n\nJason Olaine produced Joey’s debut album titled My Favorite Things.\n\nJoey Alexander was born Josiah Alexander Sila in Bali, Indonesia. At age 6, he learned to play jazz by ear. Playing music by ear means to learn a piece of music just by listening to it, not by reading notes.\n\nJoey’s family moved from Bali to Jakarta. There, Joey played with some of Indonesia’s best jazz artists. Joey’s parents then decided to move the family to New Jersey, close to New York City.\n\nJoey is home-schooled. And when he is not performing, he says he is just a normal kid.",
+  "questions": [
+    {
+      "question": "What instrument does Joey play?",
+      "options": [
+        "Drums",
+        "Guitar",
+        "Saxophone",
+        "Piano"
+      ],
+      "answer": "Piano"
+    },
+    {
+      "question": "What is Joey’s debut album called?",
+      "options": [
+        "Jazz Roots",
+        "My Favorite Things",
+        "Young Virtuoso",
+        "Future of Jazz"
+      ],
+      "answer": "My Favorite Things"
+    },
+    {
+      "question": "What nominations did he receive this year?",
+      "options": [
+        "Best New Artist and Best Album",
+        "Best Improvised Jazz Solo and Best Jazz Instrumental Album",
+        "Best Live Performance and Best Arrangement",
+        "Best International Artist and Best Collaboration"
+      ],
+      "answer": "Best Improvised Jazz Solo and Best Jazz Instrumental Album"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

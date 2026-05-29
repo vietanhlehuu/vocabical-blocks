@@ -1,0 +1,60 @@
+{
+  "title": "From Taxi Driver to Famous Fishing Fly Maker",
+  "introduction": null,
+  "image": {
+    "id": "0dcd9cc2-761a-11ed-9d72-23a3fae3c7a8",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/wkfAIvh712TuRvH1yBCSFxFexELPS7cjcRuWBBD7YY5.jpeg",
+    "dimensions": {
+      "x": 3318,
+      "y": 2208
+    },
+    "attribution": "Shutterstock",
+    "public_attribution": false,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2w2Dk8LpAjHeWS1pbpuWqf.mpga",
+  "main_content": "Elpheus Ndlovu has come a long way from his village in the South African province of Mpumalanga. He once worked as a taxi driver. Now, he makes fishing flies – artificial, man-made flies that are used to catch fish. The flies he now ties are used all over the world by fishers to make record-breaking catches.\n\nA man tests a fishing reel in the Fly-Fishers Unlimited store in Johannesburg. Next to him is a quiet man in his 40s. Elpheus Ndlovu is affectionately known as ‘Alphons’ in the fly-fishing community.\n\nElpheus Ndlovu uses both natural materials, such as bird feathers, and artificial ones, like plasti. His goal is to make flies look like real creatures – insects, frogs, minnows and crabs – that fish feed on.\n\nElpheus Ndlovu likes to remember the day back in 1994 when he saw the newspaper advertisement that changed his life.\n\nWhile making fishing rods, he met the owner of Fly-Fishers Unlimited, Murray Pedder, who taught him to how tie flies.\n\nInstead of a job, Elpheus ‘Alphons’ Ndlovu has found a job that has enabled him to buy a house and to educate his four children.",
+  "questions": [
+    {
+      "question": "Who did Elpheus Ndlovu used to work as?",
+      "options": [
+        "Taxi driver",
+        "Fishing rod manufacturer",
+        "Store manager",
+        "Fly-fishing instructor"
+      ],
+      "answer": "Taxi driver"
+    },
+    {
+      "question": "How is Elpheus Ndlovu known in the fly-fishing community?",
+      "options": [
+        "Alphons",
+        "Murray",
+        "Ndlovu the Great",
+        "The Fly Master"
+      ],
+      "answer": "Alphons"
+    },
+    {
+      "question": "Who taught Mr Ndlovu to tie flies?",
+      "options": [
+        "A local fisherman",
+        "His father",
+        "Murray Pedder",
+        "A magazine editor"
+      ],
+      "answer": "Murray Pedder"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

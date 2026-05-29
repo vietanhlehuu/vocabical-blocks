@@ -1,0 +1,60 @@
+{
+  "title": "Spain’s Mainstream Political Parties Suffer Setbacks in Local Elections",
+  "introduction": null,
+  "image": {
+    "id": "1dabc726-9a8b-4df0-b2bc-5d3d68a14106",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/0tzHN9d9B9iUn2Ut4ncI2Y.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 288
+    },
+    "attribution": "Barcex / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2k7yvWoJduoz66mBLMam0T.mpga",
+  "main_content": "Spain’s mainstream political parties were battered in local and regional elections Sunday, as voters chafing under harsh austerity policies, high unemployment and corruption scandals turned against ruling conservatives and opposition socialists.\n\nAs vote counting continued early Monday, the two mainstream parties were shown carrying 52 percent of the nationwide vote, with vote counting about 90 percent complete. Conservatives and socialists pulled about 65 percent of the nationwide vote four years ago.\n\nThe jubilant leader of the upstart anti-austerity party Podemos described the incomplete returns as “the end of bipartisan politics in Spain,” which he said “points directly to change.” Pablo Iglesias, speaking to reporters, also called that change “irreversible” and said his party’s next challenge is to win general elections later this year.\n\nIn Madrid, where a ruling People’s Party mayor has served since 1991, Prime Minister Rajoy’s candidates were shown late Sunday in a close race with a leftist platform backed by Podemos.\n\nControl of more than 8,000 Spanish town halls and 13 of 17 regional parliaments were decided Sunday, and analysts say final results will serve as a barometer for national elections set for November.",
+  "questions": [
+    {
+      "question": "Why were voters angry at the two main parties?",
+      "options": [
+        "Austerity policies and corruption scandals",
+        "Lack of interest in environmental issues",
+        "Promises made in previous elections",
+        "Debates over international relations"
+      ],
+      "answer": "Austerity policies and corruption scandals"
+    },
+    {
+      "question": "How is the Podemos party described?",
+      "options": [
+        "As a traditional conservative party",
+        "As an upstart anti-austerity party",
+        "As a union of various regional parties",
+        "As a long-established political organization"
+      ],
+      "answer": "As an upstart anti-austerity party"
+    },
+    {
+      "question": "What is Podemos aiming to do later this year?",
+      "options": [
+        "Win general elections",
+        "Expand their influence in international politics",
+        "Merge with the ruling conservatives",
+        "Establish a coalition with the socialists"
+      ],
+      "answer": "Win general elections"
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

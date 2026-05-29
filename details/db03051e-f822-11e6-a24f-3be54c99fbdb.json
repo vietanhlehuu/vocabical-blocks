@@ -1,0 +1,60 @@
+{
+  "title": "Americans Use Orange to Protest Gun Violence",
+  "introduction": null,
+  "image": {
+    "id": "ee31fa74-d651-4d4c-bda2-3164b4b60c85",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/7FT0rmJnAcFzxBx2fF2QI1.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 472
+    },
+    "attribution": "Fcb981 / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1fvhfhU4728tiVclM4x3Ul.mpga",
+  "main_content": "Mass shootings have become very common in the United States.\n\nSome Americans want stronger gun controls. Others say people should be free to carry guns wherever they want to protect themselves.\n\nThree years ago, a group of teenagers from the South Side of Chicago launched a campaign. The group asked their classmates to honor Hadiya Pendleton, a victim of gun violence, by wearing orange shirts.\n\nThe action has grown into a movement called Wear Orange. The hashtag #WearOrange can be seen all over Twitter and Facebook.\n\nMany famous American buildings were lit up in orange on Thursday. One such building was the Empire State Building in New York City.\n\nMany famous Americans and organizations expressed support for the movement.\n\nSome people disagree that guns are the problem. One Twitter user wrote that “guns are not violent, people are.”",
+  "questions": [
+    {
+      "question": "Who did the teenagers from the South Side of Chicago want to honor?",
+      "options": [
+        "A famous politician",
+        "Hadiya Pendleton",
+        "A historical figure",
+        "Their school principal"
+      ],
+      "answer": "Hadiya Pendleton"
+    },
+    {
+      "question": "Which famous building is mentioned in the text?",
+      "options": [
+        "The White House",
+        "The Empire State Building",
+        "The Willis Tower",
+        "The Golden Gate Bridge"
+      ],
+      "answer": "The Empire State Building"
+    },
+    {
+      "question": "Do all people agree that guns are the problem?",
+      "options": [
+        "Yes, everyone believes that guns are the issue",
+        "No, some believe that the problem lies with people",
+        "Yes, it is a universal opinion",
+        "No, there is a division of opinion on the matter"
+      ],
+      "answer": "No, there is a division of opinion on the matter"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

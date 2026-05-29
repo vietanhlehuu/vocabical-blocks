@@ -1,0 +1,60 @@
+{
+  "title": "Happy 10th Birthday, Twitter",
+  "introduction": null,
+  "image": {
+    "id": "c46aaa04-d39f-485a-a011-485744a28cbd",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5ydEzEQ7ZfaHkKJ7hr0ZbB.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 374
+    },
+    "attribution": "Jason Krüger / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4zOgAmGkugL7h1MQyY3kv6.mpga",
+  "main_content": "Twitter is 10 years old. In that relatively short amount of time, the microblogging service has become a key way many people communicate whether it be political activists, journalists, celebrities or simply teenagers posting pictures of their food.\n\nSome of the biggest events of the past 10 years broke on Twitter.\n\nIn January of 2009, when a US Air flight had to make an emergency landing in the Hudson River, someone from the scene posted an iconic photo.\n\nIn 2011, a Pakistani man inadvertently tweeted about the U.S.raid that eventually killed Osama Bin Laden.\n\nU.S. President Barack Obama marked his re-election in 2012 with a tweet of “four more years” and a photo of him hugging his wife Michelle. It almost immediately became the most retweeted Twitter remark at the time.\n\nEven the Pope is on Twitter, having joined in 2012.\n\nBut while the social media company boasts over 320 million active users, the birthday comes amid questions about the company’s future.\n\nFor example, despite being popular among celebrities, politicians and companies, it has yet to find a way to make money.\n\nIt has also come under fire for being slow to police hate speech.\n\nThe problems spurred its founder, Jack Dorsey, to return to the company to try to engineer a turnaround.\n\nOne early floated idea was to do away with Twitter’s iconic 140-character limit, but Dorsey said earlier this month that the limit would stand.\n\nThe company has made some cosmetic and functional changes to the product. For example, it added “moments” which it says will allow users to more easily find tweets, and it changed the “favorite” icon from a star to a heart.\n\n“We’re not going to be shy about building more utility and power into Twitter for people,” Dorsey tweeted recently.",
+  "questions": [
+    {
+      "question": "What event was Twitter’s highlight in 2009?",
+      "options": [
+        "The emergency landing of a US Air flight in the Hudson River",
+        "The announcement of Barack Obama's presidential campaign",
+        "The launch of Twitter's 'moments' feature",
+        "The Pope joining Twitter"
+      ],
+      "answer": "The emergency landing of a US Air flight in the Hudson River"
+    },
+    {
+      "question": "Which remark became the most retweeted in history in 2012?",
+      "options": [
+        "A tweet from the Pope welcoming followers to Twitter",
+        "Barack Obama's tweet of 'four more years'",
+        "A tweet announcing the death of Osama Bin Laden",
+        "A celebrity's tweet about their latest project"
+      ],
+      "answer": "Barack Obama's tweet of 'four more years'"
+    },
+    {
+      "question": "What is Twitter’s biggest problem right now?",
+      "options": [
+        "The challenge of expanding its user base actively",
+        "Difficulty in monetizing its platform effectively",
+        "The inability to form partnerships with major companies",
+        "Issues with data privacy and user security"
+      ],
+      "answer": "Difficulty in monetizing its platform effectively"
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

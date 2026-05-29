@@ -1,0 +1,60 @@
+{
+  "title": "Getting Art to the People via the Web",
+  "introduction": null,
+  "image": {
+    "id": "b4d50992-7f39-4ea0-8677-a594427f47a7",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5VDyaQKmqUsjxpkRHh5CUB.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 366
+    },
+    "attribution": "Jennifer Rensel / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6k5hHzHRoCPSmRJ03CxFNh.mpga",
+  "main_content": "For many artists, it is a lack of exposure rather than a lack of talent that keeps the public from seeing their work.\n\nTo rectify the situation, MOV!, an organization dedicated to promoting art, is using Facebook to try and get some aspiring artists the exposure that could make their career.",
+  "questions": [
+    {
+      "question": "Why are many artists unable to get their work seen by the public?",
+      "options": [
+        "Because they lack exposure",
+        "Because they lack artistic talent",
+        "Because they have no interest in sharing their work",
+        "Because art organizations refuse to promote them"
+      ],
+      "answer": "Because they lack exposure"
+    },
+    {
+      "question": "What is MOV! using to promote aspiring artists?",
+      "options": [
+        "Facebook",
+        "Television commercials",
+        "Newspaper advertisements",
+        "Museum exhibitions"
+      ],
+      "answer": "Facebook"
+    },
+    {
+      "question": "What is MOV!'s goal in promoting these artists on Facebook?",
+      "options": [
+        "To give them the exposure that could help their careers",
+        "To sell their artwork to art critics",
+        "To replace traditional art galleries",
+        "To organize a contest for the best painting"
+      ],
+      "answer": "To give them the exposure that could help their careers"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

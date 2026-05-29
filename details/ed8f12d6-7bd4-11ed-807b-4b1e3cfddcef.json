@@ -1,0 +1,60 @@
+{
+  "title": "UN: Temple Destruction Is a ‘Crime Against Civilization’",
+  "introduction": null,
+  "image": {
+    "id": "ed8ed8ca-7bd4-11ed-807a-b7bcf40f5fe3",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/02UKRgh44YEMDVroysjeq5.jpeg",
+    "dimensions": {
+      "x": 3456,
+      "y": 1797
+    },
+    "attribution": "Bernard Gagnon / Wikimedia Commons / CC-BY-SA 3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5tlCjbL1QhZGQSV4RygKmK.mpga",
+  "main_content": "A United Nations official says Islamic State militants have destroyed the Temple of Bel in the historic Syrian city of Palmyra. The head of the U.N.’s cultural agency is calling the destruction, an “intolerable crime against civilization.”\n\nOfficials say the militants used explosives to destroy the ancient ruins.\n\nMaamoun Abdulkarim is Syria’s antiquities director. He said on Monday there had been a big explosion in the area. But he added that no one has been able to get close enough yet to confirm how much, if any, of the temple survived.\n\nThe Temple of Bel is nearly 2,000 years old. Syrians consider it to be one of the country’s most important shrines.\n\nLast week, the Islamic State released pictures of militants destroying another ancient Palmyra temple, Baal Shamin. The pictures were published on social media. The U.N. called that attack, a war crime.\n\nHistorians began saying Palmyra’s priceless treasures were endangered when Islamic State forces seized the city in May. The militants have also destroyed historic artifacts in Iraq. They say the ancient objects are blasphemous – an insult to God.",
+  "questions": [
+    {
+      "question": "Pictures of what has the Islamic State released?",
+      "options": [
+        "The Temple of Bel",
+        "The ancient ruins of Palmyra",
+        "Militants destroying Baal Shamin",
+        "Cultural heritage artifacts"
+      ],
+      "answer": "Militants destroying Baal Shamin"
+    },
+    {
+      "question": "Who is Maamoun Abdulkarim?",
+      "options": [
+        "A U.N. cultural agency official",
+        "A historian from Palmyra",
+        "Syria’s antiquities director",
+        "An Islamic State spokesperson"
+      ],
+      "answer": "Syria’s antiquities director"
+    },
+    {
+      "question": "What temple was destroyed?",
+      "options": [
+        "The Temple of Bel",
+        "The Temple of Baal Shamin",
+        "The Temple of Solomon",
+        "The Temple of Amun"
+      ],
+      "answer": "The Temple of Bel"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

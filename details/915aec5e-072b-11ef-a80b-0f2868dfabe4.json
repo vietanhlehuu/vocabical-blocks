@@ -1,0 +1,60 @@
+{
+  "title": "Caring for an Aging Population",
+  "introduction": null,
+  "image": {
+    "id": "915a6ae0-072b-11ef-a80a-27fcef81a692",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/Gifq4PWFnGrPg28A6cnnhuIOSMWFDcngqhuS9FgT6W5.jpeg",
+    "dimensions": {
+      "x": 5760,
+      "y": 3840
+    },
+    "attribution": "Shutterstock",
+    "public_attribution": false,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/33DOtEok7ARp2Ye9GsYJoq.mpga",
+  "main_content": "Everywhere in the world, people are living longer. Studies show the average age of the human population is rising. By the year 2050, an estimated two billion people will be aged 60 or older.\n\nThe WHO (World Health Organisation) says governments must prepare now to deal with an increasingly aging world. As people age, they may develop long-term health problems. These disorders may affect their quality of life and create problems for society and health care systems.\n\nCaring for an aging population takes both time and money. The responsibility of caring for an older person often falls on family members. And this can create difficulties.\n\nWhich countries have the oldest populations?\n\nIn 2050 China will be the country with the largest population aged 80 years or over with 90 million. India will come in second with 37 million. And the U.S. will be third with 32 million.\n\nOther countries with the largest populations of the 80 and older crowd will be Japan, Brazil, Germany, France, Italy, Britain and the Russian Federation. This is according to the World Health Organization.",
+  "questions": [
+    {
+      "question": "What’s “WHO”?",
+      "options": [
+        "World Health Organization",
+        "Worldwide Health Organisation",
+        "World Humanitarian Organization",
+        "World Health Order"
+      ],
+      "answer": "World Health Organization"
+    },
+    {
+      "question": "What can happen to people as they age?",
+      "options": [
+        "They may develop long-term health problems",
+        "They become immune to diseases",
+        "They gain increased physical strength",
+        "They require less sleep"
+      ],
+      "answer": "They may develop long-term health problems"
+    },
+    {
+      "question": "Which countries will have the largest elderly populations in the future?",
+      "options": [
+        "Australia and Canada",
+        "China and India",
+        "Russia and Brazil",
+        "Germany and France"
+      ],
+      "answer": "China and India"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

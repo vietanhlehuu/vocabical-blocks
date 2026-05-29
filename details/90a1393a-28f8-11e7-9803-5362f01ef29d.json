@@ -1,0 +1,60 @@
+{
+  "title": "US Northeast Braces for Heavy Winter Storm",
+  "introduction": null,
+  "image": {
+    "id": "b34aed24-a2f3-4fe7-a60f-b98005680cbc",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5SJroS56PTDqTnpSQF4rim.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 339
+    },
+    "attribution": "Rex Hammock / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4fHdmH4skF746UKVO1nCep.mpga",
+  "main_content": "A massive snowstorm expected to cripple much of the northeastern U.S. over the next two days began hitting major metropolitan areas from Washington, DC to Boston on Monday.\n\nThe brunt of the storm missed the nation’s capital, but farther north, the states of New Jersey, New York, Connecticut, Rhode Island and Massachusetts declared snow emergencies. Tens of millions of people were urged to stay home as Amtrak reduced train service in the busy Northeast Corridor and airlines canceled hundreds of flights in anticipation of blizzard conditions Monday night into early Wednesday.\n\nAs much as 90 centimeters of snow was expected to fall in the upper regions of the Northeast, accompanied by near hurricane-force winds and coastal flooding.\n\nAcross the region, store shelves were cleared out as residents scrambled to pick up supplies including food, shovels and electricity generators, while preparing for the possibility of a few days spent indoors.\n\nNew York City Mayor Bill de Blasio said the storm could be one of the worst the city has ever faced, topping a list that goes back to 1872. Officials throughout the region warned people to expect widespread power outages, possibly for several days.\n\nNew York’s Governor Andrew Cuomo ordered a complete travel ban, starting late Monday night, for more than a dozen counties around New York City.\n\nBoston Mayor Martin Walsh urged people to help one another.\n\n“We ask that each and every single Boston resident look after their neighbor, be it someone you see outdoors or someone living next door,” he said.\n\nThe worst of the storm in the Northeast was expected overnight Monday. But forecasters warned it might not stop snowing until Wednesday morning.\n\nIn Washington, the U.S. House of Representatives canceled votes scheduled for Monday night and Tuesday. The United Nations in New York closed early on Monday and was to remain closed on Tuesday. All Broadway theater productions in Manhattan were to shut down Monday night.",
+  "questions": [
+    {
+      "question": "What happened because of heavy snowfall?",
+      "options": [
+        "The U.S. House of Representatives canceled votes",
+        "Train service was increased in the Northeast Corridor",
+        "Airlines announced additional flights",
+        "Schools in the region remained open"
+      ],
+      "answer": "The U.S. House of Representatives canceled votes"
+    },
+    {
+      "question": "What weather conditions were predicted?",
+      "options": [
+        "Rainfall across the southeast",
+        "Near hurricane-force winds and coastal flooding",
+        "Mild temperatures and clear skies",
+        "Drought conditions prevailing"
+      ],
+      "answer": "Near hurricane-force winds and coastal flooding"
+    },
+    {
+      "question": "What were people warned about?",
+      "options": [
+        "Possible traffic jams on major highways",
+        "Widespread power outages, possibly for several days",
+        "Lack of available snow removal services",
+        "Heavy fines for travel during the storm"
+      ],
+      "answer": "Widespread power outages, possibly for several days"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

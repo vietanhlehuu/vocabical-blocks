@@ -1,0 +1,60 @@
+{
+  "title": "Killing of Gorilla at US Zoo Causes Uproar",
+  "introduction": null,
+  "image": {
+    "id": "b2b8acc7-6c2a-4d5f-94ff-ec254a97b6ec",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5RF1ugr6rEVCYUjJhrMAsm.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 588
+    },
+    "attribution": "Greg Hume / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1Yfa4OhHozRQHmjXaE178U.mpga",
+  "main_content": "Critics were outraged after zoo officials shot and killed a gorilla that held a 4-year-old boy at an American zoo this weekend.\n\nHarambe, a male gorilla, was shot and killed Saturday by Cincinnati Zoo officials. The boy had fallen into the gorilla’s exhibit. Officials feared the animal would hurt the four-year-old.\n\nThe boy climbed over a 3-foot-tall railing, walked through bushes and fell into the moat of the gorilla exhibit.\n\nZookeepers called to the gorillas to come out of the exhibit. Two female gorillas complied, but Harambe did not.\n\nZoo officials decided to shoot the gorilla.\n\nZoo Director Thane Maynard said there was no doubt that the boy’s life was in danger.\n\nTranquilizing Harambe was not an option, Maynard said.\n\nCritics are furious about the killing of Harambe. Many on social media are blaming Michelle Gregg, the mother of the boy.\n\nOthers have defended Gregg and the zoo.",
+  "questions": [
+    {
+      "question": "What was the name of the gorilla?",
+      "options": [
+        "Cincinnati",
+        "Harambe",
+        "Thane",
+        "Michelle"
+      ],
+      "answer": "Harambe"
+    },
+    {
+      "question": "Who is Thane Maynard?",
+      "options": [
+        "A zookeeper who shot the gorilla",
+        "The zoo's director",
+        "The boy's father",
+        "A witness to the incident"
+      ],
+      "answer": "The zoo's director"
+    },
+    {
+      "question": "Who are critics blaming?",
+      "options": [
+        "The zoo officials",
+        "The gorilla itself",
+        "Michelle Gregg",
+        "The boy's friends"
+      ],
+      "answer": "Michelle Gregg"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

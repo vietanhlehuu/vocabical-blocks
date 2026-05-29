@@ -1,0 +1,60 @@
+{
+  "title": "Melting Arctic Sea Ice Shows Global Warming",
+  "introduction": null,
+  "image": {
+    "id": "3f1eee45-5fbe-4af1-9810-4bc787e414de",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1v6eQFcRwFBG6cq6pWqhFG.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "NASA Goddard Space Flight Center from Greenbelt, MD, USA / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6HFvqW76Yxf2izLymjOjEy.mpga",
+  "main_content": "Arctic sea ice is melting faster than expected, and that means big changes in Earth’s climate.\n\nThat warning comes from the World Meteorological Organization (WMO). Its scientists are calling for the establishment of an Arctic observatory to help deal with possible dangerous changes resulting from the melting ice.\n\nThe WMO believes changes in the Arctic area are likely evidence of a coming disaster. 2016 is predicted to be the hottest year since 150 years ago.\n\nThe Arctic is warming at least two times as fast as the world average, the WMO said. Arctic sea ice now covers 40 percent less area at the height of the summer melt season than it did in the 1970s and 1980s.\n\nPetteri Taalas is the WMO’s Secretary-General.\n\n“There are also some species of animals who have difficulties in coping with these changes,” Taalas said. These are polar bears, Arctic seals, and even some birds.\n\nTaalas also warned that the melting of the Arctic’s frozen permafrost could release large amounts of greenhouse gases. Those gases are the ones that speed up the rise of temperatures.",
+  "questions": [
+    {
+      "question": "What do the scientists believe could help us deal with these changes?",
+      "options": [
+        "Increased global temperatures",
+        "Permanently stabilizing Arctic wildlife populations",
+        "Establishment of an Arctic observatory",
+        "Implementation of stricter fishing regulations"
+      ],
+      "answer": "Establishment of an Arctic observatory"
+    },
+    {
+      "question": "Which animals species are struggling with these changes?",
+      "options": [
+        "Arctic foxes and walruses",
+        "Polar bears, Arctic seals, and some birds",
+        "Bald eagles and humpback whales",
+        "Snowy owls and gray wolves"
+      ],
+      "answer": "Polar bears, Arctic seals, and some birds"
+    },
+    {
+      "question": "What could the melting of the Arctic’s frozen permafrost bring about?",
+      "options": [
+        "An increase in Arctic tourism",
+        "An explosion in fish populations",
+        "Release of large amounts of greenhouse gases",
+        "Formation of new icebergs"
+      ],
+      "answer": "Release of large amounts of greenhouse gases"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "NASA: Big Asteroid Could Pass Near Earth Next Month",
+  "introduction": null,
+  "image": {
+    "id": "d12e31a1-fb89-4702-ab1c-edf7814a9111",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6MiVQudLdxtZRsVYe9GCqv.jpeg",
+    "dimensions": {
+      "x": 498,
+      "y": 285
+    },
+    "attribution": "Paola-Castillo / Wikimedia Commons / CC0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4oNjDf5fX6i9Jyh66hj1H5.mpga",
+  "main_content": "Experts at America’s space agency, NASA, are watching a 30-meter wide asteroid as it comes near the Earth in March.\n\nAccording to NASA, the asteroid has no chance of hitting Earth. It could fly as close as within 17,700 kilometers of the planet on March 5.\n\nThis asteroid was discovered in 2013 and was named TX68.\n\nThe asteroid is about twice the size of another one that exploded over Russia in 2013. That explosion shattered glass, destroyed buildings, and injured more than 1,000 people.\n\nIf an asteroid the size of TX68 entered the Earth’s atmosphere and exploded, NASA estimates it would be twice as powerful as the 2013 Russian asteroid blast.\n\nTX68 is expected to approach the Earth again on September 28, 2017.",
+  "questions": [
+    {
+      "question": "What is the name of the asteroid?",
+      "options": [
+        "TX58",
+        "TX68",
+        "TX75",
+        "TX60"
+      ],
+      "answer": "TX68"
+    },
+    {
+      "question": "When will the asteroid approach the Earth again?",
+      "options": [
+        "March 5, 2021",
+        "September 28, 2017",
+        "March 5, 2023",
+        "September 28, 2020"
+      ],
+      "answer": "September 28, 2017"
+    },
+    {
+      "question": "When did an asteroid explode over Russia?",
+      "options": [
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+      ],
+      "answer": "2013"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

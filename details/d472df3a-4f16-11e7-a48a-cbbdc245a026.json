@@ -1,0 +1,60 @@
+{
+  "title": "Best US Beach? ‘Dr. Beach’ Says Hawaii’s Got It",
+  "introduction": null,
+  "image": {
+    "id": "b4486579-6216-4af4-8d7f-cd7ff5432d42",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5UBheY68YCWvwvqKg4qeDS.png",
+    "dimensions": {
+      "x": 442,
+      "y": 293
+    },
+    "attribution": "Mauiinfo, Simple Maui Wedding / Wikimedia Commons / CC-BY-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6hZWGirqybfPP8TOLsfARr.mpga",
+  "main_content": "The best beach in the United States is Hawaii’s Hanauma Bay, says Dr. Beach’s “top 10″ list of beaches for 2016.\n\nDr. Beach is coastal scientist Stephen Leatherman of Florida International University. He has been reviewing beaches since 1991.\n\nHanauma Bay Beach Park is in the eastern end of Oahu, about 20 kilometers from Honolulu, Hawaii’s capital. Dr. Beach says the bay has the best accessible snorkeling in the area.\n\nAmong others on his “top 10″ list: Siesta Beach, in Sarasota, Florida; Ocracoke on North Carolina’s Outer Banks; Coast Guard Beach on Cape Cod in Massachusetts and San Diego’s Coronado Beach in California.\n\nDr. Beach also gives “bonus points” for beaches that ban smoking, like Hanauma Bay. The website notes that, in recent years, “more emphasis is  placed on environmental management and beach safety.”",
+  "questions": [
+    {
+      "question": "Which beach was named the best beach in the United States in Dr. Beach’s 2016 list?",
+      "options": [
+        "Hanauma Bay",
+        "Siesta Beach",
+        "Coast Guard Beach",
+        "Ocracoke"
+      ],
+      "answer": "Hanauma Bay"
+    },
+    {
+      "question": "How many beaches are on Dr. Beach’s top 10 list?",
+      "options": [
+        "5",
+        "6",
+        "10",
+        "12"
+      ],
+      "answer": "10"
+    },
+    {
+      "question": "What does Dr. Beach give bonus points for?",
+      "options": [
+        "Having lifeguards",
+        "Banning smoking",
+        "Being family-friendly",
+        "Offering water sports"
+      ],
+      "answer": "Banning smoking"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

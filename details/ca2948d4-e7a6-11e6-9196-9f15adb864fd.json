@@ -1,0 +1,60 @@
+{
+  "title": "Solar Power Free to Low-Income Homes in DC",
+  "introduction": null,
+  "image": {
+    "id": "e45c3118-0eab-11e7-b361-6b1d979d73e6",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4ekUkmv7msJI4jzfYZXZq7.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 288
+    },
+    "attribution": "Mansouraboud68 / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5YPrzT7U2MvN8x9eikkGj0.mpga",
+  "main_content": "Solar panels are a common sight on the tops of homes in wealthy parts of Washington, D.C. Now the costly technology is moving into a poorer area of the city. And, the people who live there are getting the panels for free.\n\nSoutheast Washington D.C. is an area known more for low-income housing than new technology. But several homes in Southeast now are topped with solar panels.\n\nTila Felder is among those who have received solar panels for her home. She praised the lower energy costs.\n\nLocal officials make these solar panels available to residents whose yearly earnings are at or below $50,500 for a family of three.\n\nTed Trabue is with the local government program, DC Sustainable Energy Utility. He says they plan to put solar panels on hundreds more homes.\n\nAtta Kiarash installs solar-equipment. He says he will set up as many as 1,200 solar panels this year.\n\nThe program is paid for with fees from factories and oil processing centers for their carbon dioxide emissions. Government officials expect millions of dollars in savings as the solar panels become more popular.",
+  "questions": [
+    {
+      "question": "What is Atta Kiarash’s job?",
+      "options": [
+        "Solar panel technician",
+        "Carbon emissions analyst",
+        "Local government official",
+        "Energy efficiency consultant"
+      ],
+      "answer": "Solar panel technician"
+    },
+    {
+      "question": "Less than what amount of money must residents make yearly in order to get these solar panels?",
+      "options": [
+        "$30,000",
+        "$40,000",
+        "$50,500",
+        "$60,000"
+      ],
+      "answer": "$50,500"
+    },
+    {
+      "question": "What is the program paid with?",
+      "options": [
+        "Taxpayer funds",
+        "Private donations",
+        "Fees from factories and oil processing centers",
+        "Government grants"
+      ],
+      "answer": "Fees from factories and oil processing centers"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

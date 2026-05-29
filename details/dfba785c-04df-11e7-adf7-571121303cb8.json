@@ -1,0 +1,60 @@
+{
+  "title": "Happy National Napping Day!",
+  "introduction": null,
+  "image": {
+    "id": "90b78fef-e78c-4297-afbd-8755ee84042a",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4P4mYtMaZ8pYLXsPAFwJa6.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Michael Nutt from New York, US / Wikimedia Commons / CC-BY-SA-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0YvWDFUb8MMT8JiVDS9Cfz.mpga",
+  "main_content": "In much of the United States, Sunday, March 13 marked the beginning of Daylight Savings Time. This meant many people lost one hour of sleep Saturday night.\n\nTo help them ease into the time change, some Americans celebrated National Napping Day.\n\nSocial media users urged people to take a nap during the day. They said the rest will help you deal with the loss of one hour’s worth of sleep.\n\nMidday naps are common in some countries. There, long lunch breaks enable workers and students to rest after eating.\n\nThe United States is not one of those countries. Many American workers take just a 30-minute lunch break.\n\nOn National Napping Day, people on social media celebrated the health benefits of napping. Research shows the extra rest can help reduce day-to-day stress. Studies also show naps are also good for your heart, and can help you think clearly at work or school.\n\nSome people tweeted about taking naps when they probably shouldn’t have been, such as during a class or at work.",
+  "questions": [
+    {
+      "question": "Are midday naps common in the US?",
+      "options": [
+        "Yes, they are widely practiced.",
+        "No, they are not common.",
+        "Only among students.",
+        "Only during the summer."
+      ],
+      "answer": "No, they are not common."
+    },
+    {
+      "question": "What event does March 13 mark?",
+      "options": [
+        "The beginning of winter.",
+        "National Napping Day.",
+        "Daylight Savings Time.",
+        "The first day of spring."
+      ],
+      "answer": "Daylight Savings Time."
+    },
+    {
+      "question": "What can napping do for your health?",
+      "options": [
+        "Increase your workload.",
+        "Reduce stress and improve heart health.",
+        "Enhance your evening productivity.",
+        "Cause fatigue during the day."
+      ],
+      "answer": "Reduce stress and improve heart health."
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

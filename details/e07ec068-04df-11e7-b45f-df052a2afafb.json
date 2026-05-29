@@ -1,0 +1,60 @@
+{
+  "title": "Kelly, Kornienko Land on Earth after Year in Space",
+  "introduction": null,
+  "image": {
+    "id": "9918a88f-385d-4731-b0fd-9a368b401f63",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4et5t2uwGdPFMv9rEgvZOl.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 410
+    },
+    "attribution": "NASA / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7jkh8efL2fCkmTGgGQDtAt.mpga",
+  "main_content": "Scott Kelly and Mikhail Kornienko have their feet on the ground for the first time in 340 days.\n\nRiding in a Russian spacecraft, they made it back to Kazakhstan.\n\nTheirs was a record-setting journey. It is the longest time humans have spent living on the International Space Station (ISS).\n\nAfter being taken out of the capsule, they were put in special chairs while they start getting used to Earth’s gravity again.\n\nAfter undergoing more tests and exams at NASA’s Houston, Texas offices, Kelly said he wants to go home and jump into his swimming pool.\n\nIn his last press conference from space, Kelly talked about the difficulties of living on the ISS for a year. He called it “a harsh environment,” with only a small personal space.\n\nHe said he feels “pretty good physically.” But the toughest part was being away from loved ones.\n\nKelly and Kornienko performed scientific experiments including growing flowers and lettuce. The space station tested how humans endure long-term space flights.",
+  "questions": [
+    {
+      "question": "How much time did the astronauts spend in space?",
+      "options": [
+        "200 days",
+        "340 days",
+        "365 days",
+        "400 days"
+      ],
+      "answer": "340 days"
+    },
+    {
+      "question": "What is one of the things they did in space?",
+      "options": [
+        "Conducting interviews with Earth experts",
+        "Growing flowers and lettuce",
+        "Building new spacecraft",
+        "Performing spacewalks to maintain the station"
+      ],
+      "answer": "Growing flowers and lettuce"
+    },
+    {
+      "question": "Where did Kornienko and Kelly land?",
+      "options": [
+        "In the Atlantic Ocean",
+        "In a remote area of Siberia",
+        "In Kazakhstan",
+        "On a military base in Texas"
+      ],
+      "answer": "In Kazakhstan"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "New Treatment Could Prevent, Reverse Alzheimer’s",
+  "introduction": null,
+  "image": {
+    "id": "be94133a-4f20-11e9-8df8-47184e1e2f02",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2iiYNuD6AX3nfguql4kQcT.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 342
+    },
+    "attribution": "FAIR ACE / Wikimedia Commons / CC-BY-SA 4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/43VRW8F0Rf63529G5vyeIU.mpga",
+  "main_content": "New research suggests that a brain protein that has changed form may be the cause of brain disorders. Researchers say they have developed a treatment that may cause the protein to return to its original form.\n\nResearchers at Beth Israel Deaconess Medical Center in Boston, Massachusetts, found that the shape of the protein – which is called “tau” – is changed by severe injuries to the brain.\n\nAlvaro Pascual-Leone is a neurologist – a brain scientist. He was one of the researchers who discovered the effect of brain injuries on the “tau” protein.\n\nMr. Pascual-Leone and his colleagues reported that they had developed a treatment that returns the damaged tau to its original, undamaged form. He says it might be possible to use the treatment to stop the development of Alzheimer’s Disease.\n\nResearchers hope to develop a blood test or use machines that can see into the brain to help them identify changed tau. Early identification of the problem in people with brain injury could help doctors treat them quickly ands stop the tau from changing.",
+  "questions": [
+    {
+      "question": "What may be the cause of brain disorders according to the article?",
+      "options": [
+        "Changes in brain structure due to aging",
+        "Injuries to the brain affecting the tau protein",
+        "Genetic factors influencing mental health",
+        "Environmental toxins impacting neurological functions"
+      ],
+      "answer": "Injuries to the brain affecting the tau protein"
+    },
+    {
+      "question": "What is “tau”?",
+      "options": [
+        "A type of neuron in the brain",
+        "A brain protein that changes form",
+        "A drug used to treat Alzheimer’s",
+        "A diagnostic tool for brain injuries"
+      ],
+      "answer": "A brain protein that changes form"
+    },
+    {
+      "question": "Who is Alvaro Pascual-Leone?",
+      "options": [
+        "A researcher focused on genetic studies",
+        "A neurologist who studied tau protein",
+        "A professor teaching about Alzheimer's",
+        "A doctor specializing in traumatic brain injuries"
+      ],
+      "answer": "A neurologist who studied tau protein"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

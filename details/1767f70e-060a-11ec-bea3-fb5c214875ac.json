@@ -1,0 +1,60 @@
+{
+  "title": "FIFA Women’s World Cup Enters Second Stage",
+  "introduction": null,
+  "image": {
+    "id": "1767b082-060a-11ec-bea2-1fe26a6882d3",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6h3AEzoqTTdUG8XH0hqi1j.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 351
+    },
+    "attribution": "IQRemix from Canada / Wikimedia Commons / CC-BY-SA 2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6Zx7Yb51C8n4AadcJogESU.mpga",
+  "main_content": "The investigation of international football’s leadership continues. So does the FIFA Women’s World Cup Canada 2015. Sixteen teams remain in the competition. The Women’s World Cup began on June 6. There were teams from 24 countries at the very beginning. That is the largest number of teams ever represented in a Women’s World Cup.\n\nSo, which teams are expected to reach the finals of the 2015 Women’s World Cup? People following the sport say predicting those teams will be difficult. But they say the top three teams of the competition are Germany, Japan and the United States. Both the United States and Germany have each won two Women’s World Cups.\n\nIn the first Women’s World Cup, held in 1991, the U.S. team defeated Germany 5-2 in a semifinal match.\n\nFootball matches for the round of 16 start Saturday, June 20. The finals will take place on Sunday, July 5 at BC Place Stadium in Vancouver.",
+  "questions": [
+    {
+      "question": "When did the The Women’s World Cup begin?",
+      "options": [
+        "June 1, 2015",
+        "June 6, 2015",
+        "July 1, 2015",
+        "June 15, 2015"
+      ],
+      "answer": "June 6, 2015"
+    },
+    {
+      "question": "What are the top three teams of the competition?",
+      "options": [
+        "Brazil, France, Canada",
+        "Germany, Japan, United States",
+        "Spain, Australia, Norway",
+        "Italy, England, Sweden"
+      ],
+      "answer": "Germany, Japan, United States"
+    },
+    {
+      "question": "When and where will the finals take place?",
+      "options": [
+        "July 1 at Toronto Stadium",
+        "July 5 at BC Place Stadium, Vancouver",
+        "June 30 at Olympic Stadium",
+        "June 25 at Edmonton Stadium"
+      ],
+      "answer": "July 5 at BC Place Stadium, Vancouver"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

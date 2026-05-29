@@ -1,0 +1,60 @@
+{
+  "title": "Light Pollution. How Much Light is Too Much?",
+  "introduction": null,
+  "image": {
+    "id": "e45c765a-0eab-11e7-b38b-a7b5a1a425c7",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4rJguHTDK2ixTvvEYE3yCE.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 246
+    },
+    "attribution": "Aaron Logan / Wikimedia Commons / CC-BY-1.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5EvkN5j08eKogZ43qYTAPp.mpga",
+  "main_content": "Everyone who loves looking up at the night sky knows one thing: to see the most stars … get away from a city.\n\nIn cities, artificial light comes from street lamps, buildings, signs and cars. All this unnatural, man-made light blocks out any chance to see the stars.\n\nIn Washington, D.C. a man named Jim Dougherty is fighting for darker skies. He and others want to turn down the lights in the city and not just to improve stargazing. They believe a darker night sky is good for the health of people and our planet.\n\nThe Earth appears to shine from space. What astronauts see as they circle the planet are the lights from our cities. This light creates a kind of orange cloud or haze that keeps us from seeing the stars.\n\nJim Dougherty is president of the International Dark Sky Association. He says the orange haze is light pollution.\n\nJim Dougherty says too much light is bad for your health. Studies find too much light disturbs our sleep, affects hormones and is linked to some cancers. He says light pollution is also bad for the planet.\n\nBut how much light is too much?",
+  "questions": [
+    {
+      "question": "Where does artificial light come from in a city?",
+      "options": [
+        "A) From natural sources like the moon and stars",
+        "B) From street lamps, buildings, signs and cars",
+        "C) From street art and illuminated displays",
+        "D) From underground tunnels and transportation systems"
+      ],
+      "answer": "B) From street lamps, buildings, signs and cars"
+    },
+    {
+      "question": "How does the Earth look from space?",
+      "options": [
+        "A) As a dark sphere with no visible features",
+        "B) As a brightly illuminated ball with city lights",
+        "C) As a planet engulfed in clouds and storms",
+        "D) As a rich blue ocean with minimal land visible"
+      ],
+      "answer": "B) As a brightly illuminated ball with city lights"
+    },
+    {
+      "question": "Why is too much light bad?",
+      "options": [
+        "A) It creates beautiful nightscapes that disorient people",
+        "B) It leads to increased crime rates in urban areas",
+        "C) It disturbs sleep, affects hormones, and is linked to cancers",
+        "D) It reduces visibility for pilots and drivers"
+      ],
+      "answer": "C) It disturbs sleep, affects hormones, and is linked to cancers"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

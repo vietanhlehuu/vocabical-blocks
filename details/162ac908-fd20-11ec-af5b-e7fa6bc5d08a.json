@@ -1,0 +1,60 @@
+{
+  "title": "New Artificial Skin Feels Like Real Skin",
+  "introduction": null,
+  "image": {
+    "id": "162a02ac-fd20-11ec-af5a-03940963d3fc",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/33oNj6pusbvWdzs9EjORcL.jpeg",
+    "dimensions": {
+      "x": 332,
+      "y": 205
+    },
+    "attribution": "User:FastilyClone / www.shadowrobot.com / CC-BY-SA-1.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7fgZ5iMEZnVkOqrmNXRkVM.mpga",
+  "main_content": "Some recently developed mechanical hands can be controlled by thoughts. But people who wear them must use their sight to know what they are touching. So scientists in the United States and South Korea have developed an artificial skin that lets people know more about objects they touch.\n\nA mechanical hand covered by the new skin could tell the user whether an object is wet or dry. It could also measure how firmly a person is holding the object.\n\nKim Dae-Hyeong is a professor at Seoul National University School of Chemical and Biological Engineering. He leads a team of researchers that developed the skin. He says it acts and feels like human skin.\n\n“The skin can feel pressure, temperature, strain, and humidity. Also it is soft, just like human skin, and embedded with heating elements that can make itself warm.”\n\nProfessor Kim says the skin cannot send signals to the brain. But he says scientists hope it will be able to someday.\n\nThe scientists say mechanical hands covered with the skin may someday be able to type on a computer.",
+  "questions": [
+    {
+      "question": "What did scientists from the United States and South Korea create?",
+      "options": [
+        "A new type of mechanical hand",
+        "An artificial skin for tactile feedback",
+        "A heating element for robotic hands",
+        "A method to control thoughts remotely"
+      ],
+      "answer": "An artificial skin for tactile feedback"
+    },
+    {
+      "question": "What can the mechanical hand covered by the new skin do?",
+      "options": [
+        "Identify the color of objects",
+        "Detect pressure, temperature, strain, and humidity",
+        "Mimic human movements perfectly",
+        "Communicate with other devices wirelessly"
+      ],
+      "answer": "Detect pressure, temperature, strain, and humidity"
+    },
+    {
+      "question": "Who is Kim Dae-Hyeong?",
+      "options": [
+        "A renowned mechanical engineer from the United States",
+        "A professor leading the team that developed the artificial skin",
+        "A scientist specializing in robotic programming",
+        "The founder of a technology company"
+      ],
+      "answer": "A professor leading the team that developed the artificial skin"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

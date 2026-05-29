@@ -1,0 +1,60 @@
+{
+  "title": "Americans Eating More ‘Fast Casual,’ Less Fast Food",
+  "introduction": null,
+  "image": {
+    "id": "678ae6c4-4f23-11e9-9ceb-4bea0b559768",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/0qbs5wAGsynlhhfYfkNiFT.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 316
+    },
+    "attribution": "Beyond My Ken / Wikimedia Commons / CC-BY-SA 4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7QtrqGJNv54Cm4UTWM6sfj.mpga",
+  "main_content": "“Plain Cheeseburger. Give me two of them.”\n\nThat is Ted Mistretta ordering food in Washington D.C. before boarding a train with his daughter Kim. They were heading home to New York City. But, first they stopped at the Shake Shack restaurant to get a bite to eat.\n\nShake Shack is a new kind of restaurant becoming more popular in the U.S. The restaurants are not “fast food.”  They are known as “fast casual.”\n\nObservers say Americans want more choices and fresh food when choosing where and what to eat. This trend is one reason why the fast food restaurant McDonald’s has struggled financially.\n\nWhile McDonald’s is struggling to get their customers back, Shake Shack, is doing well financially. The New York-based burger chain had a very successful IPO, or initial public offering, of shares at the end of January.\n\nBeing part of the “fast casual” trend has helped Shake Shack. Other fast casual restaurants in the U.S. include Chipotle, and Panera.\n\nBonnie Riggs is a restaurant expert. She has followed Americans’ restaurant habits for almost 30 years. She says one reason Americans like fast casual food is because it’s new.\n\n“They are creative, they are innovative, they are something different and we like to try new things.”",
+  "questions": [
+    {
+      "question": "What did Ted Mistretta order for himself and his daughter?",
+      "options": [
+        "Two plain cheeseburgers",
+        "One chicken sandwich",
+        "Two shakes",
+        "One salad"
+      ],
+      "answer": "Two plain cheeseburgers"
+    },
+    {
+      "question": "Which restaurants are mentioned as examples of fast casual dining?",
+      "options": [
+        "Wendy's and Taco Bell",
+        "Shake Shack and Five Guys",
+        "Chipotle and Panera",
+        "Dairy Queen and Arby's"
+      ],
+      "answer": "Chipotle and Panera"
+    },
+    {
+      "question": "According to Bonnie Riggs, why do Americans like fast casual food?",
+      "options": [
+        "It is cheaper than fast food",
+        "It is more familiar",
+        "It is new and innovative",
+        "It has larger portions"
+      ],
+      "answer": "It is new and innovative"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Experts: El Niño Could Be the Strongest on Record",
+  "introduction": null,
+  "image": {
+    "id": "e4582fb4-0eab-11e7-b103-570c49dde9f2",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1Q7r9U6cPtymzGj8mqcbxf.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Jon Sullivan / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1gsHfPxeKavmKRPPZMZoaH.mpga",
+  "main_content": "Weather experts say this year could be one of the strongest El Niño events in recorded history.\n\nExperts say El Niño could cause severe weather conditions in many parts of the world.\n\nEl Niño is Spanish for “the child.” It usually begins in December.\n\nEl Niño develops when winds off the west coast of South America weaken. This permits warm water in the western Pacific to expand toward the east. At the same time, clouds and rain over the warm water move east, too.\n\nEl Niño conditions normally appear only about two times every 10 years. Usually, El Niño conditions continue for about 12 to 18 months. They bring warm weather to some areas. These areas become wetter than normal, while others become drier.\n\nWeather changes caused by El Niño depend on the strength of the condition.\n\nTom Di Leberto is a meteorologist at the National Oceanic and Atmospheric Administration in Washington, D.C. He says this year could be the third strongest El Niño on record.",
+  "questions": [
+    {
+      "question": "What do experts say El Niño could cause?",
+      "options": [
+        "A prolonged drought in the Western Pacific",
+        "Severe weather conditions in many parts of the world",
+        "An increase in trade winds along the equator",
+        "A significant decline in global temperatures"
+      ],
+      "answer": "Severe weather conditions in many parts of the world"
+    },
+    {
+      "question": "What does El Niño mean in Spanish?",
+      "options": [
+        "The storm",
+        "The phenomenon",
+        "The child",
+        "The ocean"
+      ],
+      "answer": "The child"
+    },
+    {
+      "question": "How often does El Niño happen?",
+      "options": [
+        "Once every year",
+        "About two times every 10 years",
+        "Four to five times a decade",
+        "Only during consecutive years"
+      ],
+      "answer": "About two times every 10 years"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

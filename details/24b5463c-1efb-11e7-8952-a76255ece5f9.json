@@ -1,0 +1,60 @@
+{
+  "title": "BP to Pay Nearly $19B in US Oil Spill Damages",
+  "introduction": null,
+  "image": {
+    "id": "ff259c58-c21b-425e-8b8f-ede4a45cf944",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/7lSEM0mfiflSXKKkC51Qu4.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Petty Officer 2nd Class Justin Stumberg / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6b2yzeMLwDv9P6pS4MuogV.mpga",
+  "main_content": "British oil giant BP agreed Thursday to pay $18.7 billion to settle the damage claims from the worst oil spill ever in the United States, BP’s massive 2010 oil drilling blowout in the Gulf of Mexico.\n\nIn an agreement reached with the U.S. Justice Department and five Gulf coast states along the country’s southern shores, BP said it would pay about $1 billion a year over the next 18 years.\n\nThe blowout 1.6 kilometers below the surface set off an explosion aboard the Deepwater Horizon oil rig that killed 11 people and destroyed the rig. Over several weeks, more than three million barrels of oil spewed into the Gulf before authorities were finally able to cap the well.\n\nEarlier this year, a U.S. judge in New Orleans near the site of the spill concluded that the oil company had acted with “gross negligence” in its operation of the well.\n\nU.S. Attorney General Loretta Lynch said that if the deal is eventually approved by a court that has been hearing damage claims in the case, the settlement would be the largest ever in the U.S. with a single entity. She said the payments would help repair environmental damage to the Gulf Coast economy, fisheries, wetlands and wildlife.\n\nIn addition to Thursday’s settlement, BP says that its spill-related costs already have exceeded $42 billion, including $4.5 billion in criminal penalties.",
+  "questions": [
+    {
+      "question": "How much money does BP have to pay because of the oil spill?",
+      "options": [
+        "$1 billion a year for 18 years",
+        "$18.7 billion in total",
+        "$42 billion in total",
+        "$4.5 billion in criminal penalties"
+      ],
+      "answer": "$18.7 billion in total"
+    },
+    {
+      "question": "What happened because of the deep-sea blowout?",
+      "options": [
+        "The Deepwater Horizon oil rig caught fire",
+        "More than three million barrels of oil leaked into the Gulf",
+        "11 crew members were rescued",
+        "Oil prices increased dramatically"
+      ],
+      "answer": "More than three million barrels of oil leaked into the Gulf"
+    },
+    {
+      "question": "What did a judge in New Orleans say about BP?",
+      "options": [
+        "They conducted their operations with the utmost care",
+        "They acted with 'gross negligence' in operating the well",
+        "They were unfairly blamed for the disaster",
+        "They were ordered to pay no penalties"
+      ],
+      "answer": "They acted with 'gross negligence' in operating the well"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

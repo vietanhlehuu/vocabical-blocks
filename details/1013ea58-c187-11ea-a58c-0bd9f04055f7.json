@@ -1,0 +1,60 @@
+{
+  "title": "Chinese Companies to Increase Foreign Firm Acquisitions",
+  "introduction": null,
+  "image": {
+    "id": "1012814a-c187-11ea-a58a-d31acef6b8c5",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3wOUlsbMA75AREaF3Jf2D2.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "WhisperToMe / Wikimedia Commons / CC0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7KhxXDgdAasCiCOK7EDeUy.mpga",
+  "main_content": "Chinese companies are targeting at least 1,000 foreign firms for acquisition in 2016, according to analysts. And they are expected to nearly double what they invested last year, when Chinese business groups took control of 598 companies, according to a financial compiler.\n\nBeijing has already spent about $55 billion in merger and acquisition deals — nearly half of the 2015 expenditure of $118 billion — in the first two months of this year, according to Dealogic, a compiler of financial statistics.\n\nChinese companies acquired 25 firms based in the United States and Canada last year, compared to just four in 2014 and nine in 2013. Many more acquisitions are expected this year despite the growing political rhetoric against it, analysts said.\n\nThe Chinese firm ChemChina sparked controversy recently when it acquired Swiss seed maker Syngenta for $48 billion. This caused some concern among U.S. politicians who pointed out that Syngenta’s biotech division is based in the United States. “Because the food and agriculture sectors are part of the nation’s critical infrastructure, this merger raises questions about the potential national security implications,” U.S. Senator Chuck Grassley told the Financial Times.\n\nA group of 45 U.S. senators has written to the U.S. Treasury Department’s Committee on Foreign Investment in the United States (CFIUS), expressing concern over a recent deal by a Chinese group to acquire the 134-year-old Chicago Stock Exchange. If successful, this will be the first sale of a stock exchange in the United States.\n\nChinese media have often complained that U.S. politicians resisted Chinese advances in the business field for political reasons. The politicians are unable to deal with China’s growing financial clout, they said.",
+  "questions": [
+    {
+      "question": "How many foreign companies did Chinese investors take over last year?",
+      "options": [
+        "400",
+        "598",
+        "25",
+        "1,000"
+      ],
+      "answer": "598"
+    },
+    {
+      "question": "Why is the acquisition of Syngenta controversial?",
+      "options": [
+        "It raised concerns about stock market regulations.",
+        "It involved a significant financial investment.",
+        "It raised national security questions due to its biotech division.",
+        "It was the first acquisition of a Swiss company by a Chinese firm."
+      ],
+      "answer": "It raised national security questions due to its biotech division."
+    },
+    {
+      "question": "Why does the Chinese media think U.S. politicians are opposed to Chinese acquisitions?",
+      "options": [
+        "Due to economic competition.",
+        "Because of fear of foreign investments.",
+        "For political reasons related to financial clout.",
+        "Because of cultural differences."
+      ],
+      "answer": "For political reasons related to financial clout."
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

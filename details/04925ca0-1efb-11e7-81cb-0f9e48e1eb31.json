@@ -1,0 +1,60 @@
+{
+  "title": "Scientists Develop Robots That Adapt to Damage, Keep Working",
+  "introduction": null,
+  "image": {
+    "id": "49cae3b2-b7bb-4d0c-969d-73afd8262c0d",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2FF9xMsbdBGSXUJjdNWGxp.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 258
+    },
+    "attribution": "NASA / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2tKc3JzvLyaQOhc86neuo9.mpga",
+  "main_content": "Robots are everywhere. They can build cars, play chess or clean your house, and someday they may drive your car.\n\nBeyond this planet, Rovers named Spirit and Opportunity were sent to Mars on a continuing mission of exploration.\n\nRobots also play vital roles in natural disasters, according to University of Wyoming computer scientist Jeff Clune with the Evolving Artificial Intelligence Lab.\n\nRoving robots are deployed in search-and-rescue operations following an earthquake and may someday be used to sort through the wreckage of a nuclear accident like the one in Fukushima, Japan.\n\n“The problem is that all of those types of situations and environments are extremely unpredictable and hostile,” he said. “And it is very likely that robots and humans in those situations become damaged. And when seconds count and lives are on the line, we definitely do not want robots to give up at the first sign of injury. We want them to be able to adapt and deal with any damage and injury they suffer to continue to perform their mission until they can be brought back in to be repaired.”\n\nWith this idea of adaptation in mind, Clune and colleagues in France have added one more function to the skill set of robots operating under potentially harsh conditions.\n\nIn an article detailing their work in the journal Nature, Clune and French designers describe how they programmed a robot with six legs and a robotic arm to learn how to overcome injury.\n\nClune said the robots are programmed with a childlike curiosity, and they use that primitive algorithm to figure out how to adapt to injury.",
+  "questions": [
+    {
+      "question": "What are some things that robots can do, according to the article?",
+      "options": [
+        "Build cars, play video games, explore the ocean",
+        "Build cars, play chess, clean houses",
+        "Drive cars, operate drones, cook meals",
+        "Play chess, mine for minerals, assist in medical surgeries"
+      ],
+      "answer": "Build cars, play chess, clean houses"
+    },
+    {
+      "question": "What can roving robots be used for?",
+      "options": [
+        "Transportation of goods, construction work, and data analysis",
+        "Search-and-rescue operations, sorting through wreckage, exploration of Mars",
+        "Personal assistance, surgery, and performing art",
+        "Agricultural tasks, security surveillance, and entertainment"
+      ],
+      "answer": "Search-and-rescue operations, sorting through wreckage, exploration of Mars"
+    },
+    {
+      "question": "What does Jeff Clune want robots to do when they are damaged?",
+      "options": [
+        "Activate emergency protocols and return home",
+        "Give up and wait for human support",
+        "Adapt and continue to perform their mission",
+        "Self-repair and recharge immediately"
+      ],
+      "answer": "Adapt and continue to perform their mission"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

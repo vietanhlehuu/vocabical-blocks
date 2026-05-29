@@ -1,0 +1,60 @@
+{
+  "title": "Worldwide Groups Mark World Food Day",
+  "introduction": null,
+  "image": {
+    "id": "fbe66b12-74fa-11ed-a9b5-8b009005f919",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/003JEXSeGYTwJt864SGD1n.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Presidencia de la República Mexicana / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0DyZwiz7U5ZdoiXNwtFEYi.mpga",
+  "main_content": "The UN’s World Food Program (WFP) and Agriculture and Food Organization (FAO) celebrated World Food Day, on October 16. The goal of the organizations is to fight world hunger.\n\nErtharin Cousin is an executive director of the WFP. She appealed to the global community to take action to achieve a world without hunger.\n\nWFP invited everyone to mark World Food Day by posting #ZeroHunger on social media.\n\nMs. Cousin says, “The UN Zero Hunger Challenge represents the goal we all share and the world we want.”\n\nJoining the campaigns to observe World Food Day is a Japanese non-profit organization, Table for Two, or TFT. It is held a “One Million Itadakimasu” campaign.\n\nItadakimasu is a Japanese word that expresses gratitude for food. Japanese say the word before they eat every meal.\n\nTFT invites people worldwide to submit photos of their own rice ball to its website. Businesses will donate five meals for every photo submitted. The organization also held fundraising events in the U.S.cities of New York, Washington and Chicago.\n\nIn the 2015 report on food insecurity, the WFP says 795 million people suffer from hunger today. It is fewer than 10 years ago. But U.N. Secretary-General Ban Ki Moon said the goal is to end hunger by 2030.",
+  "questions": [
+    {
+      "question": "How many people suffer from world hunger today?",
+      "options": [
+        "795 million",
+        "1 billion",
+        "500 million",
+        "600 million"
+      ],
+      "answer": "795 million"
+    },
+    {
+      "question": "What does TFT stand for?",
+      "options": [
+        "The Food Trust",
+        "Table for Two",
+        "Together for Tomorrow",
+        "Tackling Food Thirst"
+      ],
+      "answer": "Table for Two"
+    },
+    {
+      "question": "When is the World Food Day?",
+      "options": [
+        "October 16",
+        "November 14",
+        "September 30",
+        "December 1"
+      ],
+      "answer": "October 16"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

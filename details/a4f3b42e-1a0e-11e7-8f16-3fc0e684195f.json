@@ -1,0 +1,60 @@
+{
+  "title": "Japan’s Economy Minister Resigns Over Money Scandal",
+  "introduction": null,
+  "image": {
+    "id": "1a55d056-810d-47b5-b41e-b96de13ad332",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/0nh15NAWpgTGDtXCXPSzkA.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "East Asia and Pacific Media Hub U.S. Department of State / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5uen1sRKbH2BZIgKqnhA8K.mpga",
+  "main_content": "Japanese Economy Minister Akira Amari resigned Thursday, fending off corruption allegations following a magazine report that he had accepted money in exchange for political favors.\n\nAt a packed news conference televised live, Amari acknowledged taking money from a construction company executive but said he told his aides to correctly record them as a political donation.\n\nAmari — a chief architect of Prime Minister Shinzo Abe’s plan to revive the world’s third-largest economy — denied wrongdoing but apologized for causing “concern and trouble” and undermining public trust in the government with a “very embarrassing situation.”\n\nThe corruption allegations surfaced last week after the magazine Weekly Bunshun reported that Amari and his aides accepted at least $103,000 in cash and hospitality from the unnamed construction company.\n\nWith Amari’s departure, Abe has lost a key ally as he prepares for an upper house election later this year.\n\nAccording to The New York Times, Abe has used monetary easing by the Bank of Japan and other economic measures – a package known as Abenomics – to reverse the deflation and sluggish economic growth that have plagued the country for much of the past quarter century.",
+  "questions": [
+    {
+      "question": "What is Akira Amari accused of?",
+      "options": [
+        "Using government funds for personal gain",
+        "Accepting money in exchange for political favors",
+        "Involvement in insider trading",
+        "Neglecting his duties as a minister"
+      ],
+      "answer": "Accepting money in exchange for political favors"
+    },
+    {
+      "question": "How did he react to the accusations?",
+      "options": [
+        "He vehemently denied all allegations",
+        "He acknowledged taking money but classified it as a political donation",
+        "He resigned without any statements",
+        "He blamed his aides for the situation"
+      ],
+      "answer": "He acknowledged taking money but classified it as a political donation"
+    },
+    {
+      "question": "What is the economic package called “Abenomics” aiming to do?",
+      "options": [
+        "Increase taxes to improve public spending",
+        "Reverse deflation and stimulate economic growth",
+        "Promote international trade agreements",
+        "Implement strict regulations on financial institutions"
+      ],
+      "answer": "Reverse deflation and stimulate economic growth"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Inventors of Energy-Saving Light Source Win 2014 Nobel Prize in Physics",
+  "introduction": null,
+  "image": {
+    "id": "8344ba36-5ef0-4045-b7dd-5da4c39b47b7",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3zhP0RVjqLILHCbHedzia7.jpeg",
+    "dimensions": {
+      "x": 479,
+      "y": 343
+    },
+    "attribution": "Ladislav Markuš / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2FCtejh2B0CAEsr1ldpshy.mpga",
+  "main_content": "Two Japanese scientists and a Japanese-born American scientist have been awarded the 2014 Nobel Prize for Physics for inventing the environmentally-friendly blue light emitting diodes, commonly known as LEDs.\n\nIsamu Akasaki, Hiroshi Amano and Shuji Nakamura were honored for their work in the 1990s in creating bright, energy-efficient white light from semiconductors, succeeding where scores of other scientists had failed.\n\nIn its announcement Tuesday in Stockholm, the Royal Swedish Academy of Sciences said that “incandescent light bulbs lit the 20th century; the 21st century will be lit by LED lamps.”  The Nobel committee said the relatively young technology has contributed to saving the Earth’s resources.\n\nSwedish physicist Bjorn Jonson said LED lighting benefits masses of people in some of the world’s most remote regions.\n\n“One and a half billion of people on Earth have no access to electricity grids. That means that they cannot get light, but now with a solar cell, a battery and a LED lamp, they can start to read in the evenings instead of sitting in the darkness,” said Johnson.\n\nAkasaki and Amano are colleagues at Japan’s Nagoya University, while Nakamura is currently working at the University of California in Santa Barbara. The trio will share the $1.1 million attached to the award.\n\nIn a telephone call, the Nobel committee congratulated Nakamura and he expressed his delight. “Oh, yeah. Amazing, unbelievable,” he said.\n\nThe 2014 Nobel Prize announcements began Monday, when American-British scientist John O’Keefe and husband and wife Norwegians May-Britt and Edvard Moser were awarded the Nobel prize in medicine for their work in discovering the brain’s inner navigation system.\n\nThe Nobel Prize in chemistry will be announced Wednesday, followed by the literature prize on Thursday and ending with the prestigious peace prize on Friday.",
+  "questions": [
+    {
+      "question": "Why did the three scientists receive the Nobel Prize?",
+      "options": [
+        "They developed a new type of solar cell technology.",
+        "They invented environmentally-friendly blue light emitting diodes (LEDs).",
+        "They conducted groundbreaking research in semiconductor physics.",
+        "They created a power source for remote regions."
+      ],
+      "answer": "They invented environmentally-friendly blue light emitting diodes (LEDs)."
+    },
+    {
+      "question": "When did their work take place?",
+      "options": [
+        "In the early 2000s.",
+        "In the 1990s.",
+        "In the late 1980s.",
+        "In the 21st century."
+      ],
+      "answer": "In the 1990s."
+    },
+    {
+      "question": "What did the Royal Swedish Academy of Sciences say about this technology?",
+      "options": [
+        "It is a trend that will fade away quickly.",
+        "It will illuminate the 21st century.",
+        "It has limited use in urban areas.",
+        "It is only beneficial for developed countries."
+      ],
+      "answer": "It will illuminate the 21st century."
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

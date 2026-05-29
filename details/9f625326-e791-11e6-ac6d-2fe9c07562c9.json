@@ -1,0 +1,60 @@
+{
+  "title": "What Do You Do With Your Mouth?",
+  "introduction": null,
+  "image": {
+    "id": "9f8ef694-f597-49f9-bc9a-7a57d015c12f",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4r575bLUYDHGa1Lp5izcXX.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 768
+    },
+    "attribution": "WikiProEdit3 / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1CpC3ZPfmAsiVMN6A8Xowx.mpga",
+  "main_content": "People use their mouths for many things. They eat, talk, shout and sing. They smile and they kiss. In the English language, there are many expressions using the word mouth.\n\nFor example, if you say bad things about a person, the person might protest and say “Do not bad mouth me.”\n\nAnother situation is when someone falsely claims another person said something. The other person might protest: “I did not say that. Do not put words in my mouth.”\n\nInformation is often spread through “word of mouth.” This is general communication between people, like friends talking to each other. “How did you hear about that new movie?” someone might ask. “Oh, by word of mouth.”\n\nSometimes when one person is speaking, he says the same thing that his friend was going to say. When this happens, the friend might say: “You took the words right out of my mouth!”\n\nSome people have lots of money because they were born into a very rich family. You might say such a person, “was born with a silver spoon in his mouth.”\n\nBut enough of all this talk. I have been “running my mouth” long enough.",
+  "questions": [
+    {
+      "question": "What do people use their mouths for?",
+      "options": [
+        "To generate sound waves",
+        "To express emotions through laughter",
+        "For various functions including eating and talking",
+        "To communicate solely through writing"
+      ],
+      "answer": "For various functions including eating and talking"
+    },
+    {
+      "question": "What can you say when someone falsely claims that you said something?",
+      "options": [
+        "Please clarify your statements",
+        "Do not misquote me",
+        "Do not put words in my mouth",
+        "That is not my opinion"
+      ],
+      "answer": "Do not put words in my mouth"
+    },
+    {
+      "question": "How is information often spread?",
+      "options": [
+        "Through official channels",
+        "By advertising",
+        "By word of mouth",
+        "Through social media only"
+      ],
+      "answer": "By word of mouth"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

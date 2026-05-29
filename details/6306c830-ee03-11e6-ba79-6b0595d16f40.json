@@ -1,0 +1,60 @@
+{
+  "title": "UN: Goals Met on Reducing HIV, AIDS",
+  "introduction": null,
+  "image": {
+    "id": "c577ee37-8970-4543-b947-115581c9974f",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/60cIOzTTA85JFy71iaUMYh.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 431
+    },
+    "attribution": "Dutch Ministry of Foreign Affairs / Wikimedia Commons / CC-BY-SA-2.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2PSAP2RgQ9EtVM1qo6Mcxg.mpga",
+  "main_content": "A new United Nations report on AIDS said the Millennium Development Goals of reducing HIV infections and AIDS-related deaths have been met.\n\nAccording to U.N. statistics, since the year 2000, new HIV infections have fallen by 35 percent and AIDS-related deaths by 41 percent.\n\nU.N. Secretary-General Ban Ki-moon outlined the good news to reporters in Addis Ababa on Tuesday.\n\n“Today, 15 million people are on life-saving HIV-treatment. We have proved beyond doubt that treatment can be scaled up no matter what the setting. Fifteen million people on HIV-treatment means billions of families are protected and billions of dollars are saved. And it means we are on our way to an AIDS-free generation,” he said.\n\nSub-Saharan Africa has always been the worst affected part of the world when it comes to AIDS. But progress is being made, with Namibia, Senegal and Ethiopia being examples of countries that have significantly reduced new HIV infections.\n\nAlso, U.N. AIDS Executive Director Michel Sidibé said that starting six to eight months from now, HIV-positive people will be able to stop taking their daily pills.\n\n“Soon we know that we will have one injection for every four months or six months, which is changing completely the way we deliver services to poor people,” he said.\n\nDespite these promising developments, more needs to be done. In 2014, there were still 2 million new HIV infections and more than 13 million children lost one or both parents to AIDS-related causes.\n\nLater this year, the U.N. Millennium Development Goals will be replaced with the Sustainable Development Goals. The new target for 2030 is to completely eradicate the AIDS epidemic and for everyone to have access to treatment.",
+  "questions": [
+    {
+      "question": "What happened to AIDS-related deaths since the year 2000?",
+      "options": [
+        "They increased by 41 percent.",
+        "They decreased by 41 percent.",
+        "They remained unchanged.",
+        "They decreased by 35 percent."
+      ],
+      "answer": "They decreased by 41 percent."
+    },
+    {
+      "question": "Which three countries are examples of decreasing HIV infections?",
+      "options": [
+        "Nigeria, South Africa, Ghana",
+        "Namibia, Senegal, Ethiopia",
+        "Kenya, Tanzania, Uganda",
+        "Zimbabwe, Botswana, Mozambique"
+      ],
+      "answer": "Namibia, Senegal, Ethiopia"
+    },
+    {
+      "question": "What will happen six to eight months from now?",
+      "options": [
+        "HIV-positive people will have to take more daily pills.",
+        "A new type of treatment will be introduced requiring only quarterly or biannual injections.",
+        "The U.N. will cease to monitor HIV infections.",
+        "AIDS-related deaths will increase significantly."
+      ],
+      "answer": "A new type of treatment will be introduced requiring only quarterly or biannual injections."
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

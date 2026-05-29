@@ -1,0 +1,60 @@
+{
+  "title": "Lorde Releases Single for ‘Hunger Games’ Soundtrack",
+  "introduction": null,
+  "image": {
+    "id": "ae4bb234-62df-11ea-9030-7791c12eed6b",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3sZHFvSLIvWcpPBYZoWNPi.jpeg",
+    "dimensions": {
+      "x": 800,
+      "y": 533
+    },
+    "attribution": "Mike Reardon / Wikimedia Commons / CC0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1WsmaVdlBAsRWLKvZTAMo8.mpga",
+  "main_content": "Moviegoers now have less than a month to wait for the release of the third Hunger Games movie. “The Hunger Games: Mockingjay – Part One,” will open in theaters across the United States on November 21st.\n\nThe soundtrack that goes along with the film will be released a few days before that. Seventeen-year-old New Zealand singer-songwriter Lorde is leading the project. On Monday, she released its first single, “Yellow Flicker Beat.”\n\nLorde has expressed great excitement over her part in the creation of the film. She said she “jumped at the chance” although she knew the project would not be easy. She said she knew she would be inspired by the movie’s story and characters.\n\nThis first single shows that Lorde was moved by the Hunger Games hero, Katniss Everdeen. In the first movie of the series, Katniss wears a dress from which fire rises when she turns around. She became known as “the girl on fire.”\n\nThe song “Yellow Flicker Beat” captures that image of Katniss. The song goes: My blood is a flood of rubies, precious stones / It keeps my veins hot, the fires find a home in me / I move through town, I’m quiet like a fire.\n\nIt is not known who, other than Lorde, might appear on the soundtrack to “Mockingjay – Part One.”  The first movie included a shared song from Taylor Swift and the band, the Civil Wars. It is called “Safe and Sound.”\n\nThe music for the second Hunger Games movie, “Catching Fire,” turned into a hit soundtrack.\n\nThe British group Coldplay wrote and performed the song “Atlas.”\n\nThe soundtrack for “The Hunger Games: Mockingjay – Part One” will be released November 18th.",
+  "questions": [
+    {
+      "question": "When will the soundtrack for \"The Hunger Games: Mockingjay – Part One\" be released?",
+      "options": [
+        "November 21st",
+        "November 18th",
+        "November 15th",
+        "November 1st"
+      ],
+      "answer": "November 18th"
+    },
+    {
+      "question": "What is Lorde’s first single from the soundtrack called?",
+      "options": [
+        "Fire and Ice",
+        "Yellow Flicker Beat",
+        "Girl on Fire",
+        "Catching Fire"
+      ],
+      "answer": "Yellow Flicker Beat"
+    },
+    {
+      "question": "What specific image inspired Lorde’s first single?",
+      "options": [
+        "Katniss Everdeen as \"the girl on fire\"",
+        "The challenges of the music industry",
+        "Lorde’s personal experiences",
+        "Taylor Swift’s soundtrack song"
+      ],
+      "answer": "Katniss Everdeen as \"the girl on fire\""
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

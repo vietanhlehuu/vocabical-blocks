@@ -1,0 +1,60 @@
+{
+  "title": "Drone Technology Opens Up New Options for Photographers",
+  "introduction": null,
+  "image": {
+    "id": "f815d038-8b60-4422-8e93-69c94288c5fb",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/7Y8452V7nQnYKDiT1oiVJ5.jpeg",
+    "dimensions": {
+      "x": 638,
+      "y": 513
+    },
+    "attribution": "Flying Eye / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7hnJdy0aYLUsDvLqFUXTZU.mpga",
+  "main_content": "An interest in remote-controlled helicopters and a lot of practice helped Skye De Moya and Ross Shafer get their business off the ground in 2013.\n\nBased in Baltimore, Maryland, their company, SkyeCam Productions, specializes exclusively in drone photography and videography.\n\n“I started out years ago as a kid and I just loved remote controlled toys,” Shafer said. “It’s really hard to control some of that stuff compared to the newer drones. The older ones, that I used to fly, if the wind came in, it would go off in the distance.”\n\n“I actually began as an assistant camera for someone who was flying professionally,” De Moya said. “I bought myself a cheap drone and practiced for hours, crashing it.”\n\nUnlike many amateur drone photographers, these two professionals work as a team. De Moya operates the camera while Shaffer flies the drone. De Moya says this allows for better joint maneuvers and more creativity.\n\nWhile drones have taken photography to a new height, there are still certain limitations.\n\n“You cannot fly over big crowds,” De Moya said, “because if, God forbid, something were to happen, they could really hurt someone below. In certain highly populated areas — for example, in the city — if there’s too much concrete, sometimes it can interfere with the GPS.”\n\nIn the U.S., for the protection of air traffic, it’s also not permissible to fly a drone within an eight-kilometer radius of an airport or more than 122 meters above the ground.\n\nFor De Moya, the biggest challenge is keeping up with constantly changing technology and rules and regulations. Shaffer, however, has more immediate concerns.\n\n“Biggest challenge is to not hit trees,” he said.\n\nThe Federal Aviation Administration now requires all professional and hobbyist drone fliers in the United States to register their devices with the agency so they are traceable in case of an incident and can be returned to the owner if lost.",
+  "questions": [
+    {
+      "question": "What does SkyeCam Productions do?",
+      "options": [
+        "Manufactures remote-controlled helicopters",
+        "Offers drone photography and videography services",
+        "Provides training for amateur drone pilots",
+        "Conducts research on drone technology"
+      ],
+      "answer": "Offers drone photography and videography services"
+    },
+    {
+      "question": "Why is it better for drone operators to work in teams?",
+      "options": [
+        "It allows for increased operational efficiency",
+        "It enhances joint maneuvers and creativity",
+        "It reduces the risk of technical malfunctions",
+        "It helps in managing client relationships"
+      ],
+      "answer": "It enhances joint maneuvers and creativity"
+    },
+    {
+      "question": "What rules do drones have to abide by for air traffic safety?",
+      "options": [
+        "Drones must be flown below 150 meters at all times",
+        "Drones cannot be flown within an eight-kilometer radius of an airport",
+        "Drones must be flown in daylight only",
+        "Drones cannot be operated without a visual observer"
+      ],
+      "answer": "Drones cannot be flown within an eight-kilometer radius of an airport"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

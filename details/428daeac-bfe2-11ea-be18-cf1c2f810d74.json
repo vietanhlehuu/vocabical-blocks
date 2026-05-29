@@ -1,0 +1,60 @@
+{
+  "title": "Obama Honors 13 Exceptional Police Officers",
+  "introduction": null,
+  "image": {
+    "id": "428d301c-bfe2-11ea-be16-cfa8207621fb",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2gU42U7uJ4vfgzXaOWK9Ik.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Nightscream / Wikimedia Commons / CC-BY-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2f6qThhji0UloMKo83ej5i.mpga",
+  "main_content": "President Barack Obama has awarded the nation’s highest honor for law enforcement to 13 police officers who risked their lives to protect citizens. One of the recipients of the Public Safety Medal of Valor was killed in the line of duty.\n\nObama said the 13 officers recognized Monday put themselves in harm’s way to help save the lives of others.\n\n“If it had not been for their bravery, we likely would have lost a lot of people: mothers, fathers, sons, daughters, friends, and loved ones,” said Obama.\n\nObama stressed that these officers were in the place where they were most needed at the right time, but their actions went beyond the call of duty. A Philadelphia officer was killed when he entered a video game store and encountered two armed robbers there. He was awarded the medal posthumously.\n\nThe president said the dedication of many law enforcement officers to their duty is not always recognized.\n\n“Not everyone will wear the medal that we give today, but everyday so many of our public safety officers wear a badge of honor,” he said.\n\nAttorney General Loretta Lynch noted that some of the honorees were off duty when they were called into action.\n\n“I know that no words or medals can begin to repay the debt that we owe to these exceptional officers and to all of the policemen, the firefighters, federal agents, sheriffs, and EMTs [emergency medical technicians] who go to incredible lengths to fulfill their oaths to protect and to serve the American people,” said Lynch.\n\nThe Public Safety Medal of Valor was established by President Bill Clinton in 2000 to recognize police officers, firefighters, and other first responders for exceptional courage.",
+  "questions": [
+    {
+      "question": "Why were the police officers awarded the Public Safety Medal of Valor?",
+      "options": [
+        "They successfully captured armed robbers without any injuries.",
+        "They risked their lives to protect citizens during dangerous situations.",
+        "They demonstrated exceptional leadership in law enforcement activities.",
+        "They provided crucial support during community outreach programs."
+      ],
+      "answer": "They risked their lives to protect citizens during dangerous situations."
+    },
+    {
+      "question": "Why was an officer awarded the medal posthumously?",
+      "options": [
+        "He was recognized for his long service in law enforcement.",
+        "He was killed while engaging directly with armed robbers.",
+        "He had previously received accolades for community service.",
+        "He was nominated by his peers for outstanding bravery."
+      ],
+      "answer": "He was killed while engaging directly with armed robbers."
+    },
+    {
+      "question": "Which categories of people can receive the Public Safety Medal of Valor?",
+      "options": [
+        "Only police officers from major metropolitan areas.",
+        "Police officers, firefighters, and other first responders.",
+        "Individuals who have served in military combat roles.",
+        "Any citizen who performs an act of bravery."
+      ],
+      "answer": "Police officers, firefighters, and other first responders."
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

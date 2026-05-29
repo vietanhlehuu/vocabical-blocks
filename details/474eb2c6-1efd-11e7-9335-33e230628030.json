@@ -1,0 +1,60 @@
+{
+  "title": "These Are the Unhealthiest Jobs in America",
+  "introduction": null,
+  "image": {
+    "id": "1a2c3f8b-db10-49ea-ad7c-55f22f861532",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/0nO1MYnlykkQdHBF3lNIBe.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 334
+    },
+    "attribution": "U.S. Navy photo by Chief Photographer’s Mate Eric A. Clement. / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6mTefkvVrHYg9tWLDotDku.mpga",
+  "main_content": "Sure it’s lucrative, but being a dentist just might be the most unhealthy job in the United States, according to a list put together by Business Insider.\n\nExposure to contaminants, disease and infections, along with long periods of time spent sitting, are the main factors that push dentists, dental surgeons and dental assistants, into the realm of the potentially least healthy.\n\nIn fact, exposure to contaminants, disease and infections are key factors for most of the jobs listed in the top 10, (or bottom 10, depending on how you look at it).\n\nSix of the 10 unhealthiest jobs are related to the healthcare field.\n\nAlthough flight attendants are used to flying high, they might be floored to learn their occupation is second on the list of unhealthy jobs, but it’s not because of potential crashes. Aside from exposure to contaminants, disease and infections, there’s the risk of minor burns, cuts, bites or stings.\n\nAirline pilots rank 12th, due to exposure to radiation and contaminants, and because of the time spent sitting. Recent studies show sitting for long periods of time can shorten a person’s lifespan.\n\nWorkers in oil and gas fields are 11th on the list, due to being exposed to hazardous conditions. People who work with nuclear equipment are 14th thanks to radiation, contaminants and hazardous conditions.\n\nTo come up with the list, Business Insider used data from a U.S. Department of Labor database containing detailed information on various occupations in the United States.\n\nTo assess each job’s impact on health, six risks were measured, including: exposure to contaminants; exposure to disease and infection; exposure to hazardous conditions; exposure to radiation; risk of minor burns, cuts, bites, and stings; and time spent sitting.",
+  "questions": [
+    {
+      "question": "What makes being a dentist the most unhealthy job in the US?",
+      "options": [
+        "A. Long hours spent on administrative work",
+        "B. Exposure to contaminants, disease, and infections",
+        "C. The requirement of continuous education",
+        "D. Occasional physical strain from lifting patients"
+      ],
+      "answer": "B. Exposure to contaminants, disease, and infections"
+    },
+    {
+      "question": "Which field of work is the most high-risk according to the study?",
+      "options": [
+        "A. Healthcare field with six out of ten jobs listed",
+        "B. Construction work involving heavy machinery",
+        "C. Office jobs with prolonged sitting",
+        "D. Retail positions with aggressive customers"
+      ],
+      "answer": "A. Healthcare field with six out of ten jobs listed"
+    },
+    {
+      "question": "Why is being a flight attendant considered an unhealthy job?",
+      "options": [
+        "A. Frequent travel leading to anxiety and stress",
+        "B. High risk of exposure to contaminants, disease, and infections",
+        "C. Involuntary long hours without breaks",
+        "D. Hazardous work environment in airports"
+      ],
+      "answer": "B. High risk of exposure to contaminants, disease, and infections"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

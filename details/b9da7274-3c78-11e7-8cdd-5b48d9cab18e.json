@@ -1,0 +1,60 @@
+{
+  "title": "‘Godzilla of Earths’ Exoplanet Discovered",
+  "introduction": null,
+  "image": {
+    "id": "8909ec50-ead3-4fb8-b8ba-5a004797ec4b",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4AaTzEKvtkKQAoKPyQE7sh.png",
+    "dimensions": {
+      "x": 512,
+      "y": 236
+    },
+    "attribution": "Aldaron, a.k.a. Aldaron / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0AExgFevoyk31lyzlSnKgG.mpga",
+  "main_content": "Scientists have discovered an exoplanet they’re dubbing a “mega-Earth.”\n\nKepler-10c is a rocky world weighing as much as 17 Earths, according to researchers at the Harvard-Smithsonian Center for Astrophysics (CfA) in Cambridge, Massachusetts.\n\n“This is the Godzilla of Earths!” said CfA researcher Dimitar Sasselov, director of the Harvard Origins of Life Initiative in a statement. “But unlike the movie monster, Kepler-10c has positive implications for life.”\n\nWhat makes Kepler-10c so unusual is that scientists thought any planet that big would “grab hydrogen gas as it grew and become a Jupiter-like gas giant.”\n\nKepler-10c has a diameter of about 18,000 miles, 2.3 times as large as Earth, researchers said. The massive world is 560 light-years away from Earth in the constellation Draco. It circles its star every 45 days.\n\nKepler-10c was spotted indirectly by NASA’s Kepler spacecraft using the transit method, which measures the amount a star dims when a planet passes it. While they were able to calculate the size of the planet, scientists were not able to determine if it was rocky or gassy.\n\nUsing the HARPS-North instrument on the Telescopio Nazionale Galileo in the Canary Islands to measure the mass of Kepler-10c, scientists realized it weighed 17 times as much as Earth, meaning it must not be a gassy world.\n\n“Kepler-10c didn’t lose its atmosphere over time. It’s massive enough to have held onto one if it ever had it,” said Xavier Dumusque of the Cfa, who led the data analysis and made the discovery. “It must have formed the way we see it now.”\n\nThe Kepler-10 system is 11 billion years old, according to researchers, meaning it was formed less than 3 billion years after the creation of the universe.\n\nSince the early universe only contained hydrogen and helium, the heavier materials needed to form planets had to have been created in the earliest stars. When those stars died and exploded, “they scattered these crucial ingredients through space, which then could be incorporated into later generations of stars and planets.”\n\nThat process, researchers said, “should have taken billions of years, but Kepler-10c shows rocky planets were able to form despite the scarcity of heavy elements.\n\n“Finding Kepler-10c tells us that rocky planets could form much earlier than we thought. And if you can make rocks, you can make life,” says Sasselov.\n\nThat such an old star system has an Earth-like planet means researchers can also look for potentially habitable planets in those systems as well.\n\nThe team’s finding was presented today in a press conference at a meeting of the American Astronomical Society (AAS).",
+  "questions": [
+    {
+      "question": "How much does the exoplanet Kepler-10c weigh?",
+      "options": [
+        "5 times as much as Earth",
+        "10 times as much as Earth",
+        "17 times as much as Earth",
+        "20 times as much as Earth"
+      ],
+      "answer": "17 times as much as Earth"
+    },
+    {
+      "question": "How was the planet detected?",
+      "options": [
+        "By direct imaging",
+        "Using gravitational lensing",
+        "Via the transit method",
+        "Through radio signals"
+      ],
+      "answer": "Via the transit method"
+    },
+    {
+      "question": "How old is the Kepler-10 system?",
+      "options": [
+        "3 billion years",
+        "6 billion years",
+        "11 billion years",
+        "13 billion years"
+      ],
+      "answer": "11 billion years"
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

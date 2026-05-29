@@ -1,0 +1,60 @@
+{
+  "title": "New Book Sheds Light on Steve Jobs’ Legacy",
+  "introduction": null,
+  "image": {
+    "id": "7dc04775-f322-4875-9497-2756d37beb0f",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3pHuaMzRaQOGcrfJlEgNJf.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 502
+    },
+    "attribution": "Matthew Yohe / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5ehW4BB9rSySiWfKrEl1DV.mpga",
+  "main_content": "In the three years since his death, the company Steve Jobs led has more than doubled in size and continues to engage in risky, inspired innovations like the Apple watch.\n\n“He worked really hard in his last years to set up Apple for success and create systems and ways of thinking that would live on after his death,” said Rick Tetzeli, co-author of Becoming Steve Jobs: The Evolution of a Reckless Upstart into a Visionary Leader, who believes the company’s continued success is one of the Apple co-founder’s greatest legacies.\n\nFor the book, Tetzeli interviewed the people who knew Jobs best. Through such stories, he and co-author Brent Schlender explore the many facets of Jobs’ personality.\n\nHe was often described as difficult and obsessive over the smallest details in the design of his products.\n\n“If you worked closely with Steve Jobs, you had stood up to him,” Tetzeli said. “He dismissed people who did not fight for their ideas. So he fought with his all close executives. It was that natural sort of debate that he thought would lead to the best products.”\n\nTetzeli found that Jobs took a very personal interest in peoples’ lives and understood that money was a big motivator.\n\n“People who worked for him closely made a lot of money, but it was much more about the quality of your work, doing the best work you possibly could do,” he said. “And even people who got fired by him or who ended their relationships with him badly, all say they did the best work of their life while working for him.”\n\nTetzeli believes the development of the iPhone was the pinnacle of Jobs’ career.\n\n“It’s the most important device he created,” he said. “It changes the way we think of technology. It makes technology a mobile thing in a way that it never had been before. It’s a profound, profound change from the world where our technology just sits at a desk.”",
+  "questions": [
+    {
+      "question": "What has happened to Steve Jobs’ company since his death?",
+      "options": [
+        "The company has decreased its market share significantly.",
+        "The company has more than doubled in size.",
+        "The company has shifted focus to software development.",
+        "The company has merged with another tech giant."
+      ],
+      "answer": "The company has more than doubled in size."
+    },
+    {
+      "question": "How is Steve Jobs’ personality described as?",
+      "options": [
+        "A forgiving leader who empathized with subordinates.",
+        "A difficult individual focused on minute details.",
+        "An uninspired visionary rarely involved with his team.",
+        "A laid-back entrepreneur who avoided confrontation."
+      ],
+      "answer": "A difficult individual focused on minute details."
+    },
+    {
+      "question": "What did people whom Jobs fired say about him?",
+      "options": [
+        "They found him to be unprofessional and inconsiderate.",
+        "They claimed to have produced their worst work under him.",
+        "They stated they had done their best work while working for him.",
+        "They reported that he was indifferent to their contributions."
+      ],
+      "answer": "They stated they had done their best work while working for him."
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

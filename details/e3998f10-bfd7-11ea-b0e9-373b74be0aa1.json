@@ -1,0 +1,60 @@
+{
+  "title": "Researchers Create Artificial Skin With Sense of Touch",
+  "introduction": null,
+  "image": {
+    "id": "e3987292-bfd7-11ea-b0e7-d795180eccda",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/45HykdWVUKgu5X1dDdmiIn.jpeg",
+    "dimensions": {
+      "x": 528,
+      "y": 363
+    },
+    "attribution": "XenonR / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6CdY1qRiCJViIq0PgLjyff.mpga",
+  "main_content": "Scientists have recently made considerable gains in creating human-like artificial limbs, but they still look and feel artificial. That could change with a development from South Korea. Researchers say they have come up with a synthetic skin that not only feels warm but also has the sense of touch and moisture.\n\nArtificial robotic hands are getting increasingly better at emulating human hands and the most advanced can even be controlled by thoughts.\n\nBut people who wear bionic hands must rely on their sight to know what they are touching or grasping.\n\nNow, though, researchers in South Korea and the U.S. say they have created a stretchable artificial skin that can register heat, pressure and moisture.\n\nThis polymer-based elastic material is not designed to replace damaged human skin, such as in burn victims, but rather to provide high-resolution sensory capabilities for prosthetic limbs or for the limbs of humanoid robots.\n\nTeam leader Kim Dae-Hyeong, a professor at the Seoul National University School of Chemical and Biological Engineering, says its sensors are an exact copy of human skin.\n\n“The skin can feel pressure, temperature, strain, humidity,” said Kim. “Also it is soft, just like human skin, and embedded with heating elements that can make itself warm.”\n\nKim says the artificial skin is made of a combination of rubber, polyamide and silicon with sensor density of up to 400 per square millimeter.\n\nAn artificial hand wrapped in the new skin could distinguish between dry and moist objects and measure the pressure of the grasp.\n\nBut Kim says what it still can not do is send those signals to a human brain. That, he says, is the scientists’ ultimate goal.\n\n“I hope a robotic limb with this synthetic skin can be used by disabled people. For industrial uses, it can be applied to various types of robots, like a humanoid robot,” said Kim.\n\nScientists say with this sensitive skin, robots may someday be able to type on keyboards and even change a baby’s wet diaper.",
+  "questions": [
+    {
+      "question": "What kind of synthetic skin have researchers developed?",
+      "options": [
+        "A synthetic skin that can only feel temperature",
+        "A synthetic skin that mimics human skin's sensory capabilities",
+        "A synthetic skin that is primarily used for cosmetics",
+        "A synthetic skin that can be used as a bandage for burns"
+      ],
+      "answer": "A synthetic skin that mimics human skin's sensory capabilities"
+    },
+    {
+      "question": "On what sense do people who wear bionic hands have to rely at the moment?",
+      "options": [
+        "Their hearing to detect sounds",
+        "Their smell to identify objects",
+        "Their sight to know what they are touching",
+        "Their taste to evaluate objects"
+      ],
+      "answer": "Their sight to know what they are touching"
+    },
+    {
+      "question": "What is the polymer-based elastic material designed to do?",
+      "options": [
+        "To replace damaged human skin",
+        "To provide sensory capabilities for prosthetic limbs and humanoid robots",
+        "To create a waterproof barrier for robotic devices",
+        "To simplify the coding of robotic movements"
+      ],
+      "answer": "To provide sensory capabilities for prosthetic limbs and humanoid robots"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

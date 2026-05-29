@@ -1,0 +1,60 @@
+{
+  "title": "Legendary Musician Prince Dies at 57",
+  "introduction": null,
+  "image": {
+    "id": "e34ca4e2-0278-11ef-95f4-2f257017a0bb",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4nMKou0eyQ9inOknJsroWj.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 577
+    },
+    "attribution": "Zarateman / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0lRPMqFgSYVPTPZEuRilYc.mpga",
+  "main_content": "American pop icon Prince has died at the age of 57.\n\nThe shocking news was confirmed by the artist’s publicist after reports that police were investigating a death at his home outside the northern city of Minneapolis, Minnesota.\n\nPrince was just 19 when he released his first album, For You, in 1978. In the decades that followed, the multi-talented musician released “1999,” “Little Red Corvette” and “Purple Rain,” the title track of his breakthrough 1984 album and movie.\n\nHe sold more than 100 million albums worldwide, won seven Grammys and picked up an Oscar for Best Original Song score for “Purple Rain.”\n\nPrince was inducted into the Rock and Roll Hall of Fame in 2004.\n\n“He rewrote the rulebook, forging a synthesis of black funk and white rock that served as a blueprint for cutting-edge music in the ‘80s,” said a posting on the Rock and Roll Hall of Fame website. “Prince made dance music that rocked and rock music that had a bristling, funky backbone.”\n\nMusicians, artists and fans took to Twitter to express their shock and sadness at the news of Prince’s death.\n\nU.S. President Barack Obama lamented that the “world lost a creative icon.”\n\nHe said in a statement, “As one of the most gifted and prolific musicians of our time, Prince did it all. Funk. R&B. Rock and roll. He was a virtuoso instrumentalist, a brilliant bandleader, and an electrifying performer.”\n\nTelevision footage showed a small group of fans gathering outside Prince’s Paisley Park studio. Sales of Prince’s music have soared since news broke of the pop star’s death.\n\nThree of his songs “Purple Rain,” “Little Red Corvette,” and “When Doves Cry,” surged to seventh, ninth and 10th on iTunes’ Top Songs chart.\n\nFour of his albums — The Very Best of Prince, Purple Rain, The Hits / The B-Sides and 1999 — had jumped to first, second, third and eighth on iTunes’ Top Albums chart by Thursday afternoon.",
+  "questions": [
+    {
+      "question": "When did Prince launch his first album?",
+      "options": [
+        "1976",
+        "1978",
+        "1980",
+        "1984"
+      ],
+      "answer": "1978"
+    },
+    {
+      "question": "Why was Prince awarded an Oscar?",
+      "options": [
+        "For Best Original Score",
+        "For Best Original Song score for 'Purple Rain'",
+        "For Best Music Video",
+        "For Best Performance in a Movie"
+      ],
+      "answer": "For Best Original Song score for 'Purple Rain'"
+    },
+    {
+      "question": "How did Barack Obama describe Prince?",
+      "options": [
+        "A fleeting pop star",
+        "One of the most gifted musicians of our time",
+        "An underground artist",
+        "A brilliant lyricist"
+      ],
+      "answer": "One of the most gifted musicians of our time"
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

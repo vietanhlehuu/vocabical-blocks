@@ -1,0 +1,60 @@
+{
+  "title": "Experts: Global Terror Threat Calls for More Coordination",
+  "introduction": null,
+  "image": {
+    "id": "9a78f8d6-764e-480e-a50f-ade428cece36",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4hU6MsAuRG4JAZdOK4O3yY.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 288
+    },
+    "attribution": "Miguel Discart / https://www.flickr.com/people/miguel_discart_vrac/ / CC-BY-SA-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1orElTHA9RUUG6lvgKV53S.mpga",
+  "main_content": "European government officials say the Brussels attacks on March 22 highlight the need to share information more swiftly among governments and intelligence services.\n\nThe Brussels attacks, which left more than 30 people dead and hundreds injured, again show the vulnerability of Europe, said Brian Levin, director of the Center for the Study of Hate and Extremism at California State University, San Bernardino.\n\nEurope is on the doorstep of parts of the Middle East and North Africa that are “controlled by groups by ISIS, or even al-Qaida in certain areas,” said Levin, using an acronym to describe Islamic State. He also said the enclaves provide havens where fighters “can basically study at ‘universities’ for terror unimpeded.”\n\nA more immediate threat comes from social media sites and web-based applications used for terrorist recruiting and encryption, said Rabbi Abraham Cooper of the Simon Wiesenthal Center, which tracks hate and extremist groups online.\n\nCooper says the Islamic State is committed to “understanding what’s the latest app, what’s the latest way that young people like to communicate with each other, how can we throw off the authorities or lose them at critical moments?” He said the group’s operatives can be found on popular social media sites, where threats by violent extremists blend with hateful rants by racial and religious bigots.\n\nHe said all countries face a threat of amateurs with powerful homemade weapons, like the bombs used by the Tsarnaev brothers at the Boston Marathon in 2013, which killed three people and injured hundreds.\n\nGovernments and security agencies can improve coordination, and technology companies can help, these analysts say.\n\n“I think at the end of the day,” said the Wiesenthal Center’s Rabbi Cooper, “it’s going to be the CEOs of Apple, Samsung, Facebook, Google, YouTube and Twitter who could help come up with technological strategies that will protect privacy of the good guys and facilitate quick access to data that can mean the difference between life and death in the battle against terrorists.”",
+  "questions": [
+    {
+      "question": "What aspect do European officials say the Brussels attacks highlight?",
+      "options": [
+        "The need for more armed security in public places.",
+        "The importance of quicker intelligence sharing among governments.",
+        "The effectiveness of current anti-terrorism strategies.",
+        "The necessity of increased military presence in the Middle East."
+      ],
+      "answer": "The importance of quicker intelligence sharing among governments."
+    },
+    {
+      "question": "What does Rabbi Abraham Cooper say the Islamic State is committed to do?",
+      "options": [
+        "Establish physical training camps in Europe.",
+        "Explore the latest communication technologies to evade authorities.",
+        "Conduct more visible recruitment campaigns offline.",
+        "Work closely with established terrorist networks worldwide."
+      ],
+      "answer": "Explore the latest communication technologies to evade authorities."
+    },
+    {
+      "question": "Who does Rabbi Cooper think can really make a difference in stopping terror attacks from happening?",
+      "options": [
+        "Government officials and military leaders.",
+        "Intelligence agencies and their global counterparts.",
+        "Technology company CEOs and their innovations.",
+        "Social media users and online activists."
+      ],
+      "answer": "Technology company CEOs and their innovations."
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

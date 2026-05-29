@@ -1,0 +1,60 @@
+{
+  "title": "Will The New Two-Child Policy Lift China’s Economy?",
+  "introduction": null,
+  "image": {
+    "id": "e4573550-0eab-11e7-bff7-9f8bce3cfd75",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/0Zo259r8D7LVrPyPPRJYHG.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Andrew Choy from Santa Clara, California, United States / Wikimedia Commons / CC-BY-SA-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/18vQiC3GQA2WIo8vfkC5xJ.mpga",
+  "main_content": "China’s decision to end its one-child policy is likely to affect the country’s economy.\n\nOfficial Chinese media reported last month that all couples will be permitted to have two children.\n\nThe change in policy is expected to create new investments and increase demand for goods and services. The move comes as China’s economy is slowing.\n\nHe Weiwen is with the Chongyang Institute for Financial Studies at Renmin University in Beijing. He says that more children will mean “more maternity homes, hospitals, and schools. It will certainly result in massive investment in these areas.”\n\nThe policy limiting families to one child began more than 30 years ago. When the new policy goes into effect, 91-million couples will have official permission for a second child.\n\nThe main purpose of permitting two children in each family is to deal with the aging of China’s population and shrinking workforce.",
+  "questions": [
+    {
+      "question": "When did the one-child policy in China begin?",
+      "options": [
+        "More than 30 years ago",
+        "In the early 2000s",
+        "After the economic reform in 1978",
+        "In the late 1980s"
+      ],
+      "answer": "More than 30 years ago"
+    },
+    {
+      "question": "What is likely to affect China’s economy?",
+      "options": [
+        "The introduction of new technologies",
+        "The end of the one-child policy",
+        "The rise in international trade",
+        "The decrease in rural populations"
+      ],
+      "answer": "The end of the one-child policy"
+    },
+    {
+      "question": "What is the main reason/purpose of permitting two children in each family?",
+      "options": [
+        "To increase tourism and foreign investment",
+        "To address the aging population and shrinking workforce",
+        "To enhance the quality of education",
+        "To reduce poverty in urban areas"
+      ],
+      "answer": "To address the aging population and shrinking workforce"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

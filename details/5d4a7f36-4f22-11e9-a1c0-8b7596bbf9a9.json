@@ -1,0 +1,60 @@
+{
+  "title": "Blind Boy Defines His Life With Music",
+  "introduction": null,
+  "image": {
+    "id": "5d4a5e66-4f22-11e9-a1bf-175940cdb348",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/lp2OAmMN2WOISO8b4oiqQnBodyY2URtyGZhu1ey4X5z.jpeg",
+    "dimensions": {
+      "x": 1000,
+      "y": 680
+    },
+    "attribution": "Shutterstock",
+    "public_attribution": false,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1igjgUzSgF2xTcPGscxwst.mpga",
+  "main_content": "When Frankie Moran first saw his son Cole, he could not imagine ever sharing his love of music with the boy. Cole had cognitive delays and other birth defects. And he was blind.\n\nBut Cole was not deaf, and quickly showed an interest in music. Mr. Moran is a singer and songwriter. He says his son liked to be nearby when he was making music at home. He says Cole would touch the instruments.\n\nAt around the age of one, Cole started playing notes of simple songs on a toy piano.\n\nCole Moran is now 12 years old. Cole plays music every day. He records his performances and listens back to the sound. He enjoys the work.\n\nCole’s choice of instrument since he was four has been the harmonica, which he often plays with his dad. Last year, the father and son duo won second place at a Fiddler’s Convention in their hometown, Berlin, Maryland.\n\nNow and then, Cole performs with his father under the name Blind Wind at a restaurant in Berlin.\n\nThe 12-year-old released his first CD recently. His mother, Jenny Moran, was excited.",
+  "questions": [
+    {
+      "question": "How old is Cole Moran?",
+      "options": [
+        "10 years old",
+        "11 years old",
+        "12 years old",
+        "13 years old"
+      ],
+      "answer": "12 years old"
+    },
+    {
+      "question": "What instrument does Cole play often?",
+      "options": [
+        "Piano",
+        "Guitar",
+        "Harmonica",
+        "Violin"
+      ],
+      "answer": "Harmonica"
+    },
+    {
+      "question": "Why was Jenny Moran, Cole’s mother, excited?",
+      "options": [
+        "Cole played at a local concert",
+        "Cole released his first CD",
+        "Cole won a music competition",
+        "Cole learned a new song"
+      ],
+      "answer": "Cole released his first CD"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

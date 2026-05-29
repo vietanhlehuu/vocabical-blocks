@@ -1,0 +1,60 @@
+{
+  "title": "UK Group Brings Eyeglasses to Rwanda",
+  "introduction": null,
+  "image": {
+    "id": "b7692d30-7617-11ed-b7ec-bba3dc671a20",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2Yvy94d6gcNMW9NJZ4Ilvt.jpeg",
+    "dimensions": {
+      "x": 4288,
+      "y": 2848
+    },
+    "attribution": "U.S. Navy photo by Mass Communication Specialist 1st Class Emmitt J. Hawks / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4FUPsrWBANPaGSTDz29lBO.mpga",
+  "main_content": "Most people in developed countries do not have a problem getting prescription eyeglasses. They go to an ophthalmologist – a trained specialist who treats problems and diseases of the eye. The ophthalmologist can perform tests on the person’s eyesight.\n\nBut in poor countries like Rwanda, it may take a lot more time, effort and money. Rwanda has only 14 ophthalmologists to serve the country’s 11 million people.\n\nBut now, a British-based group is helping up to one million Rwandans with poor eyesight. The group is called Vision for a Nation. It will soon start testing new affordable eyeglasses that wearers can adjust to improve their sight.\n\nJames Chen set up Vision for a Nation. He says Rwanda is one nation where there is a great need for the glasses, especially among schoolchildren.\n\nJames Chen is the founder of the eyewear manufacturer Adlens. The company produces two kinds of adjustable glasses. Mr. Chen says they are easy to use and have a wide range of magnification.\n\nThanks to the World Bank, Rwandans will pay only about $1.50 for the adjustable glasses. But that amount is still about three days’ wages in their country.\n\nVision for a Nation has trained about 1,200 nurses to help people learn how to use the glasses. If all goes well in Rwanda, the group plans to provide a similar service in other countries.",
+  "questions": [
+    {
+      "question": "How many ophthalmologists are there in Rwanda?",
+      "options": [
+        "7 ophthalmologists",
+        "10 ophthalmologists",
+        "14 ophthalmologists",
+        "20 ophthalmologists"
+      ],
+      "answer": "14 ophthalmologists"
+    },
+    {
+      "question": "Who set up the organization Vision for a Nation?",
+      "options": [
+        "James Chen",
+        "A World Bank representative",
+        "An unnamed ophthalmologist",
+        "A Rwandan nurse"
+      ],
+      "answer": "James Chen"
+    },
+    {
+      "question": "What type of business is Adlens?",
+      "options": [
+        "A training program for nurses",
+        "A type of eye disease",
+        "An eyewear manufacturer",
+        "A charitable organization"
+      ],
+      "answer": "An eyewear manufacturer"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

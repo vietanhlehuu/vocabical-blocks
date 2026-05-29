@@ -1,0 +1,60 @@
+{
+  "title": "US Scientists Build the Smallest Particle Accelerator",
+  "introduction": null,
+  "image": {
+    "id": "4aca0347-823e-42b0-a7a6-2e5f3eb05476",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2H7kdsKwTjQRNiWLx8lHLq.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 383
+    },
+    "attribution": "Martin Conway / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/26EHh4t52IaRkf6PwgLFgI.mpga",
+  "main_content": "Most of the huge instruments that physicists use to unlock the secrets of the universe, the so-called particle colliders, are kilometers long circular tunnels, such as the 27-kilometer-long Large Hadron Collider, in Switzerland.\n\nClouds of subatomic particles zoom through the tunnels, accelerating up the close to the speed of light and they eventually collide, creating conditions similar to the one just after the Big Bang, the prevailing cosmological theory for the beginning of the universe.\n\nBut scientists at the National Accelerator Laboratory, in Menlo Park, California, say the long tunnels may no longer be needed. In a tube less than 30 centimeters long, they managed to accelerate particles to speeds more than 500 times faster than other accelerators.\n\nThe new accelerator is yet to evolve into a full-fledged instrument, but scientists say it helped them prove that acceleration of subatomic particles is possible using a different method than the one employed in huge circular colliders.\n\nThe lab’s mini-accelerator is a chamber filled with super-heated plasma of hydrogen gas in which clouds of electrons, zapped by a powerful laser, pass their energy from one to another, gaining speed as they do. The developers say the fast moving electrons could then be inserted into a collider much smaller than the existing ones, eliminating the need for long and expensive tunnels to zoom through.",
+  "questions": [
+    {
+      "question": "How long is the Large Hadron Collider in Switzerland?",
+      "options": [
+        "5 kilometers",
+        "17 kilometers",
+        "27 kilometers",
+        "37 kilometers"
+      ],
+      "answer": "27 kilometers"
+    },
+    {
+      "question": "How does such a collider work?",
+      "options": [
+        "By using gravitational waves to attract particles",
+        "By creating a vacuum to isolate particles",
+        "By accelerating particles in circular tunnels and creating collisions",
+        "By using magnetic fields to levitate particles"
+      ],
+      "answer": "By accelerating particles in circular tunnels and creating collisions"
+    },
+    {
+      "question": "How long is the collider in California?",
+      "options": [
+        "1 meter",
+        "30 centimeters",
+        "1 centimeter",
+        "3 meters"
+      ],
+      "answer": "30 centimeters"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

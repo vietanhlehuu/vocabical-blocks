@@ -1,0 +1,60 @@
+{
+  "title": "Obama, Putin Agree on Need for Syrian Transition",
+  "introduction": null,
+  "image": {
+    "id": "df6164f0-fb60-11ed-832f-af3c98b32e68",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1pM2OhGuoNGDGXVR9srJ9w.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 316
+    },
+    "attribution": "Kremlin.ru / Wikimedia Commons / CC-BY-4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6n3AVjofGtnXPwJd3o8ZSN.mpga",
+  "main_content": "U.S. President Barack Obama and Russian President Vladimir Putin agreed Sunday on the need for a Syrian-led political transition, U.N.-mediated negotiations and a cease-fire to end the four-year civil war in the Middle East nation, according to a White House statement.\n\nThe two leaders met for 35 minutes in Antalya, Turkey, on the sidelines of the G-20 economic summit, with the White House calling it a “constructive discussion,” a change from the two leaders’ often antagonistic talks at other world meetings.\n\nPutin foreign affairs adviser Yuri Ushakov said the Russian leader had a “quite detailed conversation” with Obama.\n\nA White House official said Obama and Putin “noted the diplomatic progress” achieved in recent weeks in talks in Vienna.\n\nAt the same time, Obama welcomed “efforts by all nations” to combat Islamic State militants in Syria and “noted the importance of Russia’s military efforts in Syria focusing” on the Islamic State.\n\nU.S. officials have often complained that Moscow’s bombing campaign in Syria has mostly targeted rebel groups fighting troops loyal to President Bashar al-Assad rather than Islamic State positions.\n\nThe two countries have been at odds about Assad’s role in Damascus following any political transition in the Syrian capital.\n\n“Strategic goals related to fighting (the Islamic State) are very close, ” Ushakov said, “but tactical differences remain.”",
+  "questions": [
+    {
+      "question": "What did Barack Obama and Vladimir Putin agree on?",
+      "options": [
+        "A Syrian-led political transition and a cease-fire",
+        "The unconditional support for President Assad",
+        "An increase in military presence in the region",
+        "A permanent military alliance between the U.S. and Russia"
+      ],
+      "answer": "A Syrian-led political transition and a cease-fire"
+    },
+    {
+      "question": "On what occasion did the two leaders meet?",
+      "options": [
+        "During a bilateral meeting in Washington D.C.",
+        "At the G-20 economic summit in Antalya, Turkey",
+        "In a private meeting at the United Nations headquarters",
+        "While attending a climate change conference"
+      ],
+      "answer": "At the G-20 economic summit in Antalya, Turkey"
+    },
+    {
+      "question": "Why did U.S. officials complain about Russia’s strategy in Syria?",
+      "options": [
+        "Russia was not taking any action against the Islamic State",
+        "Moscow was mostly targeting rebel groups instead of the Islamic State",
+        "Russia's bombing campaign was too focused on civilian areas",
+        "The U.S. believed Russia was collaborating with Assad too closely"
+      ],
+      "answer": "Moscow was mostly targeting rebel groups instead of the Islamic State"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Glass Buildings Are Deadly for Birds in the City",
+  "introduction": null,
+  "image": {
+    "id": "6f6b5ef6-b55c-427f-91c8-1270500bbe7b",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3OFDRz66SKH9FkiXleVnml.jpeg",
+    "dimensions": {
+      "x": 783,
+      "y": 599
+    },
+    "attribution": "User:AgnosticPreachersKid / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 4,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/27y8DEXFSrDfzR3Iyg8Q7i.mpga",
+  "main_content": "Millions of birds are killed each year in cities when they strike illuminated buildings, especially ones covered with a lot of glass. Experts say artificial lights at night are confusing for migratory birds. They often collide with glass buildings – not knowing the light is on the other side.\n\nIn response, a growing movement to save birds from such crashes has been taking place in cities across the United States.\n\nLisbeth Fuisz is director of a campaign called Lights Out DC. Her team found several dead birds one morning at the base of glass buildings.\n\nVolunteers often travel a six-kilometer path in downtown Washington, D.C. every day before sunrise. They walk around the sides of buildings, collecting fallen birds before they are eaten by predators.\n\nLisbeth Fuisz says the area has many buildings that pose a danger to migrating birds.\n\nThe Lights Out DC campaign urges building owners to turn off unnecessary lights at night during peak bird migration periods, in the spring and fall.\n\nThe Lights Out campaign is now in its fifth year. Lisbeth Fuisz says her group is having some success. She also says one of many federal office buildings has agreed to their request.\n\nVolunteers hope their effort will bring increased public interest in the problem, helping to save birds and electricity.",
+  "questions": [
+    {
+      "question": "Why do migratory birds strike illuminated buildings?",
+      "options": [
+        "They are attracted to the light from afar.",
+        "They cannot see during the day.",
+        "The artificial lights at night confuse them.",
+        "They are drawn to the colors of the buildings."
+      ],
+      "answer": "The artificial lights at night confuse them."
+    },
+    {
+      "question": "Who is the director of the Lights Out DC campaign?",
+      "options": [
+        "Lisbeth Fuisz",
+        "John Smith",
+        "Maria Gonzales",
+        "Michael Johnson"
+      ],
+      "answer": "Lisbeth Fuisz"
+    },
+    {
+      "question": "What does the Lights Out DC campaign urge building owners to do?",
+      "options": [
+        "Increase the brightness of their lights.",
+        "Turn off unnecessary lights during peak migration periods.",
+        "Build taller buildings with less glass.",
+        "Install bird-friendly reflective glass."
+      ],
+      "answer": "Turn off unnecessary lights during peak migration periods."
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

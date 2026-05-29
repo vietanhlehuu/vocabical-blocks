@@ -1,0 +1,60 @@
+{
+  "title": "Koreans Weep With Joy At Family Reunions",
+  "introduction": null,
+  "image": {
+    "id": "9cabab9d-5432-45b8-b296-31eb4c163acb",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4ldFuK6d7UGA3QXgzBtQOx.jpeg",
+    "dimensions": {
+      "x": 600,
+      "y": 396
+    },
+    "attribution": "Divided Families Foundation / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2NA3DuEgl8D8vgBAonWUGI.mpga",
+  "main_content": "North and South Korea began long-awaited reunions of separated families. Buses filled with smiling Koreans from the South crossed into the North.\n\nNorth and South Korea planned three days of reunions at the Kumgang Mountain resort just north of their shared border.\n\nThe Korean War from 1950 to 1953 displaced millions of people. The conflict separated families and friends.\n\nOnly 20 inter-Korean reunions have been held since 2000. For 60 years, separated families were not permitted to meet in person or exchange telephone calls or letters.\n\nClose to 60,000 South Koreans are waiting to take part in the reunions. “I can’t think of what to say,” said 76-year-old South Korean Kim Ki-Joo, who planned to meet his older brother in North Korea. “We are being reunited after 65 years.”\n\nThe reunions came to pass after an agreement was reached in August. Family meetings were suspended in 2010 and 2013 after tensions worsened between North and South Korea.",
+  "questions": [
+    {
+      "question": "How many days of reunions there will be?",
+      "options": [
+        "Two days",
+        "Three days",
+        "Four days",
+        "Five days"
+      ],
+      "answer": "Three days"
+    },
+    {
+      "question": "How old is Kim Ki-Joo?",
+      "options": [
+        "74 years old",
+        "76 years old",
+        "80 years old",
+        "82 years old"
+      ],
+      "answer": "76 years old"
+    },
+    {
+      "question": "When did the reunions start?",
+      "options": [
+        "After the Korean War",
+        "In August 2023",
+        "In 2000",
+        "After an agreement in August 2023"
+      ],
+      "answer": "After an agreement in August 2023"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

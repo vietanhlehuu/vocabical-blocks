@@ -1,0 +1,60 @@
+{
+  "title": "Young Americans Using Their Music to Send a Message",
+  "introduction": null,
+  "image": {
+    "id": "e45fa78a-0eab-11e7-b55b-3327541ad84b",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/7P3suNpKG2v4OVVnY23rc7.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Jan Zalis / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3gws1tGhsRnaMCMbr0TwUs.mpga",
+  "main_content": "The Inner City Youth Orchestra of Los Angeles gives the city’s young musicians a chance to show off their skills. The group makes a special effort to reach minorities in neighborhoods with a history of crime and violence.\n\nThe Inner City Youth Orchestra of Los Angeles plays popular music, classical works and traditional American pieces. Most members of the group are African American or Hispanic. Miles David Hall is a violinist.\n\n“Having this ability and defying stereotypes, I think is something, that’s something that I love to be a part of.”\n\nThe orchestra has performed at the Disney Concert Hall and at major events in Los Angeles and in Washington, D.C. Violinist Amber Daughtry says she and the others share their love of music.\n\nCharles Dickerson has served as the orchestra’s conductor for the past six years. He says membership is open to anyone between the ages of 10 to 25. The orchestra, he says, is one way to get the world to listen.\n\nOrchestra members say they hope the music in their performances can also send a message.",
+  "questions": [
+    {
+      "question": "What nationality are most members of the group (orchestra)?",
+      "options": [
+        "Asian and Pacific Islander",
+        "African American and Hispanic",
+        "Caucasian and Native American",
+        "Middle Eastern and Latin American"
+      ],
+      "answer": "African American and Hispanic"
+    },
+    {
+      "question": "Where is the Inner City Youth Orchestra?",
+      "options": [
+        "New York City",
+        "San Francisco",
+        "Los Angeles",
+        "Chicago"
+      ],
+      "answer": "Los Angeles"
+    },
+    {
+      "question": "Who has been the orchestra’s conductor for the past six years?",
+      "options": [
+        "Miles David Hall",
+        "Amber Daughtry",
+        "Charles Dickerson",
+        "Alicia Keys"
+      ],
+      "answer": "Charles Dickerson"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

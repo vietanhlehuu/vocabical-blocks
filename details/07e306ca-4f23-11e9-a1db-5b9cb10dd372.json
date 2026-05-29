@@ -1,0 +1,60 @@
+{
+  "title": "More US Students Learning Korean",
+  "introduction": null,
+  "image": {
+    "id": "07e28d9e-4f23-11e9-a1da-3fc737e37b16",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5VcITjEB3oVQ4kqbNTulx3.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 315
+    },
+    "attribution": "Firdaus Latif / Wikimedia Commons / CC-BY-SA 2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2XgV5jil3o7mgPeDnLOkIR.mpga",
+  "main_content": "Korean language studies are quickly growing in popularity across the United States. The Modern Language Association says the number of U.S. college students taking a Korean language class rose by almost 45% between 2009 and 2013. The group notes that the increase comes at a time when the number of college students taking foreign language classes has declined.\n\nThis is K-pop – Korean popular music. Many people around the world like the sound of K-pop.\n\nPeople can listen to K-pop music, and watch K-pop videos and Korean drama programs on websites like YouTube.\n\nDavid Schaberg is Dean of Humanities at the University of California, Los Angeles. He also serves as a professor in UCLA’s Department of Asian Languages & Cultures, where students can study Korean.\n\nPersida Radu is learning Korean. Like many others, her interest in the language started with music.\n\nLanguage researchers say the growing number of U.S. students taking Korean language classes shows no sign of ending anytime soon. Their reasons: the popularity of K-pop and the rising number of Korean-Americans seeking to re-connect with older family members.",
+  "questions": [
+    {
+      "question": "How did the number of U.S. college students taking a Korean language class rise between 2009 and 2013?",
+      "options": [
+        "By nearly 25% as part of a bigger trend in language studies",
+        "By almost 45% despite a decline in other foreign languages",
+        "By a significant 60% reflecting a cultural shift in education",
+        "By just 10% indicating a growing interest in East Asian studies"
+      ],
+      "answer": "By almost 45% despite a decline in other foreign languages"
+    },
+    {
+      "question": "How did Persida Radu’s interest in Korea start?",
+      "options": [
+        "Through her academic pursuits in Asian cultures",
+        "From travel experiences in Korea during her childhood",
+        "By developing a passion for K-pop music",
+        "By studying Korean history as part of her degree"
+      ],
+      "answer": "By developing a passion for K-pop music"
+    },
+    {
+      "question": "What are the 2 reasons for the growing number of U.S. students taking Korean language classes?",
+      "options": [
+        "Rising interest in Korean cinema and cuisine",
+        "Increased global collaboration in fields like technology and science",
+        "The popularity of K-pop and more Korean-Americans reconnecting with family",
+        "Desire for employment opportunities within Korean companies"
+      ],
+      "answer": "The popularity of K-pop and more Korean-Americans reconnecting with family"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

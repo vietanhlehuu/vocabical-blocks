@@ -1,0 +1,60 @@
+{
+  "title": "Why Nepal? Science Explains Devastating Earthquake",
+  "introduction": null,
+  "image": {
+    "id": "262c7f38-3234-4cd1-a53d-83bba8c7e73b",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1A22hYULeSbSdP9oZgJoiZ.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Nirjal stha / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1NBYNrjqLki0imNCEZfv6I.mpga",
+  "main_content": "The powerful earthquake that struck Nepal Saturday happened on a “thrust fault,” according to the U.S. Geological Survey, which is when one part of the Earth’s crust is being thrust underneath another.\n\n“The basics of the geology of the region are you have the Indian tectonic plate being thrust and pushed underneath the Eurasian continental plate, and because these two plates are moving toward each other. This force builds up over time, said John Bellini, a geophysicist at the U.S. Geological Survey’s National Earthquake Information Center.\n\n“It’s something that’s not constantly moving, but when it does move, it creates a jolt and you have a large earthquake,” he said.\n\nThe area will also face more earthquakes in the future, because of its location where two continental plates are coming together, but Bellini said there could be relatively long time periods in between – sometimes decades.\n\n“This area doesn’t have a recent history of a lot of large earthquakes,” said Bellini. “But earthquakes are responsible for the formation of the Himalayas, so historically, there have been a lot of large earthquakes.”\n\nSaturday’s deadly 7.8-magnitude quake was the worst to hit Nepal in more than 80 years.\n\nIn the near term, Bellini said the country can expect many more aftershocks, in addition to the possibility of landslides due to the mountainous nature of the region.\n\n“They’re going to experience over the next few weeks and months quite a few aftershocks,” he said.\n\n“And people in the region do have to be aware that these aftershocks, in particular the larger ones, can cause additional damage, especially to already weakened buildings.”",
+  "questions": [
+    {
+      "question": "According to the article, what is a “thrust fault”?",
+      "options": [
+        "A geological condition where two tectonic plates slide past each other",
+        "A scenario in which one part of the Earth’s crust is pushed below another",
+        "A type of fault that results in volcanic activity",
+        "A state of balance between tectonic plates with no movement"
+      ],
+      "answer": "A scenario in which one part of the Earth’s crust is pushed below another"
+    },
+    {
+      "question": "What plates were responsible for the earthquake?",
+      "options": [
+        "The African and Australian tectonic plates",
+        "The Indian tectonic plate and the Eurasian continental plate",
+        "The North American and Pacific plates",
+        "The South American and Nazca plates"
+      ],
+      "answer": "The Indian tectonic plate and the Eurasian continental plate"
+    },
+    {
+      "question": "How much time could pass until the next big earthquake in that region?",
+      "options": [
+        "A few days at most",
+        "It could be decades",
+        "No significant time, as earthquakes are frequent in that area",
+        "Approximately one year"
+      ],
+      "answer": "It could be decades"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

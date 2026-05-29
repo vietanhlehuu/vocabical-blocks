@@ -1,0 +1,60 @@
+{
+  "title": "Volunteers Change Lives, Build Community",
+  "introduction": null,
+  "image": {
+    "id": "847b149e-77a3-11ea-b19c-2fbef0eaa1a3",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/78WWzi16bzTn6t2mPWWkMD.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 685
+    },
+    "attribution": "Buddpaul / Wikimedia Commons / CC-BY-SA 4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4pyL7kt225pN0cMau7oBZl.mpga",
+  "main_content": "In the United States, a group called “Thread” has been helping young people meet their goals for more than 10 years. The non-profit organization is based in the eastern city of Baltimore, Maryland. Its volunteers help high school students with almost anything, like learning how to wash their clothes and how to get a job.\n\nCompleting paperwork for admission to college is not easy. But 18-year-old Trey is getting help from Brenda Wilson, a volunteer at Thread.\n\nMs. Wilson is a former teacher and lawyer. She has been advising Trey for almost two years.\n\nMs. Wilson says she likes being involved with Trey.\n\nThread helps connect students who are having difficulty in high school with people who can help them change their lives. It says some of the students have a parent who is incarcerated or the students themselves may be jailed at some point during their time with Thread. They may have struggles with their attendance at school or something bad is happening at home. Thread says it stays with the students no matter what happens. It never gives up on them.\n\nThe relationships between the students and volunteers are planned to last for 10 years. The volunteers give the young people whatever kind of help they need.",
+  "questions": [
+    {
+      "question": "What did Ms. Wilson use to work as?",
+      "options": [
+        "A doctor",
+        "A teacher and lawyer",
+        "A social worker",
+        "A financial advisor"
+      ],
+      "answer": "A teacher and lawyer"
+    },
+    {
+      "question": "How long has Ms. Wilson been advising Trey?",
+      "options": [
+        "Less than a year",
+        "Almost two years",
+        "Five years",
+        "Since he was a child"
+      ],
+      "answer": "Almost two years"
+    },
+    {
+      "question": "Where is “Thread” based?",
+      "options": [
+        "New York City",
+        "Chicago",
+        "Baltimore",
+        "Los Angeles"
+      ],
+      "answer": "Baltimore"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

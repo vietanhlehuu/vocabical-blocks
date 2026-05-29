@@ -1,0 +1,60 @@
+{
+  "title": "U.S. Scientists Say Genetically Engineered Foods Are Safe",
+  "introduction": null,
+  "image": {
+    "id": "da3813f1-da3b-4a2c-a8f7-cce20bdc195f",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6dlxCrVtQKnvd5Uhjn8O4N.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Scott Bauer, USDA ARS / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6Serhs1GFXRUCfQFiiYQ6I.mpga",
+  "main_content": "American scientists announced this week that genetically engineered food is generally safe for humans and the environment.\n\nThe National Academies of Science, Engineering and Medicine found that changing the genetics of what we eat does not carry the health risks.\n\nThe Associated Press noted that the growth of genetically engineered crops has yet to lead to a jump in food production. The report did not find any conclusive evidence of environmental problems from such crops.\n\nGenetic engineering is the technology of changing the genes of living things.\n\nThe process of changing the genetic structure of food crops has been debated for some time. Such foods are commonly called GMOs — for genetically modified organisms, or GEs – meaning genetically edited.\n\nFor nearly 30 years, biologists have used genetic engineering to modify plant characteristics like, for example, increasing vitamin levels.",
+  "questions": [
+    {
+      "question": "What two things is genetically engineered food generally safe for?",
+      "options": [
+        "Humans and animals",
+        "Humans and the environment",
+        "Food production and the economy",
+        "Crops and genetic diversity"
+      ],
+      "answer": "Humans and the environment"
+    },
+    {
+      "question": "What is genetic engineering according to the article? ",
+      "options": [
+        "The practice of growing plants in specific climates",
+        "The technology of changing the genes of living things",
+        "The method of selectively breeding animals for traits",
+        "The process of enhancing food with vitamins"
+      ],
+      "answer": "The technology of changing the genes of living things"
+    },
+    {
+      "question": "For how many years has genetic engineering been used?",
+      "options": [
+        "25 years",
+        "30 years",
+        "15 years",
+        "40 years"
+      ],
+      "answer": "30 years"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

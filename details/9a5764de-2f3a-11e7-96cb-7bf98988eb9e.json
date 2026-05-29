@@ -1,0 +1,60 @@
+{
+  "title": "Microsoft Employs Robots as Security Guards",
+  "introduction": null,
+  "image": {
+    "id": "a759e397-b366-4757-8c97-66828b1429f4",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/55mnTY6WEFBYZ0GePpzIxw.jpeg",
+    "dimensions": {
+      "x": 467,
+      "y": 699
+    },
+    "attribution": "Knightscope Photography Team / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3xQ4OdI3Zk7AxXwpLSA1OX.mpga",
+  "main_content": "Several 1-1/2-meter – tall, 136-kilogram robots have recently started patrolling Microsoft’s compound in California’s Silicon Valley as security guards.\n\nAutonomous movable platforms equipped with lasers, cameras and various sensors are already being used for operations such as looking for explosive devices or earthquake victims. But the U.S. software giant has taken robotic surveillance a step further with its fleet of bullet-shaped automatons.\n\nThe K5s, as they’re called, move around outdoor areas, garages and parking lots, scanning situations with their HD cameras and a whole range of sensors, much like human guards would do.\n\nThey can read cars’ license plates, check them against a database, and detect and report unusual activities to a supervisor.\n\nThe robotic guards are not armed. Instead, they are programmed to assess situations and defuse them or sound an alarm and summon human support.\n\nThe battery in each robot runs for 24 hours, after which the device returns to a station for a 20-minute recharge.\n\nThe manufacturer, the California company Knightscope, says its robot guards will take over the monotonous and tiresome work, leaving humans to deal with more complicated tasks.",
+  "questions": [
+    {
+      "question": "What did Microsoft start using as security guards?",
+      "options": [
+        "Drones equipped with cameras",
+        "Trained human security personnel",
+        "1-1/2-meter tall robots",
+        "Remote surveillance systems"
+      ],
+      "answer": "1-1/2-meter tall robots"
+    },
+    {
+      "question": "What have been robots commonly used for?",
+      "options": [
+        "Looking for explosive devices or earthquake victims",
+        "Performing administrative tasks",
+        "Cleaning corporate offices",
+        "Collecting data on user interactions"
+      ],
+      "answer": "Looking for explosive devices or earthquake victims"
+    },
+    {
+      "question": "What are the K5s doing?",
+      "options": [
+        "Surveying human activity to make friends",
+        "Monitoring outdoor areas and reporting unusual activities",
+        "Competing in sports competitions",
+        "Participating in community events"
+      ],
+      "answer": "Monitoring outdoor areas and reporting unusual activities"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

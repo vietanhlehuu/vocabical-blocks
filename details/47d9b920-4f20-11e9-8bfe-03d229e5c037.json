@@ -1,0 +1,60 @@
+{
+  "title": "Economic Growth in Asia Threatens Environment",
+  "introduction": null,
+  "image": {
+    "id": "47d996ac-4f20-11e9-8bfd-6bb4f03fbffe",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1Km2TkcMbd7WB7bPBvDvmc.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 288
+    },
+    "attribution": "Stéphane M. Grueso from Madrid, Spain / Wikimedia Commons / CC-BY-SA 2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6tTa4nSg5kWSJ0lUUwd5vQ.mpga",
+  "main_content": "Strong economic growth in Asia has lifted millions of people out of poor economic conditions. But some environmental activists say it has also hurt the area’s environment. The International Union for Conservation of Nature met in Bangkok, Thailand recently for three days. The group urged Asian countries to work together to protect the environment.\n\nAsia produces about 40 percent of global economic activity and two thirds of global growth. About 60 percent of the world’s population lives in Asia.\n\nAsia’s economic development has hurt its environment. Experts say more than 1,400 plants and animals in the area are critically endangered. In other words, they could soon no longer exist.\n\nZhang Xinsheng is president of the International Union for Conservation of Nature. He says the planet’s ecosystems are stressed and need new efforts by governments to limit losses.\n\nAt the end of its meeting in Bangkok, the group urged governments, businesses and non-government groups to work together to help the environment.",
+  "questions": [
+    {
+      "question": "What did Asia’s economic growth do to many people?",
+      "options": [
+        "It forced millions of people to leave their homes.",
+        "It lifted millions of people out of poor economic conditions.",
+        "It reduced Asia’s share of global economic activity.",
+        "It ended the need for environmental protection."
+      ],
+      "answer": "It lifted millions of people out of poor economic conditions."
+    },
+    {
+      "question": "How much of the world’s population lives in Asia?",
+      "options": [
+        "30 percent",
+        "50 percent",
+        "60 percent",
+        "70 percent"
+      ],
+      "answer": "60 percent"
+    },
+    {
+      "question": "What did the group urge Asian countries to do at its meeting in Bangkok?",
+      "options": [
+        "Work together to protect the environment.",
+        "Focus only on increasing economic growth.",
+        "Move all industries out of Asia.",
+        "Stop all international trade immediately."
+      ],
+      "answer": "Work together to protect the environment."
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

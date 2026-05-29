@@ -1,0 +1,60 @@
+{
+  "title": "Hamas: Israeli Airstrikes Kill 3 Senior Commanders",
+  "introduction": null,
+  "image": {
+    "id": "850293c8-ecf8-11ee-b7ce-bb434e26abba",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/23c46vACN6YEHpFbfP4qCm.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 410
+    },
+    "attribution": "U.S. Air Force photo by TSgt Ben Bloker - Selective noise reduction by Diliff / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5a3NIz6HMGfly4qdafluAR.mpga",
+  "main_content": "Hamas says an Israeli airstrike in the southern Gaza Strip has killed three of the group’s senior commanders.\n\nOfficials said the bombing early Thursday in Rafah destroyed a four-story house and killed at least five other people.\n\nHamas, which dominates the Gaza Strip, named the men as Mohammed Abu Shamaleh, Raed al-Attar and Mohammed Barhoum.\n\nAn Israeli military spokesman confirmed the killing of two of the commanders, Shamaleh and al-Attar, and said they were responsible for “major terror attacks against Israel.”\n\nThe spokesman said those attacks included the killing of Israeli soldiers and the 2006 kidnapping of soldier Gilad Shalit.\n\nA military spokeswoman said aircraft carried out 20 assaults in Gaza on Thursday. Late on Tuesday Israel targeted Hamas’s top military commander, Mohammed Deif, but failed to kill him. Deif’s wife and seven-month-old son were killed in the air strike, Hamas said.\n\nThe United Nations Security Council expressed “grave concern” Wednesday at the resumption of violence, which had paused for a 10-day cease-fire and peace talks. All 15 council members urged both sides to again halt the fighting and return to negotiations on a long-term truce.\n\nAt least 2,050 Palestinians have been killed since Israel launched its offensive on July 8 to stamp out militant rocket fire and destroy tunnels used by Hamas. Israel says 64 of its soldiers have been killed along with three civilians.\n\nThe Palestinians are demanding Israel end its blockade of Gaza and Israel insists Hamas demilitarize.",
+  "questions": [
+    {
+      "question": "Why did the Israeli army kill the Hamas commanders?",
+      "options": [
+        "They were involved in the planning of civilian evacuations.",
+        "They were responsible for major terror attacks against Israel.",
+        "They had agreed to a cease-fire with Israeli forces.",
+        "They were attempting to negotiate peace treaties with the UN."
+      ],
+      "answer": "They were responsible for major terror attacks against Israel."
+    },
+    {
+      "question": "How many attacks did the Israeli army carry out on Thursday?",
+      "options": [
+        "10 assaults",
+        "15 assaults",
+        "20 assaults",
+        "25 assaults"
+      ],
+      "answer": "20 assaults"
+    },
+    {
+      "question": "How many Palestinians have died since the start of hostilities?",
+      "options": [
+        "1,500",
+        "2,050",
+        "3,500",
+        "4,000"
+      ],
+      "answer": "2,050"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

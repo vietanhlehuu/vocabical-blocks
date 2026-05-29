@@ -1,0 +1,60 @@
+{
+  "title": "Family Makes Friends and Memories on World Trip",
+  "introduction": null,
+  "image": {
+    "id": "54646740-4f24-11e9-9ef3-1b4b553b6a27",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3IgRyCfIqMWjgWSp1iFFGY.jpeg",
+    "dimensions": {
+      "x": 800,
+      "y": 469
+    },
+    "attribution": "Christopher Michel / www.flickr.com / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5tqnofrRBfnLWsJhCG4Vyq.mpga",
+  "main_content": "Many families take their children on vacation. They will usually travel for a few days or weeks during school breaks. But Julie and Tim Rivenbark planned a longer vacation with their two children – the Rivenbark family is on a one-year trip around the world. They plan to visit 30 countries in all.\n\nRight now, the four travellers are about halfway through their trip. Ms. Rivenbark says they are trying to see as much of the world as they can.\n\nShe says “We have been through Europe, southern Africa, now we are kind of working our way through Asia. So we have been to a bunch of big cities, like Dubai, Johannesburg, Rome and Bangkok.”\n\nThe family has also spent time floating in kayaks in Italy, flying in hot air balloons in Myanmar, hiking to the Everest Base Camp in Nepal and going on safari in South Africa.\n\nEleven-year old Tyler says he has enjoyed learning about the people they have met.\n\nHis sister, 9-year-old Kara, discovered that she liked Thai food.\n\nMs. Rivenbark says that the extended trip teaches the children a lot more than short visits would have.\n\n“I think that the longer that we travel, the more impact it has on how they see the world. I can see them changing more than they can see themselves.”\n\nThe Rivenbarks will continue to head east for the next six months.",
+  "questions": [
+    {
+      "question": "How long is the Rivenbark family trip?",
+      "options": [
+        "They plan to travel for six months.",
+        "They are on a trip for one year.",
+        "Their trip will last for three months.",
+        "They intend to travel indefinitely."
+      ],
+      "answer": "They are on a trip for one year."
+    },
+    {
+      "question": "What did Kara discover during the trip?",
+      "options": [
+        "She enjoyed hiking in Nepal.",
+        "She liked traditional Italian cuisine.",
+        "She discovered that she liked Thai food.",
+        "She learned how to kayak."
+      ],
+      "answer": "She discovered that she liked Thai food."
+    },
+    {
+      "question": "What big cities have they already visited?",
+      "options": [
+        "New York, Los Angeles, and San Francisco",
+        "Tokyo, Seoul, and Beijing",
+        "Dubai, Johannesburg, Rome, and Bangkok",
+        "London, Paris, and Madrid"
+      ],
+      "answer": "Dubai, Johannesburg, Rome, and Bangkok"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

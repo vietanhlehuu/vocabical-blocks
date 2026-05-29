@@ -1,0 +1,60 @@
+{
+  "title": "Please Don’t Boycott Us!",
+  "introduction": null,
+  "image": {
+    "id": "84126eba-9b55-4313-8435-4125f295435e",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/41DPTK49gbXVr5cVFDJguE.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Dave Hogg from Royal Oak, MI, USA / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/624bB4A4Y6CWKab2HxphPr.mpga",
+  "main_content": "Today we talk about a word that comes to English through the Irish. That word is boycott.\n\nAs a noun, the word boycott has a somewhat different meaning. People stop using goods or services during a boycott until changes are made.\n\nIn the mid-1800s, a young man named Charles Boycott (1832-1897) served in the British army. After retiring, he worked as a land agent in Ireland.\n\nIt was Boycott’s job to collect money from tenant farmers who grew crops on the estate.\n\nThe farmers demanded lower rents. Boycott refused. Not only did he refuse to lower their rents, he evicted some farmers.\n\nAll these issues caused a dispute between Boycott and the local community. In particular a man named Michael Davitt.\n\nIn 1879, Davitt suggested to the farmers that instead of attacking Captain Boycott, they should simply refuse to do business with him.\n\nThis form of protest proved very effective.\n\nBy the end of 1880, some British newspapers began using Boycott’s name when reporting on a protest of unfair actions.",
+  "questions": [
+    {
+      "question": "What did Michael Davitt suggest in 1879?",
+      "options": [
+        "To physically confront Captain Boycott due to his actions.",
+        "To engage in a letter-writing campaign to the British government.",
+        "To refuse to do business with Captain Boycott as a form of protest.",
+        "To form a cooperative and collectively negotiate with Charles Boycott."
+      ],
+      "answer": "To refuse to do business with Captain Boycott as a form of protest."
+    },
+    {
+      "question": "Why did the community dislike Charles Boycott?",
+      "options": [
+        "He organized protests against British rule.",
+        "He evicted farmers and refused to lower their rents.",
+        "He was unwilling to adapt to local farming practices.",
+        "He frequently collaborated with British newspapers."
+      ],
+      "answer": "He evicted farmers and refused to lower their rents."
+    },
+    {
+      "question": "Who (or what) started using Boycott’s name?",
+      "options": [
+        "The local farmers in Ireland as a sign of defiance.",
+        "British newspapers while reporting on the protest.",
+        "Government officials to label the actions of the farmers.",
+        "The Irish parliament to address agricultural reforms."
+      ],
+      "answer": "British newspapers while reporting on the protest."
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

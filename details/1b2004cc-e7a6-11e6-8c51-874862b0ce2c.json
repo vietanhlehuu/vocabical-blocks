@@ -1,0 +1,60 @@
+{
+  "title": "Low Levels of Vitamin D Might Hurt Your Brain",
+  "introduction": null,
+  "image": {
+    "id": "50a5a69d-cc36-431d-9b65-2d73774253db",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2SB5VN9QRUDSwXQFlqvlFb.jpeg",
+    "dimensions": {
+      "x": 660,
+      "y": 440
+    },
+    "attribution": "Allan Ajifo / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6zYtP4ghenGsUTsIRxyJKJ.mpga",
+  "main_content": "Health experts have long known that vitamin D is important for healthy bones and teeth. It may also help to protect the body against diseases such as diabetes and cancer. And now, researchers say vitamin D might help fight brain diseases called dementias.\n\nDementias are brain diseases that damage thinking and memory processes, what scientists call “cognitive abilities.”  Taking care of someone who has dementia is extremely demanding. And the disease is very frightening to sufferers.\n\nMore than 47 million people around the world suffer from dementia. The World Health Organization reports that 60 percent of them live in low- and middle-income countries.\n\nNow a new study in the United States shows a possible link between dementia and low levels of vitamin D.\n\nWe get vitamin D from some foods like nuts, lentils and fatty fish like salmon and mackerel.\n\nWe also get vitamin D from the sun. But that is not dependable. In some parts of the world, there is not enough sunlight to provide enough vitamin D.",
+  "questions": [
+    {
+      "question": "How many people suffer from dementia?",
+      "options": [
+        "Over 50 million people globally",
+        "47 million people worldwide",
+        "Approximately 60 million victims",
+        "Around 30 million individuals"
+      ],
+      "answer": "47 million people worldwide"
+    },
+    {
+      "question": "What did the new study in the United States show?",
+      "options": [
+        "A significant decrease in dementia cases",
+        "Links between vitamin D levels and dementia risk",
+        "The efficacy of sunlight in preventing dementia",
+        "A correlation between diet and cognitive decline"
+      ],
+      "answer": "Links between vitamin D levels and dementia risk"
+    },
+    {
+      "question": "Which foods contain vitamin D?",
+      "options": [
+        "Fruits and vegetables",
+        "Nuts, lentils, and fatty fish",
+        "Processed snacks and dairy",
+        "Cereals and grains"
+      ],
+      "answer": "Nuts, lentils, and fatty fish"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

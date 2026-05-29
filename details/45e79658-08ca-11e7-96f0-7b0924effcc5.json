@@ -1,0 +1,60 @@
+{
+  "title": "European Space Agency Plans a ‘Moon Village’",
+  "introduction": null,
+  "image": {
+    "id": "8592db92-ddbc-49e4-9464-3d29010674ee",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4435nzSGvw3thjMD2xyOFS.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "European Space Agency / Wikimedia Commons / CC-BY-SA-3.0-igo",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4mPsnnvEDwTcBawCYA8BLV.mpga",
+  "main_content": "The European Space Agency plans to build a base on the Moon. The agency said it would like a “Moon village” to be in working order in 20 years.\n\nJohann-Dietrich Woerner is the director general of the European Space Agency. He said building a base on the Moon is a “stepping stone” for a visit to Mars.\n\nThe American space agency, NASA, has set a goal of sending humans to Mars in the 2030s.\n\n“I think we should go first to the Moon” Woerner said.\n\nWoerner said the village would be used for scientific experiments. He added the Moon’s minerals and other resources would be used to build and maintain the base.\n\nIt has been more than 50 years since men visited the Moon. Apollo 17 commander Gene Cernan was the last man to walk on the Earth’s only natural satellite on December 14, 1972.",
+  "questions": [
+    {
+      "question": "When does the European Space Agency plan to finish the “Moon village”?",
+      "options": [
+        "In 10 years",
+        "In 20 years",
+        "In 30 years",
+        "In 50 years"
+      ],
+      "answer": "In 20 years"
+    },
+    {
+      "question": "What will be the “stepping stone” for a visit to Mars?",
+      "options": [
+        "The Mars rover",
+        "The Moon village",
+        "NASA's mission plan",
+        "SpaceX technology"
+      ],
+      "answer": "The Moon village"
+    },
+    {
+      "question": "What did Johann-Dietrich Woerner say the “Moon village” would be used for?",
+      "options": [
+        "Human habitation",
+        "Commercial enterprises",
+        "Scientific experiments",
+        "Tourism and recreation"
+      ],
+      "answer": "Scientific experiments"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

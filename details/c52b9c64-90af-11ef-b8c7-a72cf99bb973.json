@@ -1,0 +1,60 @@
+{
+  "title": "Will Ethiopia’s Teff Be the Next Super Grain?",
+  "introduction": null,
+  "image": {
+    "id": "c52b3012-90af-11ef-b8c6-b3943ca7fd65",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/7EMXTXog4JyIuqXmf5U8aR.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Ji-Elle / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7ffO0UJIdqoFW2tV2rh0Ba.mpga",
+  "main_content": "Many cultures around the world have a grain that is not grown or even known outside its home area.\n\nQuinoa is from South America. Amaranth fed the Aztecs in Central America.\n\nNow, an ancient grain from Ethiopia, teff, is appearing on grocery shelves in America. Teff has been an important part of the Ethiopian diet for thousands of years.\n\nTeff has a mild taste. Teff flour is the key ingredient for the well-known, spongy flatbread found in Ethiopian restaurants.\n\nWayne Carlson learned about teff while doing public health work in Africa in the mid-1970s.\n\nIn the late 70s, Carlson returned to the U.S., married and settled in southwest Idaho. Then he came up with an idea to introduce teff grass to North America in his home state.\n\nUntil last year though, there was not a single Ethiopian restaurant or bakery in the entire state of Idaho to sell the milled flour to.\n\nOver time, the Teff Company has outgrown four different mills. The first was a little stone grinder in the Carlsons’ basement. Now, they occupy a complex in Nampa, Idaho.",
+  "questions": [
+    {
+      "question": "When and where did Wayne Carlson learn about teff?",
+      "options": [
+        "In the early 1980s while working in South America",
+        "In the mid-1970s while doing public health work in Africa",
+        "In the late 1970s during a seminar in Idaho",
+        "In the early 1990s while researching in Ethiopia"
+      ],
+      "answer": "In the mid-1970s while doing public health work in Africa"
+    },
+    {
+      "question": "Where is the Teff Company complex now?",
+      "options": [
+        "In a small town in southern Idaho",
+        "In Nampa, Idaho",
+        "In a rural area of central Oregon",
+        "In downtown Boise, Idaho"
+      ],
+      "answer": "In Nampa, Idaho"
+    },
+    {
+      "question": "Where does quinoa come from?",
+      "options": [
+        "Asia",
+        "Central America",
+        "South America",
+        "Africa"
+      ],
+      "answer": "South America"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

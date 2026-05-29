@@ -1,0 +1,60 @@
+{
+  "title": "Mark Zuckerberg’s Social Accounts Hacked",
+  "introduction": null,
+  "image": {
+    "id": "5a4895a2-56a8-4031-bbd8-afa95e062c39",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2kMTnaP4KjCF8MYok2ha0X.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 337
+    },
+    "attribution": "White House (Pete Souza) / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/50omeJ3eosnex9CDPl1yvI.mpga",
+  "main_content": "Even Facebook founder Mark Zuckerberg is not safe from cyber attackers.\n\nZuckerberg’s Twitter, LinkedIn, and Pinterest profiles were hacked over the weekend. His Facebook and Instagram accounts were not involved.\n\nA group calling itself OurMine Team said it attacked the three accounts on Sunday. The accounts were quickly restored.\n\nTwitter says a Twitter account used by the hackers to post messages was suspended. A website called Engadget captured messages posted by the hackers to Zuckerberg’s personal Twitter account.\n\nBusiness site LinkedIn confirmed Monday that the Facebook founder’s data was compromised. The company said the hackers attempted to create a false profile for Zuckerberg.\n\nThe hackers also posted what they claimed was the password used for Zuckerberg’s LinkedIn account.",
+  "questions": [
+    {
+      "question": "Which accounts (profiles) of Mark Zuckerberg were hacked?",
+      "options": [
+        "Facebook and Instagram accounts",
+        "Twitter, LinkedIn, and Pinterest profiles",
+        "LinkedIn and Pinterest profiles",
+        "Facebook, Twitter, and Instagram accounts"
+      ],
+      "answer": "Twitter, LinkedIn, and Pinterest profiles"
+    },
+    {
+      "question": "What was his Twitter account used for by the hackers?",
+      "options": [
+        "To create false profiles of Zuckerberg",
+        "To post messages claiming to have hacked his accounts",
+        "To communicate with other hacked entities",
+        "To share Zuckerberg's personal data"
+      ],
+      "answer": "To post messages claiming to have hacked his accounts"
+    },
+    {
+      "question": "What did the hackers try to do on LinkedIn?",
+      "options": [
+        "Access Zuckerberg's Facebook account",
+        "Create a false profile for Zuckerberg",
+        "Share private messages from his account",
+        "Reveal confidential corporate information"
+      ],
+      "answer": "Create a false profile for Zuckerberg"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Make Sure You Are Not a Pain in the Neck (part 1)",
+  "introduction": null,
+  "image": {
+    "id": "333cecab-3f3c-479a-9eb9-c1ba9ebc9b31",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1YgRyaMAZmx9SmqtwX6pbF.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "David Shankbone / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4qFTNaht7QPNjtkzCV65p8.mpga",
+  "main_content": "A pain in the neck is a common complaint.\n\n“Pain in the neck” is also a common expression in American English. We use this expression to describe something or someone that gives you an irritated, uncomfortable feeling.\n\nYou know, like the couple that comes into a movie theater late. They take off their coats and bags, blocking people’s view . Then as they eat popcorn loudly, they begin talking.\n\n“This movie better be as good as the book,” one says.\n\n“I know,” says the other.  “We paid a lot for these tickets!”\n\nAnd so did everybody else! And the audience wants to enjoy the movie, not listen to these two pains in the neck.\n\nThis expression is not used only for people. Certain activities can be a pain in the neck.\n\nFor some, washing the dishes is a pain in the neck. Maybe for you, attending long, boring meetings at work is a pain in the neck.\n\n[This article is divided into 2 parts! Read part 2 tomorrow!]",
+  "questions": [
+    {
+      "question": "What do we use the expression “pain in the neck” to describe?",
+      "options": [
+        "Something that requires a lot of effort and time",
+        "Something or someone that gives an irritated, uncomfortable feeling",
+        "A physical ailment that needs medical attention",
+        "An object that causes inconvenience in daily tasks"
+      ],
+      "answer": "Something or someone that gives an irritated, uncomfortable feeling"
+    },
+    {
+      "question": "What do the people in the cinema want to do instead of listening to the two people who are pains in the neck?",
+      "options": [
+        "Enjoy the movie in peace",
+        "Discuss the plot of the movie loudly",
+        "Leave the theater immediately",
+        "Share their own popcorn with the couple"
+      ],
+      "answer": "Enjoy the movie in peace"
+    },
+    {
+      "question": "Is the expression used only for people?",
+      "options": [
+        "Yes, it exclusively refers to annoying individuals",
+        "No, it can also refer to certain activities",
+        "No, it only applies to events and situations",
+        "Yes, it describes a specific type of personality"
+      ],
+      "answer": "No, it can also refer to certain activities"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

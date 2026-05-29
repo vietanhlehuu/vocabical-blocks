@@ -1,0 +1,60 @@
+{
+  "title": "Obama Orders Changes to US Immigration Policy",
+  "introduction": null,
+  "image": {
+    "id": "e0eeeebb-4074-4c15-b65d-5af13421a3ee",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6qRTMzUMAuBFG3EpwlvBs6.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Pete Souza / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 3,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4gyAbZyMquzjiXOjB0l2T3.mpga",
+  "main_content": "President Barack Obama has announced major changes to the United States government’s immigration policies. The changes will affect millions of people who entered the country without permission. The president took the action through an official declaration, known as an “executive order.”\n\nMr. Obama spoke to the American people Thursday night. He said the U.S. immigration system is not working.\n\nThe president said his order will help immigrants to, in his words, “come out of the shadows.” It temporarily protects some illegal immigrants from being expelled from the country, a process called “deportation.”  It also gives them permission to work. But they must have been in the United States at least five years and have no criminal record. And they must have at least one U.S.- born child.\n\n“It does not apply to anyone who might come to America illegally in the future. It does not grant citizenship, or the right to stay here permanently, or offer the same benefits that citizens receive.”\n\nU.S. immigration officials will spend less time removing people and their families who entered the country without permission.\n\nThey will instead increase efforts against terrorists, criminals and people who only recently entered the United States illegally.\n\nThe Obama administration says the executive order increases “the chances that anyone attempting to cross the border illegally will be caught and sent back.”\n\nThe order expands a program for young people who had come to the United States as children and had spent at least five years in the U.S.  It protects foreign citizens from being returned home for three years if they entered the U.S. before 2010 and are attending school.\n\nU.S. officials estimate there are more than 11 million illegal immigrants in the country. The president’s plan will affect about five million of them.",
+  "questions": [
+    {
+      "question": "What is an “executive order”?",
+      "options": [
+        "A law passed by Congress regarding immigration",
+        "An official declaration made by the president regarding policies",
+        "A judicial ruling affecting immigration laws",
+        "An agreement among states about immigration enforcement"
+      ],
+      "answer": "An official declaration made by the president regarding policies"
+    },
+    {
+      "question": "How will the order help immigrants?",
+      "options": [
+        "By granting them full citizenship rights immediately",
+        "By providing resources for legal immigration processes",
+        "By protecting certain illegal immigrants from deportation and allowing them to work",
+        "By decreasing the number of immigration cases processed annually"
+      ],
+      "answer": "By protecting certain illegal immigrants from deportation and allowing them to work"
+    },
+    {
+      "question": "How many illegal immigrants are there in the US?",
+      "options": [
+        "Approximately 10 million",
+        "Over 11 million",
+        "About 5 million",
+        "More than 15 million"
+      ],
+      "answer": "Over 11 million"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "State of Emergency Declared for California Oil Spill",
+  "introduction": null,
+  "image": {
+    "id": "051a3a4e-09a2-4dd8-b126-65e9d40c720c",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/09cwl9lAjOe33X9WcmQoM0.jpeg",
+    "dimensions": {
+      "x": 640,
+      "y": 427
+    },
+    "attribution": "Zackmann08 / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3HyF1K2KQ5Cp1r6sWdqlCH.mpga",
+  "main_content": "The western U.S. state of California has declared a state of emergency for an area of coastline hit with one of the worst oil spills in the state’s recent history.\n\nGovernor Jerry Brown issued the emergency proclamation late Wednesday, a day after the spill was discovered Tuesday at Refugio State Beach, in southern California near the city of Santa Barbara. The proclamation frees up set-aside state funding to assist with cleanup.\n\nThe leak is reported to have come from a rupture in an onshore oil pipeline. Officials estimate more than 100,000 gallons of oil may have leaked out before the oil flow was shut off late Tuesday, and about 21,000 gallons may have seeped down the beach to the sea.\n\nA U.S. Coast Guard spokeswoman said the spill spans about 15 kilometers of coastline. Since cleanup efforts began Wednesday, more than 6,000 gallons of oil have been collected.\n\nThe company that runs the pipeline, Plains All American Pipeline LP, has apologized and says it is conducting cleanup operations around the clock.\n\nThat area of coastline is known for one of the nation’s biggest oil spills in 1969. That spill helped inspire the U.S. environmental movement that continues its activity today.",
+  "questions": [
+    {
+      "question": "Why was a state of emergency declared in California?",
+      "options": [
+        "Due to severe weather conditions threatening the area.",
+        "To address one of the worst oil spills in the state’s recent history.",
+        "In response to a natural disaster affecting infrastructure.",
+        "Because of concerns over economic impacts on tourism."
+      ],
+      "answer": "To address one of the worst oil spills in the state’s recent history."
+    },
+    {
+      "question": "How does the state of emergency proclamation help?",
+      "options": [
+        "It allows for a review of local safety protocols.",
+        "It secures funding for immediate cleanup efforts.",
+        "It mandates stricter regulations on oil companies.",
+        "It facilitates the evacuation of affected residents."
+      ],
+      "answer": "It secures funding for immediate cleanup efforts."
+    },
+    {
+      "question": "Where did the leak originate from?",
+      "options": [
+        "An offshore drilling platform.",
+        "A rupture in an onshore oil pipeline.",
+        "A transport vessel moored nearby.",
+        "An underground reservoir in the area."
+      ],
+      "answer": "A rupture in an onshore oil pipeline."
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

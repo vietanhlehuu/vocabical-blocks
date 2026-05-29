@@ -1,0 +1,60 @@
+{
+  "title": "‘The Greatest’ Muhammad Ali Dies at 74",
+  "introduction": null,
+  "image": {
+    "id": "d0fe2436-dcb6-11f0-a08a-d7b6c98dd459",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6Rh6ZiXD8FNkx46iinn753.jpeg",
+    "dimensions": {
+      "x": 719,
+      "y": 564
+    },
+    "attribution": "Courtesy Ronald Reagan Library. / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4tsw9SXx1irLqsEsrxfnEO.mpga",
+  "main_content": "Muhammad Ali, “The Greatest” boxer in history, died on Friday at the age of 74.\n\nAli was born in Louisville, Kentucky on January 17, 1942. He was given the name Cassius Clay. He learned to box at 12 after someone stole his new bicycle. Six years later, Clay won the light heavyweight Olympic gold medal, in 1960.\n\nIn 1964, Clay said that he would “float like a butterfly, sting like a bee” to fight world heavyweight champion Sonny Liston.\n\nBefore the fight, Clay told reporters,“I am the greatest.”  He then shocked the world by beating Sonny Liston.\n\nAfter the fight, Clay, who had joined the Nation of Islam, changed his name to Muhammad Ali.\n\nThree years later, he was criticized for refusing the draft to join the U.S. military during the height of the Vietnam War.\n\nAli was convicted and stripped of his title. The conviction kept him from boxing for three years until 1970.\n\nThe athlete retired from boxing in 1981.",
+  "questions": [
+    {
+      "question": "What name was given to Muhammad Ali by his parents?",
+      "options": [
+        "Cassius Clay",
+        "Sonny Liston",
+        "Muhammad Ali",
+        "Joe Frazier"
+      ],
+      "answer": "Cassius Clay"
+    },
+    {
+      "question": "When did Muhammad Ali learn to box?",
+      "options": [
+        "At the age of 10",
+        "When he was 12",
+        "During his teen years",
+        "At the age of 14"
+      ],
+      "answer": "When he was 12"
+    },
+    {
+      "question": "What happened in 1981?",
+      "options": [
+        "He won another championship",
+        "He retired from boxing",
+        "He was stripped of his title",
+        "He changed his name"
+      ],
+      "answer": "He retired from boxing"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

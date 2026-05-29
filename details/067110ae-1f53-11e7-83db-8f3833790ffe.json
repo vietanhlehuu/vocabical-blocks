@@ -1,0 +1,60 @@
+{
+  "title": "Report: Cell Phone Data Provides Faster, Better Unemployment Results",
+  "introduction": null,
+  "image": {
+    "id": "251e1fc1-82ba-4022-a709-fe00fefaa7b7",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/182Tvz0aeciU79MfE0tOEh.jpeg",
+    "dimensions": {
+      "x": 695,
+      "y": 426
+    },
+    "attribution": "HLundgaard / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1zYkUSzh5CYQBu6rBHUkBV.mpga",
+  "main_content": "Researchers from the Massachusetts Institute of Technology and other schools say they can use cell phone data to get a faster and more accurate understanding of unemployment.\n\nScholars looked at cell phone records in a small Spanish town where a large factory closed, putting 1,100 people out of work. The data shows the number of calls made by newly laid off people fell by about half, while the number of incoming calls also dropped and the number of cell phone towers their calls engages also declined.\n\nCo-author Jameson Toole said analysis of the cell phone data gives results that closely align with standard unemployment measures. He said this is helpful because other survey measures can be more expensive and time consuming, and in some cases, do not give as much detail for small communities.\n\nIn the United States for example, unemployment surveys cover tens of thousands of people, while tracking the number of newly-created jobs involves questioning people in hundreds of thousands of workplaces.\n\nIn a Skype interview Toole said the new tool complements traditional methods, and can help analysts make faster and more accurate predictions of future jobless rates. He said the tools were developed at a local level, but “worked just fine” when scaled up to cover a whole province.",
+  "questions": [
+    {
+      "question": "How can researchers now get an understanding of unemployment?",
+      "options": [
+        "By conducting interviews with local business owners.",
+        "Through analysis of cell phone data and call patterns.",
+        "By increasing the number of traditional surveys.",
+        "Through partnerships with government employment agencies."
+      ],
+      "answer": "Through analysis of cell phone data and call patterns."
+    },
+    {
+      "question": "What happened to the number of calls made by newly laid off people?",
+      "options": [
+        "It remained unchanged throughout the month.",
+        "It increased significantly in the first week.",
+        "It fell by about half.",
+        "It fluctuated randomly without a clear trend."
+      ],
+      "answer": "It fell by about half."
+    },
+    {
+      "question": "Why is this kind of analysis helpful?",
+      "options": [
+        "It is less intrusive than direct questioning.",
+        "It provides more cost-effective and detailed insights for small communities.",
+        "It eliminates the need for traditional unemployment measures.",
+        "It focuses on personal interviews rather than data analysis."
+      ],
+      "answer": "It provides more cost-effective and detailed insights for small communities."
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

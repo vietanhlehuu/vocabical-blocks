@@ -1,0 +1,60 @@
+{
+  "title": "Ukraine, EU Sign Free Trade Agreement",
+  "introduction": null,
+  "image": {
+    "id": "b9c67237-2f9b-4385-988d-e12492d785a5",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5eYGmKlZiaBiFgg1x8gKY9.jpeg",
+    "dimensions": {
+      "x": 500,
+      "y": 334
+    },
+    "attribution": "Nothingmean / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/56Dpky4sh3BkayBEb2OrVS.mpga",
+  "main_content": "Ukraine’s President Petro Poroshenko says his country has paid “the highest possible price” to achieve the goal of a free trade agreement with the European Union – a goal reached Friday when he signed the deal at a summit in Brussels. Earlier in the day Poroshenko called the signing “historic,” despite negative reaction from Moscow. Russia’s deputy foreign minister said Ukraine’s move is “fraught with serious consequences.”\n\nA Kremlin spokesman also told Russian state media that Russia will take action to protect its economy if it is negatively affected.\n\nThe EU trade agreement was at the center of the political uprising that drove former Ukraine President Viktor Yanukovych from office earlier this year and later led to Moscow’s annexation of Ukraine’s Crimean peninsula, where loyalty to Russia runs high. The conflict has turned deadly with clashes between Ukrainian soldiers and pro-Russia separatists in the east.\n\nWith the end to an official cease-fire in Ukraine looming on Friday, witnesses said thousands of Ukrainians lined up at a Russian border crossing late Thursday, driving cars packed with personal belongings, in hopes of fleeing violence in eastern Ukraine. The United Nations refugee agency said Friday that some 110,000 people have fled to Russia from Ukraine, while some 54,000 Ukrainians have been displaced within the country.\n\nEarlier Thursday, President Poroshenko called on Russia to support his peace plan with “actions, not words.” In an address to the Council of Europe, Poroshenko also accused Moscow of waging an “undeclared war” by backing and arming the separatists.\n\nGerman Chancellor Angela Merkel is reported to have warned Putin that the European Union, which is holding a summit meeting Friday in Brussels, will be forced to consider a new round of sanctions against Moscow if cooperation is withheld.\n\nThe Obama administration says it also is ready to impose new sanctions on Russia if Moscow fails to take action to de-escalate the crisis in eastern Ukraine. The administration said it has delayed implementation as it presses for unified support from European and U.S. manufacturers for the measures.",
+  "questions": [
+    {
+      "question": "What was Russia’s reaction to the agreement reached by Ukraine with the European Union?",
+      "options": [
+        "Russia celebrated the agreement as a major step toward cooperation.",
+        "Russian officials warned that the agreement could have serious consequences.",
+        "Russia promised to help Ukraine implement the deal.",
+        "Russian leaders said the agreement would strengthen their economy."
+      ],
+      "answer": "Russian officials warned that the agreement could have serious consequences."
+    },
+    {
+      "question": "According to the article, how many people had fled to Russia from Ukraine by Friday?",
+      "options": [
+        "About 110,000 people",
+        "About 54,000 people",
+        "About 164,000 people",
+        "About 200,000 people"
+      ],
+      "answer": "About 110,000 people"
+    },
+    {
+      "question": "In what way does the Ukrainian president say Russia is helping the pro-Russian separatists?",
+      "options": [
+        "By providing food and medical supplies",
+        "By backing and arming them",
+        "By organizing peace talks",
+        "By sending humanitarian aid through the EU"
+      ],
+      "answer": "By backing and arming them"
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Cars Making a Comeback at North American Auto Show",
+  "introduction": null,
+  "image": {
+    "id": "e45d8e8c-0eab-11e7-b420-bbc41144f97b",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5eWbRNGx9QY8hCUcs40Uka.jpeg",
+    "dimensions": {
+      "x": 800,
+      "y": 600
+    },
+    "attribution": "Zaluckyb / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/69ETuDE4QtEJCJaNZcvch3.mpga",
+  "main_content": "The 2015 North American International Auto Show took a test drive in the U.S. city of Detroit, Michigan. It was the first major international car show in the U.S.\n\nAutomobile manufacturers from around the world presented over 500 car models.\n\nMary Barra is the chief executive officer of General Motors. She presented the company’s new electric car, called the Chevy Bolt. The Chevy Bolt maybe the first fully electric car that will be popular with drivers.\n\nThe Chevy Bolt will be available to consumers after 2017.\n\nBut the U.S. market may see another futuristic car as early as this year. The small carmaker Local Motors plans to introduce a vehicle called The Strati. The car has a 3-D printed body. The motor and other parts are based on designs by the French automobile manufacturer Renault.\n\nThe Japanese manufacturers of the Acura presented what it called a “super-hybrid” vehicle, the NSX. It has three electric motors providing more than 550 horsepower. The NSX can run in four different modes: Quiet, Sport, Sport + or Track. Each mode creates a different engine sound.\n\nThe 2015 North American International Auto Show ended January 25. Organizers have not yet decided where next year’s auto show will take place.",
+  "questions": [
+    {
+      "question": "Where in the U.S. was the 2015 North American International Auto Show?",
+      "options": [
+        "Pittsburgh, Pennsylvania",
+        "Detroit, Michigan",
+        "Chicago, Illinois",
+        "New York City, New York"
+      ],
+      "answer": "Detroit, Michigan"
+    },
+    {
+      "question": "Which carmaker presented The Strati?",
+      "options": [
+        "General Motors",
+        "Acura",
+        "Local Motors",
+        "Renault"
+      ],
+      "answer": "Local Motors"
+    },
+    {
+      "question": "When did the 2015 North American International Auto Show end?",
+      "options": [
+        "January 15",
+        "January 25",
+        "February 1",
+        "January 30"
+      ],
+      "answer": "January 25"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

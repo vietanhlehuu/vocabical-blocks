@@ -1,0 +1,60 @@
+{
+  "title": "What Is Your Achilles’ Heel?",
+  "introduction": null,
+  "image": {
+    "id": "d4cd7088-6cef-4eb8-8d25-35d811925bc6",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6TYG5PXXZZych1ZEnrxUnO.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 347
+    },
+    "attribution": "Gren12345 / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/79ov6NHiGZm5yQmvQBnXCO.mpga",
+  "main_content": "The Greek poet Homer has given us many phrases. A famous one is “Achilles’ heel.”\n\nIn spoken English, your Achilles’ heel is your weak spot. You can say either “Achilles’ heel” or “Achilles’(s) heel.” Both are correct.\n\nThe Greek story of Achilles’ heel is the one Homer tells in “The Iliad.”\n\nWhen Achilles was a baby his mother bathed him in the river Styx. She believed the river had magical powers. Bathing her son in its waters, she thought, would make Achilles immortal.\n\nBut one part of his body did not get wet: his heel, where his mother held him.\n\nAchilles grew up. He became a great warrior. During the Trojan War, he fought with the Greek army.\n\nNone of the Trojan weapons was able to hurt Achilles. The god Apollo, however, knew of Achilles’ weak spot. Apollo told the prince of Troy, named Paris, all about it. Legend says Paris shot an arrow at Achilles’ heel and killed him.",
+  "questions": [
+    {
+      "question": "In which of his works does Homer talk about Achilles?",
+      "options": [
+        "The Odyssey",
+        "The Iliad",
+        "The Aeneid",
+        "The Argonautica"
+      ],
+      "answer": "The Iliad"
+    },
+    {
+      "question": "Who killed Achilles?",
+      "options": [
+        "Hector",
+        "Paris",
+        "Agamemnon",
+        "Odysseus"
+      ],
+      "answer": "Paris"
+    },
+    {
+      "question": "What is Styx?",
+      "options": [
+        "A mythical creature",
+        "A river with magical powers",
+        "A city in ancient Greece",
+        "A weapon used in battle"
+      ],
+      "answer": "A river with magical powers"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

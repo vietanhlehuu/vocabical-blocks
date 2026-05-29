@@ -1,0 +1,60 @@
+{
+  "title": "Music Helps Impoverished Children Perform Better in School",
+  "introduction": null,
+  "image": {
+    "id": "f559292c-bf1e-11ea-a2dd-13d5e8e80a91",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/61QVY0zMIL3qORTRoc5qh1.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 512
+    },
+    "attribution": "Daniel Means / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0vXrZBW1FyuAjI7SS7aZ80.mpga",
+  "main_content": "Researchers have found that the brains of children who grow up in poverty process sounds differently from children who are better off. But a study shows musical training can tune the brain so that these children of poverty can better process what they hear.\n\nKarina Reyes, 16, fell in love when she saw the trombone.\n\n“I guess it’s the sound and the feel and how it looked, and it was not ordinary for a girl to play trombone,” she said.\n\nFor the last five years, Reyes has been attending a free music program called Harmony Project. Program founder Margaret Martin says the original aim of the program was to help children in poor, often violent, neighborhoods stay out of trouble by staying in school and graduating high school. But there also was an unexpected result.\n\n“Since 2008, 93 percent of our high school seniors have graduated in four years and have gone to colleges like Dartmouth, Tulane, NYU,” said Martin.\n\nMartin says some of the students also pursue highly technical degrees.\n\n“Neuroscience pre-med, civil engineering, medical engineering, cultural anthropology, we even have a Fulbright scholar. It didn’t make any sense,” she said.\n\nIt did not make sense until researchers put sensors on the children’s heads and measured how they responded to sounds, before and after they learned music at Harmony Project. Northwestern University neuroscientist Nina Kraus says they found that poor children process sound differently from their more affluent counterparts.\n\n“We found that the neuro signature for poverty was that the children were processing the details of sounds less precisely,” she said.\n\nBut when they start learning music, something changes after two years.\n\n“So we were able to determine that the children who took part in music lessons had nervous systems that responded to speech sounds in a more precise manner,” she said. “There was a dosage effect so the children who spent more hours engaged in music classes were the children who showed the largest gains.”\n\nKraus says her study with Harmony Project only looked at a small pool of students.\n\n“We’re really just talking about 100 here, 100 there; these are relatively small scale studies,” she said.\n\nShe’d like other researchers to expand the study to thousands of students in multiple locations. But many of the young musicians at Harmony Project, like Ivan Ignacio Arce, say they are living proof that music helps them improve academically.\n\n“After the Harmony Project, I get a new understanding, going to class participating, having an open mind, discussions, talking to my teacher, interacting,” said Arce.\n\nKarina Reyes says she also sees a connection between music and academics.\n\n“Math is like kind of easier [be] cause of rhythms; it’s easier to count, easier to calculate. Yeah, I have seen some improvements with music,” she said.\n\nFor Reyes and the other students here, they’re not playing just to do better in school, they’re here because of the love of their instruments and the friendships formed through music.",
+  "questions": [
+    {
+      "question": "According to the article, which children did the study find were processing sound less precisely before musical training?",
+      "options": [
+        "Children living in poverty",
+        "Children from affluent backgrounds",
+        "Children who had already graduated from college",
+        "Children who did not like music"
+      ],
+      "answer": "Children living in poverty"
+    },
+    {
+      "question": "What reason did Karina Reyes give for falling in love with the trombone?",
+      "options": [
+        "The sound, the feel, and how it looked",
+        "It was a gift from her family",
+        "It was the easiest instrument to play",
+        "She wanted to join the school marching band"
+      ],
+      "answer": "The sound, the feel, and how it looked"
+    },
+    {
+      "question": "What was the original aim of the Harmony Project?",
+      "options": [
+        "To help children stay out of trouble by staying in school and graduating high school",
+        "To train students to become professional orchestra musicians",
+        "To study how children hear speech sounds",
+        "To provide free instruments to every child in the city"
+      ],
+      "answer": "To help children stay out of trouble by staying in school and graduating high school"
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

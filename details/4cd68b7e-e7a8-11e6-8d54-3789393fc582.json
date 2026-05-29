@@ -1,0 +1,60 @@
+{
+  "title": "Thailand Hoping for More Chinese Visitors",
+  "introduction": null,
+  "image": {
+    "id": "e45d55c0-0eab-11e7-b3fe-97f6e7701ee0",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5UOiBXU9xYFITJouzDZqJS.jpeg",
+    "dimensions": {
+      "x": 829,
+      "y": 585
+    },
+    "attribution": "User:Neitram / Wikimedia Commons / CC-BY-SA 3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3vQ90TxCOEvVahiju8IUSw.mpga",
+  "main_content": "For years, Thailand has been a popular country for tourism. Many foreigners went to Thailand to enjoy its culture, natural beauty and warm weather. But reports about martial law and attacks on foreigners have harmed its image as an inviting tourist destination.\n\nThis year, the Thai travel industry is seeking to appeal to more upscale visitors and tour groups from China’s mainland.\n\nAbout one in 10 Thais holds a job related to tourism. The tourism industry suffered last year because of political tensions.\n\nSome foreigners are concerned about going to Thailand. The military continues to rule the country. Foreign media have published reports about tourists being victims of serious crimes on resort islands.\n\nSukanya Janchoo is head of marketing and public relations for the Thai Hotels Association. She is also general manager of the Dusit Thani, a five-star hotel in Bangkok. She is hopeful about the tourism industry. She says the industry has always been able to recover quickly from natural disasters, political troubles or economic problems.\n\nThailand is known as the “Land of Smiles.”  And the country hopes to put a happy face on the tourism industry this year. Thailand hopes to welcome 28 million visitors in 2015. That is the same number as its goal last year. In 2014, the number of actual visitors was 26-million.",
+  "questions": [
+    {
+      "question": "Why do foreigners go to Thailand?",
+      "options": [
+        "To escape their jobs in their home countries",
+        "To enjoy its culture, natural beauty, and warm weather",
+        "To participate in military training programs",
+        "To seek out luxury shopping experiences"
+      ],
+      "answer": "To enjoy its culture, natural beauty, and warm weather"
+    },
+    {
+      "question": "How many people in Thailand have a job related to tourism?",
+      "options": [
+        "About one in five Thais",
+        "About one in ten Thais",
+        "About one in twenty Thais",
+        "About one in fifteen Thais"
+      ],
+      "answer": "About one in ten Thais"
+    },
+    {
+      "question": "By what other name is Thailand known?",
+      "options": [
+        "Land of Sun",
+        "Land of Smiles",
+        "Land of Opportunity",
+        "Land of Festivals"
+      ],
+      "answer": "Land of Smiles"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

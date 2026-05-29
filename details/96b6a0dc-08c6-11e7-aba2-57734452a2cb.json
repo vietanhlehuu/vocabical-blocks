@@ -1,0 +1,60 @@
+{
+  "title": "US Cities Celebrate #BiketoWorkDay",
+  "introduction": null,
+  "image": {
+    "id": "b6cd7d70-c691-4e85-b9da-bc25a537383e",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5YwVmpxD2EXBion49gLPQs.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Kenneth C. Zirkel / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1l972ndlzbINNYhYBisDSn.mpga",
+  "main_content": "In many cities across the United States, May 20 was Bike to Work Day. The day encourages people to try bicycling to work instead of driving or taking a bus or train.\n\nBiking has not always been a popular kind of transportation in the United States.\n\nThis year, #biketoworkday2016 even trended on Twitter Friday in the United States.\n\nThe League of American Bicyclists created National Bike Month in 1956. The month of May was chosen because it usually brings warmer weather. The month-long celebration aims to inspire cyclists and others to make biking more enjoyable and popular in America.\n\nNational Bike to Work Day helps new bikers try cycling as a way to commute.\n\nThe U.S. Census reported this year that around 1 million people regularly use a bicycle to get to work or school. But not everyone is interested in becoming a bike commuter.\n\nStudies often cite the dangers of biking, especially in large cities with many cars. A 2007 study by the Centers for Disease Control found that you are two times as likely to die on a bike than in a car.",
+  "questions": [
+    {
+      "question": "When is Bike to Work Day?",
+      "options": [
+        "May 5",
+        "May 20",
+        "May 1",
+        "May 15"
+      ],
+      "answer": "May 20"
+    },
+    {
+      "question": "Why is May the National Bike month?",
+      "options": [
+        "It coincides with spring break",
+        "It is the warmest month of the year",
+        "It was created to promote bike safety",
+        "It usually brings warmer weather"
+      ],
+      "answer": "It usually brings warmer weather"
+    },
+    {
+      "question": "Is biking safer than going by car?",
+      "options": [
+        "Yes, it is significantly safer",
+        "Yes, but only in rural areas",
+        "No, it is more dangerous",
+        "There is no difference in safety"
+      ],
+      "answer": "No, it is more dangerous"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

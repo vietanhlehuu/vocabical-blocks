@@ -1,0 +1,60 @@
+{
+  "title": "Men Escape American High Security Prison",
+  "introduction": null,
+  "image": {
+    "id": "e4580cf0-0eab-11e7-b0ec-4736185d8f6b",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1ID3R7e8jurZzPTfEAQkx1.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "U.S. Customs and Border Protection / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4x7yPHIOjUI95xHFxaQRMe.mpga",
+  "main_content": "Two men escaped from a maximum-security prison in the American state of New York last Saturday, June 6. The escape received a lot of attention in American media and around-the-clock coverage on cable news networks.\n\nIt is hard to escape from prison in the United States. It is also fairly rare and getting rarer.\n\nThe most recent escape was especially shocking. Two men escaped from the Clinton Correctional Facility, a maximum-security prison in Dannemora, New York. There have been other escapes from Clinton prison. But none of those escapees were free as long as the most recent, convicted murderers, David Sweat and Richard Matt.\n\nThe two men had cells next to each other. Each dug a hole through his cell. On the night of the escape, they stuffed their bed coverings with clothes to make it look like they were asleep.\n\nInvestigators believe that the two travelled inside the walls of the prison along a narrow walk. Then they climbed down and made their way to sewer pipes and crawled to freedom through a manhole in a street in the town of Dannemora.",
+  "questions": [
+    {
+      "question": "When did the two men escape from prison?",
+      "options": [
+        "June 5",
+        "June 6",
+        "June 7",
+        "June 8"
+      ],
+      "answer": "June 6"
+    },
+    {
+      "question": "What are the names of the two men?",
+      "options": [
+        "David Smith and Richard Moore",
+        "David Sweat and Richard Matt",
+        "David Brown and Richard Lee",
+        "David White and Richard Johnson"
+      ],
+      "answer": "David Sweat and Richard Matt"
+    },
+    {
+      "question": "What were they in prison for?",
+      "options": [
+        "Theft",
+        "Robbery",
+        "Murder",
+        "Kidnapping"
+      ],
+      "answer": "Murder"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

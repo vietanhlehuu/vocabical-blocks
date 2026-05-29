@@ -1,0 +1,60 @@
+{
+  "title": "2.3 Million Apply for 368 Office Jobs in Indian State Government",
+  "introduction": null,
+  "image": {
+    "id": "5906e0e1-e71d-4979-be12-dd105b483aa7",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2hzSYOYJ8lMmZaWXXSenod.jpeg",
+    "dimensions": {
+      "x": 1500,
+      "y": 900
+    },
+    "attribution": "AlainV / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2yEpyucU4IR7rvA7M1Wdud.mpga",
+  "main_content": "India’s economic growth could overtake China’s this year, but providing enough high quality jobs continues to be a struggle.\n\nThe latest evidence of the tough job market came this week in the country’s most populous state, Uttar Pradesh, where 2.3 million young people applied for 368 low ranking positions in the state government.\n\nThe position involves carrying files from desk to desk and running errands. It required a fifth grade education and the ability to ride a bicycle.\n\nHowever the applicants included 255 candidates who hold doctorate degrees and 25,000 masters degree holders. About 150,000 applicants are university graduates.\n\n“We have been left astounded with the response not just because the number of applicants is as high as 2.3 million. We are stunned also to find candidates with PhD, B.Tech, MBA and other masters and bachelor degrees applying for these jobs of peons,” Prabhat Mittal, secretary to the administration department of government of Uttar Pradesh said to VOA.\n\nQuoting another government official, local media reports said that it could take up to four years to finish interviewing the 2.3 million candidates who applied for the jobs.\n\n“However, we cannot allow as long as four years to interview these candidates. The incredibly massive response from candidates has created a sort of crisis. We have to find out a solution how in a best way we can tackle this deluge of applications,” an unnamed officer said.",
+  "questions": [
+    {
+      "question": "What is one of the main struggles in the Indian economy?",
+      "options": [
+        "Inconsistent economic policies and regulations",
+        "Providing enough high quality jobs",
+        "A lack of foreign investment opportunities",
+        "Rising inflation rates affecting consumption"
+      ],
+      "answer": "Providing enough high quality jobs"
+    },
+    {
+      "question": "What does the job that is being advertised involve?",
+      "options": [
+        "Managing government budgets and finances",
+        "Carrying files from desk to desk and running errands",
+        "Supervising other employees in an office setting",
+        "Conducting public outreach and communication"
+      ],
+      "answer": "Carrying files from desk to desk and running errands"
+    },
+    {
+      "question": "What was the problem with the applicants?",
+      "options": [
+        "Most applicants did not meet the educational requirements",
+        "The sheer number of highly qualified candidates applying for low-ranking positions",
+        "Applicants were primarily from rural areas with limited experience",
+        "The application process was too complicated for many candidates"
+      ],
+      "answer": "The sheer number of highly qualified candidates applying for low-ranking positions"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

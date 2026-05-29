@@ -1,0 +1,60 @@
+{
+  "title": "Large Diamond Could Be Sold for $70 Million",
+  "introduction": null,
+  "image": {
+    "id": "5850c8c2-2a78-11eb-9ef4-8ffb718936c2",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2nJphElEOuilSq1E2epaUN.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 448
+    },
+    "attribution": "Steve Jurvetson / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/62vm0MUgKhpNHy9UAvh7mc.mpga",
+  "main_content": "One of the world’s largest brokers of fine arts and jewelry is preparing to sell the largest gem-quality diamond found in more than a century.\n\nSotheby’s auction house showed off the diamond last weekend at the company’s New York City headquarters. The term gem-quality means it can be made into jewelry.\n\nThe diamond is believed to be about three-billion years old. It was discovered at a mine in Botswana last November.\n\nThe diamond is about the size of a tennis ball. It measures 65 millimeters by 56 millimeters by 40 millimeters. Experts say the diamond has 1,109 carats.\n\nSotheby’s will be accepting offers for the diamond at an auction in London at the end of June. Experts believe someone will pay at least $70 million for it.\n\nThe diamond has been named “Lesedi la Rona.” That means “our light” in the national language of Botswana.\n\nThe diamond is of the very highest quality, and light can shine through it. Experts praise rough diamonds such as this one for their natural beauty.",
+  "questions": [
+    {
+      "question": "What does “gem-quality diamond” mean?",
+      "options": [
+        "It is a diamond that can be used for industrial purposes.",
+        "It refers to a diamond that can be made into jewelry.",
+        "It indicates a diamond that has been artificially enhanced.",
+        "It signifies a diamond of lower clarity than average."
+      ],
+      "answer": "It refers to a diamond that can be made into jewelry."
+    },
+    {
+      "question": "What are the measurements of the diamond?",
+      "options": [
+        "80 mm by 50 mm by 30 mm",
+        "65 mm by 56 mm by 40 mm",
+        "70 mm by 60 mm by 45 mm",
+        "75 mm by 55 mm by 35 mm"
+      ],
+      "answer": "65 mm by 56 mm by 40 mm"
+    },
+    {
+      "question": "How was the diamond called?",
+      "options": [
+        "The Light of Botswana",
+        "Lesedi la Rona",
+        "The Botswana Jewel",
+        "The Diamond of Ages"
+      ],
+      "answer": "Lesedi la Rona"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

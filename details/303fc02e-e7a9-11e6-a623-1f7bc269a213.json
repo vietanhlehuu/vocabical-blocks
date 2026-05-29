@@ -1,0 +1,60 @@
+{
+  "title": "Report: Smoking Will Kill 1 in 3 Young Men in China",
+  "introduction": null,
+  "image": {
+    "id": "e459e08e-0eab-11e7-b20b-87d29b363a0b",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2l612ZcYI2AwCFGXyom5o5.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 683
+    },
+    "attribution": "Koounthem / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1YK5BLLHe8Rpc0x1KkPidV.mpga",
+  "main_content": "One in three young Chinese men will die from the effects of tobacco, researchers say.\n\nA study published in The Lancet, a medical journal, said, “About two-thirds of young Chinese men become cigarette smokers, and most start before they are 20. Unless they stop, about half of them will eventually be killed by their habit.”\n\nThe scientists conducted two large, nationally representative studies 15 years apart, tracking the health consequences of smoking in China. The first was in the 1990s and involved a quarter-million men. The second study is ongoing and involves a half-million men and women.\n\n“The annual number of deaths in China that are caused by tobacco will rise from about 1 million in 2010 to 2 million in 2030 and 3 million in 2050, unless there is widespread cessation,” the researchers wrote.\n\nChina consumes more than one-third of the world’s cigarettes and has one-sixth of the global smoking death toll.\n\nThe story is different with Chinese women. While about 10 percent of women born in the 1930s were smokers, roughly 1 percent of women born in the 1960s are. And smoking-related death rates have fallen as well. But, the researchers note, smoking has again become fashionable among Chinese women.\n\nRichard Peto, a professor at the University of Oxford and a co-author of the recent paper, said price increases on cigarettes may be one way to reduce smoking rates.\n\n“Over the past 20 years, tobacco deaths have been decreasing in Western countries, partly because of price increases. For China, a substantial increase in cigarette prices could save tens of millions of lives,” he said.",
+  "questions": [
+    {
+      "question": "How many young Chinese men start smoking?",
+      "options": [
+        "About half of young Chinese men become smokers",
+        "About two-thirds of young Chinese men become smokers",
+        "Most young Chinese men start smoking after they turn 20",
+        "All young Chinese men start smoking before age 18"
+      ],
+      "answer": "About two-thirds of young Chinese men become smokers"
+    },
+    {
+      "question": "How many Chinese people are involved in total in the studies?",
+      "options": [
+        "250,000 men in the first study and 500,000 men and women in the second",
+        "500,000 men and 250,000 women in total",
+        "A total of 750,000 men and women across both studies",
+        "1 million men in the first study and 2 million in the second"
+      ],
+      "answer": "250,000 men in the first study and 500,000 men and women in the second"
+    },
+    {
+      "question": "How many of the world’s cigarettes are being smoked in China?",
+      "options": [
+        "One quarter of the world’s cigarettes",
+        "One-third of the world’s cigarettes",
+        "One-half of the world’s cigarettes",
+        "One-sixth of the world’s cigarettes"
+      ],
+      "answer": "One-third of the world’s cigarettes"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

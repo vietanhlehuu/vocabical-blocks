@@ -1,0 +1,60 @@
+{
+  "title": "US: Hackers Steal Xbox Technology, Army Training Software",
+  "introduction": null,
+  "image": {
+    "id": "2d8f5af6-0243-4664-bd19-7fd038863b5b",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1NyAQr8IRO2HvxdXsDLn5v.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 336
+    },
+    "attribution": "Evan-Amos / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6KJtyuZoQ924iyWJjC0wrg.mpga",
+  "main_content": "U.S. authorities have charged four members of a computer hacking ring with the theft of secret data used in American products, including Xbox games and training software for military helicopter pilots.\n\nIn a statement Tuesday, the Justice Department said two of the defendants have already pleaded guilty, including the one Canadian resident to be charged. The other three defendants reside in the U.S.\n\nLeslie Caldwell, assistant attorney general for the Justice Department’s Criminal Division who was quoted in the statement, said the guilty pleas show the U.S. will protect America’s intellectual property from hackers, whether they hack from here or from abroad.\n\nThe four young men, ranging in age from 18 to 28, were indicted on charges including conspiracy to commit computer fraud, copyright infringement, identity theft and wire fraud.\n\nThe total value of the data they stole plus the costs associated with the theft is estimated at $100-200 million.\n\nMaking the announcement along with Caldwell and an agent from the FBI, U.S. Attorney Charles Oberly of Delaware said, electronic breaking and entering of computer networks and the digital looting of identities and intellectual property have become much too common.\n\nThese are not harmless crimes, and those who commit them should not believe they are safely beyond our reach, he said.\n\nThe indictment and other court records allege that from January 2011 to March 2014, the four men and others hacked into computer networks of the U.S. Army and several companies, including Microsoft, which makes Xbox. Once inside, they are accused of accessing and stealing unreleased software, secrets and copyrighted works. They allegedly conspired to use, share and sell the stolen information.\n\nSpecifically, the theft included data related to the then-unreleased Xbox One gaming console, Apache helicopter simulator software that Zombie Studios developed for the U.S. Army, and pre-release versions of Gears of War and Call of Duty games.\n\nAustralia has also charged one of its citizens for his alleged role in the case.\n\nThe Justice Department says the Canadian resident, 22-year-old David Pokora, is believed to be the first foreign-based individual convicted for hacking into U.S. businesses to steal trade secret information.",
+  "questions": [
+    {
+      "question": "What were the four people charged with?",
+      "options": [
+        "Hacking into video game consoles only",
+        "The theft of secret data used in American products",
+        "Creating new software for U.S. defense",
+        "General computer networking violations"
+      ],
+      "answer": "The theft of secret data used in American products"
+    },
+    {
+      "question": "How many of the defendants had already pleaded guilty, according to the Justice Department statement?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "answer": "Two"
+    },
+    {
+      "question": "What charges were the four men indicted on?",
+      "options": [
+        "Conspiracy to commit computer fraud, copyright infringement, identity theft, and wire fraud",
+        "Tax evasion, bribery, and money laundering",
+        "Hacking and theft of physical property",
+        "Software development violations and fraud"
+      ],
+      "answer": "Conspiracy to commit computer fraud, copyright infringement, identity theft, and wire fraud"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

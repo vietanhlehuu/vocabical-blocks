@@ -1,0 +1,60 @@
+{
+  "title": "Brain Remembers Language Better If You Sing It",
+  "introduction": null,
+  "image": {
+    "id": "e45ff776-0eab-11e7-b586-ffabb8d4c82e",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/7dIinSUFOiX6gAt8bXA59R.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 512
+    },
+    "attribution": "Rajavijayasaradhi / Wikimedia Commons / CC-BY-SA 4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6EmwjMKCoJoqR2kTLJDmwC.mpga",
+  "main_content": "Researchers at the University of Edinburgh studied the relationship between music and remembering a foreign language.\n\nThey found that remembering words in a song was the best way to remember even one of the most difficult languages.",
+  "questions": [
+    {
+      "question": "Which university studied the relationship between music and remembering a foreign language?",
+      "options": [
+        "University of Edinburgh",
+        "University of Oxford",
+        "University of Cambridge",
+        "University of Glasgow"
+      ],
+      "answer": "University of Edinburgh"
+    },
+    {
+      "question": "What did the researchers find was the best way to remember words?",
+      "options": [
+        "Reading them aloud",
+        "Writing them down",
+        "Singing them in a song",
+        "Repeating them silently"
+      ],
+      "answer": "Singing them in a song"
+    },
+    {
+      "question": "What kind of language did the study say was difficult to remember?",
+      "options": [
+        "A foreign language",
+        "A computer language",
+        "A native language",
+        "A sign language"
+      ],
+      "answer": "A foreign language"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

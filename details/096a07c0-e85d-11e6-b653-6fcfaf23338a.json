@@ -1,0 +1,60 @@
+{
+  "title": "Have You Ever ‘Stolen’ A Kiss?",
+  "introduction": null,
+  "image": {
+    "id": "e4587050-0eab-11e7-b128-0f54dca3ee6a",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1cDEgxKnWruQEeLAirZwPJ.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 683
+    },
+    "attribution": "Takuma Kimura / Wikimedia Commons / CC-BY-SA-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1LnUIG3ZGUTuASnWtMC8XF.mpga",
+  "main_content": "The start of a new year is a time of reflection, or deep thinking. Many people feel nostalgic for the past. In other words, they think about the past in a dreamy way – a little happy and a little sad.\n\nOne popular New Year’s song is especially nostalgic.\n\nDan Fogelberg was a popular U.S. singer-songwriter. His song “Same Old Lang Syne” is set around the New Year.\n\nWhen two former lovers meet in a grocery store, they talk about old times.\n\nIn the first part of the song, Fogelberg writes\n\nMet my old lover in the grocery store, The snow was falling, Christmas Eve, I stole behind her in the frozen foods, And I touched her on the sleeve. Fogelberg did not actually steal anything from the store.\n\nNo, in this case, “to steal” means to do something secretly. You can steal a glance at your secret love. If someone steals a kiss from you, they surprise you with a kiss. If someone steals your heart, they cause you to fall in love with them.",
+  "questions": [
+    {
+      "question": "Who is Dan Fogelberg?",
+      "options": [
+        "A contemporary artist known for pop music.",
+        "An influential U.S. poet and essayist.",
+        "A popular U.S. singer-songwriter known for his nostalgic songs.",
+        "A famous film director specializing in romantic comedies."
+      ],
+      "answer": "A popular U.S. singer-songwriter known for his nostalgic songs."
+    },
+    {
+      "question": "What does “steal a kiss” mean?",
+      "options": [
+        "To take something without permission.",
+        "To share a kiss openly in public.",
+        "To surprise someone with a kiss unexpectedly.",
+        "To express love through secret admiration."
+      ],
+      "answer": "To surprise someone with a kiss unexpectedly."
+    },
+    {
+      "question": "When is the time for reflection?",
+      "options": [
+        "During Christmas festivities.",
+        "At the start of a new year.",
+        "When one visits a grocery store.",
+        "After a romantic relationship ends."
+      ],
+      "answer": "At the start of a new year."
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

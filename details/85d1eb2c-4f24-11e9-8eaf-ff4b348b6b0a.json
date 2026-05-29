@@ -1,0 +1,60 @@
+{
+  "title": "Cambodian, Thai Rice Voted Best in the World",
+  "introduction": null,
+  "image": {
+    "id": "85d1ca0c-4f24-11e9-8eae-ef57d4fc9389",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4WRPvriJ0CqihQUpDsjJLY.jpeg",
+    "dimensions": {
+      "x": 799,
+      "y": 600
+    },
+    "attribution": " Kevin Evans/AusAID / www.flickr.com / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6wLLXR7Sx8U3ptDu4Ae9np.mpga",
+  "main_content": "For the third straight year, the World Rice Conference has voted Cambodian rice as the world’s best. This year Cambodia shares the award with Thailand.\n\nCambodia produced just one percent of the world’s rice in 2012. It is trying to increase that amount. The award may help.\n\nThe country’s rice industry is small and not well-organized. As a result, large amounts of unmilled, or unprocessed, rice is sent to Thailand and Vietnam where it is sold for a higher price. But rice is very important to Cambodia’s economy. Many Cambodians survive in part by growing rice on small pieces of land.\n\nSok Puthyvuth is the president of the Cambodia Rice Federation.\n\nThe group has set a target of one million tons of milled rice exported by 2015. So far this year, Cambodia has exported around 400,000 tons, mostly to European Union countries.\n\nKeat Chhon is Cambodia’s deputy prime minister. He says increasing rice exports will improve the lives of many of the country’s farmers.\n\nHe says the purpose of the rice policy is to reduce poverty and help people in rural areas earn more. This shrinks the development gap between rural and urban areas.\n\nCambodia faces other problems. Countries like Myanmar also want to increase their rice exports. And, Thailand has extra rice, which is forcing down prices.\n\nThe award for best rice may help Cambodia grow its exports even if it does not reach its million-ton target next year. And that will help the industry and millions of Cambodia’s poor farmers.",
+  "questions": [
+    {
+      "question": "How many percent of the world’s rice did Combodia produce in 2012?",
+      "options": [
+        "5%",
+        "1%",
+        "10%",
+        "3%"
+      ],
+      "answer": "1%"
+    },
+    {
+      "question": "Who is the president of the Cambodia Rice Federation?",
+      "options": [
+        "Keat Chhon",
+        "Hun Sen",
+        "Sok Puthyvuth",
+        "Sam Rainsy"
+      ],
+      "answer": "Sok Puthyvuth"
+    },
+    {
+      "question": "How may the award for best rice help Cambodia?",
+      "options": [
+        "By increasing the price of rice domestically",
+        "By attracting more farmers to grow rice",
+        "By potentially boosting rice exports and aiding the economy",
+        "By allowing Cambodia to sell more unmilled rice"
+      ],
+      "answer": "By potentially boosting rice exports and aiding the economy"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

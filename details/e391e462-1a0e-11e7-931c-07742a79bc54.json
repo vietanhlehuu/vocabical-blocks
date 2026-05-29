@@ -1,0 +1,60 @@
+{
+  "title": "Study: Emotions, Creativity Tightly Linked",
+  "introduction": null,
+  "image": {
+    "id": "375543af-5401-4234-a5da-8af8e6a06fa5",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1gPXipfBu4I0qoD67o6621.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 345
+    },
+    "attribution": "User:Gryffindor and User:Megodenas / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0Kmk2Vv7D20IVYRytfuWF0.mpga",
+  "main_content": "Music can evoke all sorts of emotions in listeners’ hearts, and in composers’ minds.\n\nBrain-scanning studies of artists being creative – improvising music, rapping or drawing caricatures - showed deactivation in a part of the brain involved in planning and monitoring behavior.\n\nResearchers say this is a sign of the “flow state” that frees up creative impulses.\n\nA new study of jazz pianists shows a greater deactivation in that region when they are working on melodies to convey a happy emotion, rather than expressing a sad or negative emotion.\n\nImprovising somber music activates the brain’s reward regions, which reinforce behaviors that lead to pleasurable outcomes. That could mean “that people are getting into more of a ‘groove,'” according to Malinda McPherson, who led the study. “This indicates there may be different mechanisms for why it’s pleasurable to create happy versus sad music.”  “The bottom line is that emotion matters,” says senior author Charles Limb.\n\nThe study of the neural intricacies of creativity was published in Scientific Reports.",
+  "questions": [
+    {
+      "question": "What can music do to listeners and composers?",
+      "options": [
+        "Evoke emotions in listeners’ hearts and composers’ minds",
+        "Improve physical strength during exercise",
+        "Eliminate all negative feelings",
+        "Guarantee creative success in every artist"
+      ],
+      "answer": "Evoke emotions in listeners’ hearts and composers’ minds"
+    },
+    {
+      "question": "What have brain-scanning studies on artists shown?",
+      "options": [
+        "Increased activity in brain regions used for planning and behavior monitoring",
+        "Deactivation in regions of the brain related to planning and behavior monitoring",
+        "No measurable brain changes during creative work",
+        "Activation only in the brain's language centers"
+      ],
+      "answer": "Deactivation in regions of the brain related to planning and behavior monitoring"
+    },
+    {
+      "question": "What does this “flow state” help achieve?",
+      "options": [
+        "It frees up creative impulses",
+        "It prevents artists from making mistakes",
+        "It forces artists to follow a strict plan",
+        "It reduces the need for musical training"
+      ],
+      "answer": "It frees up creative impulses"
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

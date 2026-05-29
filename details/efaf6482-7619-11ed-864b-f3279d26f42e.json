@@ -1,0 +1,60 @@
+{
+  "title": "WHO Alarmed Over ‘Unacceptably’ High Road Accident Deaths",
+  "introduction": null,
+  "image": {
+    "id": "efaedeae-7619-11ed-864a-6b8220d4d330",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4ai1ZFlV7uf42twmfEHizV.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Kenny Louie / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7ApfGSbIGfXB9UhxEufS7d.mpga",
+  "main_content": "The World Health Organization (WHO) says road traffic crashes continue to take an unacceptably high toll with 1.25 million people dying each year from accidents, which are largely preventable.\n\nThe statistics are part of the “Global Status Report on Road Safety 2015” launched on Monday in Geneva.\n\nThe report, which is based on data collected from 180 countries, shows the number of annual deaths from road traffic crashes is stabilizing. It considers this good news since this is occurring while the number of motor vehicles is increasing rapidly and populations are growing worldwide.\n\nBut, in a particularly sobering note, the data also show that road crashes are the number one cause of death among young people between the ages of 15 and 29. The WHO report also finds a big gap in terms of road safety and deaths between poor and rich countries.\n\nIt says 90 percent of road traffic deaths occur in low-and middle-income countries though they have just 54 percent of the world’s vehicles. The head of the WHO Department of Non-communicable Diseases, Etienne Krug, says the highest rate of traffic deaths is in Africa, followed by the Middle East.\n\n“Africa has only two percent of the world’s vehicles, but has the highest death rate on the road. Some countries, such as Sweden, the United Kingdom, the Netherlands, etc. have managed to decrease their road death rates by over 80 percent in the last decades by implementing a set of well-known measures. We are talking about improving legislation and enforcing it, particularly on the key risk factors such as speed, drinking and driving, the use of motorcycle helmets, seat belts and child restraints,” Krug said.\n\nIndeed, Krug added that in the last three years, 17 countries have made progress by implementing road safety laws. He said rapid response after the crash also is important in saving lives. He said studies show half of deaths from injuries could be avoided if victims received good trauma care after the crash.\n\nThe report also finds some vehicles sold in 80 percent of all countries fail to meet basic safety standards. This, it says is particularly true in the poorer countries where nearly 50 percent of the 67 million new passenger cars were produced last year.",
+  "questions": [
+    {
+      "question": "Why is it a good thing that the number of annual deaths from road traffic crashes is stabilizing?",
+      "options": [
+        "Because it indicates that the rate of vehicle production is slowing down.",
+        "Because it occurs despite a rapid increase in the number of vehicles and populations.",
+        "Because it shows that road safety measures are no longer needed.",
+        "Because it suggests that road traffic deaths will soon decrease significantly."
+      ],
+      "answer": "Because it occurs despite a rapid increase in the number of vehicles and populations."
+    },
+    {
+      "question": "Where do most traffic accidents occur?",
+      "options": [
+        "In high-income countries with advanced road safety laws.",
+        "In low-and middle-income countries, despite their fewer number of vehicles.",
+        "In Europe and North America where driving conditions are ideal.",
+        "Equally among all countries due to similar driving behaviors."
+      ],
+      "answer": "In low-and middle-income countries, despite their fewer number of vehicles."
+    },
+    {
+      "question": "How have countries like Sweden and the UK managed to decrease their road death rates?",
+      "options": [
+        "By increasing the number of vehicles on the road to improve traffic flow.",
+        "By investing in advanced vehicle technologies that enhance safety.",
+        "By implementing and enforcing comprehensive road safety measures.",
+        "By educating drivers about the risks associated with speed and alcohol."
+      ],
+      "answer": "By implementing and enforcing comprehensive road safety measures."
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

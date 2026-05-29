@@ -1,0 +1,60 @@
+{
+  "title": "Plant Your Mobile Charger in the Dirt",
+  "introduction": null,
+  "image": {
+    "id": "9b326734-6720-4f9e-a9af-1353be749a0d",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4iqqO7IvboD23rZTf0TDsD.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Mk2010 / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6zvtH3UHcoiIJdRQvfR0OJ.mpga",
+  "main_content": "Three university students in Santiago, Chile have developed a plant-powered device to charge their mobile phones.\n\nThe three engineering students got the idea for the device while sitting in their school’s courtyard. Their invention is a small biological circuit they call E-Kaia. It captures the energy plants produce during photosynthesis.\n\nA plant uses only a small part of the energy produced by that process. The rest goes into the soil. E-Kaia collects that energy. The device plugs into the ground and then into a mobile phone.\n\nThe E-Kaia solved two problems for the engineering students. They needed an idea for a class project.They also needed an outlet to plug in their phones.\n\nThe E-Kaia is able to recharge a mobile phone in less than two hours.",
+  "questions": [
+    {
+      "question": "Where was the device developed?",
+      "options": [
+        "Buenos Aires, Argentina",
+        "Santiago, Chile",
+        "Lima, Peru",
+        "Bogotá, Colombia"
+      ],
+      "answer": "Santiago, Chile"
+    },
+    {
+      "question": "How long does it take for the device to charge a phone?",
+      "options": [
+        "Less than one hour",
+        "Less than two hours",
+        "More than two hours",
+        "Exactly one hour"
+      ],
+      "answer": "Less than two hours"
+    },
+    {
+      "question": "What is the device called?",
+      "options": [
+        "E-Kaia",
+        "Eco-Charger",
+        "PlantPower",
+        "ChargeBot"
+      ],
+      "answer": "E-Kaia"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

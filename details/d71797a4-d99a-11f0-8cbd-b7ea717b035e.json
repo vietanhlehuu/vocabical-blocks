@@ -1,0 +1,60 @@
+{
+  "title": "Bulgarians Biking From Alaska to Argentina",
+  "introduction": null,
+  "image": {
+    "id": "d717594c-d99a-11f0-8cbc-f3bd94eb0c8b",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1fE0HaPbeR42zvBWho6Jac.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Benoit Kornmann / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4nWE6qkHDcTqYAM1ltsc5X.mpga",
+  "main_content": "Vyacheslav Stoyanov had dreamed of visiting America since he was a young child.\n\nYana Melamed long dreamed of exploring South America. Together, they are making both of their dreams come true.\n\nYana is from Bulgaria. Vyacheslav, who goes by Slav, is originally from Ukraine. He moved to Bulgaria almost 20 years ago.\n\nLast June, Slav and Yana flew on an airplane – with their bicycles – from Sofia, Bulgaria, to Deadhorse, Alaska.\n\nFrom Deadhorse, they began a 60,000-kilometer bike trip, from Alaska to Argentina. They are biking to the southernmost point in South America.\n\nBut their journey is not only about having fun and fulfilling their dreams.\n\nYana and Slav call their mission Cycle4Recycle.\n\nThey say the goal of Cycle4Recycle is to make people more aware of how to protect the environment and preserve natural resources.\n\nAlong their trip, Slav and Yana give presentations at community centers and museums. Their presentation centers on their research into recycling and consumerism in the Americas.",
+  "questions": [
+    {
+      "question": "Where is Vyacheslav Stoyanov originally from?",
+      "options": [
+        "Poland",
+        "Russia",
+        "Ukraine",
+        "Bulgaria"
+      ],
+      "answer": "Ukraine"
+    },
+    {
+      "question": "Where are Slav and Yana going from Alaska?",
+      "options": [
+        "To New York",
+        "To Argentina",
+        "To Canada",
+        "To California"
+      ],
+      "answer": "To Argentina"
+    },
+    {
+      "question": "What is the goal of Cycle4Recycle?",
+      "options": [
+        "To promote cycling as a sport",
+        "To raise money for charity",
+        "To make people more aware of environmental protection",
+        "To document their travel experiences"
+      ],
+      "answer": "To make people more aware of environmental protection"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

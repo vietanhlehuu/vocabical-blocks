@@ -1,0 +1,60 @@
+{
+  "title": "Swimmers Trading Pools for Open Water",
+  "introduction": null,
+  "image": {
+    "id": "cd3449f6-2a79-11eb-968d-4b6fa3e9df5f",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/FdqipiY50nTXKoHmQ43saTvNdDwyZvXGlR9OoHbW3b7.jpeg",
+    "dimensions": {
+      "x": 3400,
+      "y": 1886
+    },
+    "attribution": "Shutterstock",
+    "public_attribution": false,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0E9qjdDgFd1ivlaSqEaMIe.mpga",
+  "main_content": "Increased numbers of swimmers are trading warm, calm pool water for exercise in open water. These people are known as “wild swimmers.”\n\n“Wild” seems like a good description when you consider that they dive into lakes, rivers and oceans almost any time of the year.\n\nThe rising popularity of open water swimming has resulted in races and an unusual new business.\n\nIt is not unusual to see people swimming in the height of summer in Seattle, Washington. But this is autumn. The salt water of Puget Sound is 13 degrees Celsius. And, the air is not much warmer. That is why you can hear the involuntary sounds at the start of a group swim.\n\nForty-three-year-old Mike Tanner enters the water first. He works with technology and lives near Seattle. At a time when other people might go to Hawaii or Mexico, he chooses chilly Puget Sound.\n\nMike Tanner jokes that he is not very intelligent. He says swimming in open water is a challenge for him. He also says he gets bored in a pool. He wants something a little more exciting.\n\nOn this day, Mr. Tanner has paid to join a guided group called a “swim excursion.”  Most of the people wear wetsuits to cover more of their bodies than traditional swimsuits.\n\nMore than 10 swimmers are in the group. They follow an orange kayak for a one and a half kilometer salt-water swim. Guila Muir paddles the first of the support boats.\n\nKelly Reynolds of Seattle is one of the newest converts to the sport. She says she swam in college two years ago. But she does not want to race in swimming pools anymore. She says she does not want to see how slow she is.",
+  "questions": [
+    {
+      "question": "Where do “wild swimmers” dive?",
+      "options": [
+        "In warm swimming pools",
+        "Into lakes, rivers, and oceans",
+        "At tropical beaches",
+        "In private swimming facilities"
+      ],
+      "answer": "Into lakes, rivers, and oceans"
+    },
+    {
+      "question": "What is a “swim excursion”?",
+      "options": [
+        "A private swim lesson",
+        "A guided group swim activity",
+        "A competition in a swimming pool",
+        "An underwater exploration tour"
+      ],
+      "answer": "A guided group swim activity"
+    },
+    {
+      "question": "Why doesn’t Kelly Reynolds swim in pools anymore?",
+      "options": [
+        "She finds pool swimming boring",
+        "She prefers open water environments",
+        "She is too fast for pool competitions",
+        "She lacks access to pools"
+      ],
+      "answer": "She finds pool swimming boring"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

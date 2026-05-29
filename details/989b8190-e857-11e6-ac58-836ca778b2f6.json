@@ -1,0 +1,60 @@
+{
+  "title": "Community Center Helps Women on Skid Row",
+  "introduction": null,
+  "image": {
+    "id": "1c0b5305-afbc-42e2-b20f-eb8a739021f6",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/0quxXgtmBgmgOjnm5U53YM.jpeg",
+    "dimensions": {
+      "x": 1152,
+      "y": 756
+    },
+    "attribution": "Stephen zeigler / Wikimedia Commons / CC-BY-SA 4.0",
+    "public_attribution": true,
+    "lock_version": 3,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5qCNTtuLWoLktSkjAbUkxE.mpga",
+  "main_content": "Many homeless people live in the “Skid Row” area of Los Angeles, California. These men and women have no permanent place to live. Skid Row is a place where many social service groups can be found. They work to help the homeless find work and a place to live. One such organization works with women.\n\nSkid Row is like no other place in Los Angeles. The homeless fill its sidewalks at all time of the day.\n\nYolanda Waters has a job as a barista. She prepares and sells coffee. But she was once homeless and spent time in Skid Row.\n\nMs. Waters received help from the Downtown Women’s Center. The center trains homeless women and helps them find work so they can live in a place of their own. It shows them how to create candles, greeting cards and other products.\n\nJoe Altepeter is head of vocational education at the center.\n\n“Rebuilding self esteem, developing relationships with individuals. Chronic homelessness, when you are living on the streets you become isolated. So this is an opportunity to really deal with those issues.”\n\nPoor women are more at risk of being homeless. Many homeless women struggle with mental problems or have been abused. The center gives them advice, health care and support.",
+  "questions": [
+    {
+      "question": "What is “Skid Row”?",
+      "options": [
+        "A shopping district in Los Angeles",
+        "An area where many social service groups help the homeless",
+        "A popular tourist destination",
+        "A residential neighborhood for low-income families"
+      ],
+      "answer": "An area where many social service groups help the homeless"
+    },
+    {
+      "question": "Who does Yolanda Waters work as?",
+      "options": [
+        "A waitress in a diner",
+        "A barista who prepares and sells coffee",
+        "A social worker for the Downtown Women’s Center",
+        "A volunteer at a homeless shelter"
+      ],
+      "answer": "A barista who prepares and sells coffee"
+    },
+    {
+      "question": "What do many homeless women struggle with?",
+      "options": [
+        "Finding public transportation",
+        "The cost of living in Los Angeles",
+        "Mental health issues and past abuse",
+        "Unemployment rates in their area"
+      ],
+      "answer": "Mental health issues and past abuse"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

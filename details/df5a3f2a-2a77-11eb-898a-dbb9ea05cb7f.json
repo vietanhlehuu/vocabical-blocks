@@ -1,0 +1,60 @@
+{
+  "title": "Amazing Animals Make the World Records Book",
+  "introduction": null,
+  "image": {
+    "id": "df598382-2a77-11eb-8989-5b5fd79f8bee",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4ESQqwi6liooGavJn0lOaR.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 245
+    },
+    "attribution": "dr. Tibor Duliskovich / http://www.duliskovich.com / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3d4M2C2t5Pz2RVp7YnR3HG.mpga",
+  "main_content": "The Guinness Book of World Records has sold 132 million copies across more than 100 countries since it first appeared in 1955.\n\nThe book is now known as Guinness World Records. It tells us who is the best, fastest, biggest, most or smallest in the world.\n\nRecently, the Guinness World Records announced the new record holders for 2016.\n\nBertie is a tortoise. Bertie broke a record set in 1977 for the world’s fastest tortoise. His top speed was 0.28 meters a second.\n\nMarco Calzini is Bertie’s owner. He says that it is uncommon for such an animal to be fast.\n\nAnother record-setting animal is a beagle named Purin, from Chiba, Japan. Many dogs can catch a ball, but not like Purin. She caught 14 balls in one minute with her paws.\n\nGuinness World Records also is recognizing Lazy J’s Bluegrass, a steer from the American state of Kansas. He has the longest horns in the world. They are nearly three meters long, from end to end.\n\nGuinness World Records celebrates its 60th anniversary this year.",
+  "questions": [
+    {
+      "question": "When did the Guinness Book of World Records first appear?",
+      "options": [
+        "1960",
+        "1955",
+        "1970",
+        "1985"
+      ],
+      "answer": "1955"
+    },
+    {
+      "question": "Who is Purin?",
+      "options": [
+        "A famous tortoise record holder",
+        "A beagle known for catching balls",
+        "The owner of Bertie the tortoise",
+        "A steer from Kansas"
+      ],
+      "answer": "A beagle known for catching balls"
+    },
+    {
+      "question": "How old will Guinness World Records be this year?",
+      "options": [
+        "50 years",
+        "60 years",
+        "65 years",
+        "70 years"
+      ],
+      "answer": "60 years"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

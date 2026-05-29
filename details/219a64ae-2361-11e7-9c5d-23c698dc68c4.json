@@ -1,0 +1,60 @@
+{
+  "title": "Japan Arrests Suspect in US Embassy Threats",
+  "introduction": null,
+  "image": {
+    "id": "c29c1844-a9d4-415f-845e-38320b19d908",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5vDqVheOLye4CefSlPVqvo.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Ons / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6rYdf7B1KMM5KHUTUYUdPH.mpga",
+  "main_content": "Japanese police said Friday they have arrested a man who threatened to bomb the U. S. embassy in Tokyo.\n\nPolice say Okinawa resident Mitsuyoshi Kamiya made phone calls threatening to bomb the embassy, as well as Camp Schwab, a U.S. military base on the southern Japanese island.\n\nLocal media report the 52-year-old Kamiya is also believed to be behind recent death threats against U.S. Ambassador Caroline Kennedy and other American diplomatic officials.\n\nOn Thursday, U.S. State Department spokeswoman Jen Psaki said Japanese police arrested a man in connection with the threats against both the embassy and the ambassador.\n\n“We take any threats to U.S. diplomats and U.S. diplomatic facilities very seriously. We… have been working for several weeks with the Japanese government,” she said.\n\nJapanese authorities say Kamiya has admitted to the bomb threats, though a motive has not been discovered. He has not been charged with making the threats against Ambassador Kennedy.\n\nMany Okinawans resent the presence of the tens of thousands of U.S. troops stationed on the island, citing troop behavior, noise pollution and the dangers of an aircraft crash on the densely populated island.\n\nThe threats surfaced as U.S. first lady Michelle Obama was in Japan for a three-day visit aimed at promoting her global education initiative for girls and women.\n\nThe developments follow an attack earlier this month on the U.S. ambassador to South Korea, Mark Lippert. He needed 80 stitches to close a wound on the right side of his face following the attack, which was carried out by a North Korea sympathizer.",
+  "questions": [
+    {
+      "question": "What did Mitsuyoshi Kamiya threaten to do to the U.S. embassy in Tokyo?",
+      "options": [
+        "Bomb it",
+        "Rob it",
+        "Occupy it",
+        "Set it on fire"
+      ],
+      "answer": "Bomb it"
+    },
+    {
+      "question": "Who is Mitsuyoshi Kamiya believed to have threatened in addition to the embassy?",
+      "options": [
+        "U.S. Ambassador Caroline Kennedy and other American diplomatic officials",
+        "The Japanese prime minister",
+        "U.S. tourists in Okinawa",
+        "South Korean military officers"
+      ],
+      "answer": "U.S. Ambassador Caroline Kennedy and other American diplomatic officials"
+    },
+    {
+      "question": "How did Japanese authorities say Mitsuyoshi Kamiya responded to the bomb threat allegations?",
+      "options": [
+        "He admitted to the bomb threats",
+        "He denied any involvement",
+        "He asked for a lawyer and refused to speak",
+        "He said the threats were a misunderstanding"
+      ],
+      "answer": "He admitted to the bomb threats"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

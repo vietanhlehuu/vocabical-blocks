@@ -1,0 +1,60 @@
+{
+  "title": "Healing with Magic",
+  "introduction": null,
+  "image": {
+    "id": "52494f66-4f24-11e9-b1df-ab0216ab3baf",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/0RGx25KbwLiUVj86zzDbLb.jpeg",
+    "dimensions": {
+      "x": 800,
+      "y": 533
+    },
+    "attribution": "Cpl. Damien Gutierrez / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1a57qy37AngvobWnBqUaC6.mpga",
+  "main_content": "Magic is the performance of tricks. Magic shows today might include a disappearing act, card tricks, or pulling a rabbit out of a hat. But what could that have to do with health?\n\nOne American magician goes beyond just entertaining crowds.\n\nKevin Spencer has been a magician for more than 30 years.\n\nBut early in his career, a bad car accident changed the focus of his work.\n\nHis accident made him think about using magic tricks as a tool for healing.\n\nMr. Spencer says that magic therapy may seem non-traditional. But he adds many skills needed to perform a good magic trick are used in traditional forms of therapy – physical movement, thinking, understanding and social skills are all there.\n\nAnd that social connection with other people can also help people feel better about themselves and increase their confidence.\n\nLiam Shannon is an example. Liam has autism, a brain disorder that can make learning and connecting with people difficult. People with severe autism may also have trouble understanding complex emotions.\n\nLiam says that after learning how to perform a magic trick he felt like an old magic man, a wizard, or as he puts “wizardy.”  He also says he felt serious, happy and proud.\n\n“It made me feel wizardy. Serious, happy, proud. It was great!”",
+  "questions": [
+    {
+      "question": "What does the magician, Kevin Spencer, do?",
+      "options": [
+        "Performs traditional magic shows exclusively for entertainment",
+        "Uses magic tricks as a tool for healing",
+        "Teaches magic tricks to children in schools",
+        "Focuses on writing books about magic"
+      ],
+      "answer": "Uses magic tricks as a tool for healing"
+    },
+    {
+      "question": "How long has he been a magician?",
+      "options": [
+        "Approximately 15 years",
+        "Over 30 years",
+        "Since childhood, for more than 25 years",
+        "Less than a decade"
+      ],
+      "answer": "Over 30 years"
+    },
+    {
+      "question": "What disorder does Liam Shannon have?",
+      "options": [
+        "Attention Deficit Hyperactivity Disorder (ADHD)",
+        "Bipolar Disorder",
+        "Autism",
+        "Dyslexia"
+      ],
+      "answer": "Autism"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

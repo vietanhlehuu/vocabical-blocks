@@ -1,0 +1,60 @@
+{
+  "title": "Gaming Industry Breaks Gender Barriers in Pakistan",
+  "introduction": null,
+  "image": {
+    "id": "c9d7a7e0-fab5-4b14-96e0-b45167316852",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/68s0mmJQYDzsj4lfZqkUNO.png",
+    "dimensions": {
+      "x": 1000,
+      "y": 435
+    },
+    "attribution": "Evan-Amos / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/24qXBLsUkMau7D4y0ze6X0.mpga",
+  "main_content": "In a country where women’s rights are often ignored, Pakistan’s young gaming industry is breaking gender barriers. An example is two start-up companies where young men and women work side-by-side to reap some of the benefits of the billion-dollar international industry.\n\nA top earning mobile phone game can gross more than $3 million a day.\n\nYoung Pakistani entrepreneurs like Babar Ahmed are hoping to cash in on the money-making trend while also bringing men and women together in the workplace – an unlikely scenario in conservative Pakistan that Ahmed says is crucial for creative development.\n\n“Each person that works on a product adds something of themselves, brings something to the product, and, from that angle, diversification is phenomenally important. It really increases the scope and perspective of what you are bringing to the market,” said Babar Ahmed, CEO of Mindstorm.\n\nAt Pakistani gaming company WeRPlay, which both services games and creates them, a younger educated urban generation is breaking all the norms when it comes to work.\n\nQuality Assurance technician Maria Khan says WeRPlay’s young CEO, Mohsin Afzal, treats women as equals.\n\n“You will see a lot of girls here, and you will see a lot of boys… a lot of boys working under the girls, and that is because he doesn’t see what gender are you from, what age are you from, how much prior experience do you have, as long as you are committed to the work, he would hire you on that,” she said.\n\nBut while the industry has managed to break some barriers at home, it has been harder to penetrate the international business side of gaming.\n\n“If I come in and say ‘you know, we are a Pakistani-based company’, absolutely, you lost me at hello. If I come in and say ‘I am a Stanford graduate who has a successful game from here and there’, they’re listening,” Mindstsorm’s Ahmed. “I don’t even talk about where the company is based. And then, when you position it as a company that is low-cost, based in Asia, all of a sudden they’re like, ‘oh this is pretty good’.”\n\nLuckily for both companies, which have produced internationally popular games, the consumer doesn’t care where the games come from. They just want to have fun.",
+  "questions": [
+    {
+      "question": "What is innovative about the company described in the text?",
+      "options": [
+        "It employs traditional roles and responsibilities typically assigned by gender.",
+        "It focuses only on international expansion and ignores local hiring.",
+        "It integrates men and women equally in the workplace, challenging social norms.",
+        "It uses outdated gaming technology to appeal to local consumers."
+      ],
+      "answer": "It integrates men and women equally in the workplace, challenging social norms."
+    },
+    {
+      "question": "Why does Babar Ahmed believe that having men and women work together is important?",
+      "options": [
+        "It helps the company follow a government rule on hiring.",
+        "It creates a more diverse and creative environment for product development.",
+        "It makes it easier to attract foreign investors immediately.",
+        "It reduces the need for experienced employees."
+      ],
+      "answer": "It creates a more diverse and creative environment for product development."
+    },
+    {
+      "question": "What makes it harder for the companies to succeed on the international business side of gaming?",
+      "options": [
+        "Clients react negatively when the company is presented as Pakistani-based.",
+        "The games are not popular with consumers in Pakistan.",
+        "There are not enough skilled workers in the industry.",
+        "The companies refuse to sell their games outside Asia."
+      ],
+      "answer": "Clients react negatively when the company is presented as Pakistani-based."
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

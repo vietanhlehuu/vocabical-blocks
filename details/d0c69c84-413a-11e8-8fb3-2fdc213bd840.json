@@ -1,0 +1,60 @@
+{
+  "title": "Will the US Become a Bilingual Country?",
+  "introduction": null,
+  "image": {
+    "id": "d0c6671e-413a-11e8-8fb2-4f12a327410b",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/vuafGnAnb8uX3n47FaL918MG7WnNBj8zIvtuJ0jNub1.jpeg",
+    "dimensions": {
+      "x": 937,
+      "y": 650
+    },
+    "attribution": "Shutterstock",
+    "public_attribution": false,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/08pgj7RBBsDpt1ur26TZEh.mpga",
+  "main_content": "In the U.S., speaking more than one language fluently is not very common – except in Los Angeles, California.\n\nThe city has one of the largest populations in the U.S. of young people between the ages of 18 and 34. This generation is often called millennials. More than half of millennials in Los Angeles are bilingual, which means they speak more than one language.\n\nMaria Elena Burgos is cooking a Mexican breakfast. She says making Mexican food is just one of the many traditions in her home. Another is speaking Spanish to her children.\n\nWhen Ms. Burgos first came to the United States from Mexico, she learned English. She knew her children would learn English quickly. So she wanted them to speak Spanish at home and study the language at school.\n\nShe says being bilingual will give them more opportunities in the future.\n\nThe U.S. Census Bureau says more than half the adults in the Los Angeles area between 18 and 34 years old speak a language other than English at home. For the whole country, the number of bilingual adults is only 25 percent.\n\nThe number of bilingual speakers has gone up since the 1990s.",
+  "questions": [
+    {
+      "question": "Which city in the U.S. has one of the largest populations of young people between the ages of 18 and 34?",
+      "options": [
+        "New York City",
+        "Los Angeles",
+        "Chicago",
+        "Miami"
+      ],
+      "answer": "Los Angeles"
+    },
+    {
+      "question": "What language does Maria Elena Burgos speak to her children at home?",
+      "options": [
+        "English",
+        "Spanish",
+        "French",
+        "Mandarin"
+      ],
+      "answer": "Spanish"
+    },
+    {
+      "question": "For the whole country, what percentage of adults speak a language other than English at home?",
+      "options": [
+        "50 percent",
+        "25 percent",
+        "40 percent",
+        "75 percent"
+      ],
+      "answer": "25 percent"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

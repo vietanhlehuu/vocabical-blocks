@@ -1,0 +1,60 @@
+{
+  "title": "A Dog’s Sniffer Could Be Your Best Friend in Disaster",
+  "introduction": null,
+  "image": {
+    "id": "e02ed780-2a77-11eb-9ceb-ebea4a6a3175",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/7iGqpxC43Lm4lOmbQAY7xI.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "서울특별시 소방재난본부 / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6sSNluXTt0cPYMSJUR8ysK.mpga",
+  "main_content": "When devastating earthquakes hit Haiti, Japan and Nepal, rescue dogs were among the first to arrive.\n\nAmerican search-and-rescue teams and their specially trained dogs also helped during U.S. hurricanes Katrina and Sandy.\n\nRon Sanders and his 6-year old Labrador, Pryse, were part of a U.S. team to help find survivors in Nepal.\n\nSanders, a retired firefighter, says Pryse and the other special canines, are essential to the team.\n\n“The dogs obviously have a wonderful sense of smell. So they can quickly determine where the scent is coming from and hone in that location that we need to dig down.”\n\nThe dogs can also navigate quickly through collapsed buildings and squeeze through tight spots to find victims.\n\nBut becoming a rescue dog is serious business. To become certified, the dogs train long and hard for six to 12 months.\n\nAt the end of the day, it’s all about trust between the trainers and the dogs, says Sanders. Being trained and ready can make the difference between life and death, he says.",
+  "questions": [
+    {
+      "question": "What can dogs do when searching for victims?",
+      "options": [
+        "A. They can predict the weather conditions.",
+        "B. They can quickly determine where the scent is coming from and navigate through collapsed buildings.",
+        "C. They can provide medical assistance to survivors.",
+        "D. They can communicate with the rescue teams using signals."
+      ],
+      "answer": "B. They can quickly determine where the scent is coming from and navigate through collapsed buildings."
+    },
+    {
+      "question": "Who is Pryse?",
+      "options": [
+        "A. A rescue dog from Haiti.",
+        "B. Ron Sanders' Labrador that participates in rescue missions.",
+        "C. The name of the organization that trains rescue dogs.",
+        "D. A retired firefighter who trains rescue dogs."
+      ],
+      "answer": "B. Ron Sanders' Labrador that participates in rescue missions."
+    },
+    {
+      "question": "Who is Ron Sanders?",
+      "options": [
+        "A. A retired firefighter who trains rescue dogs and is part of a U.S. search-and-rescue team.",
+        "B. The owner of Pryse who runs a dog shelter.",
+        "C. A disaster management expert from Japan.",
+        "D. A volunteer who assists during hurricanes."
+      ],
+      "answer": "A. A retired firefighter who trains rescue dogs and is part of a U.S. search-and-rescue team."
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

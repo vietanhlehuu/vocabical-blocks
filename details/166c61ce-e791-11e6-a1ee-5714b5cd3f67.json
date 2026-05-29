@@ -1,0 +1,60 @@
+{
+  "title": "Tanglewood Music Center Celebrates 75th Anniversary",
+  "introduction": null,
+  "image": {
+    "id": "e45aa1c2-0eab-11e7-b27a-cf936a8fd5f8",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3JEUrvBLq0MLavwKb0XngK.jpeg",
+    "dimensions": {
+      "x": 1024,
+      "y": 768
+    },
+    "attribution": "Daderot. / Wikimedia Commons / CC-BY-SA 3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/61nlKSfwXTZ7Z3X58QQAu8.mpga",
+  "main_content": "The world famous Boston Symphony Orchestra normally performs at Symphony Hall in Boston, Massachusetts. But its summer home is the Tanglewood Music Center in western Massachusetts.\n\nThe Boston Symphony Orchestra also has a summer program at Tanglewood.\n\nThis summer, the Tanglewood Music Center has been celebrating its 75th anniversary.\n\nSerge Koussevitzky led the Boston Symphony Orchestra in 1940. At the time, Europe was at war. The United States did not enter World War II until the end of 1941. Mr. Koussevitzky persuaded people in the music industry to open a music school at Tanglewood, the BSO’s summer home. He wanted young, gifted musicians to attend the school for free.\n\nBut within two years, the program almost came to an end. Jeremy Eichler is a music critic for The Boston Globe newspaper.\n\n“The BSO trustees wanted to close the school because of the war and Koussevitzky was outraged, and wrote a letter calling it an “act of artistic vandalism.” And said, “now is the time when the world needs to be hearing this music.”\n\nSince it opened, Tanglewood’s young musicians, singers and conductors have performed many new compositions. They include the first American performance of Benjamin Britten’s opera “Peter Grimes.” This year, for its 75th anniversary, the center asked composers to write 34 new pieces of music.",
+  "questions": [
+    {
+      "question": "Who led the Boston Symphony Orchestra in 1940?",
+      "options": [
+        "Serge Koussevitzky",
+        "Benjamin Britten",
+        "Jeremy Eichler",
+        "The BSO trustees"
+      ],
+      "answer": "Serge Koussevitzky"
+    },
+    {
+      "question": "Who wanted to close the school because of war?",
+      "options": [
+        "Serge Koussevitzky",
+        "The BSO trustees",
+        "Jeremy Eichler",
+        "Young musicians"
+      ],
+      "answer": "The BSO trustees"
+    },
+    {
+      "question": "Where does the Boston Symphony Orchestra normally perform?",
+      "options": [
+        "Tanglewood Music Center",
+        "Carnegie Hall",
+        "Symphony Hall",
+        "Lincoln Center"
+      ],
+      "answer": "Symphony Hall"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

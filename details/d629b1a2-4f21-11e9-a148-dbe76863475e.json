@@ -1,0 +1,60 @@
+{
+  "title": "Women’s World Cup Sets Records, Except Money",
+  "introduction": null,
+  "image": {
+    "id": "d6293bbe-4f21-11e9-a147-97e779a41f23",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/0lCTYz37mVgwfZPUyKdvqq.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 350
+    },
+    "attribution": "Joel Solomon from Denver, CO, USA / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7K4YErc4QqoMHUMhsK9Nv5.mpga",
+  "main_content": "The Women’s World Cup final match between the U.S. and Japan set all kinds of records over the weekend. One record the historic game did not set: money.\n\nThe women’s final was the most-watched soccer match ever, men’s or women’s, in United States history. Sunday’s game averaged 25.4 million television viewers.\n\nAmerican Carli Lloyd became the first woman to score a “hat trick” in a final match. In other words, Lloyd scored three goals in the game.\n\nWith seven total goals between the U.S. and Japan, the game was the highest-scoring final in World Cup history. The U.S. team set a record of its own, with five goals scored in the final match.\n\nJapan also set some World Cup records. Japanese midfielder Homare Sawa now shares the record with Brazil’s Formiga for playing in six of the seven Women’s World Cups.\n\nDespite record-breaking television audiences and historic plays, the U.S. women’s team will receive only $2 million for winning its third World Cup – the only women’s team ever to do so.",
+  "questions": [
+    {
+      "question": "Who was the Women’s World Cup final match between?",
+      "options": [
+        "U.S. and Brazil",
+        "U.S. and Japan",
+        "Japan and Australia",
+        "U.S. and Germany"
+      ],
+      "answer": "U.S. and Japan"
+    },
+    {
+      "question": "How many goals were there in total between the U.S. and Japan?",
+      "options": [
+        "Three",
+        "Five",
+        "Seven",
+        "Ten"
+      ],
+      "answer": "Seven"
+    },
+    {
+      "question": "Who is Homare Sawa?",
+      "options": [
+        "A U.S. player",
+        "A Japanese midfielder",
+        "The coach of Japan",
+        "A Brazilian player"
+      ],
+      "answer": "A Japanese midfielder"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Washington’s Cherry Blossoms Signal the Start of Spring",
+  "introduction": null,
+  "image": {
+    "id": "f74d2289-7a90-4752-82b0-b39c151fc600",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/7WeM2bwfdUNQw1naTTkHQm.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 794
+    },
+    "attribution": "USDA photo by Scott Bauer / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/70g4kYoNG7vw4fE8o3B8FU.mpga",
+  "main_content": "The West Potomac Park in Washington, DC is home to some of Washington’s most iconic sites, like the Jefferson Memorial, the Martin Luther King, Jr. Memorial, and the Tidal Basin.\n\nBut, the park’s most famous attraction? Cherry blossoms.\n\nThousands of cherry trees bloom around the waters of the Tidal Basin.\n\nThese pink and white flowers serve as a symbol of international friendship. The original cherry trees were a gift from Japan.\n\nOn March 26, 1912, more than 3,000 cherry trees arrived in Washington. Most were planted around the Tidal Basin. But cherry trees were also planted near the Washington Monument and the White House.\n\nMike Litterst is a spokesperson for the U.S. National Park Service. The park service maintains West Potomac Park, and helps protect the cherry trees.\n\n“It’s this wonderful gift that’s over 100 years old now that, if you will, it’s the gift that keeps on giving.”\n\nThe cherry blossoms also serve as a symbol of the beginning of springtime.\n\nEvery year, Washington celebrates the arrival of spring with a two-week Cherry Blossom Festival.",
+  "questions": [
+    {
+      "question": "Where did the cherry trees in Washington come from?",
+      "options": [
+        "China",
+        "Japan",
+        "Korea",
+        "Canada"
+      ],
+      "answer": "Japan"
+    },
+    {
+      "question": "Where were the cherry trees planted?",
+      "options": [
+        "Near the Lincoln Memorial",
+        "Around the Tidal Basin, Washington Monument, and White House",
+        "In local neighborhoods",
+        "Only in West Potomac Park"
+      ],
+      "answer": "Around the Tidal Basin, Washington Monument, and White House"
+    },
+    {
+      "question": "How does Washington celebrate the arrival of spring?",
+      "options": [
+        "By hosting a flower market",
+        "With a Cherry Blossom Festival lasting two weeks",
+        "By planting more cherry trees",
+        "Through music and arts festivals"
+      ],
+      "answer": "With a Cherry Blossom Festival lasting two weeks"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Two Women to Seek Taiwan’s Presidency",
+  "introduction": null,
+  "image": {
+    "id": "42414ef1-0d28-4551-a213-c77370bec0d3",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/211L3NF5Sbd4xc4ms5lSLr.jpeg",
+    "dimensions": {
+      "x": 640,
+      "y": 360
+    },
+    "attribution": "Voice of America / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 2,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4dgPKk00aohZz56iP0nXVO.mpga",
+  "main_content": "Taiwanese voters are all but sure to elect a woman as their next president. The elections will be held in January. On Sunday, the ruling Nationalist Party chose Hung Hsiu-chu as its candidate. She is Taiwan’s deputy legislative speaker. She will face TsaiIng-wen, the head of the Democratic Progressive Party.\n\nTaiwan has never had two female candidates representing the major parties in presidential elections or elected a woman as president.\n\nHung Hsiu-chu is the first female presidential candidate from Taiwan’s ruling Nationalist Party. The opposition Democratic Progressive Party candidate,Tsai Ing-wen, was a candidate for president in 2012. But she lost to the man who is now president, Ma Ying-jeou.\n\nWomen have become heads of state in India, South Korea and other parts of Asia, but never in Taiwan.\n\nMs. Hung is 67 years old and a former teacher.\n\nHer rival, Ms. Tsai, is 58 years old and a lawyer by training.\n\nPolitical observers say Taiwanese voters can accept a woman as president because their democracy has developed since it began in the late 1980s. Women over 50 were traditionally seen as able leaders in Chinese culture.",
+  "questions": [
+    {
+      "question": "When will the elections in Taiwan be held?",
+      "options": [
+        "In January",
+        "In December",
+        "In March",
+        "In February"
+      ],
+      "answer": "In January"
+    },
+    {
+      "question": "Who did Ms. Hung used to work as?",
+      "options": [
+        "A lawyer",
+        "A doctor",
+        "A teacher",
+        "A politician"
+      ],
+      "answer": "A teacher"
+    },
+    {
+      "question": "Who did Tsai Ing-wen lose the elections to in 2012?",
+      "options": [
+        "Ma Ying-jeou",
+        "Hung Hsiu-chu",
+        "Lin Chuan",
+        "Tsai Eng-meng"
+      ],
+      "answer": "Ma Ying-jeou"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

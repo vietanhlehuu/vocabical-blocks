@@ -1,0 +1,60 @@
+{
+  "title": "Malaysia Airlines Faces State Takeover",
+  "introduction": null,
+  "image": {
+    "id": "9b8ebeef-6dc9-42c2-9c71-4749ee400a80",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4jX2pj3Ymi2Aygh99plFaq.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "byeangel from Tsingtao, China / Wikimedia Commons / CC-BY-SA-2.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6fYJTOAh1iZssiM024A8g8.mpga",
+  "main_content": "Malaysia’s state investment fund says it will pay nearly $436 million to take over troubled Malaysia Airlines, which lost two passenger jets this year.\n\nKhazanah Nasional announced plans to restructure the airline after the carrier suspended trade in its stock Friday morning.\n\nKhazanah, which already owns around 69 percent of Malaysia Airlines, says this will be the first step of a complete overhaul of the carrier.\n\nAviation industry analysts have said the struggling airline needs new investors and a substantial restructuring of its business.\n\nOn top of long-standing financial problems, the airline suffered two major disasters this year.\n\nIn March, Flight 370 carrying 239 people disappeared over the Indian Ocean and has still not been found. In July, 298 people were killed when Flight 17 was shot down over Ukraine in an area controlled by pro-Russian rebels.",
+  "questions": [
+    {
+      "question": "How much will it cost to take over Malaysia Airlines?",
+      "options": [
+        "$436 million",
+        "$500 million",
+        "$400 million",
+        "$450 million"
+      ],
+      "answer": "$436 million"
+    },
+    {
+      "question": "How much stock does Malaysia’s state investment fund already own of Malaysia Airlines?",
+      "options": [
+        "60 percent",
+        "65 percent",
+        "69 percent",
+        "75 percent"
+      ],
+      "answer": "69 percent"
+    },
+    {
+      "question": "Which Malaysia Airlines flights have been involved in two major disasters this year?",
+      "options": [
+        "Flight 370 and Flight 800",
+        "Flight 17 and Flight 370",
+        "Flight 772 and Flight 17",
+        "Flight 370 and Flight 300"
+      ],
+      "answer": "Flight 17 and Flight 370"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

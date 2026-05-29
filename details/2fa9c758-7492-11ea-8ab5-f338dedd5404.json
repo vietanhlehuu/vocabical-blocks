@@ -1,0 +1,60 @@
+{
+  "title": "Caffeine Shapes Brain to Make Us Buzz",
+  "introduction": null,
+  "image": {
+    "id": "2fa92eb0-7492-11ea-8ab4-9f52ea4d7532",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3VH37X8maSBvvffttfbiK6.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "MarkSweep / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4gAX2fk8hznjAXQ3drRiI9.mpga",
+  "main_content": "It’s in coffee, tea, soda and energy drinks. There’s even a bit of it in chocolate. In fact, caffeine is one of the most widely-consumed substances in the world, and there are many people who say they can’t start their day without it.\n\n“It makes us feel better, particularly if we haven’t slept well or we’ve been working late at night,” noted neurologist Nora Volkow, director of the National Institute on Drug Abuse, adding “we really don’t completely understand why.”\n\nSo she and her colleagues at Brookhaven National Laboratory in Upton, New York, decided to get to the bottom of this phenomenon and their work reveals how caffeine changes our brains to give us that buzz.\n\nThe researchers brought volunteers into the lab and had them swallow caffeine tablets — the equivalent of drinking 2 or 3 cups of strong coffee — then put them into a PET scanner and observed subsequent brain activity.\n\nLike other drugs, caffeine boosts the natural activity of a brain chemical called dopamine, which motivates us to seek out the things in life that bring pleasure and happiness.\n\nDrugs such cocaine and amphetamine flood the brain with dopamine, which can lead to addiction. But Volkow found that caffeine works slightly differently. It increases the number of receptors that dopamine molecules can latch onto, which makes us feel perky and alert.\n\nBut if caffeine is changing our brains and affecting the same molecule as cocaine, is it addictive?\n\nAccording to Volkow, no. “The reality is that caffeine does not produce these compulsive patterns that you see with other drugs [that lead to] catastrophic consequences, so, in that respect, caffeine is not addictive in the same sense.”\n\nIn moderation, however, caffeine has been shown to provide a number of short-term and long-term health benefits. Recent research points to moderate caffeine consumption as a likely buffer against cognitive decline and Alzheimer’s Disease later in life.\n\nSo have another cup of coffee!",
+  "questions": [
+    {
+      "question": "When does Nora Volkow say that coffee makes us feel better?",
+      "options": [
+        "When experiencing high levels of stress and anxiety.",
+        "Particularly if we haven’t slept well or have been working late at night.",
+        "Immediately after consuming any form of caffeine.",
+        "Only during social gatherings or events."
+      ],
+      "answer": "Particularly if we haven’t slept well or have been working late at night."
+    },
+    {
+      "question": "What experiment did the scientists carry out?",
+      "options": [
+        "They analyzed the effects of caffeine on people who sleep less than average.",
+        "They measured brain activity in volunteers after administering caffeine tablets equivalent to strong coffee.",
+        "They compared dopamine levels in caffeine users versus non-users in a classroom setting.",
+        "They observed the cravings of volunteers for coffee over a period of two weeks."
+      ],
+      "answer": "They measured brain activity in volunteers after administering caffeine tablets equivalent to strong coffee."
+    },
+    {
+      "question": "What is dopamine responsible for?",
+      "options": [
+        "Stimulating the production of addictive substances in the brain.",
+        "Motivating us to seek out things that bring pleasure and happiness.",
+        "Regulating sleep patterns and circadian rhythms.",
+        "Diminishing cognitive functions as we age."
+      ],
+      "answer": "Motivating us to seek out things that bring pleasure and happiness."
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

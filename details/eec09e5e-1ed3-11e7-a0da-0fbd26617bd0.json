@@ -1,0 +1,60 @@
+{
+  "title": "‘Morpho’ Hackers Pose Corporate Security Threat",
+  "introduction": null,
+  "image": {
+    "id": "f41f1adf-3a62-4403-8eff-22a8ddb56df8",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/7QeLFhgavm921Y3qclbLjs.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 339
+    },
+    "attribution": "LPS.1 / Wikimedia Commons / CC0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0EWUQf7hB4FF00P5srbuMw.mpga",
+  "main_content": "A previously unknown group of highly trained hackers presents a major new digital security risk for corporations, according to a report released today by the web security firm Symantec.\n\nSymantec researchers tracked the group, dubbed “Morpho,” back to dozens of attacks against 49 separate organizations – almost exclusively corporations working in the financial, pharmaceutical, commodities and telecommunications fields, among others.\n\nFirms based in the United States represented more than a third of all Morpho attacks, with those based in Europe and Canada coming in second and third, respectively. Fourteen other countries were also home to corporations targeted in Morpho attacks.\n\n“The attackers focused on obtaining access to specific systems of interest in all of the compromised organizations,” the researchers wrote in a white paper.\n\nUnlike many recent high-profile attacks, which have involved governments as targets or as state sponsors, the Morpho attackers focused exclusively on corporate systems, even targeting security-minded megafirms such as Apple and Microsoft.\n\nGiven such valuable intellectual property targets, the attacks may be primarily tailored for monetary gain: selling off one firm’s data to a competitor, for example.\n\nNumerous Internet security analysts and professionals have previously told VOA that hacking attacks are, in fact, becoming more numerous globally. That’s due to a variety of factors, including the relatively low expense and ease of launching persistent attacks.",
+  "questions": [
+    {
+      "question": "Who is at risk because of the new hacking group?",
+      "options": [
+        "Government agencies",
+        "Non-profit organizations",
+        "Corporations",
+        "Educational institutions"
+      ],
+      "answer": "Corporations"
+    },
+    {
+      "question": "Companies from which fields were primarily targeted?",
+      "options": [
+        "Technology, Energy, and Retail",
+        "Healthcare, Education, and Agriculture",
+        "Financial, Pharmaceutical, Commodities, and Telecommunications",
+        "Travel, Hospitality, and Media"
+      ],
+      "answer": "Financial, Pharmaceutical, Commodities, and Telecommunications"
+    },
+    {
+      "question": "Which regions did the hackers primarily target?",
+      "options": [
+        "Asia, Africa, and Australia",
+        "United States, Europe, and Canada",
+        "South America and the Middle East",
+        "Global targets without specific focus"
+      ],
+      "answer": "United States, Europe, and Canada"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

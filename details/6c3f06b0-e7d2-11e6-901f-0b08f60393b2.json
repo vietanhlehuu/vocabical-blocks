@@ -1,0 +1,60 @@
+{
+  "title": "Nobel Prize Winner Studied How People Spent Their Money",
+  "introduction": null,
+  "image": {
+    "id": "e4584f4e-0eab-11e7-b113-8bb2131fda0a",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1VQnVdoKtVzHm5wpjVhRjO.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 512
+    },
+    "attribution": "Fjrommel / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7UaIDu3x9IvmmCwdwlLY7P.mpga",
+  "main_content": "The winner of the 2015 Nobel Prize in Economic Sciences studied how people spend their money.\n\nThe Royal Swedish Academy of Sciences is presenting the Economics Prize to Professor Angus Deaton of Princeton University in New Jersey. The Nobel committee says his research has mainly dealt with three questions: How do consumers distribute their spending? How much of society’s wealth is spent and how much is saved? And, how do we study well-being and poverty?\n\nMr. Deaton used household surveys to collect detailed information about how families spend their money. For example, in one study, the Princeton professor examined the relationship between poverty and the amount of calories in the food people ate.\n\nThe Nobel committee said Mr. Deaton’s research has shown “how the clever use of household data can shed light on issues.”\n\nThe Nobel committee also praised Mr. Deaton’s work because it used detailed information about real people.",
+  "questions": [
+    {
+      "question": "Who won the 2015 Nobel Prize in Economic Sciences?",
+      "options": [
+        "Professor Richard Thaler of the University of Chicago",
+        "Professor Angus Deaton of Princeton University",
+        "Professor Amartya Sen of Harvard University",
+        "Professor Paul Krugman of Princeton University"
+      ],
+      "answer": "Professor Angus Deaton of Princeton University"
+    },
+    {
+      "question": "What did the winner of the prize use to collect detailed information about how families spent their money?",
+      "options": [
+        "Field experiments conducted in various countries",
+        "Statistical models based on government data",
+        "Household surveys",
+        "Interviews with economic experts"
+      ],
+      "answer": "Household surveys"
+    },
+    {
+      "question": "What did the Nobel committee praise the winner for?",
+      "options": [
+        "His innovative theories about market behavior",
+        "The clever use of household data to illuminate issues",
+        "His contributions to international trade studies",
+        "The simplicity of his economic models"
+      ],
+      "answer": "The clever use of household data to illuminate issues"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

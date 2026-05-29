@@ -1,0 +1,60 @@
+{
+  "title": "Missing Japanese Boy Found Healthy and Hungry",
+  "introduction": null,
+  "image": {
+    "id": "3d0db4db-de89-4590-817b-e785f5438f26",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1rCnL9Nz0lt2WgM6jfhIW6.jpeg",
+    "dimensions": {
+      "x": 640,
+      "y": 480
+    },
+    "attribution": "Peter Bond / Wikimedia Commons / CC-BY-SA-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/33ujxn5f1m9TuBKSWbHWcI.mpga",
+  "main_content": "Six days after being abandoned by his parents in a forest, a 7-year-old Japanese boy was found safe and hungry Friday.\n\nYamato Tanooka was found by chance in a hut by a soldier who was not part of the large search party.\n\nIt was the best possible outcome. The boy won praise for being resourceful – finding a hut for shelter and keeping warm.\n\nHis parents said they abandoned him last Saturday to punish him for throwing rocks at people and cars. The father, Takayuki Tanooka, said he returned a few minutes later, but could not find the boy.\n\n“We have raised him with love all along,” said the father, tears in his eyes. “I really didn’t think it would come to that. We went too far.”\n\nThe parents’ way of punishing their son drew debate in Japan about how to raise children.",
+  "questions": [
+    {
+      "question": "How old is Yamato Tanooka?",
+      "options": [
+        "6 years old",
+        "7 years old",
+        "8 years old",
+        "9 years old"
+      ],
+      "answer": "7 years old"
+    },
+    {
+      "question": "Where was the boy found?",
+      "options": [
+        "In a forest",
+        "In a soldier's home",
+        "In a hut",
+        "In a search party"
+      ],
+      "answer": "In a hut"
+    },
+    {
+      "question": "What was the boy punished for?",
+      "options": [
+        "Disobeying his parents",
+        "Throwing rocks at people and cars",
+        "Not listening",
+        "Wandering off in the forest"
+      ],
+      "answer": "Throwing rocks at people and cars"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Vast Majority of US Non-Christians Celebrate Christmas",
+  "introduction": null,
+  "image": {
+    "id": "cd6b83f1-8de6-4273-8bc6-938436129d24",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6FcYpD67FxUiTErBvBUPiu.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 343
+    },
+    "attribution": "Jeff Weese / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4mI68OVwKWH662qtUhmoMF.mpga",
+  "main_content": "Christmas is, by definition, a Christian holiday, but it turns out that a vast majority of non-Christians in the United States — 81 percent — also celebrate the Dec. 25 holiday, which commemorates the birth of Jesus.\n\nMuslim American Zina Alathari, a Virginia dentist and mother of three girls, is one of them. “We celebrate Christmas because it’s a joyous family holiday that brings our family and friends together,” Alathari said. “We are part of this culture and it’s important for my children to enjoy this with their friends.”\n\nAlathari joins the 9 in 10 Americans — or 92 percent — who celebrate Christmas, according to the Pew Research Center.\n\nThe celebrants include 87 percent of all people with no religious affiliation and about three-fourths of Asian-American Buddhists and Hindus. About one-third of American Jews, many of whom are married to non-Jewish spouses, reported having a Christmas tree in a 2013 survey.\n\nAlathari, whose children have attended weekly Islamic religious classes, does not see any conflict between her Muslim faith and celebrating Christmas.\n\n“We celebrate Eid [major Muslim holiday] and Christmas,” she said. “Both holidays are about peace and love and the kids love the gifts.”\n\nAbout half of Americans see Christmas as more of a religious holiday, while about one-third view it more as a cultural holiday.\n\nOver the years, many Americans have taken to saying “Happy Holidays” in order to be sensitive to non-Christians.\n\nHowever, the survey suggests wishing your friends and neighbors a very “Merry Christmas” might be well received by most Americans — no matter what their religion.",
+  "questions": [
+    {
+      "question": "Why does Zina Alathari say her family celebrates Christmas?",
+      "options": [
+        "A) To ensure they follow Christian traditions.",
+        "B) Because it is an important religious observance.",
+        "C) To bring family and friends together during a joyous time.",
+        "D) To teach their children about different cultures."
+      ],
+      "answer": "C) To bring family and friends together during a joyous time."
+    },
+    {
+      "question": "How many Americans celebrate Christmas?",
+      "options": [
+        "A) 81 percent",
+        "B) 92 percent",
+        "C) 87 percent",
+        "D) 75 percent"
+      ],
+      "answer": "B) 92 percent"
+    },
+    {
+      "question": "How many of the non-religious people in the U.S. celebrate Christmas?",
+      "options": [
+        "A) 92 percent",
+        "B) 87 percent",
+        "C) 81 percent",
+        "D) 50 percent"
+      ],
+      "answer": "B) 87 percent"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

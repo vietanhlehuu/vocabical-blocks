@@ -1,0 +1,60 @@
+{
+  "title": "Across Asia, Rapid Economic Growth Threatens Biodiversity",
+  "introduction": null,
+  "image": {
+    "id": "efcf5d57-4770-4735-a47e-809318faa73c",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/7IVvmlu20oFfPnf8KLhP3c.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 632
+    },
+    "attribution": "Luc Viatour / www.Lucnix.be / CC-BY-SA-2.5",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5ViBlwOm3GIiEZ545bJHmX.mpga",
+  "main_content": "Asia’s rapid economic growth in recent decades has lifted millions of people out of poverty, but has also carried steep costs for the region’s biodiversity. A gathering of the International Union for Conservation of Nature (IUCN) in Bangkok warned this week that unless countries in the region can work together to better protect the region’s shrinking ecosystems, scores of plants and animals will face extinction.\n\nAsia now accounts for 40 percent of global economic output and two thirds of global growth. Also some 60 percent of the world’s population live in Asia with urban populations set to reach 3.3 billion by 2050 from 1.9 billion now.\n\nBut the region’s rapid economic development has taken a toll.\n\nMore than 1,400 plants and animals are considered critically endangered. Some 95 percent of South East Asia’s coral reefs lie at risk. Mangroves, the vital wetlands that once covered tens of thousands of kilometers of shorelines around Asia, are disappearing faster here than anywhere else in the world.\n\nIUCN President Zhang Xinsheng said the planet’s ecosystems were no longer able to manage the growing stresses and need renewed government efforts to stem the losses.\n\nThe IUCN in a closing statement urged governments, the private sector and non-government groups to work much closer in building solutions for communities and the natural environment.\n\nIUCN Asia Regional director Aban Marker Kabraji said 2015 marked a turning point for Asia with an urgent effort to harness the innovation that fueled the past five decades of Asia’s economic growth and use it to secure the well being of both nature and humans.",
+  "questions": [
+    {
+      "question": "What are the effects of Asia’s economic growth?",
+      "options": [
+        "It has solely benefited urban development without consequence.",
+        "It has improved biodiversity and reduced poverty.",
+        "It has lifted millions out of poverty while threatening biodiversity.",
+        "It has caused no significant environmental changes."
+      ],
+      "answer": "It has lifted millions out of poverty while threatening biodiversity."
+    },
+    {
+      "question": "How much of the world’s population lives in Asia?",
+      "options": [
+        "Approximately 40 percent.",
+        "About 60 percent.",
+        "Only 50 percent.",
+        "Roughly 30 percent."
+      ],
+      "answer": "About 60 percent."
+    },
+    {
+      "question": "How many species of plants and animals are critically endangered?",
+      "options": [
+        "Over 1,000 species.",
+        "More than 1,400 species.",
+        "Around 2,000 species.",
+        "Exactly 1,200 species."
+      ],
+      "answer": "More than 1,400 species."
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

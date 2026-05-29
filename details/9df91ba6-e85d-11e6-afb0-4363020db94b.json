@@ -1,0 +1,60 @@
+{
+  "title": "Critics: Peanut Butter With Caffeine Unfit for Kids",
+  "introduction": null,
+  "image": {
+    "id": "e457d30c-0eab-11e7-b0c8-8f0846f67649",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/18FmdA9TUf30vFEshSvoAi.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 768
+    },
+    "attribution": "freestock.ca / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4qxfdDY6z0lytNPP3c7vmu.mpga",
+  "main_content": "Americans love peanut butter.\n\nThe average child will eat 1,500 peanut butter and jelly sandwiches before he or she graduates from high school, according to the U.S.-based National Peanut Board.\n\nBut there is a dispute over a new peanut butter.\n\nIt is called S-T-E-E-M, or STEEM Peanut Butter. This peanut butter adds a new ingredient: caffeine.\n\nCaffeine is a stimulant that helps people become more awake or energetic.\n\nBut medical experts worry about adults who rely too heavily on caffeine. Even small amounts of caffeine can be dangerous to children.\n\nUnited States Senator Charles Schumer says he worries about the effects on children from a product never before associated with caffeine.\n\nSchumer wants the U.S. Food and Drug Administration to investigate.\n\nThe manufacturer says two tablespoons have 150 mg of caffeine. A 12-ounce regular coffee has 250 mg.\n\nThe company says customers tell them they want to eat the caffeinated peanut butter so they don’t have to drink as much coffee or energy drinks. The company says it is not marketing the peanut butter for children.\n\nBut Schumer is not persuaded.",
+  "questions": [
+    {
+      "question": "What is the new peanut butter called?",
+      "options": [
+        "S-T-E-E-M",
+        "Caffeinated Delight",
+        "Nutty Energy",
+        "Peanut Power"
+      ],
+      "answer": "S-T-E-E-M"
+    },
+    {
+      "question": "Who is Charles Schumer?",
+      "options": [
+        "A medical expert",
+        "A manufacturer",
+        "A United States Senator",
+        "A child who loves peanut butter"
+      ],
+      "answer": "A United States Senator"
+    },
+    {
+      "question": "Is the company marketing their peanut butter for children?",
+      "options": [
+        "Yes, primarily",
+        "No, they are not",
+        "Only for older children",
+        "No, but encouraging adult consumption"
+      ],
+      "answer": "No, they are not"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

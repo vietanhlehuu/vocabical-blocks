@@ -1,0 +1,60 @@
+{
+  "title": "A Selfie Photo Might Be Your Next Password",
+  "introduction": null,
+  "image": {
+    "id": "c830ce15-0ced-4699-a102-536eb9344487",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/65klhNK9yzl4PAVDZeoAnn.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Korea.net/Korean Culture and Information Service / Wikimedia Commons / CC-BY-SA-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1SWP3jJED5Ng0qckaT2hKO.mpga",
+  "main_content": "All those selfies may turn out to be useful after all.\n\nCredit card company MasterCard says its customers could soon use selfie photos (and a fingerprint) instead of passwords to make payments online.\n\nThe company thinks a biometric system that could read a photo of your face would be more secure and could drive sales.\n\nSpeaking with CNBC at the Mobile World Congress in Barcelona, the company said biometric security has been used on a trial basis in the United States and the Netherlands.\n\nMasterCard said that 53 percent of shoppers forget their passwords at least once a week, causing them to waste more than 10 minutes resetting them. This, the company said, leads to people giving up on potential purchases.\n\n“I think the whole biometric space is a great way of protecting yourself when you are doing payments,”said Ann Cairns, head of international markets for MasterCard. “There are a whole range of biometrics that say ‘I’m me, I’m making a payment’ and it just makes the whole thing more secure.”\n\n“People shop on all sorts of devices, and they expect technology to simplify and secure the transaction,” said Ajay Bhalla, president of enterprise security solutions at MasterCard. “This is exactly what Identity Check delivers.”\n\nAnother potential benefit of a biometric system would be to help those in the developing world who might not have government issued identification.\n\n“If you think about some of the things we’ve rolled out in some emerging markets, in places like Africa, where people don’t have identities because they don’t maybe have passports or driving licenses, then biometric authentication is a way of saying ‘I’m me,” said Cairns.\n\nMasterCard first announced the system last October.",
+  "questions": [
+    {
+      "question": "What system does Mastercard want to implement soon?",
+      "options": [
+        "A password manager application that remembers user passwords",
+        "A biometric system using selfies and fingerprints for online payments",
+        "A two-factor authentication system that requires email confirmation",
+        "A voice recognition technology to verify user identities"
+      ],
+      "answer": "A biometric system using selfies and fingerprints for online payments"
+    },
+    {
+      "question": "Has the new biometric system been tested already?",
+      "options": [
+        "Yes, it has been tested in several European countries",
+        "No, it is still in the planning stages",
+        "Yes, it has been trialed in the United States and the Netherlands",
+        "No, the technology is not feasible for testing"
+      ],
+      "answer": "Yes, it has been trialed in the United States and the Netherlands"
+    },
+    {
+      "question": "How can forgetting a password lead to a decrease in sales?",
+      "options": [
+        "Customers spend more time shopping online, causing fatigue",
+        "Resetting passwords takes too much time, discouraging purchases",
+        "Shoppers find it easier to shop elsewhere without a password",
+        "Stress from forgetting passwords leads to impulsive spending"
+      ],
+      "answer": "Resetting passwords takes too much time, discouraging purchases"
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

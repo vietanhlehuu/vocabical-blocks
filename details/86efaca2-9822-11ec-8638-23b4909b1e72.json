@@ -1,0 +1,60 @@
+{
+  "title": "Introvert or Extrovert. Which One Are You?",
+  "introduction": null,
+  "image": {
+    "id": "86ef3650-9822-11ec-8637-3faf20a41307",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6GrEgCCrOdWXA7rpGdNkDJ.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Elvert Barnes from Hyattsville MD, USA / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5hjgUWI4YiOz47w8KDnkjv.mpga",
+  "main_content": "You are invited to a large party. Loud music is playing, and lots of people are dancing.\n\nWhat do you do? Do you mingle all night and talk to as many people as you can?\n\nOr do you prefer to have one-on-one conversations with just a few people? Or perhaps you cannot wait to go home early and relax by yourself.\n\nWhich of these people sounds most like you?\n\nIf you said Person A (the first), you are probably more extroverted. If you said Person B (the second), you are probably more introverted.\n\nIntroverts may be viewed as quiet, shy and timid.\n\nExtroverts may be viewed as bold, confident, loud and full of energy.\n\nIntroverted and extroverted people may fit those descriptions. But these same descriptions do not define introversion and extroversion properly.\n\nPeople who consider themselves introverts may say they “need to be alone” or that being in large crowds makes them tired. However, introverts may still love being social.\n\nExtroverts may say, “I don’t need ‘alone time.’ I feel more relaxed being around other people.” Even so, extroverts can still feel unsure among other people.",
+  "questions": [
+    {
+      "question": "What may introverted people say that they need?",
+      "options": [
+        "To socialize more often",
+        "Inspiration from others",
+        "Alone time",
+        "Encouragement from friends"
+      ],
+      "answer": "Alone time"
+    },
+    {
+      "question": "How can extroverts be viewed?",
+      "options": [
+        "Timid and reserved",
+        "Bold and full of energy",
+        "Indifferent and detached",
+        "Pessimistic and quiet"
+      ],
+      "answer": "Bold and full of energy"
+    },
+    {
+      "question": "When do extroverts feel more relaxed?",
+      "options": [
+        "In solitude",
+        "During quiet activities",
+        "Being around other people",
+        "When engaged in deep thought"
+      ],
+      "answer": "Being around other people"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

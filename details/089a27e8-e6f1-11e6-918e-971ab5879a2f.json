@@ -1,0 +1,60 @@
+{
+  "title": "US Officials Report Progress in Fighting Ebola",
+  "introduction": null,
+  "image": {
+    "id": "0ad0bf9d-20cd-46a8-8c7f-0eda42120855",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/0KPJwDZuZumDPCuWKuDZbx.jpeg",
+    "dimensions": {
+      "x": 800,
+      "y": 472
+    },
+    "attribution": "User:Fæ / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 6,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5xn0HgYMLgdKQ9RErb9NBe.mpga",
+  "main_content": "American health officials are reporting progress against the disease Ebola in West Africa. Tom Frieden is head of the Centers for Disease Control and Prevention.\n\n“This has been a, a devastating epidemic and it’s been unique. It is the world’s first epidemic of Ebola, and it has stretched the world systems and taught us what more we need to do.”\n\nDr. Frieden spoke last week in Washington, D.C.  He noted that Ebola was first reported in Guinea about a year ago. He said the epidemic could have been prevented if medical workers and government officials in West Africa were better prepared.\n\nIn the past few weeks, the number of new cases reported has dropped to less than ten a day in Liberia and Sierra Leone.\n\nRepresentative Karen Baas is on the House Foreign Affairs Subcommittee for Africa, Global Health, and Global Human Rights. She says people are still being affected by Ebola, even if the media is not reporting on the health crisis.\n\nThere have been more than 21,000 reported Ebola cases in Guinea, Liberia and Sierra Leone. More than 8,000 people have died.",
+  "questions": [
+    {
+      "question": "Where was Ebola first reported?",
+      "options": [
+        "Sierra Leone",
+        "Guinea",
+        "Liberia",
+        "Washington, D.C."
+      ],
+      "answer": "Guinea"
+    },
+    {
+      "question": "How the epidemic could have been prevented?",
+      "options": [
+        "By increasing media coverage",
+        "With better preparation of medical workers and officials",
+        "Through international aid only",
+        "By implementing travel bans"
+      ],
+      "answer": "With better preparation of medical workers and officials"
+    },
+    {
+      "question": "Around how many people have died?",
+      "options": [
+        "5,000",
+        "10,000",
+        "8,000",
+        "12,000"
+      ],
+      "answer": "8,000"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

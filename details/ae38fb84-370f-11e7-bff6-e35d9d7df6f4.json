@@ -1,0 +1,60 @@
+{
+  "title": "Report: NASA Failing in Mission to Find Dangerous Asteroids Near Earth",
+  "introduction": null,
+  "image": {
+    "id": "ae044915-4b44-4c83-9d61-ee459aa9a672",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5IMceDaCIunBmWlLLm6PTO.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 510
+    },
+    "attribution": "ESA/Hubble / Wikimedia Commons / CC-BY-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7WVq8GWt1EEXiypqJsfkTn.mpga",
+  "main_content": "The U.S. space agency’s inspector general says NASA is failing in its congressionally-ordered mission to find 90 percent of potentially dangerous asteroids flying close to Earth.\n\nThe official, Paul Martin, Monday criticized the agency’s Near Earth Object program as being understaffed and badly managed.\n\nIn his report, he says the program has so far found just 10 percent of asteroids and other objects bigger than 140 meters across and flying 45 million kilometers from Earth.\n\nThe program is tasked with finding 90 percent of these objects. The inspector general’s report says the program likely will miss its 2020 deadline.\n\nMost near-Earth objects harmlessly disintegrate before striking the planet.\n\nBut a relatively small asteroid exploded over Chelyabinsk in southern Russia last year with the force of 30 atomic bombs. More than 1,000 people were injured by flying debris.\n\n“Recent research suggests that Chelyabinsk-type events occur every 30 to 40 years,” the Office of Inspector General report said, adding that most impacts would occur in the ocean rather than in populated areas.\n\nHistorians believe a 10-kilometer-wide object hit the Earth about 66 million years ago in what is now Mexico, killing nearly all life on the planet and causing dinosaurs to become extinct.\n\nSince 1998, NASA has spent about $100 million on programs to find, assess and mitigate potentially threatening space neighbors.\n\nThe report made five recommendations for beefing up NASA’s asteroid detection efforts, including adding at least four to six employees to help manage the program and coordinating projects with other U.S. and international agencies and with privately-funded initiatives.\n\nNASA’s Associate Administrator for Science John Grunsfeld said in a letter to Martin he expects a new NEO program to be in place by Sept. 1, 2015.",
+  "questions": [
+    {
+      "question": "Why is NASA failing its mission of finding dangerous asteroids?",
+      "options": [
+        "A lack of funding for the Near Earth Object program.",
+        "Insufficient staffing and poor management of the program.",
+        "The program is focused on smaller asteroids instead of larger ones.",
+        "Inadequate technology to detect asteroids effectively."
+      ],
+      "answer": "Insufficient staffing and poor management of the program."
+    },
+    {
+      "question": "What happens to most near-Earth objects?",
+      "options": [
+        "They collide with the Earth causing mass destruction.",
+        "They harmlessly disintegrate before striking the planet.",
+        "They orbit the Earth indefinitely without impact.",
+        "They are collected and studied by space agencies."
+      ],
+      "answer": "They harmlessly disintegrate before striking the planet."
+    },
+    {
+      "question": "What catastrophic event occurred 66 million years ago?",
+      "options": [
+        "The eruption of a supervolcano that altered the climate.",
+        "A massive asteroid impact that contributed to dinosaur extinction.",
+        "The formation of the Himalayas due to tectonic shifts.",
+        "The flood that created the Grand Canyon."
+      ],
+      "answer": "A massive asteroid impact that contributed to dinosaur extinction."
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

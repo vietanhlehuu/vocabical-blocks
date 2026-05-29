@@ -1,0 +1,60 @@
+{
+  "title": "Mexico Says Will Not Pay for Trump’s Proposed Border Wall",
+  "introduction": null,
+  "image": {
+    "id": "8a8d5a9e-5f3e-11eb-8cb1-13c9c8c88c79",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5Co24Xkm312qo7gfuUY1Zm.jpeg",
+    "dimensions": {
+      "x": 5916,
+      "y": 3434
+    },
+    "attribution": "Tomas Castelazo / www.tomascastelazo.com / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6JMT1i9kVyH56jDmaLLp1a.mpga",
+  "main_content": "The Mexican government said it would not pay for the “terrible” border wall proposed by U.S. Republican presidential candidate Donald Trump.\n\nIn a televised interview, Finance Minister Luis Videgaray gave the first direct government response to the proposal to build a wall along the U.S. – Mexican border to curb illegal immigration, and have Mexico pay for it.\n\n“Under no circumstances will Mexico pay for the wall that Mr. Trump is proposing,” Videgaray said late Wednesday. He said the idea was “based on ignorance and has no foundation in the reality of North American integration.”\n\nThe Republican Party front-runner‘s comments about immigration in Mexico and the border wall have sparked a number of controversies.\n\nTrump has repeatedly said Mexican leaders take advantage of the United States, “by using illegal immigration to export the crime and poverty in their own country” over the border.\n\nTrump estimates the wall will cost about $8 billion to build and says the Mexican government must assume responsibility for the cost. Trump says he will impound remittances derived from illegal wages and increase fees on some temporary visas and border crossing cards until Mexico agrees.\n\nTrump often says the cost of the wall is “a tiny fraction of the money” the United States loses to Mexico in trade deficits.\n\nFormer Mexican president Felipe Calderon responded to Trump’s plan, saying “Mexican people, we are not going to pay any single cent for such a stupid wall.\"",
+  "questions": [
+    {
+      "question": "What did Donald Trump propose that angered Mexican officials?",
+      "options": [
+        "A proposal to increase trade tariffs on Mexican goods",
+        "A plan to construct a border wall funded by Mexico",
+        "A suggestion to expand immigration opportunities for Mexicans",
+        "A policy to enhance cooperation on security issues"
+      ],
+      "answer": "A plan to construct a border wall funded by Mexico"
+    },
+    {
+      "question": "What did Videgaray say about the idea?",
+      "options": [
+        "It is a reasonable approach to trade relations",
+        "It is based on ignorance and lacks foundation in reality",
+        "It has potential benefits if negotiated properly",
+        "It reflects a misunderstanding of North American culture"
+      ],
+      "answer": "It is based on ignorance and lacks foundation in reality"
+    },
+    {
+      "question": "What has Trump accused Mexico of doing?",
+      "options": [
+        "Ignoring environmental concerns along the border",
+        "Using illegal immigration to export crime and poverty",
+        "Failing to cooperate on trade agreements",
+        "Encouraging American companies to relocate"
+      ],
+      "answer": "Using illegal immigration to export crime and poverty"
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

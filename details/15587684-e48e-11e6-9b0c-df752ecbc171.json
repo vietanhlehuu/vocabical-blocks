@@ -1,0 +1,60 @@
+{
+  "title": "Plastic Bags: To Ban or Not to Ban?",
+  "introduction": null,
+  "image": {
+    "id": "f2195795-671d-4055-9df8-e0f419a23f7a",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/7Mpiv1rq2ocDs8QwX2Og0I.jpeg",
+    "dimensions": {
+      "x": 399,
+      "y": 599
+    },
+    "attribution": "Philip Halling / www.geograph.org.uk / CC-BY-SA-2.0",
+    "public_attribution": true,
+    "lock_version": 8,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6pWTwJZYUCtvUT1oft4aF1.mpga",
+  "main_content": "This is the holiday season in the United States. People are buying gifts and carrying them home, usually in plastic shopping bags. They are only a small amount of the huge number of disposable plastic bags that are used all year long to contain groceries and other things.\n\nJanet Larsen directs research for the Earth Policy Institute in Washington, D.C. She says too many plastic bags end up as litter.\n\nIn an effort to keep plastic bags out of the environment, California recently became the first state to ban businesses from giving new plastic bags to customers. Some other states and cities charge a small amount of money for every bag given out. That is meant to encourage people to bring their own bags when they go shopping.\n\nFive years ago, Washington D.C. placed a 5-cent fee on every plastic bag given out by businesses in the city. The money is being used to clean up the local Anacostia watershed.\n\nMore than 18 million Americans now live in communities that tax or ban plastic bags, and that number is expected to go up again next year.",
+  "questions": [
+    {
+      "question": "What does Janet Larsen do?",
+      "options": [
+        "She manages a grocery store",
+        "She directs research for the Earth Policy Institute",
+        "She is a plastic bag manufacturer",
+        "She is a local government official"
+      ],
+      "answer": "She directs research for the Earth Policy Institute"
+    },
+    {
+      "question": "Which state was the first to ban businesses from giving new plastic bags to customers?",
+      "options": [
+        "New York",
+        "California",
+        "Texas",
+        "Florida"
+      ],
+      "answer": "California"
+    },
+    {
+      "question": "What did Washington D.C. do five years ago?",
+      "options": [
+        "Imposed a ban on all plastic bags",
+        "Introduced a 5-cent fee on plastic bags",
+        "Provided free reusable shopping bags",
+        "Launched an awareness campaign about plastic waste"
+      ],
+      "answer": "Introduced a 5-cent fee on plastic bags"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

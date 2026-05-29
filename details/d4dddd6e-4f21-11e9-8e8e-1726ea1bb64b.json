@@ -1,0 +1,60 @@
+{
+  "title": "Personal Flying Vehicles Close to Reality",
+  "introduction": null,
+  "image": {
+    "id": "d4ddbbae-4f21-11e9-8e8d-bb3609bb28d5",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3WEFV5whWuxz2CqINA51zq.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 342
+    },
+    "attribution": "martinjetpack / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4ZaV5DhADzbridhNfHYJe7.mpga",
+  "main_content": "Many people have long dreamed of being able to fly around as simply as riding a bicycle. Yet the safety and strength of a flying bike was always a big problem.\n\nOver the past 10 years, developments in technology have moved the dream of personal flying vehicles closer to reality. Now, two groups of inventors say such vehicles may be available very soon.\n\nThe British company Malloy Aeronautics has developed a prototype or model of its flying bicycle. The company says its Hoverbike will be a truly personal flying vehicle.\n\nGrant Stapleton is the marketing sales director of Malloy Aeronautics. He says the Hoverbike is able to get in and out of small spaces very quickly.\n\nMr. Stapleton says safety was the company’s main concern when developing the Hoverbike.\n\nThe company is testing both a one-third scale model and a full-size prototype of the Hoverbike.\n\nInventors say their Hoverbike will most likely be used first by the military, police and emergency rescue teams.",
+  "questions": [
+    {
+      "question": "Who will the Hoverbike most likely be used by first?",
+      "options": [
+        "Individuals seeking recreational use",
+        "Military, police, and emergency rescue teams",
+        "Commercial delivery services",
+        "Tourism companies offering aerial tours"
+      ],
+      "answer": "Military, police, and emergency rescue teams"
+    },
+    {
+      "question": "What company is working on the Hoverbike?",
+      "options": [
+        "Sky Innovations",
+        "Malloy Aeronautics",
+        "AeroDynamics",
+        "Visionary Wing Technologies"
+      ],
+      "answer": "Malloy Aeronautics"
+    },
+    {
+      "question": "What was the company’s main concern when developing the Hoverbike?",
+      "options": [
+        "Cost of production",
+        "Aesthetic design",
+        "Safety",
+        "Speed and efficiency"
+      ],
+      "answer": "Safety"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "US Cost of Raising Children Nears $250K",
+  "introduction": null,
+  "image": {
+    "id": "ba968fe2-4f1b-11e9-9cf0-3332c55050e7",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2sATOrIyC52MLUkT9YC7q8.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 438
+    },
+    "attribution": "United States Air Force photo by Senior Airman Cassandra Locke / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3X8gHshBfnre0GEB5ufhvm.mpga",
+  "main_content": "New parents in the United States will have to tighten their budgets, according to data released Monday, which shows the cost of raising a child is inching toward a quarter-million dollars.\n\nResearch by the U.S. Department of Agriculture shows middle-income parents will spend slightly more than $245,000 on a baby born in 2013 until the child turns 18, the age of legal adulthood in the U.S.\n\nThe largest expense for new parents is housing, which accounts for almost one-third of the projected cost. Child care, education, and food also top the list.\n\nThe 2013 figure marks an increase of nearly 2 percent over the previous year.\n\nAdjusted for inflation, a child born in 1960 cost the average middle-income U.S. family roughly $199,000.",
+  "questions": [
+    {
+      "question": "How much do middle-income parents in the United States are expected to spend raising a child born in 2013 until age 18?",
+      "options": [
+        "$199,000",
+        "$225,000",
+        "Slightly more than $245,000",
+        "$260,000"
+      ],
+      "answer": "Slightly more than $245,000"
+    },
+    {
+      "question": "What is the largest expense for new parents according to the article?",
+      "options": [
+        "Housing",
+        "Child care",
+        "Education",
+        "Food"
+      ],
+      "answer": "Housing"
+    },
+    {
+      "question": "Which year is mentioned as the basis for the lower adjusted cost estimate?",
+      "options": [
+        "1960",
+        "1970",
+        "2013",
+        "2018"
+      ],
+      "answer": "1960"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

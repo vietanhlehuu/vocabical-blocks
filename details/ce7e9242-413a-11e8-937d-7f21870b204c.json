@@ -1,0 +1,60 @@
+{
+  "title": "Students in Cambodia Want to Learn English",
+  "introduction": null,
+  "image": {
+    "id": "ce7e51ec-413a-11e8-937c-1f3f4550f402",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/xoD1iV44mVBqVx4ELtLjhokxqx4pDbrpYYUuDK0j4fK.jpeg",
+    "dimensions": {
+      "x": 905,
+      "y": 517
+    },
+    "attribution": "Shutterstock",
+    "public_attribution": false,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3RjFvXyl82M9rigoaPxK2G.mpga",
+  "main_content": "The oldest public school in Cambodia’s capital, Phnom Penh, is in a small courtyard downtown. The Tuan Hoa school has a Chinese temple and Mandarin language classes for its 2,000 students. But in Phnom Penh, Chinese usage is still behind English. This is true although China and Cambodia have a long history together and close political ties.\n\nSchool Deputy Director Loeung Sokmenh said there are good reasons for students to learn Chinese. They can work as translators or guides for foreign visitors. They also may have the chance to study in China.\n\nMs. Sokmenh said Chinese tourists, investors and clothing factories are coming to Cambodia, and they need translators.\n\nMany more Cambodians are learning English as their preferred second language. This is true although there are close ties between the Chinese and Cambodian governments. The number of Chinese tourists and businesses in Cambodia also is rising.\n\nThese days in Cambodia’s capital, western cultural influences still appear dominant. Foreign films, English signs and billboards are seen across the city. Western brands are popular in stores and on the streets.",
+  "questions": [
+    {
+      "question": "What is Phnom Penh?",
+      "options": [
+        "The capital of China",
+        "A city in Cambodia",
+        "A historical site in Vietnam",
+        "A region in Thailand"
+      ],
+      "answer": "A city in Cambodia"
+    },
+    {
+      "question": "Loeung Sokmenh said there are good reasons for students to learn Chinese. What are the reasons?",
+      "options": [
+        "To communicate with Chinese tourists and investors",
+        "To travel to China for vacations",
+        "To participate in local Chinese festivals",
+        "To become famous translators and authors"
+      ],
+      "answer": "To communicate with Chinese tourists and investors"
+    },
+    {
+      "question": "Is Chinese usage still behind English?",
+      "options": [
+        "Yes, despite the growing influence of China",
+        "No, it has surpassed English",
+        "Yes, but it is quickly gaining popularity",
+        "No, it is equally used as English"
+      ],
+      "answer": "Yes, despite the growing influence of China"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

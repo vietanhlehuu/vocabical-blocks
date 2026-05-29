@@ -1,0 +1,60 @@
+{
+  "title": "Google Opens First Asian Campus in Seoul",
+  "introduction": null,
+  "image": {
+    "id": "7e00871d-6a14-4f7d-badb-a59576ee75a8",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3plH0nj8z7nuC2ACQfsrg8.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 304
+    },
+    "attribution": "Peter Haas / Wikimedia Commons / CC-BY-SA 3.0",
+    "public_attribution": true,
+    "lock_version": 2,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1gd79qNTKiYaisHmqqP7z3.mpga",
+  "main_content": "The American technology company Google recently set up its first campus in Asia. The campus opened last Friday in Seoul, South Korea. Google officials want the training center to support entrepreneurs who are starting up new Internet businesses. They hope this will lead to more Korean high technology programs in the world market. In return, the company wants more ties to the Korean market.\n\n“Campus Seoul, A Google Space” is small compared to Google’s headquarters in Mountain View, California. Google’s new campus can be found in an office building in Seoul’s Gangnam neighborhood. It will have 2,000 square meters of open office space for Korean Internet entrepreneurs to work.\n\nGoogle’s expectations for the campus, however, are much bigger than the relatively small space. The company wants to make it a place for new ideas in Asia.\n\nSouth Korea is one of the few countries in the world where Google is not the top Internet search engine.",
+  "questions": [
+    {
+      "question": "What do Google officials want the training center to do?",
+      "options": [
+        "A) Support entrepreneurs in developing new Internet businesses",
+        "B) Provide training for the Korean government employees",
+        "C) Establish a direct connection with existing Korean companies",
+        "D) Train local universities to enhance their technology programs"
+      ],
+      "answer": "A) Support entrepreneurs in developing new Internet businesses"
+    },
+    {
+      "question": "Where are Google’s headquarters?",
+      "options": [
+        "A) Seoul, South Korea",
+        "B) Tokyo, Japan",
+        "C) Mountain View, California",
+        "D) New York City, USA"
+      ],
+      "answer": "C) Mountain View, California"
+    },
+    {
+      "question": "Is Google the top Internet search engine in South Korea?",
+      "options": [
+        "A) Yes, it has the highest market share",
+        "B) No, it is not the top search engine",
+        "C) Yes, but only in urban areas",
+        "D) No, but it is growing quickly in popularity"
+      ],
+      "answer": "B) No, it is not the top search engine"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

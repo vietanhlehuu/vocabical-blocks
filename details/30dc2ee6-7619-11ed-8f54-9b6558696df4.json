@@ -1,0 +1,60 @@
+{
+  "title": "Facebook Reaches Out to Africa",
+  "introduction": null,
+  "image": {
+    "id": "30dbb75e-7619-11ed-8f53-43d3bb0fcfee",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/76Rrl7EhKof7br5H6zekx1.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 343
+    },
+    "attribution": "olga.palma / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0CH5LwrctuJU1QtwKvv2Bn.mpga",
+  "main_content": "The social media company Facebook has opened its first African headquarters in Johannesburg, South Africa.\n\nFacebook representatives recently gathered in the city to celebrate the opening of the new office. They hope it will bring new users to the site and grow opportunities for both users and businesses.\n\nIn recent years, Facebook has made efforts to reach out to Africa. The company introduced a modified version of its app for lower-end phones.\n\nFacebook also has pushed for widespread and free Internet access. The company has partnered with mobile phone companies to offer free airtime for phone users who use Facebook and other selected sites.\n\nEbele Okobi is the head of public policy for Facebook in Johannesburg. She says the company’s goals are not complex.\n\nMs. Okobi adds that Facebook plays an important role in African society and politics.\n\nMs. Okobi adds that some users in Africa use the site to tell stories about the continent. The stories are not often told in traditional media. However, many African users are not very different from the Americans or Europeans. They use the site to share news, photos of family members and to connect with people.",
+  "questions": [
+    {
+      "question": "Which social media company has opened its first African headquarters in Johannesburg?",
+      "options": [
+        "Twitter",
+        "Instagram",
+        "Facebook",
+        "Snapchat"
+      ],
+      "answer": "Facebook"
+    },
+    {
+      "question": "What did Ebele Okobi say about Facebook’s role?",
+      "options": [
+        "It complicates social interactions.",
+        "It plays a significant role in African society and politics.",
+        "It focuses solely on entertainment.",
+        "It is irrelevant to the local community."
+      ],
+      "answer": "It plays a significant role in African society and politics."
+    },
+    {
+      "question": "Are African users different from the Americans or Europeans ones?",
+      "options": [
+        "Yes, they have completely different usage patterns.",
+        "No, they are very similar in their usage.",
+        "Yes, they only use the site for political purposes.",
+        "No, they do not engage with stories at all."
+      ],
+      "answer": "No, they are very similar in their usage."
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

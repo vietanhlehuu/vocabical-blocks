@@ -1,0 +1,60 @@
+{
+  "title": "What Is That Thing Called?",
+  "introduction": null,
+  "image": {
+    "id": "e45afdca-0eab-11e7-b2af-b30e6296ad4e",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3YZmHpu3GtwVYJtCiQv1oH.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 683
+    },
+    "attribution": "Daderot / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3ogTfbLknjghuTwhYXj4ho.mpga",
+  "main_content": "It has happened to all of us. You want to talk about an object, but you forgot the name of it. Or you never knew the name at all. Maybe you are not even sure there is a word for it.\n\nFor example, that thing that you need to fix your bicycle. Or perhaps it is something you need for your computer.\n\nWhat are these things?\n\nThey are called “doohickies.” A doohickey is a word you use when you do not know, or you have forgotten, the real name of an object.\n\nThe MacMillan Dictionary defines doohickey as “something such as a small object or tool that you cannot remember the name of.”\n\nThe dictionary lists a lot of strange words as synonyms for doohickey.\n\nYou will probably never see these words in official documents. But you might hear them in informal American English, when people are talking to each other.\n\n“Hey, what does this doohickey do, anyway?”\n\n“Dude, bring me that thingamajig, will ya?\n\n“Janine, can you get me one of those whatchamacallits?”\n\nMost Americans will know what you are talking about if you use one of those words.",
+  "questions": [
+    {
+      "question": "What synonyms of ‘doohickey’ are mentioned in the article?",
+      "options": [
+        "thingamajig",
+        "gizmo",
+        "whatchamacallit",
+        "widget"
+      ],
+      "answer": "thingamajig"
+    },
+    {
+      "question": "How is the word doohickey defined in The MacMillan Dictionary?",
+      "options": [
+        "A term for a specific type of tool.",
+        "An informal reference to a well-known object.",
+        "Something such as a small object or tool that you cannot remember the name of.",
+        "A synonym for furniture."
+      ],
+      "answer": "Something such as a small object or tool that you cannot remember the name of."
+    },
+    {
+      "question": "Where will you never see the word ‘doohickey’?",
+      "options": [
+        "In informal conversations among friends.",
+        "In official documents.",
+        "In dictionaries.",
+        "In newspapers."
+      ],
+      "answer": "In official documents."
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

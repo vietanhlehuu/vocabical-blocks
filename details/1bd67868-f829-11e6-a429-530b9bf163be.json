@@ -1,0 +1,60 @@
+{
+  "title": "Facebook Announces Friends and Family First",
+  "introduction": null,
+  "image": {
+    "id": "e5263007-dc2c-4e23-a17f-4535900e2e01",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6yOh4JYc6Utj724evoI4Ib.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 342
+    },
+    "attribution": "Senado Federal / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1FYdglfy7zvau6VM5sy3Gz.mpga",
+  "main_content": "Facebook is retooling its News Feed algorithm so that users see more posts from friends and family, the company announced Wednesday.\n\n“Facebook was built on the idea of connecting people with their friends and family. That is still the driving principle of News Feed today, wrote Facebook’s Adam Mosseri, who heads up the News Feed team, in an online post. “Our top priority is keeping you connected to the people, places, and things you want to be connected to — starting with the people you are friends with on Facebook.”\n\nNews Feed was launched 10 years ago, but Mosseri said in its current form it contains “far too much information for any one person to consume.”\n\nFacebook also unveiled what it’s calling its News Feed values with the first being “connecting people with their friends and family.”  The second is providing information such as news, and the third is to be entertaining via videos and funny pictures.\n\nThe changes could impact news organizations and other content publishers who have come to rely on Facebook as a powerful distribution network for their products.\n\nMosseri told CNN that “publishers may see a noticeable but small change in referral traffic.”\n\nPerhaps in response to allegations, the social media giant was tweaking News Feed to leave out conservative political view. The newly tweaked feed promises to be a “platform for all ideas,” with Mosseri adding, “We don’t favor specific kinds of sources – or ideas.”",
+  "questions": [
+    {
+      "question": "Why is Facebook changing its News Feed?",
+      "options": [
+        "To reduce the amount of posts from publishers and increase personal content.",
+        "To enhance user engagement with more advertising in the feed.",
+        "To promote a wider variety of news sources than ever before.",
+        "To prioritize sponsored content over user-generated content."
+      ],
+      "answer": "To reduce the amount of posts from publishers and increase personal content."
+    },
+    {
+      "question": "Why does Adam Mosseri think that the News Feed needed to be changed?",
+      "options": [
+        "He believes it provides too much information for users to engage with effectively.",
+        "He thinks it lacks entertaining content for younger audiences.",
+        "He wants to shift focus entirely towards news from established publishers.",
+        "He has received direct feedback from users requesting more ads."
+      ],
+      "answer": "He believes it provides too much information for users to engage with effectively."
+    },
+    {
+      "question": "What is the third value of the News Feed?",
+      "options": [
+        "Sharing events and community activities.",
+        "Providing news updates and headlines.",
+        "Offering a platform for business promotions.",
+        "Being entertaining via videos and funny pictures."
+      ],
+      "answer": "Being entertaining via videos and funny pictures."
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

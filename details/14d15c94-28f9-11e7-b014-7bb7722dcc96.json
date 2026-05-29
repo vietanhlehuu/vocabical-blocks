@@ -1,0 +1,60 @@
+{
+  "title": "New Camera Records Invisible Motion",
+  "introduction": null,
+  "image": {
+    "id": "ea08dc2f-9414-4c86-bdc3-adb901aa3fd6",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/77cFio9lg42pVFPvnm2VaI.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 343
+    },
+    "attribution": "ArildV / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/26RcRbzGalpmLAcb2VYwq8.mpga",
+  "main_content": "The world around us is in constant motion, even objects that seem to be perfectly still. Researchers at the Massachusetts Institute of Technology use a special camera that offers glimpses into the world of seemingly invisible movements.\n\nMany objects around us vibrate when hit by sound waves but the movements are invisible to the naked eye.\n\nFor instance, a wine glass exposed to a loud noise…..vibrates although it looks perfectly still.\n\nHowever, if you tape the movements with a special high-speed camera that records thousands of frames per second, and use a computer program to amplify the vibrations and insert them in the video, the results are stunning. The so-called motion microscope makes the glass look like it’s made of a jelly-like substance.\n\n“The motion microscope is a way to visualize small motions that are seemingly invisible to the naked eye in videos,” said Massachusetts Institute of Technology graduate student Neil Wadhwa, who recorded and amplified the movements of a face, clearly showing the man’s blood pressure going up and down with every heartbeat.\n\nWadhwa says the motion microscope can be very useful for monitoring critical movements such as the movements of a baby in mother’s womb or of an infant breathing.\n\n“You can create a non-contact vital signs monitor so you don’t need to attach anything to a person and you will still be able to figure out their heart rate and respiration rate,” he said.\n\nWadhwa says recording invisible motion could be used for other applications, such as helping engineers detect vibrations of construction elements and even buildings, road bridges or construction cranes.",
+  "questions": [
+    {
+      "question": "How do many objects react when hit by sound waves?",
+      "options": [
+        "They become completely silent.",
+        "They vibrate, but the movements are invisible to the naked eye.",
+        "They break apart immediately.",
+        "They emit a musical note."
+      ],
+      "answer": "They vibrate, but the movements are invisible to the naked eye."
+    },
+    {
+      "question": "What effect does the special high-speed camera have on the appearance of a vibrating wine glass?",
+      "options": [
+        "It appears completely still and unaffected.",
+        "It looks like it’s made of a jelly-like substance.",
+        "It reflects the sound waves visibly.",
+        "It shows a crack forming in real-time."
+      ],
+      "answer": "It looks like it’s made of a jelly-like substance."
+    },
+    {
+      "question": "What does Neil Wadhwa's video of a face help visualize?",
+      "options": [
+        "The person's emotions clearly.",
+        "The changes in the person's blood pressure with every heartbeat.",
+        "The person's ability to speak.",
+        "The person's eye color in detail."
+      ],
+      "answer": "The changes in the person's blood pressure with every heartbeat."
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

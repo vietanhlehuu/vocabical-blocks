@@ -1,0 +1,60 @@
+{
+  "title": "US Credit Card Debt Nears $1 Trillion",
+  "introduction": null,
+  "image": {
+    "id": "cccf98a6-b6e0-4b71-969f-6000b7ffca6f",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6ETJ05zDZm1qZD3AMtQzZX.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 712
+    },
+    "attribution": "MB-one / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0iQv2JZwqe4Nm4B89RT1iC.mpga",
+  "main_content": "Credit card debt in the United States is approaching $1 trillion, according to a study by CardHub.com, a company that tracks consumer financial issues.\n\nIf that figure isn’t stark enough by itself, consider these, also from last month’s Card-Hub study:\n\nIn 2015 alone, credit card debt rose $71 billion; $52 billion came in the fourth quarter, mostly attributed to holiday shopping. That 4th quarter equaled credit card debt during the entire years of 2009, 2010 and 2011 combined. The average credit card debt is up to $5,700 per household. The average for balance-carrying, month-to-month households, is close to $16,000.\n\nThe United States is the world leader in credit card debt, according to statistics from the Census Bureau and the Federal Reserve Board. And not just by a little. U.S. credit card debt is more than double that of the United Kingdom. It almost equals credit card debt of the next six countries combined: France, Canada, Japan, Mexico, Russia and China.\n\nOne of the reasons the U.S. is world leader is the increasing use of credit cards by Americans, a practice they do not always share with other people in the world.\n\n“Most people in Asia pay cash. So they don’t usually use credit cards, per se,” economics professor Anand Marri told VOA. ”My experience in India, for example, most people don’t use credit cards. They use cash.”\n\nMarri, who teaches at the Teachers College at New York’s Columbia University, added that in other Asian countries, the only way people get mortgages for their homes, is with cash.\n\nThere has been a recent move by banks to introduce more credit cards to the Indian population. A MasterCard representative, in a recent interview with VOA, said its business plan includes marketing its cards to emerging economies, moving those economies from cash to credit.",
+  "questions": [
+    {
+      "question": "How much credit card debt is there in the U.S.?",
+      "options": [
+        "Over $1 trillion",
+        "Under $500 billion",
+        "$2 trillion",
+        "$750 billion"
+      ],
+      "answer": "Over $1 trillion"
+    },
+    {
+      "question": "How much credit card debt does each household in the U.S. have on average?",
+      "options": [
+        "$3,500",
+        "$5,700",
+        "$16,000",
+        "$7,500"
+      ],
+      "answer": "$5,700"
+    },
+    {
+      "question": "Why do Americans have so much credit card debt?",
+      "options": [
+        "High interest rates on loans",
+        "Increased use of credit cards compared to cash",
+        "A lack of financial education",
+        "Cultural differences with spending habits"
+      ],
+      "answer": "Increased use of credit cards compared to cash"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

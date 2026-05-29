@@ -1,0 +1,60 @@
+{
+  "title": "Power Outages Renew Interest in Renewable Energy",
+  "introduction": null,
+  "image": {
+    "id": "e45ea330-0eab-11e7-b4c3-3b86b5a1f4b5",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6bkvFSlWuG4GUjOMt5gZjH.jpeg",
+    "dimensions": {
+      "x": 800,
+      "y": 600
+    },
+    "attribution": "Philipp Hertzog / Wikimedia Commons / CC-BY-SA 3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4SuakPVhXJUyT1E1ZgXl0L.mpga",
+  "main_content": "South Africa’s state power company, Eskom, is struggling to meet demand for electricity in the country. The company has put in place an aggressive plan for limiting the amount of electricity it supplies to prevent a collapse of the electrical system.\n\nHowever, the unpredictability of the system is causing some South Africans to become self-sufficient. These people have begun producing energy in their own homes. Many are choosing renewable forms of energy.\n\nThe South African state power company Eskom has a big problem. The company provides about 95% of South Africa’s electricity. But Eskom officials have said there is a strong probability of controlled power cuts almost every day for the next few months. They say the company may have to do this to avoid a total collapse of the system, known as an electrical grid.\n\nSome South Africans are considering other power sources to reduce their dependence on the electrical grid. Currently, renewable energy provides only about two percent of the country’s power requirements. South Africa needs about 30,000 megawatts of electricity every day.\n\nEnergy experts say South Africa must seek cleaner energy. South Africa is also the fourth-largest coal exporting country in the world.\n\nEskom’s financial problems could mean higher fees for customers in the future. That could cause [that] more people will turn to renewable energy.",
+  "questions": [
+    {
+      "question": "What immediate problem is Eskom currently facing in South Africa?",
+      "options": [
+        "It is struggling to meet the country's electricity demand.",
+        "It has already fully replaced coal with renewable energy.",
+        "It serves only a small share of South Africa's electricity needs.",
+        "It has no financial problems."
+      ],
+      "answer": "It is struggling to meet the country's electricity demand."
+    },
+    {
+      "question": "How much of South Africa’s electricity does Eskom provide?",
+      "options": [
+        "Around 70%",
+        "Approximately 95%",
+        "Close to 50%",
+        "About 20%"
+      ],
+      "answer": "Approximately 95%"
+    },
+    {
+      "question": "What did energy experts say South Africa must do?",
+      "options": [
+        "Increase its reliance on coal energy.",
+        "Keep using the current electrical grid without changes.",
+        "Seek cleaner energy sources.",
+        "Stop producing electricity at home."
+      ],
+      "answer": "Seek cleaner energy sources."
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

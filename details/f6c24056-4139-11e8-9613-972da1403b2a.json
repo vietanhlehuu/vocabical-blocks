@@ -1,0 +1,60 @@
+{
+  "title": "Paraguayan Children Make Music with Trash",
+  "introduction": null,
+  "image": {
+    "id": "f6c20960-4139-11e8-9612-4bc1bb61e872",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/PzB2HS1Mn5ctuaiiSEUc4uXC3KpRaLn01knV4DkaSrU.jpeg",
+    "dimensions": {
+      "x": 2478,
+      "y": 1654
+    },
+    "attribution": "Shutterstock",
+    "public_attribution": false,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3ypBOEwlxF9h40QaLl5jaN.mpga",
+  "main_content": "Last week, musicians from around the world gathered in Texas for the South by Southwest film and music festival. Perhaps the most unusual performers at the event were a group of teenagers from Paraguay. Their musical instruments were made of trash – objects that had been thrown away. The body of a cello, for example, is made from an old oil can. The neck of the cello is a piece of old wood. In fact, every instrument these young musicians use comes from recycled trash.\n\nThe performers come from a poor neighborhood in Cateura, Paraguay. The neighborhood is near a garbage dump, or landfill.\n\nSixteen-year-old Ada Rios has been playing violin for four years.\n\nMusic teacher Favio Chavez thought of the idea for the group several years ago. With help from the community and money from outsiders, he started the Recycled Instrument Orchestra of Cateura.\n\nThe orchestra plays many kinds of music. But Mr. Chavez says classical music is the most important because it requires musicians to work hard and follow rules.\n\nAlejandra Amarilla is a Paraguayan who lives in the United States. She made a documentary film about the orchestra. The film, called “Landfill Harmonic,” played at the South by Southwest festival.",
+  "questions": [
+    {
+      "question": "Where is the South by Southwest film and music festival?",
+      "options": [
+        "California",
+        "Texas",
+        "New York",
+        "Ohio"
+      ],
+      "answer": "Texas"
+    },
+    {
+      "question": "Where are the teenagers with musical instruments made of trash from?",
+      "options": [
+        "Cateura, Paraguay",
+        "Asunción, Paraguay",
+        "Buenos Aires, Argentina",
+        "Lima, Peru"
+      ],
+      "answer": "Cateura, Paraguay"
+    },
+    {
+      "question": "Who started the Recycled Instrument Orchestra of Cateura?",
+      "options": [
+        "Ada Rios",
+        "Favio Chavez",
+        "Alejandra Amarilla",
+        "A local musician"
+      ],
+      "answer": "Favio Chavez"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

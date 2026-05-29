@@ -1,0 +1,60 @@
+{
+  "title": "500,000 Estimated at Rolling Stones Cuba Concert",
+  "introduction": null,
+  "image": {
+    "id": "9dea02b7-c66c-49e7-9dca-6a211de9e426",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4nyjmkHNvOYeA37s1hIiAA.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "SolarScott / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1ZCzm6sHpOV8P5u6mg1xHR.mpga",
+  "main_content": "Time changes just about everything.\n\nAnd, just like their song Time Is On My Side, the Rolling Stones have apparently lived long enough to see Cuba change its stance on the legendary group’s music.\n\nThe communist island once banned the music of the Rolling Stones because it was considered subversive, but on Friday night the band gave a historic, free concert in Havana before possibly a half million jubilant fans. Those who could not get in watched the concert from rooftops overlooking the venue.\n\nMick Jagger strutted on stage as the band launched into its first song of the night – Jumpin’ Jack Flash.\n\n“After today I can die,” said night watchman Joaquin Ortiz. The 62-year-old said he has been a huge rock fan since he was a teenager in the 1960s, when Cuba’s communist government frowned on U.S. and British bands and he had to hide his Beatles and Stones albums in covers borrowed from albums of appropriately revolutionary Cuban groups. “This is like my last wish, seeing the Rolling Stones.”\n\nCuban state media estimated an audience of as many as 500,000 people, making the Stones the biggest act to play in Cuba since the country’s 1959 revolution.\n\nSome Cubans slept overnight to be first in line to enter the stadium.\n\nJagger told reporters as he arrived at the airport “obviously something has happened in the last few years.” He said “time changes everything. We are very pleased to be here and I’m sure it’s going to be a great show.”\n\n“We have performed in many special places during our long career, but this show in Havana will be a milestone for us, and, we hope, for all our friends in Cuba, too,” the band said in a statement before their arrival.",
+  "questions": [
+    {
+      "question": "Why was the music of the Rolling Stones banned in Cuba?",
+      "options": [
+        "A. It was considered too loud for Cuban standards.",
+        "B. The government deemed it subversive.",
+        "C. The band refused to perform in Spanish.",
+        "D. It was believed to promote capitalist ideals."
+      ],
+      "answer": "B. The government deemed it subversive."
+    },
+    {
+      "question": "How did Joaquin Ortiz hide his foreign music albums?",
+      "options": [
+        "A. He kept them in a locked drawer.",
+        "B. He placed them in covers of revolutionary Cuban groups.",
+        "C. He sold them on the black market.",
+        "D. He gave them to friends living abroad."
+      ],
+      "answer": "B. He placed them in covers of revolutionary Cuban groups."
+    },
+    {
+      "question": "How many people attended the concert?",
+      "options": [
+        "A. Approximately 200,000 people.",
+        "B. Close to a million attendees.",
+        "C. As many as 500,000 people.",
+        "D. Roughly 50,000 fans."
+      ],
+      "answer": "C. As many as 500,000 people."
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

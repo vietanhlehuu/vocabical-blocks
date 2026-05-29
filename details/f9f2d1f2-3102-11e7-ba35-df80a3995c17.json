@@ -1,0 +1,60 @@
+{
+  "title": "China to Punish Communist Officials Who Support Dalai Lama",
+  "introduction": null,
+  "image": {
+    "id": "48414a34-d0cc-4c46-91de-9a2cd9739a28",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2CLHfuQdX1VXJyfw1GXFP6.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 605
+    },
+    "attribution": "*christopher* / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/07uoOf17e4k3TmDx8TkEEG.mpga",
+  "main_content": "China is threatening to punish Communist Party members loyal to exiled Tibetan spiritual leader, the Dalai Lama, whom Beijing regards as a dangerous separatist.\n\nYe Dongsong, with the party’s internal discipline watchdog, warned Tibet authorities to focus on “neutralizing separatists and maintaining social stability.”\n\nYe’s comments were published in the Global Times, which quoted analysts who said, “Some officials in Tibet still sympathize with the Dalai Lama” because of their religious beliefs.\n\nThe article provided no estimation of how many Communist Party officials have sympathies or links with the exiled Tibetan spiritual leader.",
+  "questions": [
+    {
+      "question": "How do Chinese leaders regard the Dalai Lama?",
+      "options": [
+        "As a respected spiritual leader of Tibetan Buddhism",
+        "As a dangerous separatist threatening national unity",
+        "As a cultural icon promoting Tibetan heritage",
+        "As an irrelevant figure in modern Chinese politics"
+      ],
+      "answer": "As a dangerous separatist threatening national unity"
+    },
+    {
+      "question": "Why do some officials in Tibet sympathize with the Dalai Lama?",
+      "options": [
+        "Due to political pressure from the international community",
+        "Because of their personal connections with him",
+        "As a result of their religious beliefs",
+        "To gain favor with the local population"
+      ],
+      "answer": "As a result of their religious beliefs"
+    },
+    {
+      "question": "What did the article say about the number of Communist Party officials who sympathize with or have links to the Dalai Lama?",
+      "options": [
+        "It said the number was very small",
+        "It said the number was increasing rapidly",
+        "It provided no estimate",
+        "It said the number was already known exactly"
+      ],
+      "answer": "It provided no estimate"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

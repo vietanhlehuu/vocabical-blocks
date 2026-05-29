@@ -1,0 +1,60 @@
+{
+  "title": "NASA: Strong Evidence of Liquid Water on Mars",
+  "introduction": null,
+  "image": {
+    "id": "ed64be68-ec8b-40be-bf94-20898a2359db",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/7DxDjaCSVVfPNQOSLf3gkt.jpeg",
+    "dimensions": {
+      "x": 588,
+      "y": 503
+    },
+    "attribution": "Jim Secosky selected nasa image / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2yol7dHH18xQyW3tKwu26G.mpga",
+  "main_content": "Scientists have found strong evidence of salt water on the planet Mars, the U.S. space agency NASA announced Monday.\n\nNASA has found lines of “hydrated” salt minerals on Mars. Scientists say these minerals would require liquid water to be created.\n\nJim Green is the director of planetary science at NASA Headquarters. He said during a news conference that “today, we are revolutionizing our understanding of this planet.”\n\nDoug McCuistion is the former head of NASA’s Mars program. He told the Boston Herald that “if they are announcing that they have found easily accessible, freely flowing liquid water under the surface … that has massive implications both for the potential for life on that planet and sustainability of humans.”\n\nNASA has found evidence of water on Mars in the past. In March, NASA said there was once more water on Mars than in Earth’s Arctic Ocean. They say more than four billion years ago, Mars was covered with water 137 meters deep. But nearly all of it has since evaporated into space.",
+  "questions": [
+    {
+      "question": "Has NASA found evidence of water on Mars in the past?",
+      "options": [
+        "Yes, they found it only once before.",
+        "No, this is the first discovery.",
+        "Yes, there have been prior findings of water.",
+        "Yes, but only in the form of ice."
+      ],
+      "answer": "Yes, there have been prior findings of water."
+    },
+    {
+      "question": "What was so special about the salt minerals on Mars?",
+      "options": [
+        "They were found in large quantities on the surface.",
+        "They were discovered in the polar ice caps.",
+        "They require liquid water for their formation.",
+        "They were similar to those found on Earth."
+      ],
+      "answer": "They require liquid water for their formation."
+    },
+    {
+      "question": "Who said that the discovery of water was “revolutionizing our understanding of this planet”?",
+      "options": [
+        "Doug McCuistion",
+        "Jim Green",
+        "NASA Administrator",
+        "A Boston Herald reporter"
+      ],
+      "answer": "Jim Green"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

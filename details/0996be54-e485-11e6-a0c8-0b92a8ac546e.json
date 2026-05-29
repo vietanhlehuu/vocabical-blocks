@@ -1,0 +1,60 @@
+{
+  "title": "At 13, Youngest Designer Ever in NY Fashion Week",
+  "introduction": null,
+  "image": {
+    "id": "e45bf48c-0eab-11e7-b33d-97dc381f69c9",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4QrOxgPF9lW8HtkgRFCl1Q.jpeg",
+    "dimensions": {
+      "x": 700,
+      "y": 464
+    },
+    "attribution": "CHRISTOPHER MACSURAK / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3t3Wyv22GiICy5q716MeGy.mpga",
+  "main_content": "Every September, clothing designers gather in New York City to present their springtime creations to the public. The city also holds a fashion week in February to show clothes for autumn.\n\nToday we talk about two designers presenting their work in their first New York Fashion Week. We will start with the youngest…ever.\n\nThirteen-year-old Isabella Rose Taylor began painting at the age of three. She says she also loved clothes. By the age of nine, she had combined the two interests and launched a clothing line. The major American retailer Nordstrom sells her products.\n\nBut, Isabella has never been on the professional side of Fashion Week before. She clothed her models in mostly neutral colors and sent them down the runway on Tuesday. Isabella’s styles included short skirts, long dresses, and tops with details. The designer called the collection a “story of spring with rainy days and colorful beginnings.”\n\nAnother designer new to New York Fashion Week is famous for a completely different first career. Tennis champion Serena Williams presented her clothing line for the first time at the event.\n\nWilliams came to New York right after winning the U.S. Open women’s singles championship for the sixth time in her career. She is the highest-rated woman tennis player in the world.\n\nBut Williams has a second dream profession. For years, she did not dress like the other professional tennis players. She chose court clothing that presented a young, modern and edgy look. Critics expressed mixed opinions about her style sense.\n\nWilliams’ runway show included 27 pieces featuring animal prints, leather and shoes with very high heels. Williams says she was involved with every part of the show, including the models’ hair and make-up styles.",
+  "questions": [
+    {
+      "question": "How old was Isabella Rose Taylor when she launched her first clothing line?",
+      "options": [
+        "6 years old",
+        "9 years old",
+        "10 years old",
+        "13 years old"
+      ],
+      "answer": "9 years old"
+    },
+    {
+      "question": "What is Serena Williams famous for?",
+      "options": [
+        "Being a fashion designer",
+        "Winning multiple Grand Slam tennis titles",
+        "Writing a bestselling book",
+        "Hosting a television show"
+      ],
+      "answer": "Winning multiple Grand Slam tennis titles"
+    },
+    {
+      "question": "What did Williams’ runway show include?",
+      "options": [
+        "Floral patterns and casual wear",
+        "27 pieces featuring animal prints",
+        "Traditional tennis outfits",
+        "Swimwear and accessories"
+      ],
+      "answer": "27 pieces featuring animal prints"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

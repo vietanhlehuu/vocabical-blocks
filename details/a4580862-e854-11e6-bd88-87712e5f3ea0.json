@@ -1,0 +1,60 @@
+{
+  "title": "What Happens to Lost US Airline Luggage?",
+  "introduction": null,
+  "image": {
+    "id": "e45fedb2-0eab-11e7-b582-9f2b001f06e3",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/7bmsm6lUeMrfELfGt5ju4d.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 656
+    },
+    "attribution": "SMU Central University Libraries / Wikimedia Commons / Public Domain",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1PvtOehN49E2sQkDxA8sGo.mpga",
+  "main_content": "Most people who fly on passenger planes in the United States do not lose their bags – called “luggage” or “baggage.”  Even if the luggage is lost, usually it only is delayed. Most “lost” luggage is found in a few days. Airlines search for the owners of unclaimed bags for up to three months. But when the owners cannot be found or the bags are not claimed, they are sold to a store in the small city of Scottsboro, in the southern state of Alabama. People who shop there often find good products for low prices.\n\nAbout one-half of one percent of all luggage passing through U.S. airports is unclaimed. Many of the missing bags, and what is in them, are sold at the Unclaimed Baggage Center. Seven thousand items arrive at the store every day.\n\nBrenda Cantrell works at the store.\n\nThe store buys the luggage from the airlines. It does not examine the things inside before buying them. Only about half of the items in the bags are suitable for sale at the store.\n\nSince the store opened in the early 1970s, people have come to look for low priced goods and unexpected finds.",
+  "questions": [
+    {
+      "question": "Where is the shop selling unclaimed luggage?",
+      "options": [
+        "In Scottsboro, Alabama",
+        "In Atlanta, Georgia",
+        "In Orlando, Florida",
+        "In Nashville, Tennessee"
+      ],
+      "answer": "In Scottsboro, Alabama"
+    },
+    {
+      "question": "How much of all luggage passing through U.S. airports is unclaimed?",
+      "options": [
+        "1.5 percent",
+        "0.5 percent",
+        "0.05 percent",
+        "2 percent"
+      ],
+      "answer": "0.5 percent"
+    },
+    {
+      "question": "When was the shop selling lost luggage opened?",
+      "options": [
+        "In the early 1980s",
+        "In the mid-1960s",
+        "In the early 1970s",
+        "In the late 1990s"
+      ],
+      "answer": "In the early 1970s"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Interested in Tracking Santa? There’s an App for That",
+  "introduction": null,
+  "image": {
+    "id": "0ab8c606-7e28-4c96-bed6-a3beb1cd536c",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/0KEMd6bHfx3n1PSbfLCYii.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 382
+    },
+    "attribution": "Bailiwick Studios from Rockford, MI / Wikimedia Commons / CC-BY-SA-2.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/33gedhlph6CZmdjxoEJZiJ.mpga",
+  "main_content": "What does Santa do in the hours leading up to Christmas?\n\nDoes he help the elves load up the toys from his workshop? Feed and walk his reindeer? Drink one last cup of coffee?\n\nAnd once he climbs onto his shiny, red sled, where does he start and end his journey around the world?\n\nSanta’s exact whereabouts have always been a bit of a mystery … but not anymore.\n\nAt a high-security facility in Colorado, military personnel are preparing their radar, satellites and surveillance aircraft to track Santa Claus’ annual journey from the North Pole to deliver presents to homes around the world.\n\nUsers can access that information by visiting the North American Aerospace Defense Command’s (NORAD) website — also known as NORAD Tracks Santa — which is available in eight languages: English, French, Spanish, German, Italian, Japanese, Portuguese and Chinese.\n\nStacey Knott, a NORAD-Santa spokesperson, says that starting on December 24, anyone with Internet access or a smartphone can visit the website or use the mobile app to see Santa’s route. “We will be tracking Santa throughout the day on December 24, into the early hours of December 25, and users can see where Santa stops along different locations in the world,” she said.\n\n“He always starts in the eastern hemisphere,” Knott explained, “and then he makes his way west, following the night sky as he goes around the world and does his flight for about 24 hours.” But just because you can track Santa, it doesn’t mean you should stay up all night waiting for him to appear, cautions Knott.\n\nIn many countries, the white-bearded fellow with the ruddy red cheeks won’t stop at your house if you’re awake.\n\n“He will go on by, so you have got to be in bed and asleep,” Knott said. And less tech-friendly folks can call the NORAD Tracks Santa operations center, which will be staffed during Santa’s entire ride around the world.\n\nVolunteers will take calls from all over the globe, wishing a Merry Christmas to all and a good night.",
+  "questions": [
+    {
+      "question": "What devices are used to track Santa Claus’ journey?",
+      "options": [
+        "Radios and televisions",
+        "Radar, satellites, and surveillance aircraft",
+        "Smartphones and tablets",
+        "Drones and GPS systems"
+      ],
+      "answer": "Radar, satellites, and surveillance aircraft"
+    },
+    {
+      "question": "How can regular users track Santa’s journey?",
+      "options": [
+        "By visiting the NORAD website or using the mobile app",
+        "By following social media updates",
+        "Through a postal service inquiry",
+        "By watching a local news program"
+      ],
+      "answer": "By visiting the NORAD website or using the mobile app"
+    },
+    {
+      "question": "Why does tradition say that you shouldn’t stay awake all night on Christmas eve?",
+      "options": [
+        "Because Santa won't deliver presents if you are awake",
+        "Because parents prefer their children to be asleep",
+        "To uphold the spirit of Christmas morning",
+        "So that the reindeer are not disturbed"
+      ],
+      "answer": "Because Santa won't deliver presents if you are awake"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

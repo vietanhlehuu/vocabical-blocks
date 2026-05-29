@@ -1,0 +1,60 @@
+{
+  "title": "Where are the World’s Happiest People?",
+  "introduction": null,
+  "image": {
+    "id": "5566b92e-a284-11ed-9b99-3f70401a5803",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3nxu6ZoG8l2PmEPTp87dUu.jpeg",
+    "dimensions": {
+      "x": 2700,
+      "y": 1793
+    },
+    "attribution": "Sgt. Ken Scar / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0wpWhrFecFvbn1ML7uDPJL.mpga",
+  "main_content": "On March 20, the United Nations celebrated its third annual International Day of Happiness.\n\nIf you live in Latin America, chances are you are happy, according to Gallup’s “Positive Experience Index.”  This Gallup index found that day-to-day people in Latin America are some of the happiest people on the planet.\n\nIn fact, for the first time in Gallup’s 10-year history of global tracking of happiness, all of the top 10 countries with the highest “Positive Experience Index” scores are in Latin America.\n\nHere they are in descending order of happiness:\n\nParaguay Colombia Ecuador Guatemala Honduras Panama Venezuela Costa Rica El Salvador Nicaragua\n\nGallup representatives asked adults in 143 countries the following questions:  “Did you feel well-rested yesterday?”  “Were you treated with respect all day yesterday? “Did you smile or laugh a lot?”  “Did you learn or do something interesting?”\n\nThey compiled the “yes” responses from these questions into what they call a “Positive Experience Index” score for each country.\n\nThe index score for the world in 2014 is 71. More than 70% of people worldwide said they had fun, smiled or laughed a lot, felt well rested and respected.\n\nGallup gathered the information from face-to-face and phone interviews with about 1,000 adults from each country.\n\nIt is perhaps not surprising that places that experienced conflict such as South Sudan and Ukraine and places that suffered or are suffering from Ebola scored quite low on the “Positive Experience Index.”",
+  "questions": [
+    {
+      "question": "When is the International Day of Happiness?",
+      "options": [
+        "March 20",
+        "April 1",
+        "February 14",
+        "January 1"
+      ],
+      "answer": "March 20"
+    },
+    {
+      "question": "Who are the happiest people on the planet?",
+      "options": [
+        "People from North America",
+        "People from Africa",
+        "People from Latin America",
+        "People from Europe"
+      ],
+      "answer": "People from Latin America"
+    },
+    {
+      "question": "How many people worldwide said they had fun (smiled or laughed a lot, felt well rested and respected)?",
+      "options": [
+        "More than 60%",
+        "More than 70%",
+        "More than 80%",
+        "More than 50%"
+      ],
+      "answer": "More than 70%"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

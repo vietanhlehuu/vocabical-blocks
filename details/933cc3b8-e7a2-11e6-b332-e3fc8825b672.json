@@ -1,0 +1,60 @@
+{
+  "title": "Willis Conover, the Voice of Jazz, Is Now Online",
+  "introduction": null,
+  "image": {
+    "id": "e45a2738-0eab-11e7-b234-9b7196cd743c",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2wrBMApoCPIh7I73ag3ekZ.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 640
+    },
+    "attribution": "Voice of America / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1ko7av0v3Kd1ABzlyhrG1X.mpga",
+  "main_content": "Saxophonist Ahmad Alaadeen said this about jazz music.\n\n“Jazz does not belong to one race or culture, but is a gift that America has given the world.”\n\nThe late Willis Conover – an internationally-known jazz producer and broadcaster – delivered that gift of jazz music from the studios at the Voice of America for more than 40 years. People still write to VOA fondly about Conover, who died in 1996.\n\nFor more than 40 years, Willis Conover’s long-running “Jazz Hour” introduced millions of people in Europe and the former Soviet Union to American jazz.\n\nHe produced jazz concerts at the White House, the Newport Jazz Festival, and for movies and television. He was the voice of jazz around the world.\n\nBut, at home in America, few people knew him or his work.\n\nMaristella Feustle is the Music Special Collections Librarian at the University of North Texas, UNT. She says a big chapter in jazz history is now being told.\n\nNow, under the music program at UNT, the Willis Conover archive of jazz recordings are being made available online.\n\nMaristella Feustle says they received the music collection as a gift from the the Willis Conover Jazz Preservation Foundation in 1997.",
+  "questions": [
+    {
+      "question": "Where did the records now available online come from?",
+      "options": [
+        "A collection donated by the former Soviet Union",
+        "A gift from the Willis Conover Jazz Preservation Foundation",
+        "Recordings produced by Ahmad Alaadeen",
+        "Jazz concerts held at the Newport Jazz Festival"
+      ],
+      "answer": "A gift from the Willis Conover Jazz Preservation Foundation"
+    },
+    {
+      "question": "What was Willis Conover’s radio show called?",
+      "options": [
+        "The Jazz Experience",
+        "Jazz Time",
+        "Jazz Hour",
+        "Voices of America Jazz"
+      ],
+      "answer": "Jazz Hour"
+    },
+    {
+      "question": "Who is Ahmad Alaadeen?",
+      "options": [
+        "A famous jazz producer and broadcaster",
+        "A saxophonist and jazz musician",
+        "The Music Special Collections Librarian at UNT",
+        "A jazz critic who wrote about Willis Conover"
+      ],
+      "answer": "A saxophonist and jazz musician"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

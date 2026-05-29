@@ -1,0 +1,60 @@
+{
+  "title": "Filmmakers Create New Technology for ‘Big Hero 6′",
+  "introduction": null,
+  "image": {
+    "id": "9eba803c-4f23-11e9-b331-9be5aa5ace94",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2meelyNjJqGnfd62ymAaRH.jpeg",
+    "dimensions": {
+      "x": 398,
+      "y": 599
+    },
+    "attribution": "User:Fetx2002  / www.flickr.com / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4ZEvK4H4CPIp3G5gA5fSTy.mpga",
+  "main_content": "The latest animated film from Disney, “Big Hero 6,” is a mix of science, technology and art. High-level technology was used in the making of the movie. One of its main characters is a robot based on real world science.\n\nThe action-adventure movie is about an extremely intelligent boy, his robot and his friends. The story began in a little known comic book. Directors Don Hall and Chris Williams kept the name of the series and the characters’ names. But Don Hall says much was changed as well.\n\nDon Hall says one real world example in the film is Baymax, a robotic nurse made of soft plastic material filled with air.\n\nThey found their robot in a robotics laboratory at Carnegie Mellon University. Chris Atkeson supervises the lab.\n\nIn fact, scientists at Carnegie Mellon University have built inflatable robotic arms to assist older adults and people with disabilities. Those robotic parts are similar to the robot in “Big Hero 6.”  The character works to heal the sick and injured.\n\n“Big Hero 6” with its high technology production is having big box office results. The movie has earned more than $240 million in ticket sales since it opened five weeks ago. And, on Thursday, the Hollywood Foreign Press Association honored “Big Hero 6″ with a nomination for a Golden Globe award for best animated film.",
+  "questions": [
+    {
+      "question": "What is Disney’s latest film?",
+      "options": [
+        "Frozen II",
+        "Big Hero 6",
+        "Moana",
+        "Zootopia"
+      ],
+      "answer": "Big Hero 6"
+    },
+    {
+      "question": "What is Baymax?",
+      "options": [
+        "A superhero",
+        "A robotic nurse",
+        "A computer program",
+        "An inflatable toy"
+      ],
+      "answer": "A robotic nurse"
+    },
+    {
+      "question": "What was the film nominated for?",
+      "options": [
+        "An Academy Award",
+        "A Golden Globe award",
+        "Best Picture",
+        "Best Director"
+      ],
+      "answer": "A Golden Globe award"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

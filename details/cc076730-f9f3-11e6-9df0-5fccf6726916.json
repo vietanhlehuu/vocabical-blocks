@@ -1,0 +1,60 @@
+{
+  "title": "US Expected to See More Jobs in Health Care, Fewer in Manufacturing",
+  "introduction": null,
+  "image": {
+    "id": "64dfb6f3-52c9-47fa-b9a3-999d17b69b29",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/34LTAuISotlPwqBKuBc8Kn.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Combustion2016 / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0LJjof4cQMkLOvLUXHlrfr.mpga",
+  "main_content": "The U.S. workforce is growing and evolving as some kinds of jobs disappear and others become more widespread.\n\nA recent study by the Department of Labor’s Bureau of Labor Statistics said the number of manufacturing jobs would continue its long-term decline between now and 2024. Other experts say some U.S. manufacturing jobs have gone to nations with lower wage costs. Far more jobs have vanished because growing efficiency from automation and robots means fewer people are needed in the manufacturing process.\n\nThe bureau projected that manufacturing employment would decline at an annual rate of 0.7 percent per year over the next few years. While that troubles workers, it would be a slower rate of decline than the 1.6 percent annual decline seen in recent years.\n\nThe BLS experts also projected that the majority of new jobs created in the coming years would be in the services sector, particularly health care and social assistance.\n\nHealth care and technical occupations were predicted to be the two fastest-growing occupation groups in the near future. Together, they could have a gain of 2.3 million jobs over the next eight years, or about one out of four new jobs, the BLS said.\n\nThe changes in the job market come as the overall workforce is growing at about 0.5 percent a year and is expected to expand to nearly 164 million people by 2024, the BLS said.\n\nA snapshot of the U.S. job market will be available Friday morning when government experts publish June’s unemployment rate. A survey by the Bloomberg financial news service shows economists expect the unemployment rate to rise slightly, hitting 4.8 percent. They also predict a net gain of 180,000 jobs across the economy.",
+  "questions": [
+    {
+      "question": "What was to blame for jobs vanishing from the U.S. market?",
+      "options": [
+        "Increased international trade agreements",
+        "Advancements in automation and robotics",
+        "Changes in labor laws and regulations",
+        "Shifts in consumer preferences"
+      ],
+      "answer": "Advancements in automation and robotics"
+    },
+    {
+      "question": "In what U.S. sector can we see a constant decline in jobs?",
+      "options": [
+        "Health care and social assistance",
+        "Information technology",
+        "Manufacturing",
+        "Education"
+      ],
+      "answer": "Manufacturing"
+    },
+    {
+      "question": "In what U.S. sectors will jobs be created in the next few years?",
+      "options": [
+        "Government and public administration",
+        "Manufacturing and production",
+        "Health care and technical occupations",
+        "Retail and hospitality"
+      ],
+      "answer": "Health care and technical occupations"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

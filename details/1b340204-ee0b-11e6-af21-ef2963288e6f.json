@@ -1,0 +1,60 @@
+{
+  "title": "Poll: Eight in 10 Worry About Climate Change",
+  "introduction": null,
+  "image": {
+    "id": "e45c655c-0eab-11e7-b382-af20a8f7e848",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4oTyDXw2LAjJ7cdGwasgPx.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 377
+    },
+    "attribution": "Don Amaro from Madeira Islands, Portugal / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6hdzPv6r8Z27p8bFZoWXjt.mpga",
+  "main_content": "A new worldwide survey on climate change shows nearly 80 percent of people are ‘very concerned’ about the impact of global warming, and they say all nations should do their part to stop it.\n\nThe poll was taken in 79 countries by a group calling itself World Wide Views on Climate and Energy.\n\nTen thousand citizens met simultaneously on Saturday to debate climate change and take the survey. Organizers say it was the largest-ever global citizens meeting on the issue.\n\nAmong the results of the poll – 79 percent say they are ‘very concerned’ about the impacts of climate change, and 71 percent say years of U.N. negotiations have done little to tackle the problem.\n\nSeventy percent say fighting global warming is a global responsibility that requires an international treaty, but 80 percent said their home countries should take steps to cut greenhouse gas emissions, even if other nations do not.\n\nNearly half of those asked believe the world should give up exploring for fossil fuel reserves, such as oil and coal – two of the chief sources of pollution.\n\nResults of the poll will be sent to a U.N. meeting in Bonn later this week that will draw up a framework agreement ahead of a climate change summit in Paris in December.\n\nScientists say a warmer planet will cause polar ice caps to melt, driving up sea levels, flooding coastal areas and wiping out some smaller island nations.\n\nSome parts of the world could see stronger storms and floods while others would experience persistent droughts.",
+  "questions": [
+    {
+      "question": "What does the article say that 80% of people are concerned about?",
+      "options": [
+        "The need for advanced technology to combat climate change",
+        "The effectiveness of their respective governments in addressing climate change",
+        "The impact of global warming",
+        "The increase in global populations leading to pollution"
+      ],
+      "answer": "The impact of global warming"
+    },
+    {
+      "question": "How many countries participated in the poll?",
+      "options": [
+        "80 countries",
+        "79 countries",
+        "70 countries",
+        "75 countries"
+      ],
+      "answer": "79 countries"
+    },
+    {
+      "question": "What did 71% of responders say about the UN’s activity?",
+      "options": [
+        "It has successfully reduced greenhouse gas emissions significantly",
+        "It has done little to tackle the problem",
+        "It should be abolished and replaced with local initiatives",
+        "It is fully supported by all nations"
+      ],
+      "answer": "It has done little to tackle the problem"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

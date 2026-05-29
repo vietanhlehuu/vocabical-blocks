@@ -1,0 +1,60 @@
+{
+  "title": "US, Japan, S. Korea to Share Intel on N. Korea",
+  "introduction": null,
+  "image": {
+    "id": "05a9ec9a-11d1-11ef-8414-97bcaa474460",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6hC3QqaPvLciudYvTk2jm9.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 683
+    },
+    "attribution": "Nicor / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1cwdrU6cxChdgiEjhdDXTd.mpga",
+  "main_content": "South Korean officials say Seoul, the U.S. and Japan have agreed on a trilateral intelligence-sharing pact to deal with North Korea’s missile and nuclear programs.\n\nOfficials said on Friday that the deal would enable the three allies to quickly respond to any North Korean provocation at a time of increasing tensions with Pyongyang. It would apply to intelligence sharing only on the North’s missile and nuclear progress.\n\nSouth Korean officials say the formal signing of the pact by the South Korean vice defense minister and his U.S. and Japanese counterparts will take place on Monday.\n\nLast month, the U.S.-Korea Institute at Johns Hopkins University said prototype ballistic missiles seen at recent North Korean military parades may be more advanced than earlier believed, and may even be sophisticated enough to threaten the U.S. west coast.\n\nMany Western analysts dismissed the KN-08 missiles as primitive, non-operational mockups when they appeared in photos at Pyongyang military parades in April 2012 and again in July of this year, but the U.S.-Korea Institute said that the missiles, even if fakes, appear to be getting more advanced, and have reached the point of being what it called “scary good.”\n\nThe institute’s report said the missile mockups appear to show North Korea can assemble components and technologies “good enough to produce missiles with theoretical ranges from 5,500 to over 11,000 kilometers.”  That would easily be far enough for North Korea to make good on its threats of being able to strike the U.S. mainland with a nuclear warhead.\n\nNorth Korea is banned under United Nations sanctions from conducting ballistic missile and nuclear tests.",
+  "questions": [
+    {
+      "question": "What does the pact mean?",
+      "options": [
+        "It will prevent North Korea from advancing its nuclear program.",
+        "It allows for swift intelligence sharing on North Korean threats.",
+        "It increases military presence of the U.S. in South Korea.",
+        "It formally recognizes North Korea as a nuclear power."
+      ],
+      "answer": "It allows for swift intelligence sharing on North Korean threats."
+    },
+    {
+      "question": "What did the U.S.-Korea Institute at Johns Hopkins University warn about last month?",
+      "options": [
+        "North Korea's nuclear arsenal is outdated and ineffective.",
+        "Recent missile models could potentially threaten the U.S. west coast.",
+        "The United Nations sanctions have been ineffective against North Korea.",
+        "North Korea is planning to deploy its missiles earlier than expected."
+      ],
+      "answer": "Recent missile models could potentially threaten the U.S. west coast."
+    },
+    {
+      "question": "What did Western analysts believe about the missiles?",
+      "options": [
+        "The missiles are capable of long-range attacks.",
+        "The missiles are likely operational and pose a significant threat.",
+        "The missiles were initially thought to be mockups but are now considered advanced.",
+        "The missiles were dismissed as primitive and non-operational at first."
+      ],
+      "answer": "The missiles were dismissed as primitive and non-operational at first."
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

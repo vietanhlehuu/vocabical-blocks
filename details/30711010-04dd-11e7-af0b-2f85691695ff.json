@@ -1,0 +1,60 @@
+{
+  "title": "One Minute of Exercise May Be All You Need",
+  "introduction": null,
+  "image": {
+    "id": "c950fe5c-e518-4729-9506-b48667c77f1b",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/67sTG0EPQFqd7H7VnIqKPT.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 340
+    },
+    "attribution": "Marco Verch / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5npQbjJEysRNsaBZ34quNO.mpga",
+  "main_content": "There is good news for people who think they do not have time to exercise.\n\nA group of researchers from a university in Canada recently published a study that says short bursts of high-intensity exercise are good for you.\n\nIn fact, this kind of exercise is just as good as spending an hour riding a bike or running steadily.\n\nThe research team followed 27 men who were not very active for 12 weeks. They divided the men into groups.\n\nThe researchers found something they did not expect. The group that exercised for only 10 minutes each session was just as healthy after 12 weeks as the group that exercised for 50 minutes each session.\n\nThat is because of the way the researchers organized the workouts.\n\nEach group started with a two-minute warm-up and finished with a three-minute cool-down. But in-between, the high-intensity group sprinted for 20 seconds, followed by a two-minute recovery period. They did three sprints for a total of 10 minutes of exercise. This kind of exercise is known as interval training.",
+  "questions": [
+    {
+      "question": "What did the researchers from Canada say about short bursts of exercise?",
+      "options": [
+        "They believed it was inferior to traditional workout methods.",
+        "They claimed it required more time to yield benefits.",
+        "They stated it is as effective as longer duration exercises.",
+        "They suggested it should only be done by athletes."
+      ],
+      "answer": "They stated it is as effective as longer duration exercises."
+    },
+    {
+      "question": "Was the group that exercised 10 minutes each session less healthy than the one that exercised for 50?",
+      "options": [
+        "Yes, the 10-minute group showed fewer health benefits.",
+        "No, both groups showed similar health outcomes.",
+        "Yes, the 50-minute group was significantly better.",
+        "No, health outcomes were not measured in this study."
+      ],
+      "answer": "No, both groups showed similar health outcomes."
+    },
+    {
+      "question": "What did each group start the session with?",
+      "options": [
+        "A stretching session for flexibility.",
+        "A brief period of meditation.",
+        "A two-minute warm-up.",
+        "A quick explanation of the workout plan."
+      ],
+      "answer": "A two-minute warm-up."
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

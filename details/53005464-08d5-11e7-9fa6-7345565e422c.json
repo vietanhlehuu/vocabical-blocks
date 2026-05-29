@@ -1,0 +1,60 @@
+{
+  "title": "India Wants to Recover Crown Jewel from Britain",
+  "introduction": null,
+  "image": {
+    "id": "7861a458-0e89-4ce4-98f5-4cf4a8fdccf8",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3f9hVUxBzW8fpeEiY1ZGzw.jpeg",
+    "dimensions": {
+      "x": 806,
+      "y": 615
+    },
+    "attribution": "Chris 73 / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0KYhqSJTEWPpWUHFEnh2B6.mpga",
+  "main_content": "The Indian government has launched an effort to recover a priceless diamond from Britain.\n\nThe Koh-i-Noor diamond was given to Britain’s Queen Victoria as a present in 1850, when India was a British colony. The diamond is now kept as part of the Crown Jewels in the Tower of London.\n\nOwnership of the Koh-i-Noor was the subject of a hearing this week in India’s highest court.\n\nSolicitor General Ranjit Kumar told the Supreme Court Monday that the diamond belonged to Great Britain.\n\nHis comments shocked many Indians.\n\nIn a written statement, India’s Ministry of Culture said the government does not agree with Kumar’s position. The statement said the government would like to bring back the diamond.\n\nThe name Koh-i-Noor means “Mountain of Light” in Persian.",
+  "questions": [
+    {
+      "question": "When and to whom was the diamond given?",
+      "options": [
+        "In 1850 to Queen Elizabeth II",
+        "In 1850 to Queen Victoria",
+        "In 1860 to King Edward VII",
+        "In 1840 to Princess Alice"
+      ],
+      "answer": "In 1850 to Queen Victoria"
+    },
+    {
+      "question": "What did the India’s Ministry of Culture say about the government plans?",
+      "options": [
+        "The government intends to sell the diamond to Britain.",
+        "The government supports Mr. Kumar's statement.",
+        "The government aims to recover the diamond from Britain.",
+        "The government plans to keep silent on the issue."
+      ],
+      "answer": "The government aims to recover the diamond from Britain."
+    },
+    {
+      "question": "What does Koh-i-Noor mean in Persian?",
+      "options": [
+        "Gem of the World",
+        "Mountain of Light",
+        "Shining Star",
+        "Crown Jewel"
+      ],
+      "answer": "Mountain of Light"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

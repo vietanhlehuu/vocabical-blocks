@@ -1,0 +1,60 @@
+{
+  "title": "Feel the Pinch",
+  "introduction": null,
+  "image": {
+    "id": "e45995d4-0eab-11e7-b1de-cbe220e9acac",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2VowT74ltWeImucB1JLNlm.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 473
+    },
+    "attribution": "NBC News / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/73uIuqNa35aueHHRg12HX3.mpga",
+  "main_content": "In the 1930s, a song, “Brother, Can You Spare a Dime?” was very popular in the United States.\n\nIt was the time of the big Depression. The song had meaning for many people who had lost their jobs. A dime is a piece of money whose value is one-tenth of a dollar. Today, a dime does not buy very much. But it was different in the 1930s. During that time, a dime sometimes meant the difference between eating and starving.\n\nThe American economy today is much better. Yet, many workers are concerned about losing their jobs as companies re-organize.\n\nAmericans have special ways of talking about economic troubles.\n\nA pinch is painful pressure. To feel the pinch is to suffer painful pressure involving money.\n\nThe expression, feel the pinch, has been used since the 16th century. The famous English writer William Shakespeare wrote something very close to this in his great play “King Lear.”\n\nSometimes a business that is up against it will have to throw in the towel. This means to accept defeat or surrender",
+  "questions": [
+    {
+      "question": "What is a dime?",
+      "options": [
+        "A type of coin worth one-tenth of a dollar",
+        "A unit of measurement for job loss",
+        "A popular song from the 1930s",
+        "A term for economic inflation"
+      ],
+      "answer": "A type of coin worth one-tenth of a dollar"
+    },
+    {
+      "question": "During what time did a dime mean the difference between eating and starving?",
+      "options": [
+        "The 1920s",
+        "The 1940s",
+        "The 1930s",
+        "The 1960s"
+      ],
+      "answer": "The 1930s"
+    },
+    {
+      "question": "Which expression has been used since the 16th century?",
+      "options": [
+        "Throw in the towel",
+        "Feel the pinch",
+        "Brother, Can You Spare a Dime?",
+        "Up against it"
+      ],
+      "answer": "Feel the pinch"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

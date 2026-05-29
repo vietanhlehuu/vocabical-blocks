@@ -1,0 +1,60 @@
+{
+  "title": "WHO Director: Zika Menace Likely to Get Worse Before It’s Stopped",
+  "introduction": null,
+  "image": {
+    "id": "871398f4-ace9-443b-9014-bde34acd7bc5",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/46sv3JkrQi1fawKf8LI3BF.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 458
+    },
+    "attribution": "Alvesgaspar / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/26aEy9uA3316t4DI5kcnDY.mpga",
+  "main_content": "Fear of the Zika virus is intense in Brazil because of its apparent link to a birth defect. After a fact-finding mission in Brazil, Dr. Margaret Chan, who heads the World Health Organization, said the situation “can get worse before it gets better.”\n\nChan called the Zika virus a much bigger menace than the Ebola epidemic in West Africa that killed more than 11,000 people, given the magnitude of Zika’s spread and its possible link to microcephaly, a birth defect involving brain growth that leaves babies at risk of a host of long-term developmental issues.\n\nThe WHO, governments of affected countries and U.S. health officials have made Zika a top priority.\n\nForty million to 50 million people travel between the U.S. and Latin America each year, and the type of mosquito that carries the Zika virus lives in much of the United States. While U.S. public health officials expect some transmission in the southern part of the U.S., they don’t expect Zika to be a major worry. Most of the cases of Zika in the U.S. have been in people who traveled to the affected regions.\n\nU.S. health agencies were heavily involved in the Ebola outbreak in Africa and remain involved in curbing diseases throughout the world. CDC Director Dr. Tom Frieden told VOA during a trip to Addis Ababa that while Ebola and Zika are different viruses, having good public health systems in every country around the world is essential.\n\n“The main lesson from Ebola was that every country has to be prepared to find, stop and prevent health threats,” he said. “If we’re not, that country is at risk, the region is at risk, their neighbors and the world is at risk.”",
+  "questions": [
+    {
+      "question": "What is microcephaly?",
+      "options": [
+        "A birth defect involving abnormal limb growth",
+        "A condition affecting lung development in infants",
+        "A birth defect involving brain growth that leaves babies at risk of long-term developmental issues",
+        "A viral infection that predominantly affects adults"
+      ],
+      "answer": "A birth defect involving brain growth that leaves babies at risk of long-term developmental issues"
+    },
+    {
+      "question": "Where could the Zika virus appear in the U.S.?",
+      "options": [
+        "In all northern states",
+        "In regions where the mosquito that carries Zika lives, particularly the southern part",
+        "Only in urban areas along the coast",
+        "Only in regions that haven’t experienced other viruses"
+      ],
+      "answer": "In regions where the mosquito that carries Zika lives, particularly the southern part"
+    },
+    {
+      "question": "What is one essential thing that countries need to be able to fight infectious diseases?",
+      "options": [
+        "An unlimited budget for health care",
+        "A coordinated global security approach",
+        "Good public health systems in every country around the world",
+        "High-tech laboratories in urban areas"
+      ],
+      "answer": "Good public health systems in every country around the world"
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

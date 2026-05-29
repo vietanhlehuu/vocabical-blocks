@@ -1,0 +1,60 @@
+{
+  "title": "Science Fiction Becomes Reality for Species Surveys",
+  "introduction": null,
+  "image": {
+    "id": "e45a9344-0eab-11e7-b272-0f1a878bc028",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3HKsYRqouiAEzVc2KNmzIR.jpeg",
+    "dimensions": {
+      "x": 800,
+      "y": 521
+    },
+    "attribution": "Maggie Bartlett / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2CD5QQg941OUTUWrmnisHr.mpga",
+  "main_content": "Many science fiction stories tell about explorers arriving in a new world. The explorers then use some kind of high-tech device to test for breathable air or signs of life. But here on Earth, science fiction is becoming reality through a new sampling technology called environmental DNA, or eDNA for short. Scientists can use it to identify rare species, study biodiversity or estimate fish populations with just a little air or water.\n\nRyan Kelly is an ecologist at the School of Marine and Environmental Affairs at the University of Washington in Seattle. He works in a laboratory there with other researchers. They study the genetic material released by living creatures.\n\nRyan Kelly says he and his research team are studying water samples collected from Puget Sound. He says the cost of gene sequencing has “plummeted in recent years.”  That makes DNA testing more widely available.\n\nEnvironmental DNA can be used in two ways. One is to identify the creatures that live in a certain place. The other is to confirm the presence or lack of a specific creature.\n\nScientists working with the technology say they do not expect robots to replace field biologists anytime soon.\n\nA related research goal is to show how long environmental DNA can last and how far it can travel in different environments.",
+  "questions": [
+    {
+      "question": "What is eDNA?",
+      "options": [
+        "A type of high-tech exploration device used in science fiction.",
+        "A method of testing the atmospheric conditions of other planets.",
+        "Genetic material released by living organisms that can be sampled for study.",
+        "A process that allows robots to replace field biologists in ecological research."
+      ],
+      "answer": "Genetic material released by living organisms that can be sampled for study."
+    },
+    {
+      "question": "Who is Ryan Kelly?",
+      "options": [
+        "A science fiction author known for writing about explorers.",
+        "An ecologist studying in Washington, known for his work on environmental DNA.",
+        "A research scientist focused on atmospheric testing in outer space.",
+        "A biologist who develops robots for field research."
+      ],
+      "answer": "An ecologist studying in Washington, known for his work on environmental DNA."
+    },
+    {
+      "question": "How can eDNA be used?",
+      "options": [
+        "To identify common species in large populations.",
+        "To create robots for biodiversity assessments.",
+        "To test for breathable air on other planets.",
+        "To identify species in a specific area or confirm the presence of a particular creature."
+      ],
+      "answer": "To identify species in a specific area or confirm the presence of a particular creature."
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

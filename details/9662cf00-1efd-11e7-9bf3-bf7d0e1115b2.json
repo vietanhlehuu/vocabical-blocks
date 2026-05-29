@@ -1,0 +1,60 @@
+{
+  "title": "US Economy Gains New Jobs; Unemployment at 7-year Low",
+  "introduction": null,
+  "image": {
+    "id": "611dea3d-bfa3-431f-a82f-c9f709c34a68",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2xFvT3KwxtbzNIej1aavgO.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Ryan Lawler / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4o6Scr0RM7ONgGgGolyVlL.mpga",
+  "main_content": "The U.S. economy had a net gain of 211,000 jobs in November, while the unemployment rate held steady at a 7½-year low of 5 percent.\n\nFriday’s government report says job gains were seen in construction, professional services, and health care. Mining and some media companies lost jobs.\n\nU.S. businesses have added 13.7 million jobs in a little less than six years, but White House economic adviser Jason Furman says, “We have more work to do.”\n\nNearly 8 million Americans are still out of work, according to the Bureau of Labor Statistics, and another 6.1 million can only get part-time work, though they want full-time employment. Average wages rose 2.3 percent over the past year.\n\nThe job gains are stronger than most economists expected, and support the case for the U.S. central bank to raise the key interest rate later this month.\n\n“Not only are we looking for a rate increase in mid-December,” said Bankrate.com’s Mark Hamrick, “but our quarterly survey at Bankrate found that 81 percent of private economists do believe that the Fed will raise rates a second time in the first half of 2016.”\n\nFriday’s upbeat report on the job market may help counter results of a recent survey of business executives that suggests reduced expectations for profit and growth, mostly because of increased domestic competition and a slowdown in manufacturing output.\n\n“If we see a strong holiday season, that will also impact people’s mood and people’s outlook,” said Valerie Rainey of the American Institute of Certified Public Accountants. “So once we start to have a few more of these facts over the next couple of weeks, I think you’re going to see people start to feel much better than perhaps they did at the point they were taking the survey.”",
+  "questions": [
+    {
+      "question": "Which economic sectors reported job gains?",
+      "options": [
+        "Manufacturing, healthcare, and transportation",
+        "Construction, professional services, and health care",
+        "Retail, education, and finance",
+        "Mining, media companies, and agriculture"
+      ],
+      "answer": "Construction, professional services, and health care"
+    },
+    {
+      "question": "How many unemployed people are there in the U.S.?",
+      "options": [
+        "Nearly 5 million",
+        "Approximately 8 million",
+        "Around 10 million",
+        "Over 12 million"
+      ],
+      "answer": "Approximately 8 million"
+    },
+    {
+      "question": "Were economists disappointed by the rate of job gains?",
+      "options": [
+        "Yes, they found the job gains weaker than expected",
+        "No, the job gains were stronger than expected",
+        "They were indifferent to the results",
+        "Only some economists were disappointed"
+      ],
+      "answer": "No, the job gains were stronger than expected"
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

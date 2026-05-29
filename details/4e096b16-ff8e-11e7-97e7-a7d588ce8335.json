@@ -1,0 +1,60 @@
+{
+  "title": "Do You Know This Blizzard of Winter Words?",
+  "introduction": null,
+  "image": {
+    "id": "4e093632-ff8e-11e7-97e6-afb87dc1999a",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/06XEWnxW1e2Uybf4xkSeYl.jpeg",
+    "dimensions": {
+      "x": 500,
+      "y": 333
+    },
+    "attribution": "Hidenori Inagaki / Wikimedia Commons / CC-BY-2.5",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4xuXjNbFIBEveXXcQ7u92B.mpga",
+  "main_content": "Today, we talk about expressions that come from extreme winter weather.\n\nWinters in the northern United States are cold and snowy. Sometimes, the snows come with extremely strong winds. These snow storms are called blizzards. \n\nThe dictionary Etymology Online says “blizzard” came to mean a severe snowstorm during the late 1800s. Before then, the word “blizzard” had nothing to do with snow. It had several other meanings. One was a sharp blow. Another meaning was a gunshot. And blizzard was also defined as a most extreme statement or event.\n\nThese days, we do not use “blizzard” to mean any of those things. Blizzard is only used to mean an extreme snow storm.\n\nEven though blizzards can be dangerous, some people still enjoy the excitement caused by this extreme weather.\n\nBut no one likes to be snowed.\n\nSnow as a verb means to tell someone many pleasant but false statements.",
+  "questions": [
+    {
+      "question": "When did the word “blizzard” come to mean “a severe snowstorm”?",
+      "options": [
+        "During the early 1900s",
+        "In the late 1800s",
+        "Around the turn of the century",
+        "In the mid-19th century"
+      ],
+      "answer": "In the late 1800s"
+    },
+    {
+      "question": "What does “to snow (someone)” mean?",
+      "options": [
+        "To bury someone in snow",
+        "To deceive someone with pleasant lies",
+        "To impress someone with stories",
+        "To confuse someone with complicated instructions"
+      ],
+      "answer": "To deceive someone with pleasant lies"
+    },
+    {
+      "question": "What were the other meanings of the word “blizzard”?",
+      "options": [
+        "A heavy snow accumulation",
+        "An extreme statement or event, a sharp blow, a gunshot",
+        "A type of winter clothing",
+        "An indication of a severe weather forecast"
+      ],
+      "answer": "An extreme statement or event, a sharp blow, a gunshot"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

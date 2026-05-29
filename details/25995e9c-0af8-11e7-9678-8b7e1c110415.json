@@ -1,0 +1,60 @@
+{
+  "title": "Obamas Hike in Yosemite, With an Environmental Lesson",
+  "introduction": null,
+  "image": {
+    "id": "85789271-7ff7-4114-968e-455e08ef914a",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/43r51celeV6YxJ7H49b3ZS.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 322
+    },
+    "attribution": "DAVID ILIFF / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3GyjTGYLvucn2zsAFa8MZu.mpga",
+  "main_content": "President Barack Obama stressed his administration’s efforts to improve the environment during a visit to Yosemite National Park Saturday, but said much more needs to be done to safeguard the natural beauty of such preserves.\n\nThe president, first lady Michelle Obama, and their daughters, Sasha and Malia, drove through dense forest on steep mountain roads, enjoying breathtaking views of snow-capped peaks, and lush valleys in the first park land set aside, in 1864, just for preservation and public use by an act of the U.S. government. The area was originally ceded to California as a state park but became a national park in 1890.\n\nSince taking office in 2009, Obama said his government has protected well over 100 million hectares of public lands and water, more than any other previous U.S. administration. A large part of the protected land is a marine sanctuary located in the Pacific. He also cited his administration’s victories in providing endangered-species protection for animals including the Louisiana black bear.\n\n“There is plenty to celebrate when looking at the past 100 years of the parks system”, Obama said Saturday.\n\nBut he added, “When looking at the next 100 years, the task of protecting our parks is more important.”\n\n“Make no mistake, climate change is no longer just a threat. It’s already a reality,” he said.\n\n“Yellowstone’s glacier, once a mile long, is almost gone,” Obama said. He said rising temperatures could mean no more glaciers in Glacier National Park, no more Joshua trees in Joshua Tree National Park.\n\n“That is not the legacy we want to leave behind,” the president said.\n\nOn Friday, Obama, his wife, and their daughters toured a maze of caverns beneath the desert at Carlsbad, New Mexico, before flying to Yosemite, the country’s oldest national park.\n\nThe Interior Department says tourism at national parks this year are on pace to beat last year’s record of 305 million visitors, who spent $16.9 billion in and near the parks.",
+  "questions": [
+    {
+      "question": "What did the Obama family do in Yosemite National Park?",
+      "options": [
+        "Explored educational facilities established by the park service",
+        "Drove through the park enjoying scenic views",
+        "Participated in a wildlife conservation program",
+        "Visited a local community to discuss environmental issues"
+      ],
+      "answer": "Drove through the park enjoying scenic views"
+    },
+    {
+      "question": "When did Yosemite become a national park?",
+      "options": [
+        "1864",
+        "1890",
+        "1964",
+        "1970"
+      ],
+      "answer": "1890"
+    },
+    {
+      "question": "What animal species were provided protection by the Obama administration?",
+      "options": [
+        "Bald eagle and grizzly bear",
+        "Louisiana black bear and others",
+        "California condor and manatee",
+        "Snow leopard and red wolf"
+      ],
+      "answer": "Louisiana black bear and others"
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

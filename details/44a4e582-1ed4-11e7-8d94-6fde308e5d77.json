@@ -1,0 +1,60 @@
+{
+  "title": "In China, Mixed Reaction to Two-child Policy Shift",
+  "introduction": null,
+  "image": {
+    "id": "5d489d6d-17c0-47c4-bee8-9fcce9864a07",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2q1TEZSibuDhXXUCMKLTiJ.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 302
+    },
+    "attribution": "Daniel Case / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6OS2mRDDrVtz8JibpBkjot.mpga",
+  "main_content": "After 35 years of limiting most couples to having just one child, China’s Communist Party on Thursday announced that it will change existing laws to allow all families to have two children without penalty.\n\nSome welcomed the move and the “warmth” it would bring to families that up until now have been limited to only one child, while others focused on the economic challenges the policy shift might bring, highlighting just how big a struggle the government has ahead.\n\nThe change is largely based on the growing economic pressures facing China.\n\nWhile the country has a massive population, those who were born before the policy went into place, who came from bigger families, are becoming a bigger portion of the population. All of this is unfolding against the backdrop of China’s shrinking labor force.\n\nHaohao, a 23-year-old Beijinger who hopes to get married soon, said she had always wanted to have two children.\n\n“Being able to have more kids will create a happier environment in the home,” she said. “With two kids, one can take care of the other. Families will be warmer and more full of love, and when you get older there will be more children to help take care of you.”\n\nThe top story on Wangyi, a major news app, talked about the economic challenges of having too many children. Another story promoting the policy change was full of cute baby pictures, twins and happy families.\n\nOne woman in Beijing wrote: “I can’t even dare to think about having a child. Having one child is like fulfilling a responsibility, and a second would be like creating an even bigger burden.”\n\nIn addition to all that women have to go though in bearing a child, she said, China’s marriage law gives women too few protections. Not to mention the costs of raising a child, she added.",
+  "questions": [
+    {
+      "question": "What will China allow families to do?",
+      "options": [
+        "Have three children without consequences",
+        "Adopt children from other countries",
+        "Have two children without penalty",
+        "Choose to have no children at all"
+      ],
+      "answer": "Have two children without penalty"
+    },
+    {
+      "question": "Why has this change in policy occurred?",
+      "options": [
+        "To promote larger families for cultural reasons",
+        "Due to economic pressures and a shrinking labor force",
+        "Because of international pressure from other countries",
+        "To balance gender ratios in the population"
+      ],
+      "answer": "Due to economic pressures and a shrinking labor force"
+    },
+    {
+      "question": "What is happening to China’s working class?",
+      "options": [
+        "It is expanding rapidly due to population growth",
+        "It is shrinking as older generations move out of the labor force",
+        "It is becoming more skilled and educated",
+        "It is facing high unemployment rates"
+      ],
+      "answer": "It is shrinking as older generations move out of the labor force"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

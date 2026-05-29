@@ -1,0 +1,60 @@
+{
+  "title": "Most Eurozone Banks Deemed Financially Healthy",
+  "introduction": null,
+  "image": {
+    "id": "89b42fbc-e90f-468a-bad2-57e7f4008344",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4BqIF5IOxuCo2QUAxwmEaK.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 335
+    },
+    "attribution": "Epizentrum / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4lC40S4y0wre0H0Kaa1tW8.mpga",
+  "main_content": "The European Central Bank says that most of the banks in the 18-nation euro currency bloc could survive a financial crisis, an assessment that could help spur more lending to boost the eurozone’s flagging economy.\n\nThe central bank said Sunday that at the end of last year 25 of the 130 biggest banks failed a financial stress test and needed to raise $32 billion to have enough capital on hand to cover losses during a severe economic downturn.\n\nBut much of the money has now been raised and the European Central Bank said that only 13 have a capital shortfall, including four in Italy and two in Greece. No major banks failed the latest stress test.\n\nThe eurozone, collectively, is the world’s largest economy, but its growth has been tepid at best. Some analysts fear it could fall into its third recession in six years.\n\nBut with the favorable results from the review, analysts say some banks now might be more inclined to lend more money, which could help spur economic growth.",
+  "questions": [
+    {
+      "question": "What does the European Central Bank's assessment suggest could happen if banks lend more money?",
+      "options": [
+        "The eurozone's economy could be boosted.",
+        "All eurozone banks will need another stress test.",
+        "Interest rates will automatically fall.",
+        "The eurozone will avoid all future recessions."
+      ],
+      "answer": "The eurozone's economy could be boosted."
+    },
+    {
+      "question": "How many of the 130 biggest banks failed the financial stress test at the end of last year?",
+      "options": [
+        "25 banks",
+        "13 banks",
+        "4 banks",
+        "No major banks"
+      ],
+      "answer": "25 banks"
+    },
+    {
+      "question": "Which two EU countries still had banks with a capital shortfall?",
+      "options": [
+        "Italy and Greece",
+        "Spain and Portugal",
+        "France and Germany",
+        "Austria and Belgium"
+      ],
+      "answer": "Italy and Greece"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

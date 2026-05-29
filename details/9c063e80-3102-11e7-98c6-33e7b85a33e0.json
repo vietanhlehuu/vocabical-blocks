@@ -1,0 +1,60 @@
+{
+  "title": "Dutch Experiment Shows Farming With Salty Water Possible",
+  "introduction": null,
+  "image": {
+    "id": "55511c81-5766-45c3-af56-5373ac163b0d",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2azPmGun33gK9toU4z7bn3.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Ozgurmulazimoglu / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/15nA4Bui4CBQAyFcyDyCTs.mpga",
+  "main_content": "One of the many adverse effects of global climate change is the rise of sea levels, which scientists say can increase the salinity level of fresh water reserves. As saline water cannot be used for irrigation, farm fields close to the seashore are lost to agriculture. But a farm in Netherlands has managed to grow healthy and tasty vegetables in soil irrigated with salt water.\n\nSalinization is reducing the world’s irrigated lands by 1 to 2 percent annually, according to the U.N.’s Food and Agriculture Organization.\n\nBut that doesn’t faze Dutch farmer Marc Van Rijsselberghe, who has used saline water to kill some plants in order to identify which ones are able to thrive.\n\n“We put a lot of plants in the field and then we put them in fresh water and in sea water and all varieties between it, and then we see which variety is surviving and which variety is dying,” he said.\n\nWorking with scientists from the Free University of Amsterdam, Van Rijsselberghe and his team divided a farm into eight plots covered with a network of irrigation pipes.\n\nSeparate pipes bring fresh water and sea water to a distribution center where a computer-controlled system mixes irrigation water with eight different degrees of salinity.\n\n“And then computer says ‘go’ and then it goes to the fields and dripping irrigation starts to work and we are going to kill plants. That’s it,” said Van Rijsselberghe.\n\nNumerous sensors continuously control soil salinity and moisture. Van Rijsselberghe said they were able to harvest vegetables from most of the test plots. Although they were smaller than normal, he said they contain more sugar and salt, so they taste better.\n\n“It’s a miracle. It shouldn’t be a carrot, it should be dying if we look at the data that are available in the world at the moment,” he said.\n\nThe farm managed to grow carrots, cabbage, onions and beetroot, but potatoes proved to be the most tolerant to saline water. Van Rijsselberghe said four varieties of salt-tolerant potatoes recently were shipped to Pakistan where thousands of hectares of land damaged by salinization are being prepared for testing the Dutch potatoes.",
+  "questions": [
+    {
+      "question": "What is one of the many adverse effects of global climate change mentioned in the article?",
+      "options": [
+        "Rise of sea levels affecting fresh water reserves",
+        "Increase in the number of crop varieties suitable for saline conditions",
+        "Decreased agricultural production in arid regions",
+        "Increased temperatures leading to faster plant growth"
+      ],
+      "answer": "Rise of sea levels affecting fresh water reserves"
+    },
+    {
+      "question": "What does Marc Van Rijsselberghe want to find out?",
+      "options": [
+        "Which plants can survive in freshwater without any modification",
+        "The optimal salinity level for all vegetable varieties",
+        "Which vegetable varieties can thrive in saline water",
+        "The effects of salt on the growth rate of carrots specifically"
+      ],
+      "answer": "Which vegetable varieties can thrive in saline water"
+    },
+    {
+      "question": "How does he control soil salinity and moisture?",
+      "options": [
+        "By manual adjustment of water levels based on rainfall",
+        "Using a computer-controlled system with sensors and irrigation pipes",
+        "Implementing traditional irrigation methods from local farmers",
+        "By alternating water sources based on seasonal changes"
+      ],
+      "answer": "Using a computer-controlled system with sensors and irrigation pipes"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

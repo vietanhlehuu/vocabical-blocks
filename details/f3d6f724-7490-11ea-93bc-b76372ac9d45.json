@@ -1,0 +1,60 @@
+{
+  "title": "Tibetans Celebrate Dalai Lama’s 80th Birthday",
+  "introduction": null,
+  "image": {
+    "id": "f3d65b5c-7490-11ea-93bb-1f1f3780500e",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3O4tm2iZthhecczHV2Nyd5.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 683
+    },
+    "attribution": "Roland zh / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1de15OWYU5lxzqtjfsIExs.mpga",
+  "main_content": "The Dalai Lama turned 80 last week and Tibetans around the world celebrated the auspicious birthday.\n\nAs the Tibetan spiritual leader visited New York to lecture on Buddhism, Tibetans back in northern India where he lives in exile, discussed what their spiritual leader means to them.\n\nAt a celebration of the Dalai Lama’s 80th birthday in Dharamsala, Tibetan teenagers performed traditional songs and dance at the Buddhist temple.\n\nThe vibrant cultural display is one of the legacies of the Dalai Lama. He prioritized setting up Tibetan schools in India, where he has lived since 1959.\n\nFor the Dalai Lama, it has been a long journey from desperate escapee to world-renowned spiritual leader. Kelsang Damdul knows this firsthand. The 89-year-old was head of the group of soldiers that guided the Dalai Lama out of Lhasa, the Tibetan capital.\n\nDamdul said anxiety was so high. It was like the world was falling down. He says it was the saddest day because they had to leave their country. But there was nothing to be done.\n\nToday, Damdul lives in a retirement home in Dharamsala. About 12,000 Tibetans live in this hill town, with more than 100,000 spread across India.",
+  "questions": [
+    {
+      "question": "How old is the Dalai Lama?",
+      "options": [
+        "78 years old",
+        "80 years old",
+        "89 years old",
+        "70 years old"
+      ],
+      "answer": "80 years old"
+    },
+    {
+      "question": "Why did he visit New York?",
+      "options": [
+        "To attend a family reunion",
+        "To lecture on Buddhism",
+        "For a cultural festival",
+        "To meet with political leaders"
+      ],
+      "answer": "To lecture on Buddhism"
+    },
+    {
+      "question": "How was his birthday celebrated in Dharamsala?",
+      "options": [
+        "With a grand parade through the city",
+        "With traditional songs and dance at the Buddhist temple",
+        "With a public speech by the Dalai Lama",
+        "With fireworks and light displays"
+      ],
+      "answer": "With traditional songs and dance at the Buddhist temple"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

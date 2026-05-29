@@ -1,0 +1,60 @@
+{
+  "title": "Women’s Entrepreneurship on the Rise",
+  "introduction": null,
+  "image": {
+    "id": "e4589bb6-0eab-11e7-b143-474255d84657",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1m00cbkQ1B7nG3tTnyU8cm.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 340
+    },
+    "attribution": "U.S. Department of State from United States / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3nujggKPnLCRk9PyVm3GYD.mpga",
+  "main_content": "Women entrepreneurs are getting more help and resources from governments, universities and corporations — including money.\n\nThe number of women-owned businesses in the U.S. increased 44 percent from 2001 to 2011.\n\nRaising capital is a major problem for startups because they need money to grow. In the U.S., only 2 percent of women-run startups receive funding.\n\nYet women in the U.S. own 38 percent of U.S. businesses, or 9.1 million companies, says the study. Women-owned firms produce $3 trillion annually in the U.S. economy and create 16 percent of U.S. jobs.\n\nMore organizations are providing funding for women-owned startups. Springboard Enterprises in Washington, D.C. is one of these. The organization introduces women-owned startups to investors.\n\nSpringboard began 15 years ago. It has helped about 600 companies that are fast growing and women-owned to raise $7 billion globally.\n\nTechnology is another factor driving women’s entrepreneurship. Tools like Skype, social media and web programs that share documents help.\n\nLastly, experts say great innovations come from anyone — no matter the gender.",
+  "questions": [
+    {
+      "question": "What is the percentage of women-owned businesses in the U.S.?",
+      "options": [
+        "38%",
+        "44%",
+        "16%",
+        "2%"
+      ],
+      "answer": "38%"
+    },
+    {
+      "question": "When did Springboard Enterprises begin?",
+      "options": [
+        "2001",
+        "2005",
+        "2008",
+        "2011"
+      ],
+      "answer": "2005"
+    },
+    {
+      "question": "What does Springboard Enterprises do?",
+      "options": [
+        "Provides loans to individuals",
+        "Introduces women-owned startups to investors",
+        "Offers training for entrepreneurs",
+        "Conducts market research"
+      ],
+      "answer": "Introduces women-owned startups to investors"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

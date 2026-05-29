@@ -1,0 +1,60 @@
+{
+  "title": "Could an Electric Current Stop Motion Sickness?",
+  "introduction": null,
+  "image": {
+    "id": "cdfd4ad8-413b-11e8-8997-5f21515c7094",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/wLH4FCPodezjIkrtRo0diyb6I3s6FekgBEL7Q1EikSz.jpeg",
+    "dimensions": {
+      "x": 1000,
+      "y": 667
+    },
+    "attribution": "Shutterstock",
+    "public_attribution": false,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4f1mq6moYgFCvx2OyPOvHd.mpga",
+  "main_content": "Some people can get motion sickness from being in moving vehicles such as cars or airplanes.\n\nBut, a new device could stop motion sickness.\n\nSymptoms of motion sickness are dizziness, nausea and vomiting. People have tried different ways to prevent the condition.\n\nBut often, nothing works.\n\nNow, scientists at Imperial College London are working on a device to counteract motion sickness.\n\nMichael Gresty is an expert on the condition.\n\nThe device sends a weak electrical current through electrodes placed on a person’s head. The electric current appears to cause the brain to suppress signals that affect the inner ear.\n\nResearcher Qadeer Arshad says the scientists found “that it took longer for the individual to develop motion sickness and that they also recovered faster.”\n\nThe next step is to test the device outside the laboratory.",
+  "questions": [
+    {
+      "question": "How can people get motion sickness?",
+      "options": [
+        "By sitting in moving cars or airplanes",
+        "By watching fast-moving images",
+        "By using electronic devices while traveling",
+        "By consuming spicy food before traveling"
+      ],
+      "answer": "By sitting in moving cars or airplanes"
+    },
+    {
+      "question": "Who is Qadeer Arshad?",
+      "options": [
+        "A scientist involved in motion sickness research",
+        "A doctor specializing in treating nausea",
+        "An engineer who designed the new device",
+        "A participant in the motion sickness study"
+      ],
+      "answer": "A scientist involved in motion sickness research"
+    },
+    {
+      "question": "What are the researchers’ findings?",
+      "options": [
+        "The device completely eliminates motion sickness",
+        "The device allows faster recovery from motion sickness",
+        "Motion sickness affects only a small number of people",
+        "The device is successful in every test conducted"
+      ],
+      "answer": "The device allows faster recovery from motion sickness"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

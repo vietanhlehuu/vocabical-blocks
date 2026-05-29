@@ -1,0 +1,60 @@
+{
+  "title": "Find Your Best Place to Live",
+  "introduction": null,
+  "image": {
+    "id": "760c825c-ed3d-426b-a25d-c41dd5bffaa4",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3akoIhy0sSGe5j9BMyh6RQ.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Chip Gallent / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5b9OUBFgbmQQt5qDKTxuAU.mpga",
+  "main_content": "If you want to find the perfect place to live, you might spend weeks doing research on cities around the world. Or you could use the Teleport website. It is set up to help you discover the best place for you.\n\nTeleport helps you search for places to live based on personal preferences.\n\nTo get started, go to the Teleport website and create an account. Users can choose from among different preferences to find the best city for them to live in.\n\nThe search for ideal cities is based on you telling Teleport what is important to you. The site gives 20 categories to choose from.\n\nThe groupings include:\n Cost of living\n Job market\n Climate\n Language\n Pollution\n Safety\n Traffic\n and Internet speed.\n\nNo city will likely be a perfect match for you. One issue or another might influence the website’s results. But Teleport can show you which cities are the best, based on your preferences.",
+  "questions": [
+    {
+      "question": "Why was the Teleport website set up?",
+      "options": [
+        "To assist users in finding the cheapest city to live in.",
+        "To help users discover the best place for them based on personal preferences.",
+        "To provide general information about different cities worldwide.",
+        "To create a social network for people moving to new cities."
+      ],
+      "answer": "To help users discover the best place for them based on personal preferences."
+    },
+    {
+      "question": "What does Teleport base it’s search on? ",
+      "options": [
+        "Users' historical data on moving trends.",
+        "Sociological studies of various cities.",
+        "User-defined preferences across multiple categories.",
+        "Static data from government reports on cities."
+      ],
+      "answer": "User-defined preferences across multiple categories."
+    },
+    {
+      "question": "How many categories are there?",
+      "options": [
+        "15 categories.",
+        "20 categories.",
+        "25 categories.",
+        "10 categories."
+      ],
+      "answer": "20 categories."
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

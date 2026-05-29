@@ -1,0 +1,60 @@
+{
+  "title": "World Leaders Gather at UN to Discuss Global Challenges",
+  "introduction": null,
+  "image": {
+    "id": "847cc623-c458-4fe6-885c-b192379c3347",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4200YiZKByYvkMaOkxXDwV.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 348
+    },
+    "attribution": "RIA Novosti archive, image #828797 / Yuryi Abramochkin / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1deb3i6BtfBpwqqPKsmiNn.mpga",
+  "main_content": "World leaders are about to converge on the United Nations in their largest numbers yet. More than 150 presidents and prime ministers will attend this year’s General Assembly which also marks the U.N.’s 70th anniversary. There will be no shortage of crises for the leaders to discuss.\n\nPope Francis arrives at the U.N. on September 25th, just hours ahead of the opening of a major anti-poverty summit.\n\nHe will address the U.N. staff and have a private meeting with Secretary-General Ban Ki-moon, whom he has met three times before at the Vatican.\n\n“We have been discussing many issues, including poverty eradication and migration, refugee issues, last time, and most importantly, climate change,” said Ban.\n\nThe Pope will then give a highly anticipated address in the General Assembly Hall.\n\n“Remarkably, he seems to have emerged as a real voice of global moral authority on things like refugees and climate change. A lot of people will be looking to him and what he has to say about the state of the world,” said Carne Ross, a diplomatic consultant.\n\nThen it’s down to business with the world’s toughest problems.\n\nRichard Gowan of Columbia University predicted the migrant crisis in Europe and the Islamic State group would be major agenda items.\n\n“There is going to be a lot of self-congratulation about the Iran nuclear deal, but that will be overshadowed by the humanitarian crisis in Europe and the continued power of the Islamic State in the Middle East,” said Gowan.\n\nOn September 30th, there will be a high-level meeting on the refugee crisis in Europe. The secretary-general says he hopes to mobilize a humane and effective response.\n\nThe majority of refugees are Syrians, fleeing nearly five years of civil war.",
+  "questions": [
+    {
+      "question": "What does this year’s General Assembly mark?",
+      "options": [
+        "The beginning of a new era in international relations",
+        "The 70th anniversary of the United Nations",
+        "The annual meeting of non-profit organizations",
+        "The launch of a new global poverty initiative"
+      ],
+      "answer": "The 70th anniversary of the United Nations"
+    },
+    {
+      "question": "Who is one of the most important figures present at this year’s General Assembly?",
+      "options": [
+        "Ban Ki-moon, the Secretary-General",
+        "Pope Francis",
+        "Richard Gowan, the diplomatic consultant",
+        "Carne Ross, the climate change expert"
+      ],
+      "answer": "Pope Francis"
+    },
+    {
+      "question": "What are two issues that are thought to be major agenda items?",
+      "options": [
+        "Poverty eradication and climate change",
+        "The Iran nuclear deal and humanitarian crisis in Europe",
+        "Migrant crisis in Europe and the Islamic State group",
+        "Climate change and refugee integration strategies"
+      ],
+      "answer": "Migrant crisis in Europe and the Islamic State group"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

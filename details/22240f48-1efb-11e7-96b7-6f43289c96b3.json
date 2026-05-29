@@ -1,0 +1,60 @@
+{
+  "title": "Pope Calls for Worldwide Effort to Combat Global Warming",
+  "introduction": null,
+  "image": {
+    "id": "7c2ea504-9980-49ba-9d79-b478324488df",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3mKMdmi8ZYjeWyTUocgIql.jpeg",
+    "dimensions": {
+      "x": 799,
+      "y": 539
+    },
+    "attribution": "דוברות משטרת ישראל / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5rOoitcWzCnJ2Sh8mfSeLz.mpga",
+  "main_content": "The Vatican has released a landmark letter by Pope Francis saying global warming is mostly man-made and calling it one of the most important issues of the day.\n\nThe 191-page encyclical released Thursday said a “very solid scientific consensus indicates that we are presently witnessing a disturbing warming of the climatic system.”\n\n“Humanity is called to recognize the need for change of lifestyle, production, and consumption, in order to combat this warming or at least the human causes which produce or aggravate it,” the letter continued.\n\nPope Francis also highlighted the importance of combating pollution and protecting water supplies. He also calls for moving away from the intensive use of fossil fuels and says so-called carbon credits are ineffective.\n\nThe encyclical, which is the second-highest ranking document able to be issued by a pope, comes ahead of his September visit to the U.S. and a major United Nations conference on climate change in Paris later this year.",
+  "questions": [
+    {
+      "question": "What does Pope Francis say in the letter?",
+      "options": [
+        "He highlights the need for technological advancements to combat climate change.",
+        "He claims that global warming is primarily a natural phenomenon.",
+        "He emphasizes the importance of recognizing human contributions to climate change.",
+        "He suggests that humanity should ignore climate issues and focus on economic growth."
+      ],
+      "answer": "He emphasizes the importance of recognizing human contributions to climate change."
+    },
+    {
+      "question": "How long is the letter?",
+      "options": [
+        "91 pages",
+        "191 pages",
+        "101 pages",
+        "250 pages"
+      ],
+      "answer": "191 pages"
+    },
+    {
+      "question": "What is the letter calling upon humanity to do?",
+      "options": [
+        "To increase industrial production without regard for environmental impact.",
+        "To acknowledge the need for changes in lifestyle, production, and consumption.",
+        "To rely on government policies alone to resolve climate issues.",
+        "To advocate for a return to fossil fuels as a primary energy source."
+      ],
+      "answer": "To acknowledge the need for changes in lifestyle, production, and consumption."
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

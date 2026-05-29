@@ -1,0 +1,60 @@
+{
+  "title": "Is Lionel Messi Leaving Argentina’s Soccer Team?",
+  "introduction": null,
+  "image": {
+    "id": "7f4f9b33-f463-4eab-a1df-ac44690212b3",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3sEP9TP8Xff3gw0gsgxvDX.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Andre Kiwitz / Wikimedia Commons / CC-BY-SA-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4UJfAwEh9PPKyxwmN3n7M7.mpga",
+  "main_content": "The Chilean national soccer team won the Copa America tournament on Sunday night in the U.S. state of New Jersey.\n\nChile defeated Argentina on penalty kicks after both teams played 120 minutes without scoring a goal. Chile made four penalty kicks. Argentina only made two.\n\nIt was the second straight year Chile defeated Argentina on penalty kicks to win the Copa America tournament.\n\nArgentina’s star player, Lionel Messi, was one of the players who failed to make his penalty kick.\n\nMany people say Messi is the best soccer player in the world. Perhaps, they say, he is the best ever.\n\nAfter Sunday night’s game, Messi said he might quit playing for Argentina’s national team. He would, however, continue playing with Barcelona.\n\nAnd, for 10 hours after the game, Messi and the hashtag #NoTeVayasLio were  trending on Twitter. The hashtag, in Spanish, means “Do not go, Lio.”",
+  "questions": [
+    {
+      "question": "How many penalty kicks did Argentina make?",
+      "options": [
+        "Three",
+        "Four",
+        "Two",
+        "Five"
+      ],
+      "answer": "Two"
+    },
+    {
+      "question": "Which team won the soccer tournament?",
+      "options": [
+        "Argentina",
+        "Brazil",
+        "Chile",
+        "Uruguay"
+      ],
+      "answer": "Chile"
+    },
+    {
+      "question": "In what language was the hashtag?",
+      "options": [
+        "French",
+        "Italian",
+        "Spanish",
+        "Portuguese"
+      ],
+      "answer": "Spanish"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

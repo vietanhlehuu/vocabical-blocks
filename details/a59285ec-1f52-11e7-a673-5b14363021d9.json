@@ -1,0 +1,60 @@
+{
+  "title": "Donors Pledge Billions to Help Rebuild Earthquake-hit Nepal",
+  "introduction": null,
+  "image": {
+    "id": "e9d34f02-c751-4351-b3fb-73de15f73c3d",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/77DmOG4z5HeYHB40ppa9gz.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "松岡明芳 / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5nm4d9IduNtU1dpIrL2ANC.mpga",
+  "main_content": "International donors and multilateral agencies have pledged about $3 billion in aid to help rebuild Nepal as it struggles to recover from a devastating earthquake. The Himalayan nation got the largest pledges from its two giant neighbors, India and China.\n\nHailing Nepal’s steely determination and indomitable spirit, India’s foreign minister Sushma Swaraj announced $ 1 billion assistance to the country.\n\nIt was the largest pledge made at an International Donors Conference hosted Thursday by Kathmandu.\n\n“Every challenge is an opportunity friends, out of adversity comes strength. Without doubt, from the debris of destruction a stronger, united and more confident Nepal will arise,” said Sushma Swaraj.\n\nChinese Foreign Minister Wang Yi pledged about half the sum promised by India — $ 483 million. He said his country is committed to sustainable development of the Himalayan nation.\n\nBoth India and China have been competing for influence in Nepal and were the first to rush in rescue teams after the nation was hit by the massive earthquake two months ago.\n\nJapan pledged $ 260 million, the United States $ 130 million, and the European Union another $ 100 million. Agencies such as the World Bank and the Asian Development Bank have announced aid of $ 500 million and $ 600 million respectively.\n\nThe total amount pledged by various donors is less than the $ 6.7 billion that Nepal estimates it will need to recover from the massive earthquake that killed over 8,800 people. More than half a million homes and buildings were flattened or damaged while lost incomes in the tourist-dependent nation have pushed an estimated 700,000 people into poverty.",
+  "questions": [
+    {
+      "question": "Why does Nepal need rebuilding?",
+      "options": [
+        "A devastating earthquake caused widespread destruction",
+        "A government project to build new infrastructure",
+        "Increased tourism requiring upgrades to facilities",
+        "Political unrest damaging public buildings"
+      ],
+      "answer": "A devastating earthquake caused widespread destruction"
+    },
+    {
+      "question": "Which country has pledged the most money to help Nepal?",
+      "options": [
+        "China with $483 million",
+        "Japan with $260 million",
+        "India with $1 billion",
+        "The United States with $130 million"
+      ],
+      "answer": "India with $1 billion"
+    },
+    {
+      "question": "What did Wang Yi say about Nepal?",
+      "options": [
+        "He emphasized the importance of international aid",
+        "He mentioned China's commitment to sustainable development",
+        "He called for immediate reconstruction efforts",
+        "He expressed concerns about political stability"
+      ],
+      "answer": "He mentioned China's commitment to sustainable development"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

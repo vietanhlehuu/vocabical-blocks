@@ -1,0 +1,60 @@
+{
+  "title": "World Oil Prices Plunge Again to Multi-year Lows",
+  "introduction": null,
+  "image": {
+    "id": "b5312546-7451-45e7-b380-8a6e404c4ba6",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5Vu4O76X9M7uI4rfmfU4gA.jpeg",
+    "dimensions": {
+      "x": 640,
+      "y": 480
+    },
+    "attribution": "Flcelloguy at the English language Wikipedia / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/39ZU7jv8IWVsViebbJbELu.mpga",
+  "main_content": "Global oil prices are plunging to new multiyear lows after Saudi Arabia said it would cut its export price for American customers to try to compete with burgeoning oil production in the United States.\n\nThe price for West Texas Intermediate oil drilled in the U.S. dropped Tuesday to as low as $75.84 a barrel, its lowest point in three years and down from $100 a barrel in July.\n\nBrent crude, drilled in the North Sea, fell to $82.08, a four-year low.\n\nRiyadh triggered the global price drops by cutting the price for oil it is shipping next month to the U.S. Saudi Arabia’s U.S. market share has been hit hard with the growth of oil and natural gas production from shale rock in two U.S. states, North Dakota and Texas.\n\nSaudi Arabia is now second to the U.S. as the world’s biggest oil producer, although it is still the biggest exporter. Riyadh said it would raise its prices in December for oil sold in other locations, including Asia, after cutting them for several months.\n\nWith a glut of oil on the world market, prices have been dropping for weeks. Weak economic growth in Europe and China have helped push prices down.\n\nThe Organization of the Petroleum Exporting Countries, the 12-nation cartel that includes Saudi Arabia, is meeting this month to decide whether to cut its current production of 30 million barrels a day in an effort to prop up prices. OPEC countries control about 43 percent of the world market and have more than 80 percent of the world’s oil reserves.",
+  "questions": [
+    {
+      "question": "Why are oil global prices plunging to a new low?",
+      "options": [
+        "A surge in Saudi Arabia's oil production capabilities.",
+        "Increased competition from U.S. oil production and Saudi Arabian price cuts.",
+        "The Organization of the Petroleum Exporting Countries (OPEC) deciding to increase production.",
+        "Weak demand for oil in Japan and India."
+      ],
+      "answer": "Increased competition from U.S. oil production and Saudi Arabian price cuts."
+    },
+    {
+      "question": "What was the lowest point in three years for oil prices?",
+      "options": [
+        "$60 a barrel for Brent crude.",
+        "$75.84 a barrel for West Texas Intermediate.",
+        "$82.08 a barrel for North Sea oil.",
+        "$100 a barrel for Saudi oil."
+      ],
+      "answer": "$75.84 a barrel for West Texas Intermediate."
+    },
+    {
+      "question": "Why did Saudi Arabia’s market share drop?",
+      "options": [
+        "Due to increased demand for oil in Asia.",
+        "The rise of oil and natural gas production from shale rock in the U.S.",
+        "OPEC's decision to cut production levels.",
+        "Economic sanctions imposed by Western countries."
+      ],
+      "answer": "The rise of oil and natural gas production from shale rock in the U.S."
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

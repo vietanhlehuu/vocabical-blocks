@@ -1,0 +1,60 @@
+{
+  "title": "How Should the World Protect Itself from Natural Disasters?",
+  "introduction": null,
+  "image": {
+    "id": "e4577c22-0eab-11e7-b092-5ba6c1cb42ec",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/0mywnSgle2f4BsWdvY8MEA.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Rajan Journalist / Wikimedia Commons / CC-BY-SA 4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0A8LDKXBqRouOUoJ5KN8kL.mpga",
+  "main_content": "How should the world protect itself from natural disasters and climate change? And who should be paying for this kind of protection? These and other questions are being asked at the United Nations World Conference on Disaster Risk Reduction. The conference is taking place this week in Sendai, Japan. A powerful earthquake and tsunami struck the area four years ago.\n\nA cold wind blows sand along the coast of Sendai. Japanese police officers are searching for evidence in the area. They are examining material washed upon the sand for signs of the March 2011 tsunami. Huge waves struck northern Japan and killed close to 16,000 people. More than 2,500 others are missing and thought to be dead.\n\nOfficer Hidenori Kashahara is taking part in the search effort. He says Japan owes it to the families of the missing to keep looking.\n\nUnited Nations Secretary-General Ban Ki-moon visited Sendai earlier this week. He praised the recovery effort as a model for others.\n\nIn late 2004, an earthquake hit the northwestern coast of Indonesia, causing a tsunami across the Indian Ocean. More than 200,000 people were killed. The tsunami led the United Nations to approve a 10-year program for reducing disaster risk.",
+  "questions": [
+    {
+      "question": "Where is the United Nations World Conference on Disaster Risk Reduction conference?",
+      "options": [
+        "Tokyo, Japan",
+        "Sendai, Japan",
+        "Osaka, Japan",
+        "Kyoto, Japan"
+      ],
+      "answer": "Sendai, Japan"
+    },
+    {
+      "question": "What happened in late 2004?",
+      "options": [
+        "A powerful earthquake struck northern Japan",
+        "A tsunami hit the coast of Sendai",
+        "An earthquake caused a tsunami across the Indian Ocean",
+        "The United Nations held a conference in Osaka"
+      ],
+      "answer": "An earthquake caused a tsunami across the Indian Ocean"
+    },
+    {
+      "question": "Who is the United Nations Secretary-General?",
+      "options": [
+        "Ban Ki-moon",
+        "Antonio Guterres",
+        "Kofi Annan",
+        "Boutros Boutros-Ghali"
+      ],
+      "answer": "Ban Ki-moon"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

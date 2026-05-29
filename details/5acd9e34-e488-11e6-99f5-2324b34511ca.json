@@ -1,0 +1,60 @@
+{
+  "title": "Spacecraft Makes Historic Landing on a Comet",
+  "introduction": null,
+  "image": {
+    "id": "e45fc88c-0eab-11e7-b56e-ef474e021fe2",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/7WGvIa62adPpTeMJ02ownw.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 632
+    },
+    "attribution": "Barnard, Edward Emerson (1857-1923) / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4iqCenPniSW5Wo8bjBw7Y9.mpga",
+  "main_content": "After traveling 10 years and hundreds of millions of kilometers, a small robotic spacecraft has for the first time landed on the surface of a comet, a solar system object made of ice and rock.\n\nThe probe launched from the European Space Agency’s main Rosetta spaceship early Wednesday. The spaceship is designed to carefully study the appearance and materials that make up the Comet 67P/Churymov-Gerasimenko.\n\nStephan Ulamec, of the German Aerospace Center, announced the news. He said the landing equipment and a special device meant to secure the spacecraft to the comet had deployed.\n\nEarly on Wednesday, ground controllers at the European Space Agency operations center in Germany confirmed that Philae had separated from the Rosetta ship. The probe then began a tense trip toward the comet and landed on its surface hours later. The attempt to land on the comet was considered risky not only because scientists were unsure of the surface, but because of problems with thrusters used to land the probe.\n\nScientists and many officials gathered at the European Space Agency’s Operations Center in Darmstadt, Germany. After the landing was announced, there was cheering and applause.\n\nRosetta has been orbiting the Comet 67P/Churymov-Gerasimenko since August. However, the mission started with the spaceship’s launch in March of 2004. The spaceship circled the sun until it was in position to meet with the comet. Information from the European Space Agency shows the spacecraft’s trip has taken it far beyond the orbit Mars.\n\nThe comet currently is traveling at a distance of more than 400 million kilometers from Earth. At such a distance, communication between the spacecraft and earth took more than half an hour. Controllers waited and worried before receiving confirmation sent from Philae that it had landed safely.\n\nNow, the probe will begin a series of scientific experiments. Philae will examine the material that makes up the comet looking for organic, or carbon-based material, and inorganic materials. The Rosetta mission cost the European Space Agency, or ESA, $1.7 billion dollars.",
+  "questions": [
+    {
+      "question": "What is the name of the comet?",
+      "options": [
+        "Comet 67P/Churymov-Gerasimenko",
+        "Comet 67B/Churymov-Gerasimenko",
+        "Comet 67P/Gerasimenko-Churymov",
+        "Comet 67P/Rosetta"
+      ],
+      "answer": "Comet 67P/Churymov-Gerasimenko"
+    },
+    {
+      "question": "Why does the communication between Earth and the spacecraft take so long?",
+      "options": [
+        "Because the spacecraft is too far from the sun",
+        "Because the spacecraft is traveling at high speed",
+        "Because the comet is over 400 million kilometers away",
+        "Because the Rosetta ship has intermittent power"
+      ],
+      "answer": "Because the comet is over 400 million kilometers away"
+    },
+    {
+      "question": "What does ESA stand for?",
+      "options": [
+        "European Space Agency",
+        "European Science Alliance",
+        "Earth Sciences Association",
+        "European Solar Agency"
+      ],
+      "answer": "European Space Agency"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

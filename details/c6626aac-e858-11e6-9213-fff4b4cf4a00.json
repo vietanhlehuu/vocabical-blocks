@@ -1,0 +1,60 @@
+{
+  "title": "April 23 Is English Language Day",
+  "introduction": null,
+  "image": {
+    "id": "662642e2-f421-4625-a4eb-e774ce3ca89f",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/36khZZyQVQd0LNPHEtevlf.jpeg",
+    "dimensions": {
+      "x": 1943,
+      "y": 2489
+    },
+    "attribution": " United States public domain / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 2,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6Y3aIuXrYFcEscnTFgsCgn.mpga",
+  "main_content": "Happy English Language Day! English Language Day is celebrated each year on April 23 – the date when tradition says William Shakespeare was born. Shakespeare has been called the greatest writer in the English language.\n\nMany people consider English as the unofficial “world language” because it is so widely used. English is the main language of business and aviation. It is the most widely used language on the Internet and social media.\n\nThe first English Language Day was the result of work by the United Nations. A few years ago, the U.N.’s Educational, Scientific and Cultural Organization created Language Days for each of the U.N.’s six official languages.\n\nThe United Nations celebrated its first English Language Day on April 23, 2010. That day, a number of events were held at the U.N.’s headquarters in New York City. This year, the TOEFL program has announced plans for a ‘live’ question and answer chat on the social media website Facebook. TOEFL is also known as the Test of English as a Foreign Language. The group says the program is for students interested in learning more about its test and the English language.",
+  "questions": [
+    {
+      "question": "When does the tradition say William Shakespeare was born?",
+      "options": [
+        "March 15",
+        "April 23",
+        "June 5",
+        "October 12"
+      ],
+      "answer": "April 23"
+    },
+    {
+      "question": "Where are the United Nations headquarters?",
+      "options": [
+        "Geneva",
+        "Paris",
+        "New York City",
+        "London"
+      ],
+      "answer": "New York City"
+    },
+    {
+      "question": "In what year was the first English Language Day celebrated?",
+      "options": [
+        "2005",
+        "2010",
+        "2015",
+        "2020"
+      ],
+      "answer": "2010"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

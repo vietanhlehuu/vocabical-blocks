@@ -1,0 +1,60 @@
+{
+  "title": "Major Snowstorm Bears Down on Eastern US",
+  "introduction": null,
+  "image": {
+    "id": "e45e0c18-0eab-11e7-b46d-3bc610b953c2",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/65oYGSAba0fO5NdGb4YcJ7.jpeg",
+    "dimensions": {
+      "x": 640,
+      "y": 480
+    },
+    "attribution": "Mzajac at en.wikipedia / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/34EUziFBNbdsU64dss3Q8i.mpga",
+  "main_content": "The U.S. East Coast is preparing for a major snowstorm that weather experts are calling “historic” even before any snow falls.\n\nThe storm could produce blizzard conditions in Washington, D.C., Baltimore and New York City. At least 15 states expect heavy snow until Sunday.\n\nWeather officials expect between 30 and 90 centimeters of snow. Officials expect strong winds, ice and flooding during the storm.\n\nSome cities and states, including Washington and Maryland, have declared states of emergency.\n\nResidents of the nation’s capital experienced winter weather earlier this week. Washington had 5 centimeters of snow.\n\nLeading up to the weekend storm, supplies are difficult to find at hardware stores and grocery stores. Supplies of bottled water, wood for fires and snow shovels are limited.\n\nSchools in the Washington area closed on Friday. The federal government only required its employees to work for half the day on Friday.",
+  "questions": [
+    {
+      "question": "What is the U.S. East Coast preparing for?",
+      "options": [
+        "A major heatwave",
+        "A historic snowstorm",
+        "An unprecedented flood",
+        "A severe drought"
+      ],
+      "answer": "A historic snowstorm"
+    },
+    {
+      "question": "What supplies are limited?",
+      "options": [
+        "Non-perishable food and cooking gas",
+        "Bottled water, wood for fires and snow shovels",
+        "Medical supplies and clothing",
+        "Fuel and car batteries"
+      ],
+      "answer": "Bottled water, wood for fires and snow shovels"
+    },
+    {
+      "question": "How much snow did Washington have?",
+      "options": [
+        "10 centimeters",
+        "5 centimeters",
+        "15 centimeters",
+        "No snow was reported"
+      ],
+      "answer": "5 centimeters"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

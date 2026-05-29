@@ -1,0 +1,60 @@
+{
+  "title": "Hawaii Volcanoes National Park: A Fiery World",
+  "introduction": null,
+  "image": {
+    "id": "a276699b-1dfb-4133-9bac-b3b643223075",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4wYs2bgdcry7UaotMdgGjl.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 297
+    },
+    "attribution": "Brocken Inaglory / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/270syj5abWYPZmtl13ZGiD.mpga",
+  "main_content": "Most people would say that the tallest mountain on Earth is Mount Everest, near the border between Nepal and Tibet.\n\nBut there exists a mountain that is 300 meters taller than Mount Everest. Most of it is underwater, however. Its name is Mauna Loa.\n\nIn the Hawaiian language, Mauna Loa means “Long Mountain.”\n\n​Mauna Loa is the largest volcano on Earth. It last burst in 1984. Today, Mauna Loa is quiet. But volcano experts say it is only a matter of time before it bursts again.\n\nMauna Loa is one of two volcanoes within Hawaii Volcanoes National Park. The other is Kilauea. It is the most active volcano in the world.\n\nThat volcanic action is one of many unusual features at Hawaii Volcanoes National Park.\n\nThe park’s volcanic landscape is almost otherworldly.\n\nIt is home to many native plants and animals. Many endangered species live within the park, such as the hawksbill turtle, the Hawaiian hawk and Hawaiian goose, or nene.",
+  "questions": [
+    {
+      "question": "How many meters is Mauna Loa taller than Mount Everest?",
+      "options": [
+        "300 meters",
+        "500 meters",
+        "200 meters",
+        "150 meters"
+      ],
+      "answer": "300 meters"
+    },
+    {
+      "question": "What does Mauna Loa mean in the Hawaiian language?",
+      "options": [
+        "High Mountain",
+        "Long Mountain",
+        "Great Mountain",
+        "Endless Mountain"
+      ],
+      "answer": "Long Mountain"
+    },
+    {
+      "question": "What are the 2 volcanoes in the Hawaii Volcanoes National Park?",
+      "options": [
+        "Mauna Kea and Kilauea",
+        "Mauna Loa and Kilauea",
+        "Kilauea and Mauna Nui",
+        "Haleakalā and Kilauea"
+      ],
+      "answer": "Mauna Loa and Kilauea"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

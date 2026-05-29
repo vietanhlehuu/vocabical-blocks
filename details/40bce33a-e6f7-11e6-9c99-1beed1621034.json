@@ -1,0 +1,60 @@
+{
+  "title": "NASA Test Launches Its New Orion Spacecraft",
+  "introduction": null,
+  "image": {
+    "id": "e457f0bc-0eab-11e7-b0db-430327512fa4",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1Dytl5annxvUUsgJvcL5Ft.jpeg",
+    "dimensions": {
+      "x": 473,
+      "y": 600
+    },
+    "attribution": "Bill Ingalls / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5JuLoVYaBlROo97ehsRtY3.mpga",
+  "main_content": "The United States space agency has successfully tested a new spacecraft that one day could carry astronauts to Mars and beyond.\n\nThe National Aeronautics and Space Administration, NASA, launched the Orion spacecraft from Cape Canaveral Air Force Station in Florida. Less than five hours later, Orion landed in the Pacific Ocean near Baja California.\n\nNASA scientists used the flight to test the launch, control and reentry systems of the new exploration vehicle. NASA scientists were especially interested in how the spaceship’s heat shield would perform as it faced temperatures of 2,200 degrees Celsius during reentry.\n\nFor NASA, Orion represents a return to manned exploration of space after the retirement of the space shuttle in 2011. The agency hopes Orion will be able to carry humans to, what it calls, deep space: the Moon, Mars or beyond.\n\nOrion has three main parts: the crew module, the service module and the launch abort system. When fully developed, the crew module will hold four astronauts.\n\nLockheed Martin Program Manager Mike Hawes said the aviation systems were ready and much of the computer software was complete. But, he said life support systems for astronauts were not ready and would not be part of the test.\n\nNASA scientists are calling the test, Exploration Flight Test-1. They say Orion will travel 5,800 kilometers into space and orbit the earth twice before splashing down in the ocean.",
+  "questions": [
+    {
+      "question": "What is the name of the new spacecraft tested by NASA?",
+      "options": [
+        "Apollo",
+        "Orion",
+        "Gemini",
+        "Voyager"
+      ],
+      "answer": "Orion"
+    },
+    {
+      "question": "What are the three main parts of the Orion spacecraft?",
+      "options": [
+        "Payload, engine, navigation",
+        "Crew module, service module, launch abort system",
+        "Command module, control panel, life support",
+        "Launch system, propulsion, orbital module"
+      ],
+      "answer": "Crew module, service module, launch abort system"
+    },
+    {
+      "question": "Which system was not ready for astronauts during the test flight?",
+      "options": [
+        "Heat shield",
+        "Navigation systems",
+        "Life support systems",
+        "Cooling systems"
+      ],
+      "answer": "Life support systems"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

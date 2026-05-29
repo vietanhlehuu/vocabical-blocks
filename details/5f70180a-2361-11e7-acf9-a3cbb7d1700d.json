@@ -1,0 +1,60 @@
+{
+  "title": "US CEO Cuts Own Pay, Ups Employees’ to $70K a Year",
+  "introduction": null,
+  "image": {
+    "id": "241534ff-ad4d-46d4-81d4-8410d762a70c",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/165PkpkMXYHNTXXOfNoP9w.png",
+    "dimensions": {
+      "x": 512,
+      "y": 156
+    },
+    "attribution": "Gravity Payments / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7HWPR8sgxvXJPUKhWZal2T.mpga",
+  "main_content": "The founder of a credit card payments company in the western U.S. city of Seattle is taking a huge pay-cut in order to give every one of his employees a big raise.\n\nDan Price, owner of Gravity Payments, told his employees this week that he is slashing his own $1 million per year salary to $70,000. He will use that money and company profits so every employee would earn a base salary of $70,000, to be phased in over three years.\n\nHe says the cost of living is rising rapidly in Seattle and the salaries should increase with it. The company currently pays an average of $48,000 a year to its 120 employees. Seventy of them will see a wage increase under this plan and 30 of them will see their salaries double.\n\nPrice’s announcement at a company meeting brought wild applause from his employees, with some saying it would enable them to start a family sooner, buy a home or pay off credit card debts or student loans.\n\nEarlier this month, Seattle’s minimum wage law went into effect, which will eventually raise base hourly pay to $15. It’s phased in more quickly for big companies. Large businesses and national chains had to raise their minimum wage to at least $11 an hour when the law took effect April 1, while smaller businesses now must pay at least $10 per hour.\n\nWashington state already has the nation’s highest minimum wage at $9.47 an hour.",
+  "questions": [
+    {
+      "question": "What kind of company did Dan Price found, according to the article?",
+      "options": [
+        "A credit card payments company",
+        "A technology startup",
+        "A real estate firm",
+        "A non-profit organization"
+      ],
+      "answer": "A credit card payments company"
+    },
+    {
+      "question": "Why will Dan Price cut his $1 million salary?",
+      "options": [
+        "To give raises to his employees",
+        "To reinvest in company growth",
+        "To fund a new product line",
+        "To improve company marketing efforts"
+      ],
+      "answer": "To give raises to his employees"
+    },
+    {
+      "question": "What reason does Price give for raising salaries?",
+      "options": [
+        "The cost of living is rising rapidly in Seattle",
+        "He wants to comply with federal tax rules",
+        "The company is opening new offices overseas",
+        "He wants to reduce employee turnover"
+      ],
+      "answer": "The cost of living is rising rapidly in Seattle"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

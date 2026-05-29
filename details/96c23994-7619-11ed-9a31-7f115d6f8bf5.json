@@ -1,0 +1,60 @@
+{
+  "title": "Africa Using Twitter for Political Conversations, Study Finds",
+  "introduction": null,
+  "image": {
+    "id": "96c1c554-7619-11ed-9a30-ab9f2dc4974b",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1seYZ9SQutF2XZ8RcHhMAE.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 340
+    },
+    "attribution": "Kaihsu Tai / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1SwTqCvpQDyPHKQpjIiInc.mpga",
+  "main_content": "When Africans go on Twitter, they are increasingly talking politics.\n\nA study done by Portland Communications, a London-based business, shows that nearly 10 percent of the most popular African hashtags in 2015 were related to political issues and politicians.\n\nIn the U.S. and Britain, only two percent of those conversations were about politics, the study shows.\n\n“In the U.K., we were using Twitter a lot and we wanted to know how Africa was using it. … And suddenly we noticed that everyone was curious, as well. … It showed us that people are using Twitter to have those important conversations,” Mae Dobbs, Portland’s senior account executive, told VOA.\n\nPortland says it analyzed 1.6 billion geo-located tweets to determine the 5,000 most popular hashtags in Africa during 2015.\n\nThe report says Nigeria, South Africa, Ethiopia, Burundi and Egypt were the most active countries in the political conversations.\n\nIt notes that 77 percent of the tweets were in English.\n\n“Our thoughts on the language is that the popularity of English has snowballed to the point where people want to use it on social media in order to be part of the global conversation,” Dobbs said.\n\nEgypt tweeted more than any other country in Africa, with about 450 million tweets. Among sub-Saharan countries, Nigeria led with 350 million tweets, followed by South Africa with 325 million.\n\nDobbs says people may feel more comfortable expressing their political opinions online.\n\nDobbs adds that journalists confirmed they used Twitter to obtain information when “it is a bit harder to do in a formal setting.” Portland says it may repeat its study in a year or two to track changes and compare information.",
+  "questions": [
+    {
+      "question": "Are political conversations on Twitter popular in the U.S. and Britain?",
+      "options": [
+        "Yes, they are very popular with over 10 percent of conversations.",
+        "No, they only make up about two percent of the conversations.",
+        "They are moderately popular, making up five percent.",
+        "Yes, but only in specific regions of the U.S. and Britain."
+      ],
+      "answer": "No, they only make up about two percent of the conversations."
+    },
+    {
+      "question": "How many tweets were analyzed as part of the study?",
+      "options": [
+        "500 million tweets were analyzed.",
+        "1.6 billion tweets were analyzed.",
+        "1.2 billion tweets were analyzed.",
+        "2 billion tweets were analyzed."
+      ],
+      "answer": "1.6 billion tweets were analyzed."
+    },
+    {
+      "question": "What language was mainly used in the tweets that were analyzed?",
+      "options": [
+        "French",
+        "Swahili",
+        "Arabic",
+        "English"
+      ],
+      "answer": "English"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

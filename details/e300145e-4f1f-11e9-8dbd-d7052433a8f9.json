@@ -1,0 +1,60 @@
+{
+  "title": "Adele US Concert Tickets Sell in Minutes",
+  "introduction": null,
+  "image": {
+    "id": "e2ffdda4-4f1f-11e9-8dbc-8f905e5980a1",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/0yKO2O0RV6yDpQGRYQB6cG.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Egghead06 / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6MR9PFpSbGQaNf0FdaaPEJ.mpga",
+  "main_content": "In several hundred seconds, thousands of Adele concert tickets were bought throughout North America.\n\nAn estimated 10 million people went online or stood in line to purchase tickets to Adele’s 2016 North American tour.\n\nSome fans said all tickets were sold in 120 seconds.\n\nFans reported getting stuck online for 45 minutes or more on ticketing websites. Many of those fans came away with no tickets.\n\nAdele’s manager told Rolling Stone magazine that the singer’s team has “done everything within our power to get as many tickets as possible in the hands of the fans.”\n\nTicketing resale websites like Stubhub and EBay posted Adele tickets minutes following the public sale.\n\nThe official ticket prices ranged from $40 to $750.\n\nTickets for the singer’s UK and European concert tour were also sold out within minutes.",
+  "questions": [
+    {
+      "question": "How many people stood in line or waited online for the tickets?",
+      "options": [
+        "5 million",
+        "10 million",
+        "2 million",
+        "15 million"
+      ],
+      "answer": "10 million"
+    },
+    {
+      "question": "Which magazine is mentioned in the article?",
+      "options": [
+        "Billboard",
+        "Rolling Stone",
+        "Variety",
+        "Pitchfork"
+      ],
+      "answer": "Rolling Stone"
+    },
+    {
+      "question": "How fast were the tickets sold?",
+      "options": [
+        "Within 30 seconds",
+        "In 120 seconds",
+        "In 300 seconds",
+        "In 60 seconds"
+      ],
+      "answer": "In 120 seconds"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

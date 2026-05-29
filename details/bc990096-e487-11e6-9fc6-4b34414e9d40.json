@@ -1,0 +1,60 @@
+{
+  "title": "South Korea Attempting to Reuse More E-Waste",
+  "introduction": null,
+  "image": {
+    "id": "2924b2a3-a481-48a1-9256-d99c2f7791de",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1FdSIDWNJsL36jJIn1x0qk.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Praveenp / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2eYBvdjip0cqHA4g344fRr.mpga",
+  "main_content": "South Korea is dealing with increasing amounts of waste from electronic devices. These useless or unwanted parts are often called “e-waste.”\n\nTons of old computers, telephones and other devices are often taken to landfills and buried under the ground. The old products may leak toxic or poisonous chemicals.\n\nNow, some local governments in South Korea are launching special e-waste recycling programs. The city of Seoul throws out about 10 tons of e-waste each year. About 20 percent of that goes to the Seoul Resource Center, also known as the SR Center. There, electronic devices are taken apart so that valuable metals like gold or copper can be extracted and reused. South Korean officials say metal extraction is a $3.8 billion-dollar industry.\n\nJi Un-geun is the chief executive officer of the SR Center. He says reusing electronic parts is not only about earning profits. He says the goal is to protect the environment.\n\nThe increase of e-waste is not only a concern in South Korea. The United Nations says millions of tons of e-waste end up in developing countries. Toxic materials like lead and mercury can create a severe health risk to the local population.\n\nBut some environmental groups say not enough is being done to limit the amount of electronics sent to landfills. South Koreans keep buying more and more electronic gadgets. Some experts estimate that only 21 percent of the country’s total e-waste gets properly recycled.\n\nLee Joo-hong is with the Green Consumers Network. He says the average South Korean buys a new mobile phone every 18 months. He says companies offer special deals to buy new products.\n\nHe says, “People change their phones so quickly partially because companies offer big subsidies to buy new products. And Korean consumers do not want to feel left out by not having the latest model.”\n\nJi Un-geun agrees with Lee Joo-hong. He says that consumer behavior is a big reason why old phones continue to appear at the recycling center. But he says he is doing his part to reduce that.",
+  "questions": [
+    {
+      "question": "What is “e-waste”?",
+      "options": [
+        "A type of waste specifically derived from kitchen appliances",
+        "Unwanted or useless parts from electronic devices",
+        "Biodegradable waste from the electronic manufacturing process",
+        "Recyclable materials from household products"
+      ],
+      "answer": "Unwanted or useless parts from electronic devices"
+    },
+    {
+      "question": "What can materials like lead and mercury do?",
+      "options": [
+        "Enhance the performance of electronic devices",
+        "Create a severe health risk to the local population",
+        "Increase the value of recycled electronic parts",
+        "Improve waste management techniques"
+      ],
+      "answer": "Create a severe health risk to the local population"
+    },
+    {
+      "question": "Why do people in South Korea change their phones so quickly?",
+      "options": [
+        "They prefer older models for their simplicity",
+        "Companies offer big subsidies for new products",
+        "There is a lack of available smartphones in the market",
+        "Consumers are more environmentally conscious"
+      ],
+      "answer": "Companies offer big subsidies for new products"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

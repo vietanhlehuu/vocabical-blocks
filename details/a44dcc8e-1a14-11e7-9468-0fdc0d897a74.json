@@ -1,0 +1,60 @@
+{
+  "title": "Pumpkins More Popular than Ever in US",
+  "introduction": null,
+  "image": {
+    "id": "98879bbd-5899-4998-a052-0b1ced151420",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4doo1hcA1EqwGY75GabCfg.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 363
+    },
+    "attribution": "Frenchtowner / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4sqoRjAeVSwjRADsm27kGO.mpga",
+  "main_content": "October means many things. It means Halloween, harvest season, or just the arrival of fall, and falling leaves. But no matter which part of October you celebrate, the pumpkin is likely to be part of the party.\n\nAt Cox Farms Fall Festival in the Washington suburbs, picking out the perfect pumpkins is a big part of fun.\n\n“Every year we come here. Bring the family out for the festival and get the pumpkins for Halloween carving. It is just a family tradition,” said a visitor.\n\n“These big guys are about 25 pounds. This white blueish one, we are going to eat that one,” said another.\n\nThe pick-your-own farm offers a variety of pumpkins and gourds in different sizes, shapes and colors.\n\n”We offer 40 or 50 different varieties of pumpkins, and all together 150,000 pumpkins will go through this place,” said Lucas Cox, co-owner of Cox Farms.\n\nLucas Cox, second generation co-owner, says his family has been holding this fall festival since 1983, and it has grown every year.\n\n“We have over 100, 000 visitors for the season. I think Halloween is the fastest growing holiday in the US. And the pumpkins are the staple of Halloween. You cannot have Halloween without pumpkins. So that means pumpkin business is growing every year,” said Cox.\n\nAs the weather cools, pumpkins appear on front porches, roadside stands pop up everywhere, and grocery stores overflow with pumpkins and pumpkin products.\n\nAccording to a market research firm, Americans spent more than $350 million on pumpkin-flavored products last year.\n\n“We are selling pumpkin spice [drinks] from early September through mid-November and it sells really well,” said barista Marcia Vernor.",
+  "questions": [
+    {
+      "question": "What are some of the things related to October?",
+      "options": [
+        "The arrival of spring and summer activities",
+        "Halloween, harvest season, and falling leaves",
+        "Beach vacations and summer barbeques",
+        "Snowfall and winter sports"
+      ],
+      "answer": "Halloween, harvest season, and falling leaves"
+    },
+    {
+      "question": "How many pumpkins does Cox Farms sell every year?",
+      "options": [
+        "About 150,000 pumpkins",
+        "Approximately 100,000 pumpkins",
+        "Roughly 200,000 pumpkins",
+        "At least 50,000 pumpkins"
+      ],
+      "answer": "About 150,000 pumpkins"
+    },
+    {
+      "question": "What is Halloween’s staple product, according to the article?",
+      "options": [
+        "Candies and sweets",
+        "Ghost decorations",
+        "Pumpkins",
+        "Costumes"
+      ],
+      "answer": "Pumpkins"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

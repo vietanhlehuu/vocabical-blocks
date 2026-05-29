@@ -1,0 +1,60 @@
+{
+  "title": "Education Activist Praises Gains for Girls in Uganda",
+  "introduction": null,
+  "image": {
+    "id": "9094538a-e57c-11ee-93c1-3fb109768a6b",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6kHg8ACszVDClryjg04lYN.jpeg",
+    "dimensions": {
+      "x": 800,
+      "y": 600
+    },
+    "attribution": "User:Fæ / www.flickr.com / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6FlwDEw9B3WIVBdUZldKH4.mpga",
+  "main_content": "Award-winning Ugandan education activist Beatrice Ayuru says thousands of girls have reached her dream of a good education for Ugandan children. But she says the struggle to guarantee schooling for all is far from over.\n\nMs. Ayuru spoke at a TEDx event in Geneva, Switzerland. TED is a nonprofit group that works to share information and ideas by organizing short, public speeches.\n\nFor her TED talk, Ms. Ayuru discussed her long and successful struggle to establish a school in a rural area of northern Uganda.\n\nIn 2000, she opened Lira Integrated School in a poor area of the city of Lira.\n\nThe story of Ms. Ayuru’s activism begins in own childhood. She was one of 16 children in a polygamous family. Her father valued education and supported her desire for it. But she said the poverty and cultural barriers affecting women in her society worked against her.\n\nIn 2007, the LRA lost its fight for control of northern Uganda and fled the area. Beatrice Ayuru’s school has been doing well ever since. It teaches 1,500 students from nursery through high school. The cost to attend is about 90 dollars a year. Many parents cannot pay. So the school gives financial help to 100 children who lack money but show promise.\n\nLira Integrated School accepts both girls and boys. Ms. Ayuru says having both sexes study together is important because it helps boys to respect girls.",
+  "questions": [
+    {
+      "question": "Where did Beatrice Ayuru make a speech?",
+      "options": [
+        "At a school in Uganda",
+        "At a TEDx event in Geneva",
+        "At a conference in Nairobi",
+        "At a governmental meeting in Kampala"
+      ],
+      "answer": "At a TEDx event in Geneva"
+    },
+    {
+      "question": "When and where was Lira Integrated School opened?",
+      "options": [
+        "In 2005, in Kampala",
+        "In 2000, in Lira",
+        "In 2010, in Gulu",
+        "In 1998, in Soroti"
+      ],
+      "answer": "In 2000, in Lira"
+    },
+    {
+      "question": "Why Beatrice Ayuru say that it is important to have both sexes study together?",
+      "options": [
+        "It promotes competition among students",
+        "It encourages financial support from parents",
+        "It helps boys to respect girls",
+        "It improves academic performance"
+      ],
+      "answer": "It helps boys to respect girls"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

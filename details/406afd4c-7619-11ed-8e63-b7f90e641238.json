@@ -1,0 +1,60 @@
+{
+  "title": "Migrants Being Helped to Leave Libya",
+  "introduction": null,
+  "image": {
+    "id": "406a87fe-7619-11ed-8e62-93d166af0145",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6ya3OrsyKLSV05pw1fk1k6.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 342
+    },
+    "attribution": "Ggia / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1v6e4KyRn2wtjGCxb39XO4.mpga",
+  "main_content": "More migrants are leaving Libya after being abused, mostly by police and militias.\n\nThe International Organization for Migration reports it has helped thousands of people leave Libya to return to Burkina Faso, Gambia and Senegal, among other countries.\n\nA few days ago, the group returned 117 migrants to Burkina Faso, including five women and two children.\n\nItayi Viriri is a spokesman for the group. He said the migrants told the IOM about poor treatment by militias and employers. He said many young men told the group they had worked for weeks without being paid.\n\nA recent United Nations report said government officials, armed groups and smugglers have violated the rights of migrants in Libya. Many migrants have been tortured, forced to work without pay, and have suffered other kinds of abuse, the report said.\n\nViriri told VOA that some African migrants reported being beaten and threatened with other forms of poor treatment.",
+  "questions": [
+    {
+      "question": "Why are migrants leaving Libya?",
+      "options": [
+        "They are seeking better job opportunities in Europe.",
+        "They have faced abuse from police and militias.",
+        "They want to reunite with family members abroad.",
+        "They are escaping natural disasters in their home countries."
+      ],
+      "answer": "They have faced abuse from police and militias."
+    },
+    {
+      "question": "Which organization has helped thousands of people leave Libya?",
+      "options": [
+        "United Nations Development Programme (UNDP)",
+        "International Organization for Migration (IOM)",
+        "Amnesty International",
+        "Human Rights Watch"
+      ],
+      "answer": "International Organization for Migration (IOM)"
+    },
+    {
+      "question": "How have the rights of migrants in Libya been violated?",
+      "options": [
+        "They have received generous financial aid.",
+        "They have been granted asylum status.",
+        "They have been tortured and forced to work without pay.",
+        "They have been offered free healthcare services."
+      ],
+      "answer": "They have been tortured and forced to work without pay."
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

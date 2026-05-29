@@ -1,0 +1,60 @@
+{
+  "title": "Boy’s ‘Mayan’ Discovery Not Likely a Lost City",
+  "introduction": null,
+  "image": {
+    "id": "2c8e5294-af8e-11ec-9817-838265d6cb21",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6460eP4jEd4sZjgdgZV1Sm.jpeg",
+    "dimensions": {
+      "x": 1280,
+      "y": 853
+    },
+    "attribution": "Bruno Girin / Wikimedia Commons / CC-BY-SA-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2FDTyIH0oIVTx9f1mu6f0T.mpga",
+  "main_content": "This week, news spread that a 15-year-old boy from Quebec, Canada, may have discovered a lost Mayan city.\n\nA few years ago, Gadoury won a competition that let him present his theory at a conference. Next to him at the conference were the Canadian Space Agency representatives. The agency decided to help Gadoury with his research by pointing one of its satellites at an area in Mexico. The area was where Gadoury predicted he would find evidence of a lost Mayan city.\n\nAs Wired.com reported, the satellite images did seem to show possible “man-made structures.”\n\nNews that a Canadian teenager possibly discovered a “lost Mayan city” went viral on Tuesday.\n\nBut, within hours, experts were saying that people were getting too excited too quickly.\n\nExperts say the ruins that appear in the satellite images are probably an old field.\n\nBut, the experts also praised the 15-year-old for his dedication to his research.",
+  "questions": [
+    {
+      "question": "How old was the boy who made the discovery?",
+      "options": [
+        "10 years old",
+        "12 years old",
+        "15 years old",
+        "17 years old"
+      ],
+      "answer": "15 years old"
+    },
+    {
+      "question": "Who helped the boy?",
+      "options": [
+        "His family",
+        "The Canadian Space Agency",
+        "His school",
+        "Local historians"
+      ],
+      "answer": "The Canadian Space Agency"
+    },
+    {
+      "question": "What did experts say?",
+      "options": [
+        "The discovery was substantial.",
+        "The ruins were likely a field.",
+        "The boy was mistaken.",
+        "The satellite technology was flawed."
+      ],
+      "answer": "The ruins were likely a field."
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

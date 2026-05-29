@@ -1,0 +1,60 @@
+{
+  "title": "‘Amazing’ Glimpses of Pluto from Space Probe Dazzle NASA",
+  "introduction": null,
+  "image": {
+    "id": "b355029a-47d3-4d3d-8918-a3c2df894383",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5SOTWq8LQZnj5a3oxYkU31.jpeg",
+    "dimensions": {
+      "x": 600,
+      "y": 600
+    },
+    "attribution": "NASA/JHUAPL/SWRI / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7kJ677uzgCRndpKYEW5Lkc.mpga",
+  "main_content": "U.S. space researchers say it is “amazing” and “fun” to see the images sent back by the New Horizons probe as it gradually moves closer to Pluto.\n\nThe probe will make its closest pass to Pluto on Tuesday when it will be just about 12,500 kilometers (about 7,800 miles) from the surface.\n\nBut scientists have been thrilled by what New Horizons has sent back so far, calling it a whole new view of Pluto.\n\n“It’s just amazing what we are seeing now,” NASA’s John Spencer said Saturday. “We are seeing these crazy black-and-white patterns. We have no idea what those mean. We are seeing a lot of circular things that we are wondering are those craters or are they something else. … We are having a lot of fun just really speculating.”\n\nThe planets in the solar system travel in elliptical orbits, not perfect circles, so the distance between their paths changes. Right now, Pluto is about 4.8 billion kilometers, or almost 3 billion miles, from Earth.\n\nNASA launched New Horizons in 2006, just before the International Astronomical Union reclassified Pluto as a “dwarf” planet. The Union said Pluto lies in a region of the outer solar system beyond the other planets called the Kuiper Belt. Other astronomers still regard Pluto as a full planet.\n\nNASA scientists say this first close-up exploration of the Kuiper Belt will give them a look at what the solar system was like just after it was formed and possibly more information on how life on Earth developed.",
+  "questions": [
+    {
+      "question": "What are scientists amazed at seeing?",
+      "options": [
+        "The beauty of the night sky",
+        "The reclassification of Pluto as a dwarf planet",
+        "The images sent back by the New Horizons probe",
+        "The distance of stars from Earth"
+      ],
+      "answer": "The images sent back by the New Horizons probe"
+    },
+    {
+      "question": "What are scientists seeing on the images?",
+      "options": [
+        "Clear images of other planets",
+        "Detailed features of Pluto including textures and patterns",
+        "A perfect circular orbit of Pluto",
+        "Only craters and no other formations"
+      ],
+      "answer": "Detailed features of Pluto including textures and patterns"
+    },
+    {
+      "question": "How far from Earth is Pluto right now?",
+      "options": [
+        "About 4.8 billion kilometers",
+        "Approximately 12,500 kilometers",
+        "Around 3 billion miles",
+        "Both A and C are correct"
+      ],
+      "answer": "Both A and C are correct"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

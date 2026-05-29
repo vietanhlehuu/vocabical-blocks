@@ -1,0 +1,60 @@
+{
+  "title": "How 3-D Printing Can Create Tissue from Stem Cells",
+  "introduction": null,
+  "image": {
+    "id": "8e4fc64e-398b-4e40-9725-9d3eafb46553",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4KXMmpAm3exPyYsnQG9wRf.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 769
+    },
+    "attribution": "Bre Pettis / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0R30P9OMrCDWy5iR3C2TL2.mpga",
+  "main_content": "An Israeli company Nano Dimension, uses a specialized 3-D printer to create an environment in which stem cells could grow into tissue. Stem cells can develop into many different kinds of cells in the body. One kind, called induced pluripotent stem cells (IPS), are used to replace tissues. Nano Dimension is partnering with another Israeli company, Accellta, a developer of technologies to produce IPS cells. The companies have yet to produce fully functional human tissue. Amit Dror is the head of Nano Dimension. Special ink containing living stem cells, Dror said. Production of complex tissues, such as full organs, is still years away from happening. So 3-D printing would likely be more successful in producing simpler tissues like skin or muscle.",
+  "questions": [
+    {
+      "question": "Which two companies are working on the creation/development of the technology?",
+      "options": [
+        "Nano Dimension and Accellta",
+        "Nano Dimension and BioTech Innovations",
+        "Accellta and FutureGen Corp",
+        "StemCell Solutions and Nano Dimension"
+      ],
+      "answer": "Nano Dimension and Accellta"
+    },
+    {
+      "question": "Has functional tissue been 3-D printed yet?",
+      "options": [
+        "Yes, fully functional human tissue has been produced",
+        "No, they are still in the development phase",
+        "Yes, but only skin tissues",
+        "No, but successful muscle tissues have been created"
+      ],
+      "answer": "No, they are still in the development phase"
+    },
+    {
+      "question": "What will the 3-D printing be more successful in producing?",
+      "options": [
+        "Complex organs like hearts and lungs",
+        "Simple tissues like skin or muscle",
+        "Induced pluripotent stem cells",
+        "Advanced neural tissues"
+      ],
+      "answer": "Simple tissues like skin or muscle"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

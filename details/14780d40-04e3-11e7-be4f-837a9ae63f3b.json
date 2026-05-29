@@ -1,0 +1,60 @@
+{
+  "title": "IOC: 31 Athletes From 2008 Olympics Test Positive for Doping",
+  "introduction": null,
+  "image": {
+    "id": "78dbb695-5357-4149-842b-a9d2bcb85b0a",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3g3UHdOnYfZ9tRpZtrRMWQ.jpeg",
+    "dimensions": {
+      "x": 699,
+      "y": 508
+    },
+    "attribution": "papparazzi.... / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3Trp2mzcJ9qv94TaCJ6SOv.mpga",
+  "main_content": "In a major crackdown of Olympic drug cheats, the International Olympic Commission announced that 31 athletes could be banned from this year’s Olympic Games in Rio after a re-testing of their samples from the 2008 Olympic Games, came back positive for banned substances.\n\nThe IOC says it has begun disciplinary actions against the 31 athletes who come from 12 countries and competed in six sports in the Beijing Games.\n\nThe positive tests came amid a recent re-testing of 454 doping samples from the 2008 Beijing Olympics. IOC officials say they are also awaiting results from re-testing of 250 samples from the 2012 Games in London.\n\nThe IOC says the testing focused on athletes who could compete in August at the Olympic Games in Rio de Janeiro.\n\n“All those athletes infringing anti-doping rules will be banned from competing at the Olympic Games,” the IOC said in a statement on its website.\n\nThe IOC says it will also undertake a wider re-testing program of medalists from the Beijing and London games. Samples of athletes who could be awarded medals after the disqualification of others will also be re-tested.\n\nThe IOC said it has also called on the World Anti-Doping Agency (WADA) to launch a “fully fledged investigation” into allegations that drug testing at the 2014 Sochi Olympics was subverted by Russian officials.\n\n“All these measures are a powerful strike against the cheats we do not allow to win,” said the IOC President Thomas Bach.\n\n“The re-tests from Beijing and London and the measures we are taking following the worrying allegations against the laboratory in Sochi are another major step to protect the clean athletes, irrespective of any sport or any nation.”",
+  "questions": [
+    {
+      "question": "Why could 31 athletes be banned from this year’s Olympic Games in Rio?",
+      "options": [
+        "They failed to meet the age eligibility requirements.",
+        "Their samples from the 2008 Olympic Games tested positive for banned substances.",
+        "They were found to have violated athlete conduct policies.",
+        "They did not compete in the required qualifying events."
+      ],
+      "answer": "Their samples from the 2008 Olympic Games tested positive for banned substances."
+    },
+    {
+      "question": "How many different nationalities do the 31 athletes have?",
+      "options": [
+        "8 nationalities",
+        "12 nationalities",
+        "6 nationalities",
+        "31 nationalities"
+      ],
+      "answer": "12 nationalities"
+    },
+    {
+      "question": "What allegations were made regarding the Sochi Olympics?",
+      "options": [
+        "That athletes were using performance-enhancing methods more than ever.",
+        "That drug testing was altered by officials to favor certain athletes.",
+        "That athletes were not being tested at all during the event.",
+        "That the weather conditions affected the validity of the tests."
+      ],
+      "answer": "That drug testing was altered by officials to favor certain athletes."
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

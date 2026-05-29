@@ -1,0 +1,60 @@
+{
+  "title": "Vietnam Slow To Start Up Renewable Energy",
+  "introduction": null,
+  "image": {
+    "id": "e45da9da-0eab-11e7-b431-ebbf9a7bbde5",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5nHumaXUJF6xH7b3pUZbfu.jpeg",
+    "dimensions": {
+      "x": 500,
+      "y": 326
+    },
+    "attribution": "USGov / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/25ZO8JtuA2jetqTZObNv9H.mpga",
+  "main_content": "With plenty of sunshine and ocean winds, Vietnam seems like the right place to capture energy from the sun and wind. But there are only three big wind farms producing electricity and no considerable solar investment. That puts Vietnam far behind Indonesia,Thailand and other Asian countries in the development of renewable energy.\n\nMr. Potash spoke earlier this month at the U.S.-Vietnam Clean Energy Conference in Ho Chi Minh City. Most people at the conference pushed for Vietnam to develop alternative energy sources, like solar and wind power. But doing so would mean the state power company, Electricity Vietnam (EVN), would raise its prices. This could cause political problems. It might invite criticism from Vietnamese consumers who want low prices and do not trust the state-owned EVN.\n\nNguyen Anh Tuan is chief editor of the Vietnam Investment Review. He said policymakers are trying to find a balance, so Vietnam can have reasonably priced, yet sustainable energy.\n\nIn addition to wind and sunlight, Vietnam is working on rules to support energy produced from other sources.",
+  "questions": [
+    {
+      "question": "Where was the U.S.-Vietnam Clean Energy Conference held?",
+      "options": [
+        "Hanoi",
+        "Da Nang",
+        "Ho Chi Minh City",
+        "Nha Trang"
+      ],
+      "answer": "Ho Chi Minh City"
+    },
+    {
+      "question": "What is EVN?",
+      "options": [
+        "Vietnam's largest energy consumer",
+        "A private solar company",
+        "State power company of Vietnam",
+        "An international energy organization"
+      ],
+      "answer": "State power company of Vietnam"
+    },
+    {
+      "question": "What type of problems can developing alternative energy sources cause to Vietnam?",
+      "options": [
+        "Enhancing international trade relations",
+        "Political problems due to potential price increases",
+        "Improving energy independence",
+        "Reducing energy supply challenges"
+      ],
+      "answer": "Political problems due to potential price increases"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

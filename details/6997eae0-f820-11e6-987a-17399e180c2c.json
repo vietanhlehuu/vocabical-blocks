@@ -1,0 +1,60 @@
+{
+  "title": "Group Gives Poor Children Chance to Play Sports",
+  "introduction": null,
+  "image": {
+    "id": "251585b3-30e7-4863-bfa6-adebd09a93e2",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/17yYD7hme5lkrmrbZBOajS.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 291
+    },
+    "attribution": "Tysto / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3vn30009kbBoM1zbq6S0q8.mpga",
+  "main_content": "Playing a sport can help children in many ways. But poor children often cannot play sports because their families do not have the money to buy the equipment their children need.\n\nMax Levitt wanted to change that. He had worked in college athletics and youth sports. These experiences helped him find a solution to the problem.\n\nLevitt created a group called Leveling the Playing Field four years ago. The non-profit organization collects used sports equipment and gives it to children who need it.\n\nLevitt says he saw a huge waste of sporting equipment in America.\n\nSo Levitt started collecting used equipment and storing it in his parents’ home. Now, he keeps it in a 370-square-meter space in a storage building.\n\nLevitt says sports can help children lead healthier lifestyles.\n\nLeveling the Playing Field has given more than $1.4 million worth of sporting equipment in and near Washington, DC. It has helped more than 100,000 children.\n\nLevitt says he wants to bring his organization to other cities to give every child a chance to play sports.",
+  "questions": [
+    {
+      "question": "Who started the group Leveling the Playing Field?",
+      "options": [
+        "Max Levitt's parents",
+        "A group of college athletes",
+        "Max Levitt",
+        "A charity organization"
+      ],
+      "answer": "Max Levitt"
+    },
+    {
+      "question": "What is one of the things wasted the most in America according to the article?",
+      "options": [
+        "Food supplies",
+        "Sporting equipment",
+        "Educational resources",
+        "Healthcare services"
+      ],
+      "answer": "Sporting equipment"
+    },
+    {
+      "question": "How many children has Leveling the Playing Field helped?",
+      "options": [
+        "Over 50,000 children",
+        "More than 75,000 children",
+        "More than 100,000 children",
+        "At least 200,000 children"
+      ],
+      "answer": "More than 100,000 children"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

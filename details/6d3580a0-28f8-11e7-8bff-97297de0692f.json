@@ -1,0 +1,60 @@
+{
+  "title": "EU Official: US Mass Surveillance is a Business Problem",
+  "introduction": null,
+  "image": {
+    "id": "c57a4830-0d2b-44b4-a337-6ed9e7a0f06b",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/60dN1oHpaKwL73iQlY5ijz.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 416
+    },
+    "attribution": "Hustvedt / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3hoG8SKgUrNhmBLBWHn9q6.mpga",
+  "main_content": "A top EU official says mass surveillance by the U.S. National Security Agency is a business problem for European Internet service providers.\n\nPaul Nemitz, a European Commission official, said Monday anyone in the United States using a European-based email service risks having the NSA reading his or her messages. Nemitz said that under U.S. law, the NSA basically can grab any data it wants as the information enters the United States.\n\nHis comments come as the EU and the United States are renegotiating a data-sharing agreement that helps U.S. companies do business in Europe.\n\nA report from the Council of Europe Monday says continued mass data collection by the U.S. makes it more likely other countries will insist that their data be routed and stored locally.\n\nThe report says this would create national barriers to a global network and would slow down Internet speeds.\n\nThe European Commission is pushing for Washington to guarantee that it will only access Europeans’ personal data for national security reasons, as it says it does with U.S. citizens’ data.",
+  "questions": [
+    {
+      "question": "What did Paul Nemitz say about people using a European based email service?",
+      "options": [
+        "They are guaranteed complete privacy from U.S. surveillance.",
+        "Their messages are at risk of being accessed by the NSA.",
+        "They are subject to stricter European data protection laws.",
+        "They have better security compared to U.S.-based services."
+      ],
+      "answer": "Their messages are at risk of being accessed by the NSA."
+    },
+    {
+      "question": "At what moment do his comments come?",
+      "options": [
+        "During a discussion on cyber security in Europe.",
+        "As negotiations over a data-sharing agreement are ongoing.",
+        "After the Council of Europe released a report on data privacy.",
+        "When the EU establishes new regulations for internet services."
+      ],
+      "answer": "As negotiations over a data-sharing agreement are ongoing."
+    },
+    {
+      "question": "What will be the result of mass data collection by the US?",
+      "options": [
+        "Improved collaboration between countries on data issues.",
+        "A potential slowdown of Internet speeds due to national barriers.",
+        "Increased trust in transatlantic data exchange mechanisms.",
+        "A stronger alignment of U.S. and European data privacy laws."
+      ],
+      "answer": "A potential slowdown of Internet speeds due to national barriers."
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

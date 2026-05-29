@@ -1,0 +1,60 @@
+{
+  "title": "Revitalized US Auto Industry Focuses on Technology at Detroit Auto Show",
+  "introduction": null,
+  "image": {
+    "id": "1c40a3e4-0247-49dd-9c81-a7c1ba8d2b5b",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/0rJKCPJjuw80sF0jCL1W7X.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Varnent / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5otXXJ7BcK9DWy7WJgtrPk.mpga",
+  "main_content": "In 2009, the U.S. auto industry was on the verge of collapse, as consumers stopped buying new vehicles during the biggest economic downturn since the Great Depression.\n\nGovernment financing saved several manufacturers from shutdown and now, seven years later, a revitalized — albeit leaner — auto industry is on display at the 2016 North American International Auto Show in Detroit, Michigan. There’s more on display, and on the horizon, than just new cars and trucks.\n\nThe biggest news at this year’s auto show is not about the autos at all — it’s what manufacturers are planning to put in them.\n\n“Every automaker here at the show is launching some form of cool technology inside the vehicles, whether it’s adaptive cruise control or Smart Stop Technology, or even utilizing 3-D printing to print out and create the interior of your vehicle,” said Michael Caudill, a U.S. automotive expert.\n\nTechnology and “mobility” were, in fact, the themes of the Ford Motor Company’s presentation during the press preview this year.\n\n“Ford’s smart mobility is our plan to be a leader in connectivity, mobility, autonomous vehicles, customer experience, data and analytics,” said Ford CEO and President Mark Fields.\n\nFord is testing autonomous vehicles in various weather conditions with the hopes of having driverless cars on the road by 2020. It also is opening retail stores throughout the world where customers can interact with new technological offerings, including an app and a customer loyalty rewards program.\n\n“My great-grandfather changed the way the world moved with the Model T in very fundamental ways,” said Bill Ford Jr., the company’s executive chairman. “So we have the same opportunity now in a very different era with very different challenges in front of us.”",
+  "questions": [
+    {
+      "question": "Why was the auto industry in danger in 2009?",
+      "options": [
+        "A significant increase in vehicle prices made cars unaffordable for consumers.",
+        "A decrease in consumer demand due to the largest economic downturn since the Great Depression.",
+        "The introduction of stricter emissions regulations that made manufacturing costly.",
+        "A sudden surge in public transportation options reduced the need for personal vehicles."
+      ],
+      "answer": "A decrease in consumer demand due to the largest economic downturn since the Great Depression."
+    },
+    {
+      "question": "What is different at this auto show compared with the previous ones?",
+      "options": [
+        "There's a renewed focus on electric vehicles without any mention of traditional cars.",
+        "The display of technological advancements integrated into the vehicles rather than just the cars themselves.",
+        "A larger number of foreign manufacturers participating and showcasing their vehicles.",
+        "The introduction of a customer feedback system during the presentations."
+      ],
+      "answer": "The display of technological advancements integrated into the vehicles rather than just the cars themselves."
+    },
+    {
+      "question": "What new technologies can be put in cars now?",
+      "options": [
+        "Advanced fuel options that enhance engine performance.",
+        "Innovative connectivity features such as adaptive cruise control and Smart Stop Technology.",
+        "New safety measures that strictly enforce passenger seatbelt use.",
+        "Enhanced physical safety designs including reinforced frames and airbags."
+      ],
+      "answer": "Innovative connectivity features such as adaptive cruise control and Smart Stop Technology."
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

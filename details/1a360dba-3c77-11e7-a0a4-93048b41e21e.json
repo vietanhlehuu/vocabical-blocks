@@ -1,0 +1,60 @@
+{
+  "title": "27 Dead in Japan Landslides",
+  "introduction": null,
+  "image": {
+    "id": "488acef4-a513-47e5-b801-f74bada7e751",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2CssktmVDGdmKX6geJhIqP.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Taisyo / Wikimedia Commons / CC-BY-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/746WKKhPNPaAyFIMAL7b6w.mpga",
+  "main_content": "Japanese officials say at least 27 people were killed and 10 are missing after landslides buried dozens of houses in the outskirts of Hiroshima.\n\nTelevision footage on Wednesday showed residents and rescue workers searching through the rubble of suburban homes for survivors.\n\nJapanese Prime Minister Shinzo Abe has ordered several hundred soldiers to the area to help with rescue efforts.\n\nOne local resident, whose name was not given, said he had to act quick to escape his flooded home.\n\n“I woke up in the middle of the night and the corridor to the living room of my house was already flooded. I heard the sound of water coming in, and then the water from the river rushed into my house, so I just took the car and rushed out of the house,” said the resident.\n\nThe area received about 24 millimetres, or about a month’s worth, of rain within a 24-hour period, loosening hills already soaked by recent storms.\n\nForecasters warn that more rain is expected, saying there is a continued risk of flooding and landslides.\n\nLandslides pose a major risk in crowded Japan, where many homes are built on or near steep slopes.",
+  "questions": [
+    {
+      "question": "How many casualties have been reported after the landslides?",
+      "options": [
+        "Approximately 15 people",
+        "At least 27 people",
+        "More than 50 people",
+        "Exactly 30 people"
+      ],
+      "answer": "At least 27 people"
+    },
+    {
+      "question": "Who has the government sent to help the population in the affected area?",
+      "options": [
+        "Emergency medical teams",
+        "Several hundred soldiers",
+        "Local police forces",
+        "International aid workers"
+      ],
+      "answer": "Several hundred soldiers"
+    },
+    {
+      "question": "How much did it rain in a single day?",
+      "options": [
+        "12 millimetres",
+        "24 millimetres",
+        "36 millimetres",
+        "48 millimetres"
+      ],
+      "answer": "24 millimetres"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

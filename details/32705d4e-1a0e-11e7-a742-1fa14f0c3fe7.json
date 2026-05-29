@@ -1,0 +1,60 @@
+{
+  "title": "Deadly Cyclone Hits Fiji Causing Widespread Destruction",
+  "introduction": null,
+  "image": {
+    "id": "cd46cb52-ccc8-4e1a-81ac-9396b3e0a5d6",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6FLmMeWcZm75hfSwQHnh5i.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Australian Department of Foreign Affairs and Trade / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3CQyFRcSlMvcvN5RhO3lN8.mpga",
+  "main_content": "At least 10 people have been killed in a powerful cyclone that struck the South Pacific island nation of Fiji.\n\nAuthorities have begun deploying storm teams and cleanup crews throughout the island chain to assess the damage from Cyclone Winston, a category 5 storm with winds reaching 300 kilometers an hour and higher gusts, making it the strongest tropical cyclone to make landfall in Fiji. Initial reports say hundreds of homes have been destroyed, power lines are down and streets flooded across the archipelago.\n\nThe government has imposed a nationwide curfew and declared a month-long state of natural disaster. Scores of residents have sought shelter in evacuation centers set up across Fiji.\n\nAccording to the U.S. Joint Typhoon Warning Center, Cyclone Winston hit the north coast of Viti Levu – the main and largest island of the more than 330-island archipelago.\n\nThe cyclone affected the popular tourist resorts in Viti Levu’s west, which were closer to the cyclone’s center.\n\nFiji’s capital, Suva, located in the southern part of the island, experienced high winds but was not directly in the cyclone’s path.\n\nMany domestic and international flights in and out of Fiji have been canceled.\n\nFiji’s prime minister, Voreqe Bainimarama, told Fijians: “As a nation, we are facing an ordeal of the most grievous kind. We must stick together as a people and look after each other. Be alert and be prepared.”\n\nNew Zealand has sent a military aircraft to Fiji to assess the damage in remote communities.",
+  "questions": [
+    {
+      "question": "What is Cyclone Winston described as in the text?",
+      "options": [
+        "A natural disaster caused by human activities",
+        "A category 5 storm with exceptionally high winds",
+        "A minor weather disturbance affecting coastal areas",
+        "An expected seasonal weather pattern in the Pacific"
+      ],
+      "answer": "A category 5 storm with exceptionally high winds"
+    },
+    {
+      "question": "What material damages is the cyclone responsible for?",
+      "options": [
+        "Loss of agricultural produce and livestock",
+        "Destruction of hundreds of homes and downed power lines",
+        "Damage only in remote rural areas without significant impact",
+        "Minimal impact on infrastructure and no reported evacuations"
+      ],
+      "answer": "Destruction of hundreds of homes and downed power lines"
+    },
+    {
+      "question": "How many islands does the Fiji archipelago consist of?",
+      "options": [
+        "Over 200 islands",
+        "More than 330 islands",
+        "Fewer than 150 islands",
+        "Exactly 500 islands"
+      ],
+      "answer": "More than 330 islands"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

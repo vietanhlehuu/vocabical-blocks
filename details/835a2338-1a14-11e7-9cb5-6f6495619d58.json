@@ -1,0 +1,60 @@
+{
+  "title": "US Holiday Cyber Commerce Surges",
+  "introduction": null,
+  "image": {
+    "id": "31a940b0-657d-4bd1-b149-786b7887207f",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1VhyJ84joA3rVxTg3XMxyB.jpeg",
+    "dimensions": {
+      "x": 800,
+      "y": 600
+    },
+    "attribution": "Gridprop at English Wikipedia / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6OG7vOKwGL6LB9DAXO8iT2.mpga",
+  "main_content": "U.S. consumers are expected to boost online purchases by 14 percent on Monday as more customers use computers and smartphones to purchase holiday bargains offered by competitive retailers.\n\nThe research group comScore predicts that e-commerce will hit $70 billion for the holiday season that ends in late December with the traditional exchange of gifts for Christmas. Researchers say a significant and fast-growing share of e-commerce is done via mobile devices. The National Retail Federation says total holiday commerce will exceed $600 billion.\n\nHoliday shopping accounts for around one-third of annual commerce for retailers, and in some cases, a strong season is the difference between profit and loss.\n\nThe holiday shopping season traditionally starts the day after late November’s patriotic and religious holiday of Thanksgiving, which is always on a Thursday. The day after has been dubbed “Black Friday” because success on that key shopping day is associated with being profitable, or “in the black.”\n\nSurging e-commerce, however, is eroding holiday sales in traditional or “bricks and mortar” stores. That is particularly true on the Monday after the Thanksgiving holiday when workers return to jobs, where they often have access to computers. So many people take time out from work to bargain hunt that the day is called “Cyber Monday.” The National Retail Federation says 121 million Americans will go online to shop on this year’s Cyber Monday. Cyber Mondays have been hitting record-high sales totals for the past six years, and experts predict more than $3 billion in sales on this Cyber Monday, which would be another record.\n\nThe Consumer Technology Association says around 45 percent of shoppers plan to purchase electronic devices, particularly smartphones and televisions.",
+  "questions": [
+    {
+      "question": "What amount does comScore predict e-commerce will reach during the holiday season?",
+      "options": [
+        "$45 billion",
+        "$70 billion",
+        "$600 billion",
+        "$3 billion"
+      ],
+      "answer": "$70 billion"
+    },
+    {
+      "question": "How much total holiday commerce does the National Retail Federation say will be exceeded?",
+      "options": [
+        "$70 billion",
+        "$121 million",
+        "$600 billion",
+        "$3 billion"
+      ],
+      "answer": "$600 billion"
+    },
+    {
+      "question": "How important is the holiday season for retailers?",
+      "options": [
+        "It represents a minor portion of their annual sales.",
+        "It accounts for around one-third of annual commerce for retailers.",
+        "It has no significant impact on their yearly profits.",
+        "It is only important for e-commerce retailers."
+      ],
+      "answer": "It accounts for around one-third of annual commerce for retailers."
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

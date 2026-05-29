@@ -1,0 +1,60 @@
+{
+  "title": "‘Middies’ No Longer Have to Wear Skirts",
+  "introduction": null,
+  "image": {
+    "id": "03ddc6d8-a18a-4f6b-b715-0f892a0e6a01",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/07IKPa6l2Uu3SFlCW761Pl.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "U.S. Department of Defense Current Photos / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3KI7puhhI3KksZFzh4BEJQ.mpga",
+  "main_content": "For the first time, men and women graduating from the U.S. Naval Academy will wear the same uniforms at graduation in May.\n\nThe women of the Naval Academy’s Class of 2016 will wear trousers, not skirts, it was announced this week.  Marine Colonel Stephen Liszewski, the commandant of midshipmen, announced the change on Monday.\n\nAt the Navy-Marine Corps Memorial Stadium at Annapolis, Maryland, 266 female seniors will graduate May 27. Women make up close to 25 percent of the 1,077 graduating class.\n\nThe rule change comes following Navy Secretary Ray Mabus’ emphasis on the equal role women will have in the military.\n\nMabus recently told a group of midshipmen, also called “middies,” “In the Navy and in the Marine Corps, we are trending toward uniforms that unite us as Sailors or Marines.”",
+  "questions": [
+    {
+      "question": "How are midshipmen also called?",
+      "options": [
+        "Sailors",
+        "Cadets",
+        "Middies",
+        "Officers"
+      ],
+      "answer": "Middies"
+    },
+    {
+      "question": "When will the U.S. Naval Academy seniors graduate?",
+      "options": [
+        "May 25",
+        "May 27",
+        "June 1",
+        "May 30"
+      ],
+      "answer": "May 27"
+    },
+    {
+      "question": "How many percent do women make up of the 1,077 graduating class?",
+      "options": [
+        "15 percent",
+        "25 percent",
+        "30 percent",
+        "20 percent"
+      ],
+      "answer": "25 percent"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

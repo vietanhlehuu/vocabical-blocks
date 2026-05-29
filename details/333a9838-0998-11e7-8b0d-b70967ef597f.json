@@ -1,0 +1,60 @@
+{
+  "title": "How Do You Talk About Everything?",
+  "introduction": null,
+  "image": {
+    "id": "993fe037-8629-4d02-8a83-8db8a604ef04",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4fB14mPKs100T8ulHHi2NQ.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Wolfgang Sauber / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7NbGgQNk73zP8qPcDemxoZ.mpga",
+  "main_content": "American English has many ways to talk about everything under the sun.\n\nCradle to grave means an entire life cycle. A cradle is a bed for very young babies. And a grave is a burial place. So from cradle to grave means from birth to death.\n\nIt could be used to describe something that happens over the course of a person’s life. For example, “I know a man who lived in the same country village his entire life – from cradle to grave.”\n\nAnother less common way to say cradle to grave is womb to tomb.\n\nEverything from A to Z uses the alphabet to give a range of everything. It means that nothing important was left out.\n\nEverything but the kitchen sink is an expression that means a person included a lot of stuff – maybe too much stuff.\n\nLet’s say my friend is going camping for the weekend. And he packs too many things. I could say, “He prepared for a weekend of camping and packed everything but the kitchen sink!”",
+  "questions": [
+    {
+      "question": "What does it mean ‘We spoke about everything under the sun’?",
+      "options": [
+        "We discussed a wide range of topics.",
+        "We only focused on specific subjects.",
+        "We avoided certain controversial issues.",
+        "We shared our personal feelings only."
+      ],
+      "answer": "We discussed a wide range of topics."
+    },
+    {
+      "question": "What can you say about Sally if she took a lot of unnecessary things with her on a trip?",
+      "options": [
+        "She traveled light.",
+        "She is very organized.",
+        "She packed everything but the kitchen sink.",
+        "She forgot essential items."
+      ],
+      "answer": "She packed everything but the kitchen sink."
+    },
+    {
+      "question": "What can you say instead of ‘cradle to grave’?",
+      "options": [
+        "Born to die.",
+        "Womb to tomb.",
+        "All in all.",
+        "Life is short."
+      ],
+      "answer": "Womb to tomb."
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

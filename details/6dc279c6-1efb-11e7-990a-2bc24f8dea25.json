@@ -1,0 +1,60 @@
+{
+  "title": "2015 Was Second Hottest Ever in US",
+  "introduction": null,
+  "image": {
+    "id": "2881d503-e1ec-4990-8409-b3a42a563315",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1ER1duELiVqITSi5MqrSEf.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 306
+    },
+    "attribution": "Jessie Eastland / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4Aggd9VE1XEIFpOz1gMzBT.mpga",
+  "main_content": "A hot December made 2015 the second hottest year on record in the contiguous United States, according to the National Oceanic and Atmospheric Administration (NOAA).\n\n“It was quite an exceptional month,” said Jake Crouch, climate scientist at NOAA’s National Centers for Environmental Information.\n\nTemperatures for the year averaged 12.4 degrees Celsius, just off 2012’s 12.9, the hottest year since records started in 1895.\n\nNOAA also said there were 10 major weather and climate events in 2015, resulting in the deaths of 155 and causing more than $1 billion in damage. They included a drought, two floods, five severe storms, a wildfire event and a winter storm.\n\nThe Western U.S. was particularly warm, as was the Southeast. Texas and Oklahoma set records for precipitation.\n\n“Every state had an above average temperature for the year,” said Crouch.\n\nThe World Meteorological Organization said 2015 would be the hottest year ever globally and that 2016 could be hotter because of El Niño.\n\nNOAA said 2015 was the 19th straight year that the average temperatures topped the average for the 20th century.\n\nNearly 200 countries that met at the United Nations’ climate summit in Paris in December agreed to try to stem climate change by restraining the rise in global temperatures to 2 degrees Celsius.",
+  "questions": [
+    {
+      "question": "What was the average temperature in 2015 in the U.S.?",
+      "options": [
+        "12.4 degrees Celsius",
+        "12.9 degrees Celsius",
+        "11.5 degrees Celsius",
+        "13.2 degrees Celsius"
+      ],
+      "answer": "12.4 degrees Celsius"
+    },
+    {
+      "question": "What were the major weather and climate events in the U.S. last year?",
+      "options": [
+        "A drought and a heatwave",
+        "Two floods, five severe storms, and a winter storm",
+        "Hurricane events and polar vortex",
+        "Only flooding events and a drought"
+      ],
+      "answer": "Two floods, five severe storms, and a winter storm"
+    },
+    {
+      "question": "What was agreed at the United Nations’ climate summit in Paris?",
+      "options": [
+        "To ignore climate change implications",
+        "To raise emissions for development",
+        "To restrain the rise in global temperatures to 2 degrees Celsius",
+        "To increase global temperatures significantly"
+      ],
+      "answer": "To restrain the rise in global temperatures to 2 degrees Celsius"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

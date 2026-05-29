@@ -1,0 +1,60 @@
+{
+  "title": "A Year Later, Still No Word on Malaysia Airlines Flight 370",
+  "introduction": null,
+  "image": {
+    "id": "e45d7bfe-0eab-11e7-b414-d360c880b27a",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5bCjYtPlwgWpDaGlnSkG37.png",
+    "dimensions": {
+      "x": 3934,
+      "y": 2467
+    },
+    "attribution": "Andrew Heneen / Wikimedia Commons / CC-BY-4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1mDJ42PWE37DnxbAnHVVX1.mpga",
+  "main_content": "It has been one year since Malaysia Airlines Flight 370 went missing. The airplane disappeared over the Indian Ocean on a flight from Kuala Lumpur to Beijing. The plane, a Boeing 777, was carrying 239 people.\n\nThe past 12 months have been a difficult time for families with loved ones on the plane. They are no closer to knowing what happened. The only thing confirmed is an airline official’s statement from one year ago.\n\nSatellite records show Flight 370 likely crashed in the southern Indian Ocean. But months of air, sea and underwater searches have failed to find any evidence of the plane.\n\nMore than 20 countries joined in the investigation. At first, crews looked along the expected flight path and in the South China Sea. They later expanded their searches across parts of southern Asia. In all, crews searched more than one million square kilometers. The search of a smaller area is to be completed in May.\n\nAviation industry leaders are looking to improve safety worldwide. They hope to get better, more dependable equipment to monitor the movement of planes. The International Civil Aviation Organization has been considering several ideas.\n\nIn another measure, the United States plans to do away with flight recorders, or black boxes, that have battery power for 30 days. Newly-manufactured devices will last 90 days. They are to be required in U.S. aircraft by 2020.",
+  "questions": [
+    {
+      "question": "How many people were on the plane?",
+      "options": [
+        "237",
+        "239",
+        "240",
+        "245"
+      ],
+      "answer": "239"
+    },
+    {
+      "question": "Around how many countries joined the investigation of the missing flight?",
+      "options": [
+        "15",
+        "20",
+        "25",
+        "30"
+      ],
+      "answer": "20"
+    },
+    {
+      "question": "How long will the new black boxes (or flight recorders) battery power last?",
+      "options": [
+        "30 days",
+        "60 days",
+        "90 days",
+        "120 days"
+      ],
+      "answer": "90 days"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Returning Afghan Refugees Face a Difficult Life",
+  "introduction": null,
+  "image": {
+    "id": "2e16ba86-4f22-11e9-a80d-0340dce23dc4",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1tkpb4MAgV7aueXcGIQ2nb.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Unknownwikidata:Q4233718 / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2I8mtMtCSllYsBt7b7OBIV.mpga",
+  "main_content": "Many of the tens of thousands of people returning to Afghanistan from Pakistan have no jobs, no support and no home.\n\nHadeesa is one of those who has returned, along with her family. She is 14 years old, but she appears older. She cares for her mother, who is ill, and for her younger brother. He is abused at the place where he works. Her father and other family members together earn less than $40 a month. They must pay half of that to the owner of the house in which they live.\n\n“We only eat bread with tea, and pay rent. We cannot afford anything else.”\n\nPakistan began taking action against undocumented Afghan refugees after an attack on a school in which 150 people were killed, most of them children.\n\nMany of the families that have returned to Afghanistan had been living in Pakistan for many years. Some of the children in those families were born in Pakistan. They have never been to Afghanistan.",
+  "questions": [
+    {
+      "question": "How old is Hadeesa?",
+      "options": [
+        "12 years",
+        "14 years",
+        "16 years",
+        "18 years"
+      ],
+      "answer": "14 years"
+    },
+    {
+      "question": "How much do her family members earn in a month?",
+      "options": [
+        "$20",
+        "$30",
+        "$40",
+        "$50"
+      ],
+      "answer": "$40"
+    },
+    {
+      "question": "After what event did Pakistan begin taking action against undocumented Afghan refugees?",
+      "options": [
+        "A natural disaster",
+        "A political strike",
+        "An attack on a school",
+        "A border conflict"
+      ],
+      "answer": "An attack on a school"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

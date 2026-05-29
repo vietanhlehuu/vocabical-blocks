@@ -1,0 +1,60 @@
+{
+  "title": "Globalization or Isolation? US Voters Weigh in on Economy",
+  "introduction": null,
+  "image": {
+    "id": "dcd515fe-46eb-493f-91d9-353dfe147ddc",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6ihgvr9BduuYXrSHfJW2V2.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 342
+    },
+    "attribution": "PresidenciaMX 2012-2018 / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7B4xkxADifAzN12xtliUsx.mpga",
+  "main_content": "The air outside this factory in Northeast Philadelphia once smelled of cookies.\n\nBut the aroma, along with the 350 workers who for decades made Oreos and Ritz crackers disappeared last year when snack food giant Mondelez decided to close the plant and shift production elsewhere.\n\n“It’s terrible, we have so many companies shutting down,” Art Millevoi said.\n\nAcross the street from the now abandoned factory, the owner of Millevoi Auto Sales and Service recalls how friends have lost work in recent years.\n\n“We see so many people unemployed, so many older people, too, in their fifties who have lost their jobs,” said Millevoi. “They are on their third or fourth job, where our parents would have it for life and they would have pension and they would have social security. We are not guaranteed any of this.”\n\nAs Millevoi stands in his auto body shop, U.S. presidential candidate Donald Trump can be heard on a nearby television railing against trade deals and globalization.\n\n“NAFTA [The North American Free Trade Agreement] was the worst trade deal in history, and China’s entrance into the World Trade Organization has enabled the greatest jobs theft in history,” Trump said.\n\nThe message resonates with Millevoi who says he likely will be forced to shutter one of his many Philadelphia area auto centers due to rising taxes and regulatory fees.\n\nHe says the government should do more to support small businesses and keep American companies like Mondelez from shifting their operations overseas to countries like Mexico.\n\n[Kevin Kundla, the project superintendent at Commerce Construction Corporation] says that amid all the talk of Brexit and globalization, the United States cannot afford to go it alone.\n\n“I don’t believe that the U.S. should isolate itself, it’s a global economy. It’s a global world. My son lives overseas and I travel overseas to Southeast Asia,” Kundla noted.\n\nHe points in the direction of the marine terminal, where containers are arriving from Mexico and China.\n\n“I would love for Americans to have all the jobs, but I just think it’s a fact of life that globalization is here. It’s here to stay.”",
+  "questions": [
+    {
+      "question": "How many workers were out of jobs when Mondelez decided to close the factory in Philadelphia?",
+      "options": [
+        "250 workers",
+        "350 workers",
+        "400 workers",
+        "500 workers"
+      ],
+      "answer": "350 workers"
+    },
+    {
+      "question": "What is Donald Trump’s opinion about NAFTA?",
+      "options": [
+        "It is a beneficial trade agreement",
+        "It is the best trade deal ever",
+        "It was the worst trade deal in history",
+        "It has helped American businesses prosper"
+      ],
+      "answer": "It was the worst trade deal in history"
+    },
+    {
+      "question": "Why could Art Millevoi be forced to close his business?",
+      "options": [
+        "Due to high competition from international companies",
+        "Due to rising taxes and regulatory fees",
+        "Because he wants to retire",
+        "Due to a lack of skilled workers"
+      ],
+      "answer": "Due to rising taxes and regulatory fees"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

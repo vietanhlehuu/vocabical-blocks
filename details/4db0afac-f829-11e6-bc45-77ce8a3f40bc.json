@@ -1,0 +1,60 @@
+{
+  "title": "Ivanka Trump: Model, Businesswoman, Daughter to Republican Nominee",
+  "introduction": null,
+  "image": {
+    "id": "37c04afb-0512-49e7-98be-a22743bd322b",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1hCSHB4yavIE0oTC1i2nUJ.jpeg",
+    "dimensions": {
+      "x": 496,
+      "y": 334
+    },
+    "attribution": "内閣官房内閣広報室 / Wikimedia Commons / CC-BY-4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0wOXbLfasaZUv2YYeEVGBi.mpga",
+  "main_content": "Ivanka Trump is set to introduce her father, Donald Trump, Thursday before he accepts the Republican nomination for president, in a move that is aimed at increasing his appeal to women.\n\nIvanka Trump, 34, is a businesswoman who both works in her father’s company and runs her own fashion line. She has been a business associate of her father for nearly a decade.\n\nTrump, named for her Czech mother Ivana (Ivanka is the diminutive form of the name) was educated in top-tier private schools in the United States. She has a degree in economics from the Wharton School of Business, where her father also is an alumnus.\n\nIvanka Trump has said she has counseled her father on his public image and does not always agree with his choices. She told CNN on Wednesday that she and her father “have such a good relationship because he respects me, and because I’m candid in my opinions, and I share them, solicited or otherwise.”\n\nShe said he does not always listen.\n\nHer speech Thursday is expected to target women, a weak spot in Donald Trump’s support base. Only 34 percent of women support Trump in the election, according to a recent poll by ABC News and the Washington Post.\n\nBut Ivanka Trump, with her polished persona as a former model, businesswoman, wife and mother of three young children, will try to convince female voters that her father does not deserve to be called a racist or bigot, as his critics have charged. She says that, as she was growing up, her father took delight in his family and took pains to stay in touch with them.\n\nShe also said she has learned from him that she must love her work to be a success at it. Her recent work includes managing a line of mid-priced shoes and handbags, appearing as a guest on her father’s former show The Apprentice, and publishing a book of professional advice.",
+  "questions": [
+    {
+      "question": "Who is Ivanka Trump?",
+      "options": [
+        "A prominent singer known for her philanthropic work",
+        "A businesswoman and the daughter of Donald Trump who also runs her own fashion line",
+        "A political analyst with no direct relation to the Trump family",
+        "A social media influencer focused on lifestyle and wellness"
+      ],
+      "answer": "A businesswoman and the daughter of Donald Trump who also runs her own fashion line"
+    },
+    {
+      "question": "What did Ivanka Trump study in university?",
+      "options": [
+        "A degree in psychology from Harvard University",
+        "A degree in economics from the Wharton School of Business",
+        "A degree in fashion design from a local college",
+        "A degree in international relations from Georgetown University"
+      ],
+      "answer": "A degree in economics from the Wharton School of Business"
+    },
+    {
+      "question": "How high is Donald Trump’s support among women voters in the US?",
+      "options": [
+        "Approximately 50 percent according to recent polls",
+        "Around 34 percent as reported by a poll from ABC News and the Washington Post",
+        "Slightly over 60 percent based on exit polls from previous elections",
+        "Almost 25 percent according to surveys conducted by various organizations"
+      ],
+      "answer": "Around 34 percent as reported by a poll from ABC News and the Washington Post"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

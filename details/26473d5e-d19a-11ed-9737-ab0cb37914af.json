@@ -1,0 +1,60 @@
+{
+  "title": "Hostage Crisis Could Divide Japan over Military Plan",
+  "introduction": null,
+  "image": {
+    "id": "2646dde6-d19a-11ed-9736-9bb2d7d42cc0",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2xr2PT5chqhIHJvBgSa4nB.jpeg",
+    "dimensions": {
+      "x": 800,
+      "y": 532
+    },
+    "attribution": "User:File Upload Bot (Magnus Manske) / www.flickr.com / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/00a4pri1QpIN7Dihy5IOWZ.mpga",
+  "main_content": "The Islamic State militant group reportedly executed a hostage from Japan last week. The group is now threatening to kill a second Japanese hostage.\n\nThe incidents have shown Japan that its recent diplomatic activity and close friendship with the United States are making it a target for terrorists.\n\nThe hostage crisis could likely divide Japanese public opinion over the government’s plan to become more active in international security.\n\nA top Japanese official said Monday that the government is working closely with Jordan to win the release of war reporter Kenji Goto. Chief Cabinet Secretary Yoshihide Suga said human life remains the top concern of the government.\n\nThe militants earlier claimed to have executed Haruna Yukawa, a security contract worker. The group had said it would release the two Japanese if Japan made a payment of $200 million.\n\nThe hostage crisis comes at a time when Japanese Prime Minister Shinzo Abe is seeking to play a more active part in world security.\n\nThe $200 million payment demand was the same amount of money the Japanese leader promised in non-military aid for refugees in the Middle East. He wanted the aid to go to people displaced by the Islamic State. The group controls large parts of Iraq and Syria.",
+  "questions": [
+    {
+      "question": "According to the text, what is making Japan a target for terrorists?",
+      "options": [
+        "A recent increase in military spending",
+        "Close friendship with the United States",
+        "A growing number of terrorist threats",
+        "The influx of refugees from the Middle East"
+      ],
+      "answer": "Close friendship with the United States"
+    },
+    {
+      "question": "How much money did the militant group want for the hostages?",
+      "options": [
+        "$100 million",
+        "$200 million",
+        "$500 million",
+        "$50 million"
+      ],
+      "answer": "$200 million"
+    },
+    {
+      "question": "What did secretary Yoshihide Suga say?",
+      "options": [
+        "The government prioritizes military action over negotiations",
+        "Public safety is not a concern of the government",
+        "Human life remains the top concern of the government",
+        "The government will not engage with Jordan"
+      ],
+      "answer": "Human life remains the top concern of the government"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

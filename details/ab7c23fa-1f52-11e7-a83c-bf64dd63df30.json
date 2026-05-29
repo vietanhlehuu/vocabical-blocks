@@ -1,0 +1,60 @@
+{
+  "title": "One-Person Flying Vehicles Close to Reality",
+  "introduction": null,
+  "image": {
+    "id": "73a108fe-dfb8-4172-88d8-9b3f5431b94f",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3WBi4Zg7zL0Jp0EEhWedv5.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 340
+    },
+    "attribution": "PAL-V Europe NV / Wikimedia Commons / CC-BY-SA-3.0-nl",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6kVVLhFgmnJ7FVE5llQPC5.mpga",
+  "main_content": "Smart phones, essentially pocket-sized computers, we already have. Flying drones with cameras are available to everybody. Robots and self-driving cars are just around the corner. Now, two groups of inventors say very soon we will be able to try flying platforms and flying bikes.\n\nBeing able to fly around as simply as riding a bicycle has been a long-standing dream of many inventors. But the safety and stability of such vehicles was always a huge problem.\n\nThe British firm Malloy Aeronautics has demonstrated a prototype of its hoverbike that it says will be a truly personal flying platform.\n\n“It’s inexpensive, it can carry a decent load, it can get in and out of very small spaces very quickly, and it can be moved across continents very quickly because it can be folded and packed,” said Malloy Aeronautics’ marketing sales director, Grant Stapleton.\n\nHe said with safety as the primary concern, designers came up with an innovative idea of overlapping rotors, whose, so-called ‘adducted’ propellers are turning in enclosed spaces.\n\n“With adducted rotors you immediately not only protect people and property if you were to bump into them, but if you ever were to bump into somebody or property, it’s going to bring the aircraft out of the air,” said Stapleton.\n\nThe company is doing extensive testing with a one-third scale model, and also with a full scale tethered prototype.\n\nInventors say their Hoverbike will most likely be used first by the military, police and rescue squads.",
+  "questions": [
+    {
+      "question": "What are inventors promising we will have in the near future?",
+      "options": [
+        "Advanced smartphone models with better cameras",
+        "Self-driving cars and personal flying platforms",
+        "Robots capable of performing household chores",
+        "Enhanced security drones for personal use"
+      ],
+      "answer": "Self-driving cars and personal flying platforms"
+    },
+    {
+      "question": "What was the big problem regarding flying around as simply as riding a bicycle?",
+      "options": [
+        "The high cost of manufacturing flying vehicles",
+        "The lack of public interest in flying technology",
+        "Safety and stability of such vehicles",
+        "Legal regulations preventing personal flight"
+      ],
+      "answer": "Safety and stability of such vehicles"
+    },
+    {
+      "question": "What will the hoverbike be?",
+      "options": [
+        "An expensive luxury item for enthusiasts",
+        "A personal flying platform that is inexpensive and portable",
+        "A military-grade vehicle for secret operations",
+        "A prototype for future smartphone integration"
+      ],
+      "answer": "A personal flying platform that is inexpensive and portable"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

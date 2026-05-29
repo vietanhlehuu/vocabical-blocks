@@ -1,0 +1,60 @@
+{
+  "title": "Women Seek to Join US Army Rangers",
+  "introduction": null,
+  "image": {
+    "id": "4d1682ef-159c-4096-afc0-415e4f32ad59",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2LShD3KFaUiWH9Q19JvLAH.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Staff Sgt. Mikki Sprenkle / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2tKpvzwXELOryih4tYsRJE.mpga",
+  "main_content": "About 20 women will enter the U.S. Army Ranger School for the first time on April 20. The school has one of the most difficult training programs for soldiers. But a new Army survey shows that many male soldiers are unhappy about it.\n\nThe Army says Rangers “conduct airborne and air assault operations, seizing key terrain such as airfields, destroying strategic facilities, and capturing or killing enemies of the nation.”\n\nThe training at Ranger School is “physically and mentally grueling.” Less than half of the male soldiers who begin the training complete it. During the 62-day-long course, soldiers train in the jungle, mountains and swamps.\n\nThe women who will enter the Ranger School at Fort Benning, Georgia have already completed a 16-day-long course called Ranger Training Assessment Course, or RTAC. The course includes some of the same physical challenges as the Ranger School. It also includes testing of a soldier’s ability to lead others.\n\nLetting women enter Ranger training is part of the U.S. military’s larger effort to open many jobs to women that they have historically not been allowed to perform. Women are not permitted to hold some of the most dangerous jobs, including infantry and Special Forces, like Rangers, SEALs and Green Berets.\n\nOn April 6, the Associated Press reported that male soldiers serving in the special operations forces do not believe women can be Rangers. They fear that standards will be lowered so that women can meet them.",
+  "questions": [
+    {
+      "question": "How is the the training at Ranger School described?",
+      "options": [
+        "A) As a standard military course with average challenges",
+        "B) As physically and mentally grueling and difficult",
+        "C) As primarily focused on administrative skills",
+        "D) As a unique course only for elite soldiers"
+      ],
+      "answer": "B) As physically and mentally grueling and difficult"
+    },
+    {
+      "question": "What is RTAC?",
+      "options": [
+        "A) A comprehensive training program for non-combat roles",
+        "B) A preliminary course designed to assess potential Rangers",
+        "C) A leadership training seminar for military officers",
+        "D) An online training module for aspiring soldiers"
+      ],
+      "answer": "B) A preliminary course designed to assess potential Rangers"
+    },
+    {
+      "question": "What jobs are women not permitted to hold?",
+      "options": [
+        "A) Logistics and supply chain management positions",
+        "B) Administrative roles within the military",
+        "C) Some of the most dangerous jobs, including infantry and Special Forces",
+        "D) Medical and support roles in combat zones"
+      ],
+      "answer": "C) Some of the most dangerous jobs, including infantry and Special Forces"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Thomas Jefferson’s Collection Still Impresses 200 Years Later",
+  "introduction": null,
+  "image": {
+    "id": "e458acf0-0eab-11e7-b14e-db6dd09a9443",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1q2FujAM0G7qjWqgEaklmL.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 611
+    },
+    "attribution": "Rembrandt Peale (1778–1860) / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7ix73TGqdkjEIL2SCxEJLQ.mpga",
+  "main_content": "The United States Library of Congress is the largest library in the world. It has a huge collection of books and other sources of information, including documents, maps and photographs. The Library of Congress carries out research for the U.S. Congress. But the library’s three buildings in Washington are open to the public. People can visit, use the reading rooms and see the exhibits.\n\nThe Library of Congress opened in 1801. Its first home was the U.S. Capitol building. The United States and Britain fought during the War of 1812. During the war, British forces burned the Capitol, destroying many of the library’s 3,000 books.\n\nThe third U.S. president, Thomas Jefferson, offered his personal library as a replacement. At the time, Jefferson had the largest personal collection of books in the country. In those times, books were costly. Most were made in Europe and shipped to the United States.\n\nTwo hundred years ago, on January 30, 1815, Congress bought Jefferson’s collection of 6,487 books for $23,950. After the purchase, the Library of Congress had more than two times as many books as it had when the British attacked. Today, many of Jefferson’s books are permanently displayed at the library.\n\nThe former president loved books, but he also wanted to share them. So even today the Library of Congress still lets researchers use his books.",
+  "questions": [
+    {
+      "question": "What makes the United States Library of Congress notable?",
+      "options": [
+        "It is the largest library in the world.",
+        "It was the first library established in the United States.",
+        "It is open only to government officials.",
+        "It has fewer than 1,000 books."
+      ],
+      "answer": "It is the largest library in the world."
+    },
+    {
+      "question": "When did the Library of Congress first open its doors?",
+      "options": [
+        "1801",
+        "1812",
+        "1815",
+        "1776"
+      ],
+      "answer": "1801"
+    },
+    {
+      "question": "What amount did Congress pay Thomas Jefferson for his book collection?",
+      "options": [
+        "$23,950",
+        "$30,000",
+        "$18,500",
+        "$10,000"
+      ],
+      "answer": "$23,950"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

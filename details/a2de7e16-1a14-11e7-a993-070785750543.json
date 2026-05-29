@@ -1,0 +1,60 @@
+{
+  "title": "NYC Council Proposes $50,000 Fines for Home Sharing",
+  "introduction": null,
+  "image": {
+    "id": "8d9284fd-c1f8-43e3-a82a-8f897cea80fa",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4J8sPt3luqnvrrnhUAelgo.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 391
+    },
+    "attribution": "Aude / Wikimedia Commons / CC-BY-SA-2.5",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0WaLBMPbXDVwYaqAdLXwfN.mpga",
+  "main_content": "The global home-sharing company Airbnb faces a fight to keep its foothold in New York City, mirroring the battles the company is fighting in many cities. It is opposing city legislation that would impose increased fines on owners of short-term rentals.\n\nAirbnb asked its customers to sign a petition opposing the legislation, likening the proposal to “the Freddy Krueger of bills,” harkening back to the 1980s U.S. horror film series “A Nightmare on Elm Street” where Krueger uses a glove armed with razors to kill teenagers.\n\nWhile international travelers frequently book short visits to New York via Airbnb, New York state law prohibits tenants and landlords from renting out an entire home or apartment to someone for fewer than 30 days. Owners and tenants may rent a portion of their apartment or home as long as the permanent resident does not vacate the premises during the short-term stay.\n\nNew York is not the only city to propose housing legislation. Airbnb’s hometown, San Francisco, will vote on November 3 whether to limit short-term rentals to 75 days a year – down from 90 days. The vote also would require hosting sites like Airbnb to take down listings that violate the limit.\n\nIn a compromise with the city of Chicago, Airbnb recently began collecting hotel tax in order to stay in business there.",
+  "questions": [
+    {
+      "question": "What legislation is Airbnb opposing in New York City?",
+      "options": [
+        "A proposal to increase fines on short-term rental owners",
+        "A bill that allows short-term rentals for less than 30 days",
+        "A measure that imposes a rental cap of 75 days a year",
+        "A regulation requiring hosts to obtain hotel licenses"
+      ],
+      "answer": "A proposal to increase fines on short-term rental owners"
+    },
+    {
+      "question": "What does New York state law prohibit landlords to do?",
+      "options": [
+        "Rent out an entire home for fewer than 30 days",
+        "Charge more than market value for short-term rentals",
+        "Sublease a portion of their apartment while vacating",
+        "Operate without a valid business license"
+      ],
+      "answer": "Rent out an entire home for fewer than 30 days"
+    },
+    {
+      "question": "Where does Airbnb originate from?",
+      "options": [
+        "Los Angeles",
+        "San Francisco",
+        "New York City",
+        "Chicago"
+      ],
+      "answer": "San Francisco"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

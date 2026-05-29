@@ -1,0 +1,60 @@
+{
+  "title": "Emotionally Intelligent Robots as Future Human Companions",
+  "introduction": null,
+  "image": {
+    "id": "40d8da78-1b48-4a93-a741-259572cd4740",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1yMbtTRDyXfjJylj3EVZlA.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 565
+    },
+    "attribution": "Nadiathalmann / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7SbOjRLwm9LkecRrYvxaAI.mpga",
+  "main_content": "Nadine began as a computer image… and ended up as a real virtual human.\n\n“I am a social companion. I can speak with emotions and I can recognize people,” said the interactive robot that is programmed to think and react to human behavior.\n\nAt 1.7 meters – tall, the humanoid has brown hair, soft skin and a face that can express human-like emotions. Nadine is a younger version of her inventor, Nadia Thalmann, the director of Singapore’s Nanyang Technological University’s Institute of Media Innovation, who has spent 30 years doing research into virtual humans.\n\nThalmann said she feels a bond with the emotionally intelligent robot, which she claims has her own personality, moods and emotions. Nadine “is truly like a companion,” the researcher said. “It’s like a beautiful sculpture. But she has life and she can interact with you.”\n\nWhile that may be true, Nadine has a way to go before she looks like a living human. Her hands appear large, and don’t move the way human ones do. Her eyes have that vacant machine-like stare and her voice has little feeling. But still, it’s remarkable that Nadine’s software allows her to respond to hundreds of thousands of questions.\n\nIn the future, it is hoped that Nadine, and other robots like her, will play an important caretaking role in helping people with autism by interacting with them, and providing companionship for the elderly or people with dementia.\n\n“These people need to always be in interaction, so Nadine could stay when there is nobody else to read stories, to maintain conversation,” Thalmann explained.\n\nThalmann and her team are now trying to improve Nadine’s hands so she can grasp and hold items. They also are working on improving the robot’s self awareness.\n\nOne day some of us may even have a “Nadine” in our homes to keep us company.",
+  "questions": [
+    {
+      "question": "What is the robot programmed to do?",
+      "options": [
+        "Think critically and make decisions",
+        "Interact socially and recognize human behavior",
+        "Perform physical tasks with precision",
+        "Analyze and solve complex mathematical problems"
+      ],
+      "answer": "Interact socially and recognize human behavior"
+    },
+    {
+      "question": "What does the robot look like?",
+      "options": [
+        "It has a metallic exterior with sharp features",
+        "It appears as a younger version of its inventor with human-like traits",
+        "It is designed to look like a toddler",
+        "It has a cartoonish appearance with exaggerated eyes"
+      ],
+      "answer": "It appears as a younger version of its inventor with human-like traits"
+    },
+    {
+      "question": "What are some things that give away the fact that Nadine is a robot?",
+      "options": [
+        "Her ability to cook and clean",
+        "The large appearance of her hands and lack of emotional tone in her voice",
+        "Her fluent speech and conversational skills",
+        "Her ability to recognize emotions in others"
+      ],
+      "answer": "The large appearance of her hands and lack of emotional tone in her voice"
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

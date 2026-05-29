@@ -1,0 +1,60 @@
+{
+  "title": "Weasel, Duck, Dog: Animals That Are Also Verbs",
+  "introduction": null,
+  "image": {
+    "id": "ca71276e-77a7-11ea-b70c-877db277f4d1",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3sN9EMOii9s8EvhGGD1vZa.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 512
+    },
+    "attribution": "Ludovic Péron / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7WoltUOZ6xFoWVMlap2RCj.mpga",
+  "main_content": "A weasel is a small, brown mammal with a long body and short legs.\n\nWeasels sometimes dance before they kill their prey. Maybe that is why Americans say “weasel out” when we mean “try to avoid something in a dishonest way.”\n\nBy the way, you can also weasel your way into something. That means try every trick to accomplish your goal, even if it’s something you really do not deserve.\n\nAs you can imagine, “to hound” or “to dog” people is to pursue them. Hounding someone usually involves asking something again and again.\n\n“To badger” someone has a similar meaning. A badger is related to a weasel but is bigger and fatter. A badger is also not as violent as a weasel; however, if a badger seizes something in its teeth, it holds on tight and won’t let go. Americans say they are badgering someone when they are insistent, but not aggressive.\n\nAmericans also shark, or fool, others, especially by pretending they are not good at something when they really are. And of course, we can bug people: bother them.",
+  "questions": [
+    {
+      "question": "What does “weasel out” mean?",
+      "options": [
+        "To confront someone openly about an issue",
+        "To avoid something in a dishonest way",
+        "To blame someone else for a problem",
+        "To negotiate aggressively for a better outcome"
+      ],
+      "answer": "To avoid something in a dishonest way"
+    },
+    {
+      "question": "When you are insistent what do you do?",
+      "options": [
+        "You allow others to make decisions for you",
+        "You ask something again and again",
+        "You give up easily on your requests",
+        "You rely on indirect communication"
+      ],
+      "answer": "You ask something again and again"
+    },
+    {
+      "question": "What does a person do when he or she bothers you?",
+      "options": [
+        "They engage in a friendly conversation",
+        "They make requests in a polite manner",
+        "They bug you by annoying or bothering you",
+        "They help you with your tasks"
+      ],
+      "answer": "They bug you by annoying or bothering you"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

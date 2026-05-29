@@ -1,0 +1,60 @@
+{
+  "title": "Mummies Contain Clues to Colon Cancer",
+  "introduction": null,
+  "image": {
+    "id": "ce010fc6-bfd6-11ea-8309-9bfd8d615567",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/5AwM86FRpSh4uRaADzewk6.jpeg",
+    "dimensions": {
+      "x": 640,
+      "y": 480
+    },
+    "attribution": "Hajor / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3yBdSrZTulSrttrOb2aioK.mpga",
+  "main_content": "Colon cancer is linked with obesity, lack of exercise, and a poor diet high in processed foods.\n\nHowever, scientists also have identified genetic mutations connected to the disease.\n\nResearchers at Tel Aviv University are studying the history of colon cancer. Microbiologist Rina Arbesfeld is with the university. She wanted to answer this question: is the increase in the number of cancer cases today the result of natural evolution alone?\n\nTo answer this question, Arbesfeld turned to Hungarian mummies that were discovered in 1994 in a church.\n\nThese preserved bodies rested for more than two and half centuries.\n\nHungarian embalmers left the fluids and organs. This means the mummies have tissue that could be better analyzed for evidence of disease.\n\nArbesfeld and her team isolated DNA samples from 22 mummies.\n\nThis information lead Arbesfeld to this hypothesis: If our ancestors with the genetic mutation for colon cancer lived long enough, they would have developed the disease, just like us.",
+  "questions": [
+    {
+      "question": "What are the researchers studying?",
+      "options": [
+        "The impact of modern diets on health",
+        "The genetic mutations in living populations",
+        "The history of colon cancer in ancient populations",
+        "The role of exercise in preventing diseases"
+      ],
+      "answer": "The history of colon cancer in ancient populations"
+    },
+    {
+      "question": "What question are they trying to answer?",
+      "options": [
+        "Is colon cancer solely a product of lifestyle choices?",
+        "How has the frequency of colon cancer changed over time?",
+        "Is the increase in cancer cases today due to natural evolution alone?",
+        "What environmental factors contribute to colon cancer?"
+      ],
+      "answer": "Is the increase in cancer cases today due to natural evolution alone?"
+    },
+    {
+      "question": "What did they use for the research?",
+      "options": [
+        "Living subjects with healthy lifestyles",
+        "DNA samples from ancient Hungarian mummies",
+        "Modern medical records and patient data",
+        "Previous studies on cancer genetics"
+      ],
+      "answer": "DNA samples from ancient Hungarian mummies"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

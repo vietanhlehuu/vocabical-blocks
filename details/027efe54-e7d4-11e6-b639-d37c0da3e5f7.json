@@ -1,0 +1,60 @@
+{
+  "title": "US Urges Responsible Antibiotic Use",
+  "introduction": null,
+  "image": {
+    "id": "e45c7bbe-0eab-11e7-b38e-cff15888e37f",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4uLkSvFtwqawKRICG9LZkN.png",
+    "dimensions": {
+      "x": 447,
+      "y": 299
+    },
+    "attribution": "CDC/Dr. Holdeman / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1ieV3LufzFSjWGE9xaPjuR.mpga",
+  "main_content": "American Peggy Lillis thought she had a stomach virus. But her condition was much worse than she thought. She had become infected with what researchers call a “superbug” – clostridium difficile-related infection or “C. difficile.” Ms. Lillis had been given antibiotics after receiving care for her teeth. Doctors believe the medicine killed good bacteria in her body. They believe this made it easy for her to be infected with C. difficile. She died within days of being infected.\n\nFamily members went to a meeting last week at the White House. Experts gathered there to talk about how to fight infections that resist antibiotics.\n\nDr. Tom Frieden is the head of the U.S. Centers for Disease Control and Prevention. He spoke about the victims of improper use of antibiotics.\n\nThe Centers for Disease Control estimates that about 50 percent of all antibiotic prescriptions are not necessary.\n\nThe overuse and misuse of antibiotics leads to stronger bacteria – ones that can resist medical treatments. The CDC estimates these drug-resistant bacteria cause two million infections and about 23,000 deaths each year in the United States.",
+  "questions": [
+    {
+      "question": "What did Peggy Lillis think she had?",
+      "options": [
+        "A migraine headache",
+        "A stomach virus",
+        "A common cold",
+        "An allergic reaction"
+      ],
+      "answer": "A stomach virus"
+    },
+    {
+      "question": "Why did experts gather in the White House?",
+      "options": [
+        "To discuss antibiotic prescriptions",
+        "To commemorate Peggy Lillis",
+        "To talk about fighting antibiotic-resistant infections",
+        "To launch a new health initiative"
+      ],
+      "answer": "To talk about fighting antibiotic-resistant infections"
+    },
+    {
+      "question": "Who is Dr. Tom Frieden?",
+      "options": [
+        "A prominent surgeon",
+        "The head of the National Institute of Health",
+        "The head of the U.S. Centers for Disease Control and Prevention",
+        "An infectious disease researcher"
+      ],
+      "answer": "The head of the U.S. Centers for Disease Control and Prevention"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

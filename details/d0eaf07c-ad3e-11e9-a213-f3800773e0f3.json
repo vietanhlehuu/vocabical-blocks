@@ -1,0 +1,60 @@
+{
+  "title": "Is Virtual Reality the New Reality for Advertisers?",
+  "introduction": null,
+  "image": {
+    "id": "d0eaac3e-ad3e-11e9-a212-efbe8e8b2db5",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/7PwQyZjZsOy7Tr2cCHyuvP.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Marco Verch / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/69owXTX2lIfO6kXNtIzDR2.mpga",
+  "main_content": "Advertising is practically inescapable these days, pervading our daily lives, mobile devices and now even virtual reality.\n\nWith the growing number of virtual reality headsets and apps coming to market, opportunities to experience VR are more readily available, but so too is the potential to experience more advertising. Brands like Oreo, Mountain Dew, Jim Beam, Lufthansa and Marriott have already jumped on the virtual reality bandwagon, creating one-off experiences to engage consumers. For these companies, whether the reality is physical or computer-generated is less important than capturing your attention.\n\n“Augmented reality and virtual reality are expected to hit $150 billion in revenue by 2020… that number is going to catch the eye of marketers,” said Katie Richards, staff writer at Adweek.\n\nFor brands, that means creating experiences that work alongside their own products, like last year’s collaboration between outerwear company Merrell and creative studio Framestore, to create a virtual reality mountain hike for the launch of Merrell’s Capra hiking boots. Viewers were given the chance to virtually traverse the Dolomite Mountains of Italy. While it’s not clear how effective these VR campaigns are, one thing is for sure: they still cost money.\n\n“It is quite expensive for the marketer and for the agency to create this experience,” noted Richards. “The other challenge is making sure that what you’re doing stays true to your brand, and you’re not just experimenting with virtual reality to do it,” she added.\n\nBut for the digital natives that make up today’s youth, virtual reality might be as normal as chicken McNuggets. In Sweden, participating McDonald’s restaurants have begun serving Happy Meals in boxes that convert to basic virtual reality viewers.\n\nFor digitally-savvy brands, virtual reality is one more way to reach the highly-coveted millennial demographic.\n\n“Millennials are willing to spend a lot of money on experiences,” said Richards, “Virtual reality is a way for a marketer to give a millennial an experience that they might not have otherwise.”\n\nAn out-of-this-world experience that marketers hope will result in real world spending.",
+  "questions": [
+    {
+      "question": "What does combining advertising with virtual reality mean for brands?",
+      "options": [
+        "It allows brands to decrease their marketing budgets significantly.",
+        "It provides a unique way to engage consumers and create memorable experiences.",
+        "It ensures that every campaign will be successful without additional efforts.",
+        "It limits brands to traditional advertising methods with a digital twist."
+      ],
+      "answer": "It provides a unique way to engage consumers and create memorable experiences."
+    },
+    {
+      "question": "What was the setting for Merrell’s virtual reality experience?",
+      "options": [
+        "A bustling urban city with heavy traffic.",
+        "A serene beach setting to promote summer wear.",
+        "The Dolomite Mountains of Italy during a stunning hike.",
+        "An amusement park designed specifically for VR experiences."
+      ],
+      "answer": "The Dolomite Mountains of Italy during a stunning hike."
+    },
+    {
+      "question": "In what way is McDonald’s embracing virtual reality?",
+      "options": [
+        "By providing free VR headsets with every meal.",
+        "By serving Happy Meals in boxes that convert into VR viewers.",
+        "By launching a VR game exclusively for adults.",
+        "By setting up VR stations in every restaurant for patrons."
+      ],
+      "answer": "By serving Happy Meals in boxes that convert into VR viewers."
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

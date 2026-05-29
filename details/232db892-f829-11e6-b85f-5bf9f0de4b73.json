@@ -1,0 +1,60 @@
+{
+  "title": "‘Get Up and Do It,’ Says High School Dropout Headed for College",
+  "introduction": null,
+  "image": {
+    "id": "7293955c-b4ab-4310-808f-1cc846825d1f",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3UCZPJ3VXxJujVZ2O8mKaN.jpeg",
+    "dimensions": {
+      "x": 739,
+      "y": 532
+    },
+    "attribution": "Abdulrahman Raofi / Wikimedia Commons / CC-BY-4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/05LTUHfJsEiyT4LoNgxPRO.mpga",
+  "main_content": "It took two years of non-stop studying for Lance Dunn to make it to this point.\n\nAfter dropping out of a high school in the 11th grade, the 23-year old Philadelphia resident has passed the GED or high school equivalency test, is graduating and on his way to college.\n\n“The key is to get up and do it, just get up and do it. Stay motivated and have that drive, that hunger to keep going,” Dunn said.\n\nEach year, nearly a thousand young people come through E3 (education, empowerment, and employment) community centers run by Philadelphia-based nonprofit JEV Human Services, where Director of Youth Engagement Tara Mullen says they receive help overcoming obstacles to completing their high school education and getting a job.\n\n“Many (are) parenting, many involved in the juvenile justice system, many involved in the adult criminal justice system, a lot facing homelessness just any other number of barriers,” Mullen said.",
+  "questions": [
+    {
+      "question": "When did Lance Dunn drop out of high school?",
+      "options": [
+        "During 12th grade",
+        "In the 10th grade",
+        "In the 11th grade",
+        "After completing high school"
+      ],
+      "answer": "In the 11th grade"
+    },
+    {
+      "question": "What does Tara Mullen say young people receive at the E3 community centers?",
+      "options": [
+        "Financial aid for college scholarships",
+        "Assistance in overcoming barriers to completing their high school education and getting a job",
+        "Educational materials for their courses",
+        "Job placements with local businesses"
+      ],
+      "answer": "Assistance in overcoming barriers to completing their high school education and getting a job"
+    },
+    {
+      "question": "What do the E3 community centers help young people overcome?",
+      "options": [
+        "Barriers to completing high school education and getting a job",
+        "The need to attend college immediately",
+        "Problems with school sports eligibility",
+        "A shortage of school supplies"
+      ],
+      "answer": "Barriers to completing high school education and getting a job"
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

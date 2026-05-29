@@ -1,0 +1,60 @@
+{
+  "title": "New Material Promises Faster Computer Chips",
+  "introduction": null,
+  "image": {
+    "id": "5dabb914-b20a-4d48-95c3-bc8908805c72",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2qklMv6QAgKPjsja1GnGDq.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 288
+    },
+    "attribution": "[Tycho] / http://shansov.net / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6urfSiyV97o9cZreScDNwT.mpga",
+  "main_content": "Scientists from University of Texas said this week that they had created what was previously possible only in theory: a one-atom-thick form of silicon, the material essential for production of transistors, the basic elements of all computer chips.\n\nThe exotic material, called silicene, has all the electrical properties needed for production of much smaller and faster semiconductors.\n\nOne of the critical properties of today’s computer chips is the distance electrons must travel from one transistor to the next. In transistors that are only one atom thick, the distance and time that signals travel during information processing would obviously be reduced.\n\nThe new material was notoriously difficult to work with, but the University of Texas scientists said they developed a method to handle the silicene by keeping it between two protective layers.\n\nThe new method is not ready yet for production, but scientists said it was an important step toward a commercially viable, low-energy, high-speed digital computer chip.",
+  "questions": [
+    {
+      "question": "What did scientists from the University of Texas create?",
+      "options": [
+        "A new type of computer chip",
+        "A one-atom-thick form of silicon",
+        "A new method for producing transistors",
+        "An entirely new element"
+      ],
+      "answer": "A one-atom-thick form of silicon"
+    },
+    {
+      "question": "What can silicene be used for?",
+      "options": [
+        "To create larger computer chips",
+        "To reduce the size and increase the speed of semiconductors",
+        "To enhance electrical insulation",
+        "To develop traditional silicon-based electronics"
+      ],
+      "answer": "To reduce the size and increase the speed of semiconductors"
+    },
+    {
+      "question": "What is one of the most important properties of computer chips?",
+      "options": [
+        "The material they are made from",
+        "The distance electrons must travel between transistors",
+        "Their physical size",
+        "The power consumption during operation"
+      ],
+      "answer": "The distance electrons must travel between transistors"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

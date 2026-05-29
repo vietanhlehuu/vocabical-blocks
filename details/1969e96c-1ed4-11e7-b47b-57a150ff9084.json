@@ -1,0 +1,60 @@
+{
+  "title": "SpaceX Rocket Explodes After Florida Liftoff",
+  "introduction": null,
+  "image": {
+    "id": "dd2e5c2c-e106-4d7b-a625-3b4a5e87e5d2",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6jMUQuCsoesVIjE1b0yVIw.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 768
+    },
+    "attribution": "SpaceX / Wikimedia Commons / CC0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2kcwpeIyCqAqlyq2bJxpQW.mpga",
+  "main_content": "An unmanned U.S. rocket carrying supplies to the International Space Station exploded shortly after lift-off Sunday, sending bits and pieces of its 2,300 kilograms of cargo plunging into the Atlantic Ocean.\n\nIt was the third time in eight months that a station shipment had failed, with a Russian cargo ship returning from the space station spinning out of control upon re-entry in April and another supply ship destroyed in a launch accident last October.\n\nSunday’s failure occurred two minutes and 19 seconds into the flight from Cape Canaveral, Florida, when a 63-meter rocket owned by Space Exploration Technologies exploded against a deep blue sky. The rocket was traveling at more than 4,600 kilometers an hour 43 kilometers above the Earth when it broke up in a cloud of smoke.\n\nLosing the shipment — including replacements for the cargo in the two previous failed missions — was a huge loss for the U.S. space agency NASA, which is counting on private industry to supply the International Space Station. SpaceX is one of the contenders for the ongoing supply runs and had carried out seven previous successful missions dating to 2012.\n\n“It’s not clear yet from the data what happened,” said NASA launch commentator George Diller. “They are beginning to play back video to look and see if there are any indications in the video what may have happened.”\n\nSpaceX chief executive Elon Musk said the accident appeared to be linked to excessive pressure in the liquid oxygen tank of the rocket’s upper stage.",
+  "questions": [
+    {
+      "question": "What was the rocket carrying?",
+      "options": [
+        "Scientific instruments for research",
+        "Supplies to the International Space Station",
+        "Human passengers for colonization",
+        "Satellite components for deployment"
+      ],
+      "answer": "Supplies to the International Space Station"
+    },
+    {
+      "question": "How many such accidents have happened in the last eight months?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "answer": "Three"
+    },
+    {
+      "question": "How fast was the rocket travelling when it exploded?",
+      "options": [
+        "2,300 kilometers an hour",
+        "4,000 kilometers an hour",
+        "4,600 kilometers an hour",
+        "5,000 kilometers an hour"
+      ],
+      "answer": "4,600 kilometers an hour"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

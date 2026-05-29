@@ -1,0 +1,60 @@
+{
+  "title": "Test Using Drop of Blood Can Reveal Person’s Viral Infection History",
+  "introduction": null,
+  "image": {
+    "id": "97527bb2-73c9-11ea-baa0-f3e6ed8f5298",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/0mGNKKeYk3qDru7o4oP4jH.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 512
+    },
+    "attribution": "Tannim101 / Wikimedia Commons / CC-BY-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0GMFyKbHPBoPtuIar9R3sB.mpga",
+  "main_content": "Every virus that has ever made people sick can now be detected in a drop of blood. A new test can tell doctors about a person’s history of prior viral infections, something that may head off more serious diseases in the future.\n\nThe new blood test, called VirScan, has the potential to detect more than 1,000 different viral strains in the virome, the vast array of viruses that can infect humans.\n\nPrincipal investigator Stephen Elledge of Brigham and Women’s Hospital and Harvard Medical School in Boston says the genetics test, which requires only a single drop of blood, can tell doctors whether a patient was exposed to harmful viruses\n\nResearchers used blood samples from 600 donors in the United States, Peru, South Africa and Thailand to develop VirScan. They found people in each country had been infected with a unique set of about 10 viruses.\n\nRight now, doctors can order a single test to detect a single virus, and that is only if the physician is astute enough to suspect a particular infection.\n\nMore broadly, Elledge said, VirScan might make it possible to look at the health impact of combinations of viruses. “So we do not really know where this is going to go,” he said.",
+  "questions": [
+    {
+      "question": "What will the new test do?",
+      "options": [
+        "Detect a single viral strain at a time.",
+        "Identify a person's complete genetic profile.",
+        "Reveal a person's history of prior viral infections.",
+        "Determine the effectiveness of vaccines."
+      ],
+      "answer": "Reveal a person's history of prior viral infections."
+    },
+    {
+      "question": "What is the blood test called",
+      "options": [
+        "ViroCheck",
+        "VirScan",
+        "BloodScan",
+        "InfectoTest"
+      ],
+      "answer": "VirScan"
+    },
+    {
+      "question": "What does the doctor need to conduct the test?",
+      "options": [
+        "A sample from two different blood types.",
+        "A comprehensive health record of the patient.",
+        "Only a single drop of blood.",
+        "Access to a laboratory in the patient's country."
+      ],
+      "answer": "Only a single drop of blood."
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Actor Jackie Chan ‘Ashamed’ About Son’s Drug Arrest",
+  "introduction": null,
+  "image": {
+    "id": "433948e4-e941-11ed-a994-531f51d3f6eb",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/752GrrNvgR1iCrw2rxKQ2G.jpeg",
+    "dimensions": {
+      "x": 761,
+      "y": 590
+    },
+    "attribution": "Ruslans Antropovs / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7ih4tdbeWNlBdoHTAZ85yM.mpga",
+  "main_content": "Kungfu film star Jackie Chan has apologized for his son’s arrest in China last week on drug charges.\n\nIn a blog post on Wednesday, the martial arts master said he was “enraged” and “disappointed” with son Jaycee Chan, 31.\n\n“You’ve done something wrong and you have to be responsible for the consequences,” Jackie Chan publicly wrote to his son.\n\nPolice in Beijing took the younger Chan into custody on August 14, along with Taiwanese actor Kai Ko, also known as Ko Chen-tung. More than 100 grams of marijuana were found in Chan’s home.\n\nChinese state news agency Xinhua reports he is charged with “accommodating suspected drug users.”\n\nAccording to Xinhua, drug-related arrests are up 72 percent over last year as officials crack down on dealers.",
+  "questions": [
+    {
+      "question": "How did Jackie Chan feel about his son’s arrest?",
+      "options": [
+        "He was indifferent and did not comment.",
+        "He felt proud of his son for being honest.",
+        "He was enraged and disappointed.",
+        "He was supportive and encouraged him."
+      ],
+      "answer": "He was enraged and disappointed."
+    },
+    {
+      "question": "What crime is Jackie Chan’s son charged with?",
+      "options": [
+        "Possessing illegal substances",
+        "Accommodating suspected drug users",
+        "Manufacturing drugs",
+        "Conspiring with dealers"
+      ],
+      "answer": "Accommodating suspected drug users"
+    },
+    {
+      "question": "What caused the increase in drug-related arrests in China?",
+      "options": [
+        "A new law banning all drugs",
+        "Higher penalties for drug-related crimes",
+        "Officials cracking down on dealers",
+        "Increased public awareness campaigns"
+      ],
+      "answer": "Officials cracking down on dealers"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

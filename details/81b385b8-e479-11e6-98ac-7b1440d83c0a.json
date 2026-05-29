@@ -1,0 +1,60 @@
+{
+  "title": "Music Helps Children Perform Better in School",
+  "introduction": null,
+  "image": {
+    "id": "453255b2-9d4f-44ab-bbe2-310acf2dd516",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/26ZTMYZ9aIlJDEErXFKnBu.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 433
+    },
+    "attribution": "Wamito / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5RGiRZQNE9hF4Y5OfQ4NRl.mpga",
+  "main_content": "Researchers have found that the brains of children who grow up in poverty interpret sounds differently from other children. But an American study shows how musical training can affect the brain so that poor children might be able to better process what they hear. It finds such training could help them improve language and other skills.\n\nMargaret Martin launched the program more than 10 years ago. Ms. Martin holds a doctoral degree in public health. But she speaks of difficult experiences while growing up. She was pregnant during her teen-age years. And at one time in her life, she was homeless – having no permanent place to live.\n\nMs. Martin says that at first, the goal of Harmony Project was to help children in poor, often violent neighborhoods stay in school and finish high school. But she was surprised to find many of the music students deciding to continue their education.\n\nShe began to wonder if music had had some effect on the students. It did not make sense until researchers put sensors on the children’s heads. The researchers measured how the children reacted to sounds, before and after they studied music at Harmony Project.\n\nThe research involved boys and girls between the ages of six to nine years. All of the children were taking music lessons. They were studied over a two-year period. Then they were re-studied at intervals for another two years.\n\nProfessor Kraus says she found that poor children process sound differently from other children.\n\nBut when a child started music training, something changed after two years.\n\nShe says she would like other researchers to extend the study to thousands of students in many areas. Some of the young musicians at Harmony Project are like Ivan Ignacio Arce. He says they are living proof that music helps children improve in school.",
+  "questions": [
+    {
+      "question": "Who launched the Harmony Project?",
+      "options": [
+        "Professor Kraus",
+        "Margaret Martin",
+        "A group of researchers",
+        "Ivan Ignacio Arce"
+      ],
+      "answer": "Margaret Martin"
+    },
+    {
+      "question": "What age group was involved in the research?",
+      "options": [
+        "Three to five years",
+        "Six to nine years",
+        "Ten to twelve years",
+        "Four to eight years"
+      ],
+      "answer": "Six to nine years"
+    },
+    {
+      "question": "What was measured before and after the children studied music at Harmony Project?",
+      "options": [
+        "Their academic scores",
+        "Their emotional responses",
+        "Their reaction to sounds",
+        "Their physical health"
+      ],
+      "answer": "Their reaction to sounds"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

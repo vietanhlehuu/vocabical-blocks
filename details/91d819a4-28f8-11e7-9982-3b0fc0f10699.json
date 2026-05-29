@@ -1,0 +1,60 @@
+{
+  "title": "Hostage Crisis Could Divide Japan Over Plans to Boost Military",
+  "introduction": null,
+  "image": {
+    "id": "dba8e99e-861d-4114-be79-65505ed3aabb",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/6gUVnTuqqlEjivr9pAfFql.jpeg",
+    "dimensions": {
+      "x": 322,
+      "y": 382
+    },
+    "attribution": "US Government / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2xsjpKGxBPKyaRWkGLrNEz.mpga",
+  "main_content": "The Islamic State group’s apparent beheading of one Japanese hostage and its threat to kill a second are stark reminders to Tokyo that its increasing diplomatic profile and close friendship with the United States make it a target for terrorists. The hostage crisis could likely further polarize Japanese opinion over Tokyo’s plan to play a more active role in global security.\n\nJapanese Chief Cabinet Secretary Yoshihide Suga said Monday the government is working closely with the Jordanian government to secure the release of remaining Japanese hostage Kenji Goto.\n\nIn a video posted online Sunday, a voice that is purportedly Goto’s says the militants have dropped their ransom demand and will free him in exchange for the release of Sajida al-Rishawi, an Iraqi held in Jordan.\n\n“So, you don’t need to worry about funding terrorists. They are just demanding the release of their imprisoned sister Sajida al-Rishawi. It is simple,” Goto says in the clip.\n\nThe $200 million ransom demand made by the militants was the same amount Prime Minister Abe pledged in nonmilitary aid for refugees displaced by the rise of the Islamic State, which holds large parts of Iraq and Syria.\n\nAbe is also trying to change Japan’s pacifist constitution to allow the military to act more “proactively” to protect the lives of its citizens and defend the nation and its allies. His “proactive pacifism” plan has been controversial in Japan and in the region due to the country’s past wartime aggression.\n\nKoichi Nakano, a professor of political science at Sophia University in Tokyo, said the hostage crisis will likely further polarize the public.\n\n“On the one hand, the government would make the argument that this is the reason why we need the government to be more proactive in taking part in the war on terror but a large number of the Japanese remain unconvinced that that is actually the case,” said Nakano.",
+  "questions": [
+    {
+      "question": "Why is Japan becoming a target for terrorists?",
+      "options": [
+        "A. Its military presence in the Middle East has increased significantly.",
+        "B. Its diplomatic relationship with the United States has strengthened recently.",
+        "C. Its longstanding policy of neutrality has made it vulnerable.",
+        "D. Its economic sanctions against terrorist groups have escalated."
+      ],
+      "answer": "B. Its diplomatic relationship with the United States has strengthened recently."
+    },
+    {
+      "question": "What do the terrorists want in exchange for the release of Japanese hostage Kenji Goto?",
+      "options": [
+        "A. A substantial financial donation to their cause.",
+        "B. The freedom of an Iraqi prisoner named Sajida al-Rishawi.",
+        "C. An apology from the Japanese government for past actions.",
+        "D. A promise from Japan to withdraw from international coalitions."
+      ],
+      "answer": "B. The freedom of an Iraqi prisoner named Sajida al-Rishawi."
+    },
+    {
+      "question": "Why did the terrorists initially ask for a ransom of $200 million?",
+      "options": [
+        "A. It was a figure that matched Japan's pledged aid to refugees.",
+        "B. It was meant to symbolize the cost of their operations.",
+        "C. It was the average ransom amount for hostages.",
+        "D. It corresponded with the financial needs of their group."
+      ],
+      "answer": "A. It was a figure that matched Japan's pledged aid to refugees."
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "US, Ethiopia Join to Train Women Farmers",
+  "introduction": null,
+  "image": {
+    "id": "e45c0922-0eab-11e7-b34a-c3fa0d2ba66c",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4Uzi04UdfXDKenrbHerRUN.jpeg",
+    "dimensions": {
+      "x": 800,
+      "y": 600
+    },
+    "attribution": "Davelalat / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4MIZuEuiYUeX7ux4ICWHNb.mpga",
+  "main_content": "The U.S. is awarding $15,000 each to five pairs of U.S. and Ethiopian universities for research and development projects.\n\nOne partnership is between the University of Maryland and Debre Birhan University, in Ethiopia. The partners will use the money to train Ethiopian women to grow crops throughout the year. They will teach students in both classrooms and on farms. Their goal is to help Ethiopia fight food insecurity.\n\nBecky Ramsing is an advisor at the University of Maryland. She says she hopes the program will help women in Ethiopia who might not have any other way to get training.\n\n“If you give the woman the resources those resources will directly go to the family. And when women are given added income or are able to raise more food, that directly relates to the children and the education and nutrition of the child.”\n\nMs. Ramsing says the program will first train teachers and officials at Debre Birhan University. Then, those teachers and officials will teach women useful farming skills, such as how to grow food in small places.\n\nTsigemariam Bashe is an official of Debre Birhan university. Ms. Bashe says the program aims to do more than teach farming. The larger purpose, she says, is to help women care for themselves and their families.\n\nHailu Terefe also works at Debre Birhan. He says in some parts of the country only men are taught how to farm.",
+  "questions": [
+    {
+      "question": "How much money will be given to U.S. and Ethiopian universities?",
+      "options": [
+        "$10,000 for each university",
+        "$15,000 for five pairs",
+        "$20,000 for select partners",
+        "$5,000 per project"
+      ],
+      "answer": "$15,000 for five pairs"
+    },
+    {
+      "question": "What did Ms. Ramsing say the program will first do?",
+      "options": [
+        "Teach women farming techniques",
+        "Train teachers and officials",
+        "Provide resources for families",
+        "Conduct research on food security"
+      ],
+      "answer": "Train teachers and officials"
+    },
+    {
+      "question": "What did Hailu Terefe say about farming?",
+      "options": [
+        "All families have equal access to farming education",
+        "Only men are sometimes taught farming in some regions",
+        "Farming techniques are the same across Ethiopia",
+        "Women are not interested in farming education"
+      ],
+      "answer": "Only men are sometimes taught farming in some regions"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

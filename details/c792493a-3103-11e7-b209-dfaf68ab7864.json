@@ -1,0 +1,60 @@
+{
+  "title": "Scientists Build Robots to Live With Humans",
+  "introduction": null,
+  "image": {
+    "id": "7d5af437-2169-47d8-ae5f-7ebd34f37e62",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3oXbd7flnFUiRqYuzLLii2.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "U.S. Navy photo by John F. Williams / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4tM93lwYXmUQhKbfC9Tkgk.mpga",
+  "main_content": "Industrial robots are already working in many factories around the world and in our homes, for instance as smart vacuum cleaners. Scientists say in a few years we will start seeing so-called “social robots,” capable of engaging with people.\n\nToday’s robots can build cars and explore underwater objects. But interacting with people is more complex than simply taking an incoming message, says Massachusetts Institute of Technology researcher Cynthia Breazeal.\n\n“Social robots really interact with people in ways you feel like you’re interacting with someone rather than something,” she said. “And social robots are really designed to engage you in much more of an interaction that feels like a collaboration or partnership.”\n\nAt the Naval Research Laboratory, near Washington, scientists are researching which features robots should have to be able to live with humans. Researcher Alan Schultz says social robots must be adapted to social situations.\n\n“You know if you’re going to have robots out in the wild, so to speak, they have to obey our norms and they have to do things in the way we expect, so that we can move about our environment and not be interrupted by them or have to think hard about the fact that they’re around us,” he said.\n\nSocial robots do not necessarily have to have a human face. Steve Cousins, the CEO of Savioke Robotics in Cupertino, California, says their robot called Botlr is already being tested in a hotel, delivering small items to people.\n\n“It’s designed to be in human spaces and interact with people and around people,” he said. “So it interacts with the front desk agent when they’re sending it somewhere. It interacts with people in the elevator as it’s going along. And, it interacts with people at the door when the delivery arrives.”\n\nSo far, social robots are limited to very simple tasks like relaying messages or taking family photos. But Cynthia Breazeal, who designed this one, says their abilities may be extended into many different domains.\n\n“Going deeper into things like education, like health and wellness, like aging independently and remaining connected to family, and entertainment and games and online services, and so much more,” she said.\n\nHowever, critics say until robots are capable of cleaning windows or cooking dinner it will not make much sense to spend money on cute gadgets that can do something our smart phone is already capable of doing.",
+  "questions": [
+    {
+      "question": "What are scientists hoping to accomplish in a few years?",
+      "options": [
+        "To develop robots that can perform household chores without supervision.",
+        "To introduce social robots capable of engaging with people in meaningful ways.",
+        "To create robots that can replace human jobs in factories globally.",
+        "To design robots that can operate independently in underwater explorations."
+      ],
+      "answer": "To introduce social robots capable of engaging with people in meaningful ways."
+    },
+    {
+      "question": "Why does Cynthia Breazeal think this is a challenge?",
+      "options": [
+        "Because robots need to physically resemble humans to engage effectively.",
+        "Because interacting with humans involves understanding complex social cues.",
+        "Because robots must be able to perform multiple tasks without fail.",
+        "Because current technology limits robots to being used solely in industrial settings."
+      ],
+      "answer": "Because interacting with humans involves understanding complex social cues."
+    },
+    {
+      "question": "How are social robots designed to engage with people?",
+      "options": [
+        "By mimicking human facial expressions to create a sense of familiarity.",
+        "By performing complex tasks similar to those done by human assistants.",
+        "By enabling interactions that feel collaborative and like a partnership.",
+        "By following strict guidelines that limit their interaction with humans."
+      ],
+      "answer": "By enabling interactions that feel collaborative and like a partnership."
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

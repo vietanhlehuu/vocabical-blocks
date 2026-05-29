@@ -1,0 +1,60 @@
+{
+  "title": "Smartphone App Alerts Trained Bystanders to Cardiac Emergencies",
+  "introduction": null,
+  "image": {
+    "id": "a0e3ce95-bd99-4f2e-99ef-c47d3bf74216",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4tasaEpSocct5bj6Mnpoda.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Rama / Wikimedia Commons / CC-BY-SA-2.0-fr",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5377yq4qMmZocIh8DP1I99.mpga",
+  "main_content": "Smartphones are opening up a new way to save lives in some U.S. and European cities, where emergency dispatch centers send mobile phone alerts to nearby citizen responders when a person needs cardiopulmonary resuscitation – or CPR – in a public place.\n\nLast September, Karen Garrison learned just how much of a lifesaver the service can be. She was shopping with her children in Spokane, Washington, when her youngest child, baby Nolan, stopped breathing.\n\n“It was such a blur,” she remembers. “Someone yelled, ‘Call 911! He’s not breathing.’ He was blue.”\n\nGarrison, who doesn’t know CPR, held her child while the shopkeeper dialed for help.\n\nAbout a block-and-a-half away, master mechanic Jeff Olson was fixing a car at the Perfection Tire garage when his smartphone squawked to life.\n\n“The phone went off,” he said. “I thought, ‘that’s kind of strange.’ I looked down and it said, ‘CPR needed.’  It gave me an address. And I’m going, ‘Wow, that’s just a short distance away’.”\n\nOlson also volunteers with rural ambulance crew, so he knew seconds counted. After washing his hands, he dashed to the scene and took control of the situation.\n\n“I asked her [the mother] what’s happening and then scooped up the baby and put him in my arm and started doing some rescue breathing for him,” Olson said.\n\nSix months earlier, Olson had downloaded a free smartphone app called PulsePoint. The app automatically notifies users when there’s a cardiac emergency nearby. It’s tied to participating emergency dispatch centers in the U.S. and Canada – and soon Australia, too.\n\nJeff Olson did not know the Garrison family before that fateful September day, but now, eight months later, they’ve become reacquainted under happier circumstances. Baby Nolan has underlying health issues, but has made a full recovery from the respiratory arrest episode. His father, Mike Garrison, now wants everyone at the coffeehouse he owns trained in CPR and signed up with PulsePoint.",
+  "questions": [
+    {
+      "question": "What is the new way to save lives?",
+      "options": [
+        "Sending text messages to nearby citizens about cardiac emergencies",
+        "Using drones to deliver medical supplies during emergencies",
+        "Sending mobile phone alerts to nearby citizen responders for CPR",
+        "Implementing a new social media campaign about CPR training"
+      ],
+      "answer": "Sending mobile phone alerts to nearby citizen responders for CPR"
+    },
+    {
+      "question": "What was Jeff Olson doing when he received the alert?",
+      "options": [
+        "Participating in a CPR training session",
+        "Fixing a car at the Perfection Tire garage",
+        "Shopping for groceries",
+        "Volunteering in an emergency dispatch center"
+      ],
+      "answer": "Fixing a car at the Perfection Tire garage"
+    },
+    {
+      "question": "What did he do after he received the alert?",
+      "options": [
+        "Ignored the alert and continued his work",
+        "Called the police for assistance",
+        "Rushed to the scene and began rescue breathing for the baby",
+        "Checked his smartphone for more details about the emergency"
+      ],
+      "answer": "Rushed to the scene and began rescue breathing for the baby"
+    }
+  ],
+  "level": 9,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

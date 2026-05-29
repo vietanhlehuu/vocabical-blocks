@@ -1,0 +1,60 @@
+{
+  "title": "Children in US Help Wild Elephants in Thailand, Kenya",
+  "introduction": null,
+  "image": {
+    "id": "c6fda2e8-6221-11ee-8bc0-ef42117ca3be",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/jVRixwRNBvssaqEYoleT3ANJzOWe6mtX0CzWNKrX1NM.jpeg",
+    "dimensions": {
+      "x": 6250,
+      "y": 4167
+    },
+    "attribution": "Shutterstock",
+    "public_attribution": false,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4bW1QOVxJk5dsAxtSR4e43.mpga",
+  "main_content": "On Miriam Gardsbane’s 9th birthday two years ago, her aunt gave money to a group that cares for elephants. The woman, who lives in Kenya, told the group she was giving the money to celebrate Miriam’s birthday.\n\nMiriam and her mother then visited Africa to learn how that money was helping to support elephants. Miriam fell in love with the animals and wanted to help save them.\n\nA few months after visiting Africa, Miriam watched “How I Became an Elephant,” a documentary about the mistreatment of elephants in Thailand, and a young girl’s campaign to save them.\n\nLast year, Miriam created a group she called They Deserve To Be Free after seeing a program that showed young elephants being abused in Thailand.\n\nMiriam is working to make money for an activist who operates Elephant Nature Park in Thailand. The park is a sanctuary – a place where elephants rescued from the tourism industry and illegal logging operations can live. She asked her friends to give money to the park rather than giving her birthday gifts. She made and sold baked goods, and made signs about elephant abuse.\n\nMiriam says she is proud of her work, and happy she can help elephants.",
+  "questions": [
+    {
+      "question": "How old was Miriam Gardsbane 2 years ago?",
+      "options": [
+        "7 years old",
+        "8 years old",
+        "9 years old",
+        "10 years old"
+      ],
+      "answer": "7 years old"
+    },
+    {
+      "question": "What group did Miriam create?",
+      "options": [
+        "Elephant Nature Park",
+        "They Deserve To Be Free",
+        "Friends of Elephants",
+        "Save the Elephants"
+      ],
+      "answer": "They Deserve To Be Free"
+    },
+    {
+      "question": "What animals does Miriam want to save?",
+      "options": [
+        "Lions",
+        "Tigers",
+        "Elephants",
+        "Giraffes"
+      ],
+      "answer": "Elephants"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

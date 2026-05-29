@@ -1,0 +1,60 @@
+{
+  "title": "Migrating Birds Can’t Find Their Way Home",
+  "introduction": null,
+  "image": {
+    "id": "e4587de8-0eab-11e7-b131-2334b527e648",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/1g8EEeqbHKPtUNiWrLsG7G.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Thermos / Wikimedia Commons / CC-BY-SA-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6dt8iZ0pY4711Yi4Wdeugg.mpga",
+  "main_content": "Scientists say a huge percentage of bird species are in danger because their habitats are disappearing.\n\nThe scientists studied the migration (or flight) and paths of almost 1,500 species. They decided that 91 percent of them passed through dangerous areas.\n\nThe danger for migratory birds is development. Building and paving have covered over the nature where birds stop and feed as they move from one part of the world to another.\n\nFor example, a bird called the bar-tailed godwit migrates from the Arctic. It flies all the way to Australia and New Zealand. Along the way, the small birds stop in China, North Korea and South Korea.\n\nThe problem is that many of these small birds die along their migration because they don’t have a safe place to eat and rest. There is no place to restore their energy.\n\nThe researchers say countries need to work together and come up with safe stopover areas for birds.",
+  "questions": [
+    {
+      "question": "In which countries does the bar-tailed godwit stop along the way to Australia and New Zealand?",
+      "options": [
+        "Japan, Vietnam, Thailand",
+        "China, North Korea, South Korea",
+        "India, Malaysia, Indonesia",
+        "Philippines, Papua New Guinea, Fiji"
+      ],
+      "answer": "China, North Korea, South Korea"
+    },
+    {
+      "question": "What has covered over the nature where birds stop?",
+      "options": [
+        "Forests and parks",
+        "Development, building and paving",
+        "Water bodies and wetlands",
+        "Natural disasters and climate change"
+      ],
+      "answer": "Development, building and paving"
+    },
+    {
+      "question": "Why are bird species in danger ?",
+      "options": [
+        "Rapid population growth of birds",
+        "Lack of natural predators",
+        "Disappearance of their habitats",
+        "Increased availability of food resources"
+      ],
+      "answer": "Disappearance of their habitats"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

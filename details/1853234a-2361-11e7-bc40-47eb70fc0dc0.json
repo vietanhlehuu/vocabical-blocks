@@ -1,0 +1,60 @@
+{
+  "title": "US Embassies to Monitor Air Quality",
+  "introduction": null,
+  "image": {
+    "id": "0e4ff538-2a34-4266-8c6d-b39fe661ec47",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/0R0Qs7fN65lzlm7g2TnnIV.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "U.S. Department of State / Wikimedia Commons / CC-BY-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/44opx6RplzaSVabOAmWI90.mpga",
+  "main_content": "How bad is the air in your city? The U.S. embassy may soon have the answer.\n\nThe State Department has announced plans to install air quality monitors at diplomatic posts and make the data publicly available. The program will begin in India, Vietnam and Mongolia.\n\nThe aim is to provide important health information for U.S. government employees overseas, as well as for locals. And U.S. officials said, it may help inspire citizens to call for change.\n\nWhen an air quality monitor at the U.S. embassy in Beijing began reporting toxic pollution levels several years ago, “our hosts didn’t like it particularly,” said Secretary of State John Kerry.\n\nIn fact, China’s vice environmental minister called it an illegal and unacceptable interference in the country’s internal affairs.\n\nBut the information is available online, and after seeing how bad the problem is, Kerry said, Chinese “citizens are increasingly demanding action.”\n\nSpeaking at a ceremony in Washington Wednesday, Kerry noted that the Chinese government is responding. Last year Chinese Premier Li Keqiang “declared war” on pollution. “That’s a quote,” Kerry said.\n\nOutdoor air pollution is responsible for 3.7 million annual deaths globally, according to the World Health Organization.\n\nThe program builds on a U.S. Environmental Protection Agency (EPA) system that provides real-time air quality data on pollutants linked to a number of health problems.",
+  "questions": [
+    {
+      "question": "How will the US measure pollution levels around the world?",
+      "options": [
+        "By installing air quality monitors at diplomatic posts",
+        "Through satellite imagery and environmental modeling",
+        "By conducting surveys of local populations",
+        "By collaborating with international environmental agencies"
+      ],
+      "answer": "By installing air quality monitors at diplomatic posts"
+    },
+    {
+      "question": "Why does the USA want to do this?",
+      "options": [
+        "To provide important health information for both U.S. employees and locals",
+        "To demonstrate U.S. technological superiority",
+        "To compete with other countries in environmental monitoring",
+        "To avoid penalties from international environmental agreements"
+      ],
+      "answer": "To provide important health information for both U.S. employees and locals"
+    },
+    {
+      "question": "How did China react to the program?",
+      "options": [
+        "With enthusiasm and support for the initiative",
+        "By ignoring the data reported",
+        "By claiming it was an illegal interference",
+        "By expressing gratitude for the U.S. commitment to environmental issues"
+      ],
+      "answer": "By claiming it was an illegal interference"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

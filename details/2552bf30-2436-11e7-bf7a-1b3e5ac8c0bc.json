@@ -1,0 +1,60 @@
+{
+  "title": "New Tool Maps Buildings’ Energy Efficiency",
+  "introduction": null,
+  "image": {
+    "id": "5f2a8c83-9432-4605-a927-ee8cbb3a369b",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/2tZiO8iRYAllUvQhc450Ml.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 345
+    },
+    "attribution": "Massimo Catarinella / Wikimedia Commons / CC-BY-3.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2lWQA9v7pskPQW8VY6QzCC.mpga",
+  "main_content": "Architects, engineers and building managers will soon be able to quickly collect data about building interiors that once took weeks to measure and process. A backpack-mounted device, developed by a group of scientists at the University of California, Berkeley, will require just one pass through the building to create not only a 3D model but gather other valuable information related to the building’s energy efficiency.\n\nLet’s say an older building needs a new, more efficient heating and cooling system. The first thing you need is a precise configuration of all rooms, the size and position of heating and cooling elements, windows and doors, and electrical outlets.\n\nInstead of sending a team of technicians with laser pointers and laptop computers it will soon be possible to hire only one, with a space-age backpack loaded with sophisticated instruments, says engineer Annie Marston with Baumann Consulting, who evaluated the new device.\n\n“The backpack is something you can wear, which has all the sensors on the back, which can then walk through a building and detect the geometry, the lights, the plug load, and, once you take it out, you can create a 3D model which can show an IR (infra-red) image of each of the walls and look at the thermal capacity of the building, and then it can be transferred into an energy model, and the energy model could be run and look at how the energy is dispersed within the building, and that’s when we start looking at saving measures and things like that,” says Marston.\n\nA barometer calculates the elevation, while magnetometers serve as 3D compasses capturing information about metallic structures.\n\nThe so-called point cloud map has accuracy of plus or minus 10 centimeters, to which an algorithm can add surfaces to the walls, floors and ceilings, turning it into a feature-rich map.\n\nThis can be used for energy simulation, thermo-modeling or architectural design.\n\nMarston says the device may be very useful not only to energy auditors and engineers but also to the construction industry.\n\n“When they are building a new construction, it will be great to have a model of the ducts and the pipes before the walls are closed up, so in later years you know where everything is,” says Marston.\n\nResearchers say they are now trying to lower the backpack’s weight from 15 to about 10 kilograms. The projected price of about $20,000 is still high, but they predict the device will be available for loan at a more affordable sum.",
+  "questions": [
+    {
+      "question": "What will the device be able to do?",
+      "options": [
+        "Create a 2D sketch of the building's layout.",
+        "Require multiple technicians to set up and operate.",
+        "Quickly collect data and generate a 3D model of building interiors.",
+        "Measure only the exterior dimensions of the building."
+      ],
+      "answer": "Quickly collect data and generate a 3D model of building interiors."
+    },
+    {
+      "question": "In what way will the device change the way we analyze buildings?",
+      "options": [
+        "By eliminating the need for any technological devices.",
+        "By allowing a single operator to gather comprehensive building data in one pass.",
+        "By focusing exclusively on structural aspects without considering energy efficiency.",
+        "By relying on manual methods for data collection."
+      ],
+      "answer": "By allowing a single operator to gather comprehensive building data in one pass."
+    },
+    {
+      "question": "How accurate is the map?",
+      "options": [
+        "It is accurate within a margin of plus or minus 5 centimeters.",
+        "It has an accuracy of plus or minus 10 centimeters.",
+        "It is completely accurate without any margin of error.",
+        "It has a lower accuracy than traditional methods."
+      ],
+      "answer": "It has an accuracy of plus or minus 10 centimeters."
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

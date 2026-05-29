@@ -1,0 +1,60 @@
+{
+  "title": "Cyclones Smash Australia",
+  "introduction": null,
+  "image": {
+    "id": "f8a286ed-d8e6-42cc-a7c0-605e22985636",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/7ZAN4cTzYbTrLMbw8Pp5Ta.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 444
+    },
+    "attribution": "NASA’s Aqua/MODIS satellite / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0VyDcq7M4EGgaf9KAHbprn.mpga",
+  "main_content": "Two massive cyclones smashed into northern Australia Friday, in a “first” for the country, the weather bureau said. The Bureau of Meteorology says this is the first time two severe tropical cyclones have crossed Australia within 24 hours.\n\nCyclone Lam hit a sparsely-populated stretch of the Northern Territory, followed a few hours later by the more powerful Cyclone Marcia, which crossed over small towns along the east coast of Queensland state with wind gusts up to 285 kilometers per hour.\n\nQueensland state Premier Annastacia Palaszczuk warned residents Thursday to get ready for a “harrowing and terrifying experience” as Cyclone Marcia pounds the area.\n\nPalaszczuk warned, “This is a severe cyclone. We want everyone to take all the precautions that they possibly can take.”\n\nForecasters say Cyclone Marcia is a category five storm, the most dangerous, while Typhoon Lam rates a category four.",
+  "questions": [
+    {
+      "question": "What was unusual about the storms that hit Australia?",
+      "options": [
+        "They crossed Australia within 24 hours of each other.",
+        "They were the first cyclones to hit Australia in February.",
+        "They were both rated as category five storms.",
+        "They affected only major cities along the coast."
+      ],
+      "answer": "They crossed Australia within 24 hours of each other."
+    },
+    {
+      "question": "How strong were the winds of Cyclone Marcia?",
+      "options": [
+        "Up to 240 kilometers per hour.",
+        "Up to 285 kilometers per hour.",
+        "Up to 300 kilometers per hour.",
+        "Up to 200 kilometers per hour."
+      ],
+      "answer": "Up to 285 kilometers per hour."
+    },
+    {
+      "question": "How did Queensland state Premier Annastacia Palaszczuk describe Cyclone Marcia?",
+      "options": [
+        "As a minor weather event requiring little preparation.",
+        "As a severe cyclone and told residents to take all possible precautions.",
+        "As a historic event with no immediate risks.",
+        "As a category four cyclone with manageable impacts."
+      ],
+      "answer": "As a severe cyclone and told residents to take all possible precautions."
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Cambodia Circus Offers a Better Life to Young Performers",
+  "introduction": null,
+  "image": {
+    "id": "96a44fec-413a-11e8-b8c8-ff863f25d2b7",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/QB4GgKLkWI9z5CEe2D1DckGnCG1AmaOimOJFzGGCfCb.jpeg",
+    "dimensions": {
+      "x": 5605,
+      "y": 3737
+    },
+    "attribution": "Shutterstock",
+    "public_attribution": false,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5VlxiH8zaZ4CsenxZoWnj0.mpga",
+  "main_content": "Many young people dream of joining the circus and performing for large crowds. Such dreams are very much alive in Cambodia, where the skills some youngsters learn can change their lives.\n\nJuggling, tumbling and acrobatics – performing difficult and often dangerous movements – are not skills most schoolchildren learn. But such moves are as much a part of the study program as mathematics and languages at the Phare Ponleu Selpak school, or PPS.\n\nThe skills have taken former PPS students to a number of other countries in Asia, Europe and even the United States.\n\nAmong them is Pin Phunam, 23-year-old contortionist. She had a troubled childhood. Her father was an alcoholic who sometimes turned violent. At the age of seven, Pin Phunam was collecting bottles and other trash to earn money for food. At 13, she joined the circus program at PPS.\n\nPin Phunam belongs to a troupe of performers called the Phare Cambodian Circus. Her group was one of several appearing at an international circus festival in Phnom Penh this month.\n\nHer big dream is to enter politics. But her friends say that’s a crazy idea.",
+  "questions": [
+    {
+      "question": "What does PPS stand for (mean)?",
+      "options": [
+        "Practical Performance School",
+        "Phare Ponleu Selpak",
+        "Pioneer Performing Society",
+        "Professional Performance School"
+      ],
+      "answer": "Phare Ponleu Selpak"
+    },
+    {
+      "question": "What does Pin Phunam do?",
+      "options": [
+        "Juggler",
+        "Contortionist",
+        "Tumbler",
+        "Acrobat"
+      ],
+      "answer": "Contortionist"
+    },
+    {
+      "question": "When did Pin Phunam join the circus program?",
+      "options": [
+        "At age 7",
+        "At age 10",
+        "At age 13",
+        "At age 15"
+      ],
+      "answer": "At age 13"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

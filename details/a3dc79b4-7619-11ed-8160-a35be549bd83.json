@@ -1,0 +1,60 @@
+{
+  "title": "Pages of Book Could Provide Safe Drinking Water for Millions",
+  "introduction": null,
+  "image": {
+    "id": "a3dc05a6-7619-11ed-815f-b75dab904e7d",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/7Y4QAhMy8NEOioFjfRKdwG.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 341
+    },
+    "attribution": "Johannes Jansson / norden.org / CC-BY-2.5-dk",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2KFaGyq6O3x3GX8ZL6qq6J.mpga",
+  "main_content": "The phrase “a thirst for knowledge” may soon take on a new meaning for millions of people around the world who do not have access to clean water.\n\nAn estimated 600 to 700 million people around the world are at risk of illness and even death because their drinking water is infected with harmful bacteria and other contaminants.\n\nBut a book, developed by researcher Teri Dankovich, contains specially treated pages that decontaminate water could potentially improve the lives of many who live in the developing world.\n\nThe book contains 25 pages, each about 1 millimeter thick, embedded with nano particles of silver. The pages are made of filter paper and designed to be ripped from the book so that water can be poured through the paper, killing harmful microorganisms and decontaminating polluted drinking water.\n\n“There’s instructions printed on the pages that says water is unsafe to drink in your village and if you want to protect your health, use this book as a water filter, and(it contains information about] some of the symptoms you can have if you have waterborne disease,” Dankovich said.\n\nFor those who can’t read, there are pictures on the pages depicting the dangers of dirty water and how to use the book.\n\nDankovich will present her invention this week at the meeting of the American Chemical Society in Boston.\n\nShe and her colleague field-tested the drinkable book in Bangladesh, Ghana and South Africa, where it was well received.\n\nDankovich said the text is written with food-safe ink, and each page can be used to filter up to 100 liters of water.\n\nThe work is being supported by the nongovernmental organization Water for Life. It costs just pennies per page to produce each book.",
+  "questions": [
+    {
+      "question": "Why are many people at risk of illness or even death?",
+      "options": [
+        "They do not have sufficient education to understand health risks.",
+        "Their drinking water is infected with harmful bacteria and other contaminants.",
+        "They consume food that has been improperly stored.",
+        "They live in regions with extreme climates."
+      ],
+      "answer": "Their drinking water is infected with harmful bacteria and other contaminants."
+    },
+    {
+      "question": "What does the book developed by Teri Dankovich contain?",
+      "options": [
+        "Recipes for healthy drinking water alternatives.",
+        "Specially treated pages that can decontaminate water.",
+        "Stories about the cause of waterborne diseases.",
+        "Instructions for creating homemade water filters."
+      ],
+      "answer": "Specially treated pages that can decontaminate water."
+    },
+    {
+      "question": "What are the pages of the book designed to be used for?",
+      "options": [
+        "To teach people about the importance of clean water.",
+        "To rip out and filter water, killing harmful microorganisms.",
+        "To outline the steps toward improving local sanitation services.",
+        "To help construct a well for safe drinking water."
+      ],
+      "answer": "To rip out and filter water, killing harmful microorganisms."
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

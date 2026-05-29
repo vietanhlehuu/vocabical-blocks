@@ -1,0 +1,60 @@
+{
+  "title": "Cecil the Lion Could Help Protect Other Animals",
+  "introduction": null,
+  "image": {
+    "id": "7f6aaae4-7617-11ed-b6ae-03097e2569af",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/77fzC1O7Y9zuoywvUHpsBI.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 384
+    },
+    "attribution": "Daughter#3 / Wikimedia Commons / CC-BY-SA-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1Sk0V7wSS9B0c7bzekg8s6.mpga",
+  "main_content": "After an American hunter killed a beloved lion named Cecil in Zimbabwe this summer, animal rights are getting increased attention in the U.S.\n\nIn September, a lawmaker from Arizona proposed a law that would prohibit importing dead animals that are threatened or endangered.\n\nRep. Raul Grijalva calls the proposed legislation the “Conserving Ecosystems by Ceasing the Importation of Large Animal Trophies Act.”  The first words of the act spell CECIL, the name of the lion killed by an American dentist. The proposed law would have prevented the American hunter from bringing Cecil’s body into the U.S.\n\nAdam Roberts is the CEO of the animal rights group Born Free USA. He says more than 500 lions are killed every year in Africa as trophies.\n\nAnother animal rights campaign is looking at organizations in southern Africa that offer elephant rides to tourists. Activists say using elephants for entertainment is cruel.\n\nKate Nustedt is the director of wildlife for the World Animal Protection group, based in London. Ms. Nustedt explains that for a long time, many people believed African elephants could not be trained. But recently, she says, trainers have begun using techniques that can be effective but cruel.",
+  "questions": [
+    {
+      "question": "What was the lion’s name?",
+      "options": [
+        "Leo",
+        "Cecil",
+        "Simba",
+        "Troy"
+      ],
+      "answer": "Cecil"
+    },
+    {
+      "question": "What did a lawmaker from Arizona propose?",
+      "options": [
+        "A tax on animal trophies",
+        "An amendment to protect endangered species",
+        "A law prohibiting the importation of dead animals that are threatened or endangered",
+        "A regulation on wildlife photography"
+      ],
+      "answer": "A law prohibiting the importation of dead animals that are threatened or endangered"
+    },
+    {
+      "question": "Where and when was the lion killed?",
+      "options": [
+        "In Zimbabwe during a summer hunt",
+        "In Kenya during the winter",
+        "In South Africa last spring",
+        "In Tanzania during the fall"
+      ],
+      "answer": "In Zimbabwe during a summer hunt"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

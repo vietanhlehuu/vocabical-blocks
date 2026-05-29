@@ -1,0 +1,60 @@
+{
+  "title": "Expressions from Alice in Wonderland (part 2)",
+  "introduction": null,
+  "image": {
+    "id": "c6885b61-20aa-4988-9646-afd3910df696",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/62cnLzaG9axpRCEF4JWNz4.jpeg",
+    "dimensions": {
+      "x": 445,
+      "y": 599
+    },
+    "attribution": "Charles Robinson / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2DAaTJwy5OfxpOPP7qd9qe.mpga",
+  "main_content": "This article is divided in 2 parts! In part 1 we discussed the expressions that became popular through Lewis Carroll’s book “Alice’s Adventures in Wonderland.” In the beginning of the story Alice chases a White rabbit and falls down the rabbit hole.\n\nLater in the story, Alice is the guest at a tea party – a crazy tea party! There she meets the March Hare and the Hatter.\n\nAs with many expressions found in Carroll’s books mad as a March hare appeared in other places long before the publication of his book.\n\nHares have long been thought to behave excitedly in March. Scientifically, this may not be true. But to be mad as a March hare means that someone is mad, or crazy.\n\nThe expression mad as a Hatter also means to be crazy.\n\nSmiling like the Cheshire Cat was a common expression during Victorian times. Carroll brought this expression to life in his book with the character the Cheshire Cat. A person who is compared to the Cheshire Cat is sneaky and mysterious.\n\nNear the end of the story, Alice meets the Queen of Hearts.\n\nThe Queen of Hearts is quick to give the death sentence by yelling, “Off with their heads! Off with their heads!”\n\nUsing expressions from popular books can add a special flavor to your English. So, have fun with them!",
+  "questions": [
+    {
+      "question": "Who did Alice meet at the tea party?",
+      "options": [
+        "The Mad Hatter and the Queen of Hearts",
+        "The March Hare and the Hatter",
+        "The Cheshire Cat and the March Hare",
+        "The White Rabbit and the Mad Hatter"
+      ],
+      "answer": "The March Hare and the Hatter"
+    },
+    {
+      "question": "Which expression/phrase was common in Victorian times?",
+      "options": [
+        "Mad as a Hatter",
+        "Off with their heads",
+        "Mad as a March hare",
+        "Smiling like the Cheshire Cat"
+      ],
+      "answer": "Smiling like the Cheshire Cat"
+    },
+    {
+      "question": "Who in the story yelled and gave the death sentence to everybody?",
+      "options": [
+        "Alice",
+        "The March Hare",
+        "The Queen of Hearts",
+        "The Hatter"
+      ],
+      "answer": "The Queen of Hearts"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

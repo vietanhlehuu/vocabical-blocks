@@ -1,0 +1,60 @@
+{
+  "title": "Study: Women Prefer to Go to Female Health Workers",
+  "introduction": null,
+  "image": {
+    "id": "0caa3d89-02f9-4b89-99e3-9fcf5cbe296a",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/0NthtW8OSoBDuedhEQhuuo.jpeg",
+    "dimensions": {
+      "x": 3861,
+      "y": 2574
+    },
+    "attribution": "Lance Cpl. Natalie Rostran / Wikimedia Commons / Public Domain.",
+    "public_attribution": true,
+    "lock_version": 2,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4zLBEWMYfjOCXn0sHZzwjs.mpga",
+  "main_content": "Researchers recently completed a study of a new method of giving health care to women in Northern Nigeria. They found women and children would use health services more often when they could see a female health worker.\n\nNorthern Nigeria is conservative area with a population that is mostly Muslim. Dr. Sally Findley is a professor at Columbia University Medical Center. She co-wrote the report on the study. She said it is unusual for women to work as health care providers there.\n\nNigeria has one of the world’s highest death rates of women connected with pregnancy and childbirth. This is called the “maternal death” rate.\n\nMale health workers do travel from town to town, but many women patients do not want to talk with a man about their own health care needs.\n\nThe program brought women into northern Nigeria as Community Health Extension Workers. It seems they were a big success in their community. There were five times more visits to the health center after the women health workers arrived than before. Dr. Finley said the program changed the minds of the women taking part.\n\nThe women of northern Nigeria could get health care at all hours in the local clinic. Mothers got help from women when they had normal births.\n\nState officials in Jigawa were happy with the positive results of the study. They plan to expand the program of women community health workers.",
+  "questions": [
+    {
+      "question": "Who is Sally Findley?",
+      "options": [
+        "A community health worker in Northern Nigeria",
+        "A professor at Columbia University Medical Center",
+        "A state official in Jigawa",
+        "A researcher focusing on maternal health"
+      ],
+      "answer": "A professor at Columbia University Medical Center"
+    },
+    {
+      "question": "Nigeria has the highest death rates connected with what?",
+      "options": [
+        "Childhood diseases",
+        "Maternal health issues including pregnancy and childbirth",
+        "Infectious diseases",
+        "Road traffic accidents"
+      ],
+      "answer": "Maternal health issues including pregnancy and childbirth"
+    },
+    {
+      "question": "Who did the program bring into northern Nigeria?",
+      "options": [
+        "Male healthcare providers",
+        "Foreign physicians and nurses",
+        "Women as Community Health Extension Workers",
+        "Volunteers from other parts of Nigeria"
+      ],
+      "answer": "Women as Community Health Extension Workers"
+    }
+  ],
+  "level": 6,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

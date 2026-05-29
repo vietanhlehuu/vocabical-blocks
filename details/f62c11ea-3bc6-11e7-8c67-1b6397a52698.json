@@ -1,0 +1,60 @@
+{
+  "title": "Turkey Accuses 33 Police of Plotting to Overthrow Government",
+  "introduction": null,
+  "image": {
+    "id": "fb142595-81b6-4190-b016-1691c6fff828",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/7dmHQu65qRSTNx1s6HKAYK.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 288
+    },
+    "attribution": "Maurice Flesier / Wikimedia Commons / CC-BY-SA-4.0",
+    "public_attribution": true,
+    "lock_version": 1,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7iHMhUCx6k19MlOzSCkSQN.mpga",
+  "main_content": "Turkey is accusing 33 police of seeking to overthrow the government of newly elected President Recep Tayyip Erdogan.\n\nAuthorities detained at least 20 police Monday during raids in 16 cities across Turkey. One of those arrested was Yakup Saygili, the former chief of the police anti-fraud unit.\n\nIt was the fourth in a wave of raids since July as the government attempts to crack down on what Erdogan has called a “parallel state” within the security forces. The government has accused the police of wiretapping hundreds of people, including Erdogan.\n\nThe latest arrests come just days after former Foreign Minister Ahmet Davutoglu succeeded Erdogan as prime minister. Davutoglu has vowed to continue the campaign against those the Turkish leaders allege are seeking to overthrow the government.\n\nErdogan accuses U.S.-based cleric Fethullah Gulen of using his network of followers, who have influence within the police and other Turkish institutions, as part of the plot against the state.",
+  "questions": [
+    {
+      "question": "How many police officers were detained in raids across Turkey on Monday?",
+      "options": [
+        "At least 10",
+        "At least 20",
+        "At least 33",
+        "At least 50"
+      ],
+      "answer": "At least 20"
+    },
+    {
+      "question": "Who was arrested as the former chief of the police anti-fraud unit?",
+      "options": [
+        "Ahmet Davutoglu",
+        "Fethullah Gulen",
+        "Yakup Saygili",
+        "Recep Tayyip Erdogan"
+      ],
+      "answer": "Yakup Saygili"
+    },
+    {
+      "question": "Who does Erdogan accuse of using his network of followers in the plot against the state?",
+      "options": [
+        "Ahmet Davutoglu",
+        "Yakup Saygili",
+        "Fethullah Gulen",
+        "the U.S. government"
+      ],
+      "answer": "Fethullah Gulen"
+    }
+  ],
+  "level": 7,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

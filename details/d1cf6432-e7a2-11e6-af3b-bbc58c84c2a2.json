@@ -1,0 +1,60 @@
+{
+  "title": "Afghan Refugee Wins UN Award for Teaching",
+  "introduction": null,
+  "image": {
+    "id": "e45c346a-0eab-11e7-b363-7be32059a3c7",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/4ettUX1ZIPVvJCkIhAjrk7.png",
+    "dimensions": {
+      "x": 593,
+      "y": 593
+    },
+    "attribution": "ONU Brasil / Wikimedia Commons / CC-BY-3.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4oVAd8jE4ZUeXpH0TItxhE.mpga",
+  "main_content": "Aqeela Asifi, who fled to Pakistan as a young woman, has spent her life teaching other Afghan refugees.\n\nFor her efforts, Ms. Asifi, who is 49, has won the 2015 UNHCR Nansen Refugee award. She also gets $100,000 to help pay for her education projects.\n\nAsifi faced many problems in Afghanistan before she fled to Pakistan. Resources were limited and education for women was discouraged.\n\nHowever, in Pakistan, the 49 year old was able to bring change to her conservative Afghan community. She persuaded parents to send their daughters to school in a tent at the Kot Chandana refugee village. The village was in the Punjab province of Pakistan.\n\nSince then, Ms. Asifi has guided more than a thousand refugee girls through their primary education.\n\nThere are almost 1.5 million recorded Afghan refugees in Pakistan, the United Nation High Commissioner for Refugees says. Nearly half are school-aged children. But almost 80 percent of them don’t attend school.\n\nThe Afghan teacher hopes more and more children will receive an education in Afghanistan. She hopes her home country becomes better known for higher levels of education, instead of war.",
+  "questions": [
+    {
+      "question": "Who won the 2015 UNHCR Nansen Refugee award?",
+      "options": [
+        "Aqeela Asifi",
+        "The United Nations High Commissioner for Refugees",
+        "The Afghan government",
+        "Kot Chandana community leaders"
+      ],
+      "answer": "Aqeela Asifi"
+    },
+    {
+      "question": "What will be done with the award money?",
+      "options": [
+        "It will be distributed among other refugees",
+        "It will be used for educational projects",
+        "It will be donated to non-profit organizations",
+        "It will be spent on personal expenses"
+      ],
+      "answer": "It will be used for educational projects"
+    },
+    {
+      "question": "How many recorded Afghan refugees are there in Pakistan?",
+      "options": [
+        "Approximately 1 million",
+        "Almost 2 million",
+        "1.5 million",
+        "Over 2.5 million"
+      ],
+      "answer": "1.5 million"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

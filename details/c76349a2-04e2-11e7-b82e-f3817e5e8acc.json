@@ -1,0 +1,60 @@
+{
+  "title": "Facebook to Respond to Allegations About Screening of Topics",
+  "introduction": null,
+  "image": {
+    "id": "7c616153-0398-40ea-80ff-5b0478bead56",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/3mhYBcNxs9ymRIvRmwGbxO.jpeg",
+    "dimensions": {
+      "x": 512,
+      "y": 290
+    },
+    "attribution": "Sarah Stierch / Wikimedia Commons / CC-BY-4.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/23ZqbnjbUf06lF6t7EBTXE.mpga",
+  "main_content": "Facebook said Wednesday that it would respond to a U.S. senator who requested information from the company about recent allegations that conservative viewpoints were intentionally excluded from its “trending topics” section.\n\nRepublican John Thune of South Dakota, chairman of the Senate Commerce Committee, sent a letter to Facebook CEO Mark Zuckerberg on Tuesday asking for company officials to appear before the committee. Thune wants Facebook to respond to a report by technology blog Gizmodo that some contractors who managed Facebook’s “trending topics” section excluded content that expressed conservative views.\n\nFacebook Vice President Tom Stocky said Monday that his team had found “no evidence” of exclusion.\n\nBut on Wednesday, a Facebook spokesperson told VOA, “We have Senator Thune’s request for more information about how trending topics works and look forward to addressing his questions.”\n The company also said it was “deeply committed” to allowing all viewpoints “no matter where they fall on the political spectrum.”\n\nThe social media giant said it was investigating the allegations and would fix any operational practices that were “inadequate.”\n\nBecause millions of viewers read Facebook’s trending topics, some Republicans are concerned that any acts of censorship could influence the opinions of voters before the general election in November.",
+  "questions": [
+    {
+      "question": "What allegations are being made against Facebook?",
+      "options": [
+        "That Facebook is promoting conservative viewpoints in trending topics.",
+        "That conservative viewpoints were intentionally excluded from trending topics.",
+        "That Facebook is not moderating content effectively.",
+        "That Facebook is financially benefiting from its trending topics."
+      ],
+      "answer": "That conservative viewpoints were intentionally excluded from trending topics."
+    },
+    {
+      "question": "What did John Thune ask Facebook officials to do?",
+      "options": [
+        "To release their financial statements for the past year.",
+        "To appear before the Senate Commerce Committee.",
+        "To provide a list of trending topics over the last six months.",
+        "To issue a public apology regarding the allegations."
+      ],
+      "answer": "To appear before the Senate Commerce Committee."
+    },
+    {
+      "question": "How did Facebook respond to the allegations?",
+      "options": [
+        "By denying any wrongdoing and refusing to comment further.",
+        "By announcing their commitment to include all viewpoints and investigating the claims.",
+        "By providing a formal apology to conservative groups.",
+        "By stating that they will cease their 'trending topics' section."
+      ],
+      "answer": "By announcing their commitment to include all viewpoints and investigating the claims."
+    }
+  ],
+  "level": 8,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

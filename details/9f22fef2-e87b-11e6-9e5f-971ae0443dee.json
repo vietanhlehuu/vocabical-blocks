@@ -1,0 +1,60 @@
+{
+  "title": "Trending Today: All You Need Is LoveMojis",
+  "introduction": null,
+  "image": {
+    "id": "e45ca620-0eab-11e7-b3a7-eb68cb3742b9",
+    "_type": "Image",
+    "_version": 4,
+    "url": "https://assets.app.engoo.com/images/55qJD8xBn9r6tpZKpEfW1O.jpeg",
+    "dimensions": {
+      "x": 541,
+      "y": 450
+    },
+    "attribution": "The_Admiralty / Wikimedia Commons / CC-BY-2.0",
+    "public_attribution": true,
+    "lock_version": 0,
+    "alt_text": null,
+    "alt_text_generated": null,
+    "alt_text_validated": null
+  },
+  "language": "en",
+  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/68HzMIPZwmPEP6xAJUyon8.mpga",
+  "main_content": "You probably know the Beatles’ song, “All You Need is Love.”\n\nThe song might go by another name: “All You Need is LoveMojis.”\n\nA new project between Paul McCartney and the video messaging service Skype made him a trending topic. The former Beatles member has worked with Skype to create music for its new “LoveMojis.”\n\nMojis are short animated videos that Skype users can send to friends and family members. The new “LoveMojis” are just in time for the Valentine’s Day holiday. And each one includes new music created by Paul McCartney himself.\n\nOne shows a sumo wrestler dressed like Cupid.\n\nAnother one shows two cute owls on a tree branch.\n\nOn social media, people reacted with excitement and humor. Some found it funny that someone as famous as McCartney would make emoji sound effects.",
+  "questions": [
+    {
+      "question": "Who made the LoveMojis with Skype?",
+      "options": [
+        "George Harrison",
+        "Paul McCartney",
+        "Ringo Starr",
+        "John Lennon"
+      ],
+      "answer": "Paul McCartney"
+    },
+    {
+      "question": "What holiday were the emojis for?",
+      "options": [
+        "Christmas",
+        "Easter",
+        "Valentine's Day",
+        "New Year's Day"
+      ],
+      "answer": "Valentine's Day"
+    },
+    {
+      "question": "What Beatles song is mentioned in the article?",
+      "options": [
+        "Hey Jude",
+        "Let It Be",
+        "All You Need is Love",
+        "Come Together"
+      ],
+      "answer": "All You Need is Love"
+    }
+  ],
+  "level": 5,
+  "version": 23,
+  "questions_processed": true,
+  "questions_verified": true,
+  "media_downloaded": true
+}

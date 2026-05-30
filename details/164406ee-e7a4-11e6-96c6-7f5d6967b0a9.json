@@ -5,7 +5,7 @@
     "id": "88a36f1f-9b3f-496a-8b75-051ea8eff9be",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/49pe3QCkryEpu1EOLTA3WI.jpeg",
+    "url": "https://blocks.vocabical.com/images/49pe3QCkryEpu1EOLTA3WI.jpeg",
     "dimensions": {
       "x": 512,
       "y": 309
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/48qsrV6u5USi4QaUpHYH6d.mpga",
+  "audio": "https://blocks.vocabical.com/audio/48qsrV6u5USi4QaUpHYH6d.mpga",
   "main_content": "A new law makes it legal to have dogs in the outdoor areas of restaurants in New York.\n\nPast health and safety laws made it illegal to bring dogs to any restaurants in New York. State lawmakers voted in May to let people bring dogs to restaurants that have tables outdoors. These areas are often called patios.\n\nLate Monday night, Governor Andrew Cuomo signed the law. New York joins California, Florida and Maryland in the list of states with similar laws.\n\nIn many European countries, bringing dogs to restaurants is common. Paris has allowed dogs in restaurants for a long time.\n\nSeveral special rules are included in this law. The dogs must be on a leash. Dogs must not share water bowls. Also, restaurants can choose to let people bring dogs or not.\n\nBut, not all New Yorkers are happy about this new law. Christopher Miller is the spokesman for the New York City Department of Health. He told the New York Daily News that letting dogs in restaurants could cause problems.\n\n“The Health Department loves all dogs, but just not at restaurants where they can create a risk,” Miller said.",
   "questions": [
     {
@@ -33,12 +33,7 @@
     },
     {
       "question": "Which city in Europe has allowed dogs in restaurants for a long time?",
-      "options": [
-        "Berlin",
-        "Rome",
-        "Paris",
-        "Madrid"
-      ],
+      "options": ["Berlin", "Rome", "Paris", "Madrid"],
       "answer": "Paris"
     },
     {

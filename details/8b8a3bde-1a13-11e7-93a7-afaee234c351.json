@@ -5,7 +5,7 @@
     "id": "5c454a4e-1359-4a39-b8a4-372e664a1e4f",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/2o6xVXKee2EefzirWe5nzj.jpeg",
+    "url": "https://blocks.vocabical.com/images/2o6xVXKee2EefzirWe5nzj.jpeg",
     "dimensions": {
       "x": 624,
       "y": 414
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2Q4H45iNK1wgyTs2Vpy4o8.mpga",
+  "audio": "https://blocks.vocabical.com/audio/2Q4H45iNK1wgyTs2Vpy4o8.mpga",
   "main_content": "The World Health Organization on Wednesday called on nations to redesign healthcare systems to adapt to the special needs of an aging population, saying there has to be a radical change in attitudes toward the elderly, who often suffer from neglect, abuse and discrimination.\n\nAccording to the UN agency’s inaugural World Report on Ageing and Health, the number of people over 60 is set to nearly double to 22 percent of the world’s population by 2050, with most living in low- and middle-income countries.\n\nAnother statistic indicates older people will outnumber children younger than 5 in just five years. Despite the demographic shift, John Beard, a U.N. expert on aging, tells VOA there is a general reluctance to talk about the challenges this presents.\n\n“We tend not to talk about the demographics very much because most of the discussion about aging today has been, ‘there is a tsunami of older people coming; they are all a burden and they are going to send us broke,'” he said. “We are trying to shift from that argument.”\n\nBut with age, says Beard, come new health problems and concerns, such as a range of chronic diseases and, more often than not, multiple ailments at one time.\n\nThe WHO report indicates existing health care systems are not designed to respond to these problems and that there must be a fundamental shift in the way society thinks about aging and older people, and that the environment is a crucial factor in determining whether people experience healthy aging.\n\nWHO notes older people are often isolated and experience loneliness, discrimination and elder abuse. It also says that planning cities and communities that offer social activities for the elderly, and have people on hand who can detect health and other age-related problems, would provide a better old age for many.",
   "questions": [
     {
@@ -33,12 +33,7 @@
     },
     {
       "question": "How much of the world’s population will be over 60 by 2050?",
-      "options": [
-        "14 percent",
-        "22 percent",
-        "30 percent",
-        "18 percent"
-      ],
+      "options": ["14 percent", "22 percent", "30 percent", "18 percent"],
       "answer": "22 percent"
     },
     {

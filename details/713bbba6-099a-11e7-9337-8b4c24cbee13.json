@@ -5,7 +5,7 @@
     "id": "a8173847-eee6-4d03-8f60-35f016239243",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/57BJzQzqe69HwvNnjl7ytf.jpeg",
+    "url": "https://blocks.vocabical.com/images/57BJzQzqe69HwvNnjl7ytf.jpeg",
     "dimensions": {
       "x": 512,
       "y": 384
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2gSseqihKgPd8FTjdffMAI.mpga",
+  "audio": "https://blocks.vocabical.com/audio/2gSseqihKgPd8FTjdffMAI.mpga",
   "main_content": "Tens of thousands of traumatized Japanese are spending a third night in evacuation centers as powerful aftershocks continue to rock the southern main island of Kyushu.\n\nAt least 41 people have died and nearly 2,000 have been injured since Thursday as a result of the strongest tremors.\n\nThe quakes have collapsed buildings and bridges, triggered landslides and even derailed a bullet train.\n\nRescuers continued early Sunday to battle harsh weather conditions in a race to rescue as many as 100 people still trapped or buried under collapsed buildings in Kumamoto Prefecture.\n\nTens of thousands of policeman, medics, firemen and self-defense force troops are involved in the rescue and recovery effort, which is hampered by heavy winds and rain.\n\nThe deadly quakes have sent approximately 200,000 people to evacuation centers at schools and local government buildings, according to government officials.\n\nJapan has accepted a U.S. offer for airlift operations for quake rescue and recovery operations, according to Kenko Sone, global communications director in the prime minister’s office “The Defense Ministry and U.S. Forces Japan will coordinate for an early realization,” Sone told VOA News on Sunday afternoon.\n\nAbe has planned to visit Kumamoto, 1,200 kilometers southwest of the capital, to survey the damage but has decided to avoid the area while aftershocks rattle the area. More than 450 detectable tremors, located in or near the Beppu-Shimabara rift zone, have been reported since Thursday’s earthquake.\n\nThe historic Aso Shrine, more than 1,700 years old, suffered a great deal of damage. Part of a wall in the historic Kumamoto castle also collapsed. Several buildings and a gate known as the “cherry blossom gate” have collapsed entirely.",
   "questions": [
     {
       "question": "Which region of Japan was affected by aftershocks?",
-      "options": [
-        "Hokkaido",
-        "Kyushu",
-        "Honshu",
-        "Okinawa"
-      ],
+      "options": ["Hokkaido", "Kyushu", "Honshu", "Okinawa"],
       "answer": "Kyushu"
     },
     {
@@ -43,12 +38,7 @@
     },
     {
       "question": "How many people were evacuated because of the earthquakes?",
-      "options": [
-        "100,000",
-        "150,000",
-        "200,000",
-        "250,000"
-      ],
+      "options": ["100,000", "150,000", "200,000", "250,000"],
       "answer": "200,000"
     }
   ],

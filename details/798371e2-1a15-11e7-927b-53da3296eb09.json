@@ -5,7 +5,7 @@
     "id": "17af93e6-d4ef-423f-9f7d-b7a5bb5d979c",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/0ih3tIShLiCJBH54aq0OjM.jpeg",
+    "url": "https://blocks.vocabical.com/images/0ih3tIShLiCJBH54aq0OjM.jpeg",
     "dimensions": {
       "x": 512,
       "y": 675
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6wIs3l9i1atxhAnciPju7k.mpga",
+  "audio": "https://blocks.vocabical.com/audio/6wIs3l9i1atxhAnciPju7k.mpga",
   "main_content": "An explosion at a chemical factory in eastern China has killed at least one person, according to government-run media, the latest in a series of deadly warehouse blasts that have raised questions about insufficient safety regulations.\n\nPictures on Chinese social media showed a large fireball rising from what appeared to be an industrial area in Dongying, located in the eastern province of Shandong province late Monday.\n\nA news website run by the local government reported the explosion occurred at the Shandong Binyuan Chemical Company. The fire was extinguished five hours later, it said.\n\nThe news outlet added that several of the company’s executives have been detained and the cause of the fire is under investigation.\n\nThe incident comes less than a month after a much larger explosion killed 158 people at a chemical storage facility in the northern port city of Tianjin. Chinese authorities have detained 12 company employees and 11 government officials in that investigation.\n\nOfficials at the Ruihai International Logistics Company, where the Tianjin blast occurred, are believed to have obtained fraudulent safety licenses.\n\nThe explosions devastated a wide swathe of the port area, were triggered by a fire and a toxic brew of volatile chemicals. Investigators are trying to figure out how the warehouse was allowed to store such dangerous chemicals so close to residences, in violation of safety standards.\n\nThe incident is raising questions about whether other facilities are not adhering to proper safety standards, and whether China’s well-documented government corruption is helping lead to those violations.",
   "questions": [
     {
@@ -33,12 +33,7 @@
     },
     {
       "question": "Where did the explosion at the chemical factory occur?",
-      "options": [
-        "Tianjin",
-        "Shandong",
-        "Dongying",
-        "Ruihai"
-      ],
+      "options": ["Tianjin", "Shandong", "Dongying", "Ruihai"],
       "answer": "Dongying"
     },
     {

@@ -5,7 +5,7 @@
     "id": "164e647e-d0cd-11eb-b526-9f0da51ec9fa",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/36WJcX2RpSUaGiHBBuVznl.jpeg",
+    "url": "https://blocks.vocabical.com/images/36WJcX2RpSUaGiHBBuVznl.jpeg",
     "dimensions": {
       "x": 4352,
       "y": 3264
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4OPyvHb4uJMPG8P1LiGOYy.mpga",
+  "audio": "https://blocks.vocabical.com/audio/4OPyvHb4uJMPG8P1LiGOYy.mpga",
   "main_content": "Many people who drink alcohol also like to smoke cigarettes. Drinking and smoking seem to be linked. Some people might even say they go together hand-in-hand.\n\nNew research has looked more closely at the relationship between cigarettes and alcohol. And the relationship is one of equal dependence. Smoking and drinking seem to feed on each other.\n\nThese are the words of Mahesh Thakkar. He is head of research in the Department of Neurology at the University of Missouri’s School of Medicine.\n\nThakkar explains that when a person drinks alcohol they get sleepy. He says a drug in cigarettes fights that sleepy feeling. That drug, nicotine, can be addictive; smokers need more cigarettes because of their body’s growing dependence on the drug.\n\nSo, if a person smokes, then he or she is much more likely to drink alcohol, and vice versa.\n\nResearchers already knew that people who drink alcohol often smoke. In fact, earlier research shows that more than 85 percent of alcohol-dependent American adults also depend on nicotine.\n\nThe World Health Organization says 7 million people die every year from alcohol and nicotine use.",
   "questions": [
     {
       "question": "How many percent of alcohol-dependent American adults also depend on nicotine?",
-      "options": [
-        "75%",
-        "85%",
-        "95%",
-        "65%"
-      ],
+      "options": ["75%", "85%", "95%", "65%"],
       "answer": "85%"
     },
     {

@@ -5,7 +5,7 @@
     "id": "72b28681-6fed-47db-8b61-447351743a3a",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/3UQi7SVMpQUTXBJRBdruJO.jpeg",
+    "url": "https://blocks.vocabical.com/images/3UQi7SVMpQUTXBJRBdruJO.jpeg",
     "dimensions": {
       "x": 512,
       "y": 341
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/44mX2n0AWLPgcDiDoXRLYA.mpga",
+  "audio": "https://blocks.vocabical.com/audio/44mX2n0AWLPgcDiDoXRLYA.mpga",
   "main_content": "A new study warns that too much time spent playing computer games could affect a child’s performance at school.\n\nBritain’s National Children’s Bureau Northern Ireland reported the results of the study. They show that too many hours spent playing games can reduce students’ chances of success in school.\n\nEarlier this month, the group’s Northern Ireland office reported the results of a study called “ICT and Me.”\n\nThe research involved more than 600 individuals between the ages of 14 and 16. It took place over a period of two years, from 2012 to 2014.\n\nThe study found that teenagers who played computer games less than once a week were more successful in school than those who played them twice a day or more.\n\nThe study found that social media use did not affect school performance.\n\nCeline McStravick is the director of the National Children’s Bureau Northern Ireland. She says the study showed no connection between social media and test results.\n\nMany parents say their children are becoming dependent on computer games. Some have compared gaming to a drug addiction.",
   "questions": [
     {
@@ -33,12 +33,7 @@
     },
     {
       "question": "How many individuals took part in the research?",
-      "options": [
-        "Over 500",
-        "Around 600",
-        "More than 600",
-        "Less than 700"
-      ],
+      "options": ["Over 500", "Around 600", "More than 600", "Less than 700"],
       "answer": "More than 600"
     },
     {

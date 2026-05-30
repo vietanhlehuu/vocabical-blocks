@@ -5,7 +5,7 @@
     "id": "72c48c5a-45ae-45c4-8e9c-646269236d9d",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/3UYwmPkKmlOUsC8QVDrD6j.jpeg",
+    "url": "https://blocks.vocabical.com/images/3UYwmPkKmlOUsC8QVDrD6j.jpeg",
     "dimensions": {
       "x": 512,
       "y": 271
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0wLyHxiRBSrCFaONQVQH40.mpga",
+  "audio": "https://blocks.vocabical.com/audio/0wLyHxiRBSrCFaONQVQH40.mpga",
   "main_content": "Washington D.C. has a graffiti problem. That is a problem it shares with many large cities around the world. Graffiti is an illegal form of artistic expression. Graffiti artists are usually young people who use a kind of paint that is sprayed from a can. They illegally paint words and pictures on the sides of buildings – especially in low-income neighborhoods. Some cities are fighting the graffiti artists with education and possibilities instead of punishment.\n\nIn Washington, DC, officials are working with graffiti artists to help make the city more beautiful.\n\nAbout twelve young artists have gathered at a workshop in downtown Washington. They are learning how to use spray paint to make graffiti that people will want to see. Michelle Chen is one of the artists.\n\n“So at first it seemed like a very crude instrument, but just being able to see what artists are able to do with it is really amazing!”\n\nThey practice on small walls. They are taught by Eric Ricks. He is a graffiti artist from Liberia. He used to paint on buildings illegally. But now the city is paying him to teach young people.\n\n“It’s one of those things I love to share and to see young people pick it up with the passion that I myself had, because I feel like I’m a big kid just as much as any one of them.”\n\nThe program is called “MuralsDC.”  City officials created it to try to solve the graffiti problem.\n\nThe city has paid for 50 such artworks since the program began in 2007.\n\nArtist Aniekan Udofia recently painted his eighth mural for the city. It is at a public pool. He used spray paint and house paint. He has taught others how to make beautiful graffiti. He likes teaching.\n\n“So instead of defacing property, what we do is I show them how they can collaborate with artists like myself and create something that not only they can get paid for, but they can also get praised for.”",
   "questions": [
     {
@@ -33,22 +33,12 @@
     },
     {
       "question": "Where is Eric Ricks from?",
-      "options": [
-        "Liberia",
-        "Washington, D.C.",
-        "New York",
-        "California"
-      ],
+      "options": ["Liberia", "Washington, D.C.", "New York", "California"],
       "answer": "Liberia"
     },
     {
       "question": "When did the “MuralsDC” program start?",
-      "options": [
-        "2005",
-        "2010",
-        "2007",
-        "2012"
-      ],
+      "options": ["2005", "2010", "2007", "2012"],
       "answer": "2007"
     }
   ],

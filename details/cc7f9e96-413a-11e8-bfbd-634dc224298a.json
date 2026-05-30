@@ -5,7 +5,7 @@
     "id": "cc7f10b6-413a-11e8-bfbc-fffc4904c51c",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/4lLUO1YkzaJS9H6q4q9y8Pfekdsr8Lwdn5GdsIZUfnZ.jpeg",
+    "url": "https://blocks.vocabical.com/images/4lLUO1YkzaJS9H6q4q9y8Pfekdsr8Lwdn5GdsIZUfnZ.jpeg",
     "dimensions": {
       "x": 5115,
       "y": 3632
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4M7oUPb7yl9hFNh1bMVov5.mpga",
+  "audio": "https://blocks.vocabical.com/audio/4M7oUPb7yl9hFNh1bMVov5.mpga",
   "main_content": "[This article is divided into 2 parts! In part 1 we discussed some differences between British English and American English.]\n\nBut the real fun begins when we start exploring idioms and expressions that are unique to each country.\n\nLet’s start with “Bob’s your uncle.” To an American ear, that is a weird expression. And it has nothing to do with any relative you may or may not have named Bob. It is just a way to finish a set of simple instructions.\n\nWhat is the different but equal saying in the U.S.? Americans might say, “and there you have it!” Or sometimes, more dramatic people will say, “Ta-da!”\n\nIf a British person says, “I’ve got the hump,” it means they are annoyed or upset. In the U.S., some informal ways to say we are upset are “I’m ticked off” or “I’m miffed.”\n\nNow, when Americans are really surprised by something, we can say we “are at a loss for words.”  Or more informally, we simply say we are “shocked” or “blown away.”\n\nAcross the Atlantic in the U.K., they are “gobsmacked.”\n\nFinally, a familiar word used by both countries but in different ways is “cheers.”  We use the word over drinks when we are wishing someone good health or congratulating. The British use “cheers” to mean “thank you.”  For that, we Americans say, “Thank you!”",
   "questions": [
     {
@@ -33,22 +33,12 @@
     },
     {
       "question": "If someone says he or she is gobsmacked how does this person feel?",
-      "options": [
-        "Annoyed or upset",
-        "Surprised",
-        "Indifferent",
-        "Excited"
-      ],
+      "options": ["Annoyed or upset", "Surprised", "Indifferent", "Excited"],
       "answer": "Surprised"
     },
     {
       "question": "If someone says “cheers” instead of “thank you,” is this person American or British?",
-      "options": [
-        "American",
-        "British",
-        "Canadian",
-        "Australian"
-      ],
+      "options": ["American", "British", "Canadian", "Australian"],
       "answer": "British"
     }
   ],

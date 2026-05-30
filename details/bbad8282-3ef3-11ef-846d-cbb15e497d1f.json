@@ -5,7 +5,7 @@
     "id": "bbad109a-3ef3-11ef-846c-b76e249f624f",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/2BpeU7JXXBqRbiaiuStlKN.jpeg",
+    "url": "https://blocks.vocabical.com/images/2BpeU7JXXBqRbiaiuStlKN.jpeg",
     "dimensions": {
       "x": 512,
       "y": 384
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1yvCP0Gz8f9DPjEawTjJHc.mpga",
+  "audio": "https://blocks.vocabical.com/audio/1yvCP0Gz8f9DPjEawTjJHc.mpga",
   "main_content": "For some people, the warmest memories from childhood come from being read a great story. But reading to children does more than create warm memories. It develops children’s language skills and increases their ability to succeed in school and, later, work.\n\nA new report by the American Academy of Pediatrics says reading aloud is so important that parents should start as soon as their children are born. And they should continue to read aloud even after their children can read by themselves.\n\nDoctors say parents should read books that are not too long and on the right age level so children will not lose interest. They say parents should also point to and talk about pictures in books for infants. For young children, parents should ask questions about the book.\n\nScholastic also identifies some ways to develop a love of reading in a child. One is simply to have books in the home.\n\nElizabeth Lyttleton, the mother of three, was lucky. Her mother wrote and illustrated children’s books, so the family always had plenty to read.\n\nAnother way to develop a reading habit in children is to read to them. Researchers from the Scholastic company found that 80% of children surveyed – of all ages – say they love being read to. And children ages six to 11 whose parents do not read to them anymore say they miss it.",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "In the research, how many children said they love being read to?",
-      "options": [
-        "50%",
-        "60%",
-        "70%",
-        "80%"
-      ],
+      "options": ["50%", "60%", "70%", "80%"],
       "answer": "80%"
     }
   ],

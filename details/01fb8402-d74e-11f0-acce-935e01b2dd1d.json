@@ -5,7 +5,7 @@
     "id": "01faf00a-d74e-11f0-accd-fbb079b74df9",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/xoJzCwdVTHHdGZAwLwqlvMh833VBOtJYtzEOFfkL8ld.jpeg",
+    "url": "https://blocks.vocabical.com/images/xoJzCwdVTHHdGZAwLwqlvMh833VBOtJYtzEOFfkL8ld.jpeg",
     "dimensions": {
       "x": 5646,
       "y": 3397
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2PpKoBZvXnojELj4Vz4lzx.mpga",
+  "audio": "https://blocks.vocabical.com/audio/2PpKoBZvXnojELj4Vz4lzx.mpga",
   "main_content": "Some 30,000 years ago, artists living in caves in Europe painted pictures of the animals around them: panthers, hyenas, rhinoceroses, cave lions, mammoths and other creatures now long extinct. The paintings were highly realistic. Some even showed movement.\n\nThe artwork, more than a thousand drawings, is considered the oldest group of human cave drawings ever discovered. They were preserved because the cave was sealed – closed off – for 23,000 years.\n\nHowever, French authorities wanted the public to see the cave and artwork. So they asked experts to create an exact copy of the cave, called Pont d’Arc Cavern. The copy, or replica, cost $59 million to build. It opened at the end of April in France.\n\nPascal Terrasse is the president of the cavern. He says everyone will be able to experience the thrill of looking at drawings made by the first humans in Europe. He says the place is “magic” because it is done so well.\n\nAuthorities say they think as many as 400,000 people will visit the Pont d’Arc Cavern every year.",
   "questions": [
     {
       "question": "What other word for “sealed” is in the article?",
-      "options": [
-        "Closed off",
-        "Protected",
-        "Filtered",
-        "Enclosed"
-      ],
+      "options": ["Closed off", "Protected", "Filtered", "Enclosed"],
       "answer": "Closed off"
     },
     {

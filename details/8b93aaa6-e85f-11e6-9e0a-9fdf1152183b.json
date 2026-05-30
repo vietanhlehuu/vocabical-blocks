@@ -5,7 +5,7 @@
     "id": "175c0508-8ce6-403d-9622-9d46449353fd",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/0i4sLjxN6RVZD0CZtO19Qr.jpeg",
+    "url": "https://blocks.vocabical.com/images/0i4sLjxN6RVZD0CZtO19Qr.jpeg",
     "dimensions": {
       "x": 769,
       "y": 512
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3fxgZeFalobyZJ633SSJvx.mpga",
+  "audio": "https://blocks.vocabical.com/audio/3fxgZeFalobyZJ633SSJvx.mpga",
   "main_content": "Many critics consider “Skyfall” the greatest of James Bond films.\n\nBut the latest in the series, “Spectre,” may be a strong competitor for that title.\n\nBritish actor Daniel Craig returns for his fourth performance as James Bond. Briton Sam Mendes directed the film. Mendes was also the director of “Skyfall.”\n\nThe latest story finds Bond on a personal journey to find an enemy from his past. He lost much that was important to him in “Skyfall”.\n\nBond travels from Mexico City to Rome, to the mountaintops of Austria, to the desert near Tangier and, finally, back to London. Bond is seeking archenemy Franz Oberhauser, played by Christoph Waltz.\n\nThe plots of “Casino Royale,” “Quantum of Solace” and “Skyfall” come to completion in “Spectre.” A new era of Bond is born as a result. The character falls in love and is willing to honor love over mission. This softer side of Bond, alone, helps make “Spectre” interesting.\n\n“Spectre” earned about $70 million in U.S. ticket sales its opening weekend. It has sold about $300 million worth of tickets around the world.",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "How much money has “Spectre” earned in U.S. ticket sales on its opening weekend?",
-      "options": [
-        "$50 million",
-        "$70 million",
-        "$100 million",
-        "$300 million"
-      ],
+      "options": ["$50 million", "$70 million", "$100 million", "$300 million"],
       "answer": "$70 million"
     }
   ],

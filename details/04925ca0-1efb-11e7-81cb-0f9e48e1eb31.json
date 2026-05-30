@@ -5,7 +5,7 @@
     "id": "49cae3b2-b7bb-4d0c-969d-73afd8262c0d",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/2FF9xMsbdBGSXUJjdNWGxp.jpeg",
+    "url": "https://blocks.vocabical.com/images/2FF9xMsbdBGSXUJjdNWGxp.jpeg",
     "dimensions": {
       "x": 512,
       "y": 258
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2tKc3JzvLyaQOhc86neuo9.mpga",
+  "audio": "https://blocks.vocabical.com/audio/2tKc3JzvLyaQOhc86neuo9.mpga",
   "main_content": "Robots are everywhere. They can build cars, play chess or clean your house, and someday they may drive your car.\n\nBeyond this planet, Rovers named Spirit and Opportunity were sent to Mars on a continuing mission of exploration.\n\nRobots also play vital roles in natural disasters, according to University of Wyoming computer scientist Jeff Clune with the Evolving Artificial Intelligence Lab.\n\nRoving robots are deployed in search-and-rescue operations following an earthquake and may someday be used to sort through the wreckage of a nuclear accident like the one in Fukushima, Japan.\n\n“The problem is that all of those types of situations and environments are extremely unpredictable and hostile,” he said. “And it is very likely that robots and humans in those situations become damaged. And when seconds count and lives are on the line, we definitely do not want robots to give up at the first sign of injury. We want them to be able to adapt and deal with any damage and injury they suffer to continue to perform their mission until they can be brought back in to be repaired.”\n\nWith this idea of adaptation in mind, Clune and colleagues in France have added one more function to the skill set of robots operating under potentially harsh conditions.\n\nIn an article detailing their work in the journal Nature, Clune and French designers describe how they programmed a robot with six legs and a robotic arm to learn how to overcome injury.\n\nClune said the robots are programmed with a childlike curiosity, and they use that primitive algorithm to figure out how to adapt to injury.",
   "questions": [
     {

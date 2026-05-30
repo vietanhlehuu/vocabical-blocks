@@ -5,7 +5,7 @@
     "id": "dc5dfe7e-fdcd-45a3-98fe-8ce3fe085f17",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/6hpGZmJnP3l0RJtKD5PFh9.jpeg",
+    "url": "https://blocks.vocabical.com/images/6hpGZmJnP3l0RJtKD5PFh9.jpeg",
     "dimensions": {
       "x": 361,
       "y": 242
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1E3SQt9BgfyPTf42zdCak5.mpga",
+  "audio": "https://blocks.vocabical.com/audio/1E3SQt9BgfyPTf42zdCak5.mpga",
   "main_content": "A new form of digital malicious software that preys on users’ implicit trust in major online brands, such as YouTube or Adobe, is rapidly spreading across the Internet.\n\nWorse yet, these “malvertisements” may soon become the primary means of distributing what is known as malware, leaving users with little or no defense, a new study says.\n\nThe RiskIQ researchers monitored more than 2 billion Web pages and 10 million mobile apps over the past year. They found that the incidence of malvertising on those sites jumped by a whopping 260 percent from last year.\n\nThe number of unique malvertisements also grew from year-ago levels by 60 percent.\n\n“Malvertisements is a combination of ‘malware’ and ‘advertisements,’ or simply malware that comes through an advertisement,” said James Pleger, RiskIQ’s research director and the report’s author. “The litmus test for me is, first, if it’s something I don’t want on my computer, and second, if it was delivered through an advertisement, then it’s malvertising.”\n\nFor most users, a malvertisement would look as legitimate and indistinguishable as any of the other thousand-odd online ads offered up daily on websites, blogs and social networks. Malvertisements’ “hiding-in-the-open” nature makes them effective at skirting our built-up skepticism of online trickery, Pleger said.\n\nAmong the most popular malvertisements currently are pop-up ads advising users to update their software from a trusted service, such as Adobe’s popular Flash player.\n\n“So you go to a common website, and you get a pop-up with an ad that says your Flash is out of date,” Pleger said. “… This isn’t actually Flash telling you it’s out of date; it’s an ad on the website that actually delivers malware. People click on that and they’re easily tricked into downloading it.”\n\nComplicating matters, some malvertisements employ what are known as “drive-by exploit kits,” which can deliver malware through software security holes without the user having to click on a link or download anything. As soon as an ad loads onto a computer, smartphone or tablet, the device is infected.",
   "questions": [
     {
@@ -33,12 +33,7 @@
     },
     {
       "question": "By how much did the incidence of malvertising jump compared with last year?",
-      "options": [
-        "150 percent",
-        "260 percent",
-        "60 percent",
-        "100 percent"
-      ],
+      "options": ["150 percent", "260 percent", "60 percent", "100 percent"],
       "answer": "260 percent"
     },
     {

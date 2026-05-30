@@ -5,7 +5,7 @@
     "id": "98c00032-cc13-11ed-b429-fbbbfc09f646",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/1XOLTJiKJ7mQv9sYIFJmKF47nF9cX4ictihiiJPxfuw.jpeg",
+    "url": "https://blocks.vocabical.com/images/1XOLTJiKJ7mQv9sYIFJmKF47nF9cX4ictihiiJPxfuw.jpeg",
     "dimensions": {
       "x": 4032,
       "y": 3024
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2Mm1i5pU5BbxiD4UWmyHWl.mpga",
+  "audio": "https://blocks.vocabical.com/audio/2Mm1i5pU5BbxiD4UWmyHWl.mpga",
   "main_content": "In East Africa, the sport of cycling has been growing in popularity in recent years.\n\nNow an area 50 kilometers southeast of Nairobi is seeking to become Kenya’s center for cycling.\n\nSome cyclists make it look easy. But with hills in Kenya as high as 1,600 meters above sea level, cycling the countryside is anything but effortless.\n\nThat makes Machakos County, Kenya, a good place to test the abilities of East African cyclists during the Tour de Machakos. This is the second time the race has been held.\n\nTwenty-three-year-old Cyrus Wambua is one of the riders. Born and raised in Machakos, Wambua has been riding bicycles since he was a child. He says his mother urged him to start.\n\nAlex Tibwitta organized the Tour de Machakos. He says Machakos has it all – nice hills, good roads and a government that supports the cycling community.\n\nThe Tour de Machakos covers 400 kilometers around Machakos County. It is the biggest road race in Kenya.",
   "questions": [
     {
@@ -33,12 +33,7 @@
     },
     {
       "question": "Which area is seeking to become Kenya’s center for cycling?",
-      "options": [
-        "Nairobi",
-        "Machakos County",
-        "Kisumu",
-        "Mombasa"
-      ],
+      "options": ["Nairobi", "Machakos County", "Kisumu", "Mombasa"],
       "answer": "Machakos County"
     },
     {

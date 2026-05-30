@@ -5,7 +5,7 @@
     "id": "562e4ae8-2a77-11eb-9601-07917f0b0fa2",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/2uB30KEfeE5LxswNbQ3bHh.jpeg",
+    "url": "https://blocks.vocabical.com/images/2uB30KEfeE5LxswNbQ3bHh.jpeg",
     "dimensions": {
       "x": 512,
       "y": 770
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0YMuk2DPJyR2CD7fp87na6.mpga",
+  "audio": "https://blocks.vocabical.com/audio/0YMuk2DPJyR2CD7fp87na6.mpga",
   "main_content": "Snowy Owls are native to the Arctic. But in the winter, they head south. Some wind up in southern Canada and the northern United States.\n\nFor example, two years ago, a snowy owl made news when it was hit by a bus in Washington, D.C. The National Zoo treated the owl to help it heal.\n\nThis week, another snowy owl made headlines because of a unique fly-by in Canada. A traffic camera in Montreal caught some images of a snowy owl.\n\nThe transport minister of Quebec tweeted about the owl on Thursday and then released a video later in the day.\n\nThe CBC posted the video on its Facebook page. It has been seen almost 4 million times in less than a day.\n\nA bird expert from McGill University in Montreal tells the CBC a snowy owl sighting is rare, even though it is the official bird of Quebec.",
   "questions": [
     {
       "question": "Where was the video of the snowy owl shot?",
-      "options": [
-        "Montreal",
-        "Quebec City",
-        "Ottawa",
-        "Calgary"
-      ],
+      "options": ["Montreal", "Quebec City", "Ottawa", "Calgary"],
       "answer": "Montreal"
     },
     {
@@ -43,12 +38,7 @@
     },
     {
       "question": "When was an owl hit by a bus in Washington, D.C.?",
-      "options": [
-        "This year",
-        "Last year",
-        "Two years ago",
-        "Three years ago"
-      ],
+      "options": ["This year", "Last year", "Two years ago", "Three years ago"],
       "answer": "Two years ago"
     }
   ],

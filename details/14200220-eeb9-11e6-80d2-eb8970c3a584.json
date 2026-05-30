@@ -5,7 +5,7 @@
     "id": "779fc476-c9b0-4aa5-ad4c-3d8e27c2c929",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/3dj6Fbfg8YnIae8ZO2f329.jpeg",
+    "url": "https://blocks.vocabical.com/images/3dj6Fbfg8YnIae8ZO2f329.jpeg",
     "dimensions": {
       "x": 512,
       "y": 512
@@ -18,27 +18,17 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/35yYNyFu3uHVhiWSyieSIu.mpga",
+  "audio": "https://blocks.vocabical.com/audio/35yYNyFu3uHVhiWSyieSIu.mpga",
   "main_content": "TransAsia Airways representatives met Sunday with families of the victims of last week’s plane crash in Taiwan to discuss compensation.\n\nAn airline spokesman said TransAsia would pay about $38,000 per victim to cover the costs of funerals.\n\nThe plane crash killed at least 40 people, while 15 people were rescued. Teams are searching the Keelung River for three people who remain missing.\n\nTransAsia pilots who operate the type of propeller-jet involved in Wednesday’s deadly crash began proficiency tests Saturday, as investigators looked at pilot error as a factor in the crash.\n\nTransAsia has canceled 90 flights over three days to allow its 71 ATR pilots to be re-tested as required by Taiwan’s Civil Aeronautics Administration.\n\nInvestigators said Friday that the two turboprop engines failed to provide enough thrust to lift the ATR 72-600 aircraft, sending it into the Keelung River shortly after takeoff from Songshan Airport in Taipei.\n\nOfficials from Taiwan’s Aviation Safety Council told a news conference on Friday that voice and data recorders revealed that the right engine failed 37 seconds after takeoff.\n\nOne of the pilots then shut down the left engine — likely by mistake — then tried a restart. But the plane crashed before the pilots could restart the engine.\n\nA recording of air traffic controllers indicated that the pilot’s last words before the plane went down were “Mayday, mayday, engine flameout.”\n\nInternet video showed the plane’s left wing, perpendicular to the ground, clipping an elevated highway and a taxi cab before crashing into the river.\n\nIt is the second ATR-72 to crash in Taiwan in as many years. Last July, one of the French-made twin-engine turboprops crashed during poor weather near the airport on the island of Penghu, killing 48 people.",
   "questions": [
     {
       "question": "How much money will the victim’s families receive in compensation?",
-      "options": [
-        "$20,000",
-        "$38,000",
-        "$50,000",
-        "$75,000"
-      ],
+      "options": ["$20,000", "$38,000", "$50,000", "$75,000"],
       "answer": "$38,000"
     },
     {
       "question": "How many casualties have been reported after the crash?",
-      "options": [
-        "30",
-        "40",
-        "55",
-        "70"
-      ],
+      "options": ["30", "40", "55", "70"],
       "answer": "40"
     },
     {

@@ -5,7 +5,7 @@
     "id": "bf80bacc-e8db-4b2b-8082-dd273bee18ad",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/5pMMZY5Lh9o46L8PAitW0b.jpeg",
+    "url": "https://blocks.vocabical.com/images/5pMMZY5Lh9o46L8PAitW0b.jpeg",
     "dimensions": {
       "x": 512,
       "y": 318
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5CAxE5NM6pxv5EGE4rjtnB.mpga",
+  "audio": "https://blocks.vocabical.com/audio/5CAxE5NM6pxv5EGE4rjtnB.mpga",
   "main_content": "People all around the U.S. are lining up to buy lottery tickets, while non-U.S. residents from around the world are buying them online.\n\nAnd they have a powerful incentive: the biggest jackpot in U.S. history, at $800 million and climbing.\n\nSince the Powerball Lottery drawing is not until Saturday evening, Florida time, the jackpot is likely to grow even more. Its size puts the long lines into perspective.\n\nEven people who do not normally feel inclined to play say they don’t want to lose this opportunity. “When the jackpot gets that large, you have no choice but to play it, in my mind,” said Kevin Ramseur during his lunch hour in Washington, D.C. “I rarely play the lotto, the lottery or the Powerball, but when the jackpot gets over $300 million, I usually buy a few tickets.”\n\nThe previous record was set in March 2012 with $656 million in the Mega Millions lottery.\n\nThe odds of winning are 1 in 292.2 million, according to the Multi-State Lottery Association, which runs the draw. Statisticians say it is easier to get hit by lightning while simultaneously drowning.\n\nDespite the tiny, minimal, almost impossible likelihood of winning the lottery, many people are spending their cash on tickets.\n\n“I would pay off my husband’s student loan debt, mine, my brother’s. I’d buy my parents a house, maybe one for me,” said Alicia Swenson, who had just gotten a ticket.\n\nOther people say the jackpot is far too much money for one person.\n\n“To be honest with you, I’d probably give most of it away,” said Anthony Jenkins, adding that there are hundreds of people in need whom he could help.",
   "questions": [
     {
       "question": "How high is the Powerball jackpot?",
-      "options": [
-        "$300 million",
-        "$656 million",
-        "$800 million",
-        "$1 billion"
-      ],
+      "options": ["$300 million", "$656 million", "$800 million", "$1 billion"],
       "answer": "$800 million"
     },
     {

@@ -5,7 +5,7 @@
     "id": "8881a3ec-63a7-11ea-9be5-2b6422385ad3",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/2ktswA8V91sRuiXn1DcjQX.jpeg",
+    "url": "https://blocks.vocabical.com/images/2ktswA8V91sRuiXn1DcjQX.jpeg",
     "dimensions": {
       "x": 800,
       "y": 533
@@ -18,27 +18,17 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3DdTrsEXY0RmqgqnkRPXWg.mpga",
+  "audio": "https://blocks.vocabical.com/audio/3DdTrsEXY0RmqgqnkRPXWg.mpga",
   "main_content": "At least 12 people were killed in an attack on the Paris offices of a French newspaper Wednesday. Witnesses say at least two gunmen opened fire with automatic rifles and a rocket launcher inside the offices of Charlie Hebdo.\n\nThe director of the weekly paper and at least three cartoonists were killed. Two police officers were reportedly killed as well. French President Francois Hollande denounced the shootings as a terrorist attack. He defended the media after the killings. He said no act of violence “will ever extinguish freedom of the press.”\n\nFrance has raised its terrorism warning to its highest level.\n\nCharlie Hebdo often makes fun of culture and religion. On Wednesday, it published a cartoon on social media. The image showed the leader of Islamic State militants, Abu Bakr al-Baghdadi, as a New Year well-wisher.\n\nThe magazine’s office was attacked in 2011 after it published a cartoon of the Prophet Muhammed.\n\nIn Washington, President Barack Obama strongly condemned the attack. He said the U.S. will help France, in his words, “bring these terrorists to justice.”",
   "questions": [
     {
       "question": "What is the name of the newspaper whose offices were attacked?",
-      "options": [
-        "Le Monde",
-        "Libération",
-        "Charlie Hebdo",
-        "Figaro"
-      ],
+      "options": ["Le Monde", "Libération", "Charlie Hebdo", "Figaro"],
       "answer": "Charlie Hebdo"
     },
     {
       "question": "Around how many people were killed in the attack?",
-      "options": [
-        "5",
-        "8",
-        "10",
-        "12"
-      ],
+      "options": ["5", "8", "10", "12"],
       "answer": "12"
     },
     {

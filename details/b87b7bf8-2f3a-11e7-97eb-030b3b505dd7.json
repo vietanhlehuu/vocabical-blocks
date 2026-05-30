@@ -5,7 +5,7 @@
     "id": "e381cff6-cac9-403d-9435-726eb6179038",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/6vIa7fRUZ4buIW8nagLLoG.jpeg",
+    "url": "https://blocks.vocabical.com/images/6vIa7fRUZ4buIW8nagLLoG.jpeg",
     "dimensions": {
       "x": 512,
       "y": 340
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3DjNlOoX98wpeiAZdZaJuZ.mpga",
+  "audio": "https://blocks.vocabical.com/audio/3DjNlOoX98wpeiAZdZaJuZ.mpga",
   "main_content": "President Barack Obama has “pardoned” one of two Thanksgiving turkeys, sparing it from the dinner table and granting it the chance to live out its days on a northern Virginia turkey farm.\n\nIn a White House appearance Wednesday that was also attended by daughters Sasha and Malia, Obama granted a pardon to a turkey named Cheese, a rotund white bird with a rosy-colored head and neck. The move came on the eve of the annual Thanksgiving holiday.\n\nThe White House ran an online contest in the past week asking people to vote on which bird should get the pardon, Cheese or fellow turkey Mac. While Cheese won the official pardon, both turkeys — each weighing about 23 kilograms, or roughly 50 pounds — will be spared from the chopping block.\n\nIn his remarks, Obama admitted that he found the televised Thanksgiving tradition “puzzling” but welcomed the chance to wish the American people a happy Thanksgiving holiday.\n\nThanksgiving in the United States is celebrated on the fourth Thursday in November.",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "What is the turkey’s name?",
-      "options": [
-        "Mac",
-        "Cheese",
-        "Gobble",
-        "Dinner"
-      ],
+      "options": ["Mac", "Cheese", "Gobble", "Dinner"],
       "answer": "Cheese"
     }
   ],

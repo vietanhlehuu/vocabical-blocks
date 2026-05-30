@@ -5,7 +5,7 @@
     "id": "46894a4c-4a1a-11e8-9201-9f8249f5ef6c",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/jdUvUYQ8JpfWGzzuZ0soOS6tHbSXPv6JfTH6FlSPYHg.jpeg",
+    "url": "https://blocks.vocabical.com/images/jdUvUYQ8JpfWGzzuZ0soOS6tHbSXPv6JfTH6FlSPYHg.jpeg",
     "dimensions": {
       "x": 4288,
       "y": 2848
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3vdDQRsPDcTtXN9R3zYQWT.mpga",
+  "audio": "https://blocks.vocabical.com/audio/3vdDQRsPDcTtXN9R3zYQWT.mpga",
   "main_content": "There is an old saying that America and Britain are “two nations divided by a common language.”\n\nBut are American and British English really so different?\n\nThe most noticeable difference between American and British English is vocabulary. There are hundreds of everyday words that are different. For example, Americans go on vacation, while Brits go on holidays, or hols.\n\nAnother difference between American and British English relates to auxiliary verbs.\n\nLet’s look at the auxiliary verb shall. Brits sometimes use shall to express the future.\n\nFor example, “I shall go home now.” Americans know what shall means, but rarely use it in conversation. It seems very formal. Americans would probably use “I will go home now.”\n\nThere are spelling differences between British and American English. You can thank American lexicographer Noah Webster for this.\n\nYou can see Webster’s legacy in the American spelling of words like color (from colour), honor (from honour), and labor (from labour).\n\nBritish and American English have more similarities than differences.",
   "questions": [
     {
       "question": "What is the British English spelling of the word “color”?",
-      "options": [
-        "color",
-        "colour",
-        "colur",
-        "colors"
-      ],
+      "options": ["color", "colour", "colur", "colors"],
       "answer": "colour"
     },
     {

@@ -5,7 +5,7 @@
     "id": "e4512a1e-74a9-4e00-b465-4191be1eec98",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/6wpLFthKrorNGoviiPUM2a.jpeg",
+    "url": "https://blocks.vocabical.com/images/6wpLFthKrorNGoviiPUM2a.jpeg",
     "dimensions": {
       "x": 512,
       "y": 382
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1k4X0laQZWx0vM30bAKoJl.mpga",
+  "audio": "https://blocks.vocabical.com/audio/1k4X0laQZWx0vM30bAKoJl.mpga",
   "main_content": "One hundred years ago, a new kind of cookware entered the American market. It was called Pyrex. Today the Pyrex name is well known in the United States. The heat-resistant glass products are still being manufactured.\n\nHeat-resistant glass was invented in Germany at the end of the 1800s. But the glass was used mostly in lanterns because the lighting produced heat. It also was used in containers for telegraph and telephone batteries.\n\nThe usefulness of heat-resistant glass as cookware was discovered by accident. It started at the Corning Glass Works manufacturing company in New York. A scientist working there gave his wife a battery jar made of borosilicate glass. Borosilicate glass is resistant to heat and very strong.\n\nKelley Elliott is with the Corning Museum of Glass. She says the scientist’s wife used the jar while cooking, and noted something unusual.\n\n“She proceeded to bake a cake, a sponge cake, in this battery jar. And she discovered that the baking was much more efficient, […]”\n\nMs. Elliott says that when Pyrex products began appearing in U.S. stores in 1915, the cookware quickly became popular.",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "When did Pyrex products begin appearing in U.S. stores?",
-      "options": [
-        "In 1900",
-        "In 1915",
-        "In 1920",
-        "In 1925"
-      ],
+      "options": ["In 1900", "In 1915", "In 1920", "In 1925"],
       "answer": "In 1915"
     }
   ],

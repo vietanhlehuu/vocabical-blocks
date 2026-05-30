@@ -5,7 +5,7 @@
     "id": "94ef7599-d4e0-4d63-b76a-69a9d872b48b",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/4X2IS6xiH5Fz8XTQWklk9z.jpeg",
+    "url": "https://blocks.vocabical.com/images/4X2IS6xiH5Fz8XTQWklk9z.jpeg",
     "dimensions": {
       "x": 512,
       "y": 533
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6G12kwYfuAlotFravnvJMk.mpga",
+  "audio": "https://blocks.vocabical.com/audio/6G12kwYfuAlotFravnvJMk.mpga",
   "main_content": "What is your first language? French? Chinese? Russian? Or English?\n\nHow about none of the above?\n\nThe first language of all humans is touch.\n\nIn the womb, we begin touching our face in an effort to learn about ourselves. As infants, we are calmed by our mother’s touch. Through all stages of our lives, we are comforted, we are helped, by touch.\n\nMatt Hertenstein is an experimental psychologist at DePauw University in Indiana. He studies how touching can affect a person’s physical and emotional health. Hertenstein has written many articles on the power of touch. He writes in a 2010 report that if a child does not have enough loving touches early in life, the brain does not grow to normal size.\n\nIn a recent interview with National Public Radio (NPR), Hertenstein said he found that loving touches can lower levels of the “stress hormone” – and raise levels of the “bonding hormone.”\n\nEven simple hand-holding causes levels of the stress hormone to drop.",
   "questions": [
     {
       "question": "What is the first language of all humans?",
-      "options": [
-        "Sight",
-        "Touch",
-        "Sound",
-        "Language"
-      ],
+      "options": ["Sight", "Touch", "Sound", "Language"],
       "answer": "Touch"
     },
     {

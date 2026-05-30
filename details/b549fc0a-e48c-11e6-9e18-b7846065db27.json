@@ -5,7 +5,7 @@
     "id": "e4581f92-0eab-11e7-b0f8-5b8c4c7e4435",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/1M0RDn7Yoz92C3Nst0Raeq.jpeg",
+    "url": "https://blocks.vocabical.com/images/1M0RDn7Yoz92C3Nst0Raeq.jpeg",
     "dimensions": {
       "x": 512,
       "y": 384
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0tl6cbBJSrrkKva4PKJNRH.mpga",
+  "audio": "https://blocks.vocabical.com/audio/0tl6cbBJSrrkKva4PKJNRH.mpga",
   "main_content": "A two-day meeting in Laos has left government officials and environmental activists divided. The meeting was called to view plans for a 260 megawatt dam on the Lower Mekong River. The Lao government is prepared to start work on the project.\n\nLao officials have dismissed concerns over the dam’s effect on the Mekong Delta area.\n\nThe proposed Don Sahong hydropower dam would be built in the southern province of Champassak. If built, it would become one of nine dams for the Mekong River’s main stream in Laos or along the border with Thailand.\n\nLaos is heavily dependent on earnings from about 10 hydropower plants. But two big new dams have fueled debate.\n\nEnvironmental groups say the Don Sahong will disrupt the migration of fish and affect local communities. Throughout the Greater Mekong area, up to 60 million people are dependent on fish and free flowing waters. Flood water runoff is needed to enrich soil for agriculture, especially rice.\n\nVietnam has been pressing Laos over Don Sahong project. Vietnamese officials fear the project might harm the Mekong Delta, the country’s ‘rice bowl’ and home to 20 million people.\n\nVietnam say the dam will lead to greater water salinity and the washing away of soil.\n\nThe Mekong River Commission says national meetings are to be held in Vietnam, Thailand and Cambodia, before final decisions are made on the project.",
   "questions": [
     {
       "question": "What will be the name of the hydropower dam?",
-      "options": [
-        "Don Sahong",
-        "Don Khone",
-        "Luang Prabang",
-        "Champassak"
-      ],
+      "options": ["Don Sahong", "Don Khone", "Luang Prabang", "Champassak"],
       "answer": "Don Sahong"
     },
     {

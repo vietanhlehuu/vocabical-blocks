@@ -5,7 +5,7 @@
     "id": "2e285aa2-41f8-11ee-b980-5f4633ba71cb",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/4c2XiB8GDPzSdtZl1yPktd.jpeg",
+    "url": "https://blocks.vocabical.com/images/4c2XiB8GDPzSdtZl1yPktd.jpeg",
     "dimensions": {
       "x": 512,
       "y": 288
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2MMAevLAsPPWL6IgWmyZVu.mpga",
+  "audio": "https://blocks.vocabical.com/audio/2MMAevLAsPPWL6IgWmyZVu.mpga",
   "main_content": "A new study says the speed and severity of climate change could cause major damage to small African farms. These farmers are already struggling to deal with the effects of climate change.\n\nThe study was released at the African Green Revolution Forum in Addis Ababa last month. It is called the 2014 African Agriculture Status Report. David Sarfo Ameyaw was a lead producer of the report. He is a director at AGRA – the Alliance for a Green Revolution in Africa.\n\n“Small-scale farmers are the backbone of African agriculture. About 70 percent of the rural population in sub-Saharan Africa are small-scale farmers. They produce about 80 percent of the food need in Africa.”\n\nSmall-scale farmers grow most of the staple crops in Africa on fields that are usually from two to 10 hectares. Small-scale farmers in Africa are much less productive than those in other continents.\n\n“About 90 percent of these farms are rain-fed, which means that they depend on the weather.”\n\nClimate change is also expected to affect the average length of the growing season. This could continue to reduce the already-low amount of crops that come from each hectare.\n\nMr. Ameyaw says there is a great possibility for agricultural growth in Africa led by small-scale farmers. But he says there is a great need to increase investment and expand climate-smart agriculture in sub-Saharan Africa. He estimates that would cost more than $1,600 for every small-scale farmer each year for 10 years. And he says he knows where that money will come from.\n\n“Governments would invest about 50 percent. And (the) private sector will invest about 40 percent of this amount to transform African agriculture by 2020.”\n\nHe says money is needed for research and development and for the training of scientists. He also says researchers must develop methods to reduce waste from the harvest using improved processing, storage,transportation and modern marketing.",
   "questions": [
     {
@@ -33,22 +33,12 @@
     },
     {
       "question": "Where was the African Green Revolution Forum held?",
-      "options": [
-        "Nairobi",
-        "Addis Ababa",
-        "Lagos",
-        "Kampala"
-      ],
+      "options": ["Nairobi", "Addis Ababa", "Lagos", "Kampala"],
       "answer": "Addis Ababa"
     },
     {
       "question": "How many percent of the food needed in Africa do small-scale farmers produce?",
-      "options": [
-        "50 percent",
-        "70 percent",
-        "80 percent",
-        "90 percent"
-      ],
+      "options": ["50 percent", "70 percent", "80 percent", "90 percent"],
       "answer": "80 percent"
     }
   ],

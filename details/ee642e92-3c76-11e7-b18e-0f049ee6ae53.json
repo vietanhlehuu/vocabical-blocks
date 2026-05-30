@@ -5,7 +5,7 @@
     "id": "a7d021f1-245c-46e4-85ca-e73b0ca1ce5e",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/56epnWXZ5AYStyeV4mirmA.jpeg",
+    "url": "https://blocks.vocabical.com/images/56epnWXZ5AYStyeV4mirmA.jpeg",
     "dimensions": {
       "x": 512,
       "y": 683
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0Wg6FVLU4goKNF39lDft7C.mpga",
+  "audio": "https://blocks.vocabical.com/audio/0Wg6FVLU4goKNF39lDft7C.mpga",
   "main_content": "U.S. automaker General Motors is issuing another recall, this one affecting more than three million cars with faulty ignition switches.\n\nThe switch defect is similar to an ignition problem that has been linked to at least 13 deaths and led to an earlier recall.\n\nGM says the latest issue involves ignition switches that can be jolted out of position, potentially affecting the car’s steering, brakes and airbags. It says the problem has led to at least eight crashes and six injuries.\n\nIn total, the company has issued 44 recalls this year, affecting about 20 million vehicles.\n\nGM’s slow response to the ignition switch issue has triggered several federal investigations, including by Congress, the Justice Department and the Securities and Exchange Commission.\n\nLast month, the federal government fined GM $35 million, the maximum amount allowed by law, for its delayed response to the problem.\n\nGM also is facing a number of lawsuits by families of crash victims.",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "What was the fine General Motors received from the federal government for its delayed response to the problem?",
-      "options": [
-        "$25 million",
-        "$35 million",
-        "$50 million",
-        "$15 million"
-      ],
+      "options": ["$25 million", "$35 million", "$50 million", "$15 million"],
       "answer": "$35 million"
     }
   ],

@@ -5,7 +5,7 @@
     "id": "74fcf168-bfd8-11ea-a780-57707866432a",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/5qF2TloclfkejwaSZvW3DW.png",
+    "url": "https://blocks.vocabical.com/images/5qF2TloclfkejwaSZvW3DW.png",
     "dimensions": {
       "x": 463,
       "y": 241
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4vybTF0L4UdjG6ilONHAyR.mpga",
+  "audio": "https://blocks.vocabical.com/audio/4vybTF0L4UdjG6ilONHAyR.mpga",
   "main_content": "The world’s understanding of English appears to be getting better. The private education company EF recently released a report called English Proficiency Index. The report ranks English language proficiency in 63 countries into five categories or classes. They are: “very high proficiency, high, moderate, low and very low.”\n\nMinh Tran is EF’s Director of Research and Academic Partnerships.\n\nThe English Proficiency Index says Denmark is the top country for English as a foreign language. Poland and Austria have joined Denmark and other northern European countries with the “very high proficiency” ranking. Malaysia and Singapore have the best ranking in Asia with “high proficiency” in English.\n\nSouth Korea, Japan, Taiwan, and Hong Kong have invested a lot of time and money in English education. But these countries have not improved since the last study came out in 2007.\n\nMinh Tran has this to say: “I think they are not improving because they have not made any significant reform to the way they teach English in Korea, Japan, Taiwan, Hong Kong. They still rely quite heavily on rote memory. And there’s a strong focus on grammar and vocabulary acquisition, but not so much on the actual communicative skills.”\n\nFor its report, EF used online test results from 750,000 adults in 63 countries. The test takers were adults who chose to take the company’s online test. They were not a random sample of the total population. For that reason, the results might be biased toward people who are interested in English and use the Internet.\n\nImprovements have also been noted on average scores for the TOEFL, the Test of English as a Foreign Language, and IELTS, the International English Language Testing System.\n\nThe British Council estimates that 1.75 billion people speak English today. The group expects that number to grow to two billion by 2020 – about one-fourth of the world’s population.",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "How many people according to the British Council speak English today?",
-      "options": [
-        "1 billion",
-        "1.5 billion",
-        "1.75 billion",
-        "2 billion"
-      ],
+      "options": ["1 billion", "1.5 billion", "1.75 billion", "2 billion"],
       "answer": "1.75 billion"
     }
   ],

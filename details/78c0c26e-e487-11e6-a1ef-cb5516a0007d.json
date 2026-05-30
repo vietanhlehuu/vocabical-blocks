@@ -5,7 +5,7 @@
     "id": "691f5825-da25-402d-871b-6300f72fddf7",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/3CMWA0CYr1BfrUJkRyv7sl.jpeg",
+    "url": "https://blocks.vocabical.com/images/3CMWA0CYr1BfrUJkRyv7sl.jpeg",
     "dimensions": {
       "x": 768,
       "y": 1024
@@ -18,37 +18,22 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/17Qlsb4Pntzs2TjMK2TDFC.mpga",
+  "audio": "https://blocks.vocabical.com/audio/17Qlsb4Pntzs2TjMK2TDFC.mpga",
   "main_content": "Almost 900,000 international students are studying in American colleges and universities today. Nearly half of this record number of foreign students are from Asia, mainly China.\n\nThey are among people from other countries who now make up about 4 percent of all university students in the U.S.  America has more of the world’s 4.5 million international students than any other country.\n\nA new report says more than 886,000 foreign students registered at U.S. universities during the school year 2013-2014. That is an increase of eight percent over the year before. The Institute of International Education and the State Department made the report.\n\nThe study also demonstrates trends over the past 15 years. It shows that since 2000, the number of international students in the U.S. has grown by 72 percent. Students from China in undergraduate programs are mainly responsible for this trend.\n\nWhile attendance by Chinese students rose by almost 17 percent over the past year, other countries also saw a major increase. Kuwait’s college student population rose by 42 percent and that of Brazil, by 22 percent. Other countries with more international students than earlier are Saudi Arabia, Iran and Venezuela.\n\nRajika Bhandari is a writer of the report and deputy vice president of research and evaluation at the Institute of International Education. She says the presence of foreign students in American schools helps the U.S. She also says about 4,000 American colleges and universities can serve more overseas students.\n\n“We know that international students contribute significantly to U.S. classrooms and campuses through their global perspectives and by providing international exposure to those American students who may never have the opportunity to study overseas.”\n\nEvan Ryan, Assistant Secretary of State for Education says enrollment of students from abroad also adds to the U.S. economy.",
   "questions": [
     {
       "question": "How many people are studying in American colleges and universities today?",
-      "options": [
-        "700,000",
-        "800,000",
-        "900,000",
-        "1,000,000"
-      ],
+      "options": ["700,000", "800,000", "900,000", "1,000,000"],
       "answer": "900,000"
     },
     {
       "question": "How many foreign students are from Asia?",
-      "options": [
-        "25%",
-        "40%",
-        "50%",
-        "60%"
-      ],
+      "options": ["25%", "40%", "50%", "60%"],
       "answer": "50%"
     },
     {
       "question": "How many percent did the college student population of Brazil rise by?",
-      "options": [
-        "10%",
-        "20%",
-        "22%",
-        "25%"
-      ],
+      "options": ["10%", "20%", "22%", "25%"],
       "answer": "22%"
     }
   ],

@@ -5,7 +5,7 @@
     "id": "11fc27a6-ec02-405c-a0a8-c689537f9f6f",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/0Xw6UKp02PgEAwoVaMbRAV.jpeg",
+    "url": "https://blocks.vocabical.com/images/0Xw6UKp02PgEAwoVaMbRAV.jpeg",
     "dimensions": {
       "x": 512,
       "y": 288
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2Qkw4fIZDAqWoW9EmYsMiY.mpga",
+  "audio": "https://blocks.vocabical.com/audio/2Qkw4fIZDAqWoW9EmYsMiY.mpga",
   "main_content": "A café in India is hiring women who once stayed in hiding after being attacked with acid.\n\nOne woman, Dolly Kumari, says she stayed inside for two years after a man threw acid on her. He was upset that she was not interested in having a romance.\n\nBut now, Kumari works at a café in Agra, called Sheroes Hangout.\n\nThe café helps women like Kumari get comfortable in public again.\n\nA group in New Delhi called Stop Acid Attacks started the café a year ago after women like Kumari had trouble finding jobs.\n\nAlok Dixit is the founder of the group.\n\nHe wants to change the perception that a person is less valuable based on their appearance.\n\nThere could be 1,000 acid attacks per year in India, but there are no official statistics. Stop Acid Attacks says most of the women who are attacked are in their 20s. And many are attacked by men who are angry for some reason.",
   "questions": [
     {
@@ -33,12 +33,7 @@
     },
     {
       "question": "Where is Sheroes Hangout café?",
-      "options": [
-        "New Delhi",
-        "Mumbai",
-        "Agra",
-        "Bangalore"
-      ],
+      "options": ["New Delhi", "Mumbai", "Agra", "Bangalore"],
       "answer": "Agra"
     },
     {

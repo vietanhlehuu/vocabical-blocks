@@ -5,7 +5,7 @@
     "id": "ddca22b0-3ae0-4483-862a-4475dd60ae1e",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/6kVgBdRORkxdthkuYFiagI.jpeg",
+    "url": "https://blocks.vocabical.com/images/6kVgBdRORkxdthkuYFiagI.jpeg",
     "dimensions": {
       "x": 512,
       "y": 770
@@ -18,37 +18,22 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1SIaXCB1ASv3sFgJ7flQCj.mpga",
+  "audio": "https://blocks.vocabical.com/audio/1SIaXCB1ASv3sFgJ7flQCj.mpga",
   "main_content": "Bonjour! Just kidding. We are speaking English. But today we are featuring French words that we use in English.\n\nFor example, mayday is an emergency code word. It is used around the world in voice communications.\n\nThe pilot gets on his radio and calls “mayday, mayday, mayday” to tell that his plane is in danger of crashing to the ground.\n\nBut mayday has nothing to do with the month of May. It comes from the French expression “(venez) m’aider,” or “m’aidez,” which means “help me.”\n\nIn the business world, entrepreneur is another French word. It means a person who starts and operates a new business and has responsibility for any risks involved.\n\nMany French words are used in the arts. For example, a film noir is a movie about murder and other crimes. Anything in art, music or literature which is very modern or ahead of its time is called avant-garde.\n\nIn the arts or any industry you prepare a résumé if you are looking for a job. A résumé documents your education, skills and experience. While every professional needs a résumé, each one is unique. In other words, each is one of kind.\n\nAnd if you go away, someone may wish you bon voyage or have a good trip.",
   "questions": [
     {
       "question": "What can you say to wish your friends a good trip?",
-      "options": [
-        "Adieu",
-        "Bon voyage",
-        "C'est la vie",
-        "Merci beaucoup"
-      ],
+      "options": ["Adieu", "Bon voyage", "C'est la vie", "Merci beaucoup"],
       "answer": "Bon voyage"
     },
     {
       "question": "What does “mayday” or “m’aidez” mean in French?",
-      "options": [
-        "Help me",
-        "May month",
-        "Emergency signal",
-        "Danger ahead"
-      ],
+      "options": ["Help me", "May month", "Emergency signal", "Danger ahead"],
       "answer": "Help me"
     },
     {
       "question": "How do you call black and white movies about crime and murder?",
-      "options": [
-        "Silent film",
-        "Film noir",
-        "Avant-garde",
-        "Cinéaste"
-      ],
+      "options": ["Silent film", "Film noir", "Avant-garde", "Cinéaste"],
       "answer": "Film noir"
     }
   ],

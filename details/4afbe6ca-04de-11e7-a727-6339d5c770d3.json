@@ -5,7 +5,7 @@
     "id": "596775f7-7f18-460f-beea-ee2f7706b475",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/2ihb7sJNY62hQBhyhWBgX7.jpeg",
+    "url": "https://blocks.vocabical.com/images/2ihb7sJNY62hQBhyhWBgX7.jpeg",
     "dimensions": {
       "x": 512,
       "y": 298
@@ -18,27 +18,17 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1sf7LBiacE299y6vBOIKGK.mpga",
+  "audio": "https://blocks.vocabical.com/audio/1sf7LBiacE299y6vBOIKGK.mpga",
   "main_content": "To kid. To tease. To joke and fool around. They all mean about the same thing. If you kid, you make fun in a playful way. Teasing can be playful or mean.\n\nTo joke around is to have fun with someone. To fool someone is to try to make them believe something that is not true. And that is the purpose of April Fools’ Day.\n\nApril 1st is known as the day to fool people with pranks or tricks. But how did this tradition begin? Some say April Fools’ Day began as one big mistake.\n\nMany centuries ago, people in the Western world used the Julian calendar. They celebrated the New Year on April 1st. However, when people began using the Gregorian calendar, the New Year was moved to January 1st.\n\nThose who forgot the change and tried to celebrate New Year’s Day on the wrong date were teased and called “April fools.”\n\nThis is just one of the many theories behind the origin of April Fools’ Day. But the tradition remains the same – trying to fool someone.\n\n[This article is divided into 2 parts! Part 2 will be out tomorrow.]",
   "questions": [
     {
       "question": "If someone is making fun in a playful way; what is he/she doing?",
-      "options": [
-        "Teasing",
-        "Mocking",
-        "Insulting",
-        "Encouraging"
-      ],
+      "options": ["Teasing", "Mocking", "Insulting", "Encouraging"],
       "answer": "Teasing"
     },
     {
       "question": "Which day is known as the day to fool people with pranks or tricks?",
-      "options": [
-        "April 1st",
-        "January 1st",
-        "February 14th",
-        "December 25th"
-      ],
+      "options": ["April 1st", "January 1st", "February 14th", "December 25th"],
       "answer": "April 1st"
     },
     {

@@ -5,7 +5,7 @@
     "id": "324b81bd-b824-4aea-982e-a517c6db2622",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/1Wu7d1BjNmZMxgF9hguYcc.jpeg",
+    "url": "https://blocks.vocabical.com/images/1Wu7d1BjNmZMxgF9hguYcc.jpeg",
     "dimensions": {
       "x": 512,
       "y": 384
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1tLw7F4PN4JTVUC6Mh9gwP.mpga",
+  "audio": "https://blocks.vocabical.com/audio/1tLw7F4PN4JTVUC6Mh9gwP.mpga",
   "main_content": "Russia has been ordered to pay $50 billion to former majority shareholders in the Yukos oil company.\n\nAn arbitration court in The Hague Monday said Russia acted in a “devious and calculated” manner when it seized Yukos’ assets in 2003 and imprisoned company CEO Mikhail Khodorkovsky that year.\n\nOnce Russia’s richest man, Khodorkovsky controlled Yukos through the holding company that successfully sued Russia, but in which he no longer has an ownership interest.\n\nThe verdict was half the $100 billion originally sought by the plaintiffs.\n\nKhodorkovsky, an opponent of President Vladimir Putin, was arrested at gunpoint boarding a plane in Siberia. He spent more than a decade in prison. Putin pardoned him in December 2013.\n\nYukos went bankrupt under Russian state control.\n\nThe court has given Moscow 180 days to pay the verdict, after which the plaintiffs may seize Russian assets abroad.\n\nRussian Foreign Minister Sergei Lavrov says Russia will appeal the ruling. However, experts say the threshold for review is high.\n\nMonday’s decision follows nearly a decade of hearings.",
   "questions": [
     {
       "question": "What amount of money will Russia be required to pay to Yukos shareholders?",
-      "options": [
-        "$25 billion",
-        "$50 billion",
-        "$75 billion",
-        "$100 billion"
-      ],
+      "options": ["$25 billion", "$50 billion", "$75 billion", "$100 billion"],
       "answer": "$50 billion"
     },
     {
@@ -43,12 +38,7 @@
     },
     {
       "question": "How much time does Russia have to pay the money?",
-      "options": [
-        "60 days",
-        "90 days",
-        "180 days",
-        "365 days"
-      ],
+      "options": ["60 days", "90 days", "180 days", "365 days"],
       "answer": "180 days"
     }
   ],

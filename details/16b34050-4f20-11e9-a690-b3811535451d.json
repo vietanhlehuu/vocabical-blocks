@@ -5,7 +5,7 @@
     "id": "16b2c71a-4f20-11e9-a68f-775451bc00e6",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/3uE5XGBMWZjN5KsykrVUGw.jpeg",
+    "url": "https://blocks.vocabical.com/images/3uE5XGBMWZjN5KsykrVUGw.jpeg",
     "dimensions": {
       "x": 1024,
       "y": 682
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5BoU6cib7r90Ptr2MLBZ3q.mpga",
+  "audio": "https://blocks.vocabical.com/audio/5BoU6cib7r90Ptr2MLBZ3q.mpga",
   "main_content": "The U.S. Open tennis tournament begins Monday in New York City. It is the last opportunity for 127 women to win a ‘Grand Slam’ title this year. And it is a chance for one player to win a place in history.\n\nAmerican player Serena Williams is the heavy favorite to win the women’s title. For Williams, her U.S. Open victory would mean much more than just another Grand Slam trophy.\n\nThe 33-year-old Williams is hoping to complete a women’s singles Grand Slam. No female player has completed a calendar-year Grand Slam in 27 years. Only three players have ever done so. The last player to do so was Germany’s Steffi Graf.\n\nIf Williams is victorious at the U.S. Open, she would also tie Graf’s 22 Grand Slam titles.\n\nNo player has dominated women’s tennis quite like Serena Williams. She is the current champion of all four of tennis’ Grand Slams: the Australian Open, French Open, Wimbledon, and finally, the U.S. Open.\n\nBut a calendar-year Grand Slam is one thing Williams has never done. She has admitted to feeling the pressure.",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "Where does the U.S. Open take place?",
-      "options": [
-        "Los Angeles",
-        "Chicago",
-        "New York City",
-        "Miami"
-      ],
+      "options": ["Los Angeles", "Chicago", "New York City", "Miami"],
       "answer": "New York City"
     }
   ],

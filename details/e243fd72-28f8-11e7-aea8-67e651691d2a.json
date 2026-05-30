@@ -5,7 +5,7 @@
     "id": "64bc89c2-654e-462b-96f1-f54c60b8f17c",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/345OTqXfsa2CZOPFryjpFM.jpeg",
+    "url": "https://blocks.vocabical.com/images/345OTqXfsa2CZOPFryjpFM.jpeg",
     "dimensions": {
       "x": 512,
       "y": 341
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/66ks1MDSWAXfrSXWxHf8oY.mpga",
+  "audio": "https://blocks.vocabical.com/audio/66ks1MDSWAXfrSXWxHf8oY.mpga",
   "main_content": "Oil rig workers, known as roughnecks, face unemployment as oil prices fall, but the impact is greater in regions like Alaska and North Dakota, where production costs are higher than they are in the Eagle Ford shale area of south-central Texas.\n\nBy keeping costs low, some projects in south-central Texas can remain profitable as long as the price of oil stays above $40 a barrel.\n\nEconomist Adam Perdue at the University of Houston’s Institute for Regional Forecasting, who studies the impact of the slowdown on Texas, said that “exploration and production budgets are being cut anywhere from 10 to 50 percent, with most of them being about 30 percent.”\n\nHe said Houston’s economy, which experienced 5 percent growth in recent years, would be affected by the lower spending.\n\n“We are predicting there will be 20,000 fewer jobs than there would have been otherwise,” Perdue said. “So, we are still predicting growth in the Houston area. It is just going to slow down to a more reasonable rate of just under 2 percent.”\n\nThe slowdown will also affect companies that make pipes and fittings for oil exploration and production, as well as trucking companies that supply sand and chemicals for hydraulic fracturing and many other small businesses that serve the energy industry.\n\nPerdue said oil company analysts see prices rising again in six months or so as the market glut from expanded production decreases.",
   "questions": [
     {
@@ -33,12 +33,7 @@
     },
     {
       "question": "What is the minimum price per barrel of oil needed for some Texas projects to remain profitable?",
-      "options": [
-        "$30",
-        "$40",
-        "$50",
-        "$60"
-      ],
+      "options": ["$30", "$40", "$50", "$60"],
       "answer": "$40"
     },
     {

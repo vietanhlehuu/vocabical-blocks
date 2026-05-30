@@ -5,7 +5,7 @@
     "id": "721603bd-44ea-4d86-96c2-8bfd302df0ad",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/3THBWuDNuZlD5UOq4soKnl.jpeg",
+    "url": "https://blocks.vocabical.com/images/3THBWuDNuZlD5UOq4soKnl.jpeg",
     "dimensions": {
       "x": 570,
       "y": 404
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1YcZT7MV2kC7r2oeWKkItI.mpga",
+  "audio": "https://blocks.vocabical.com/audio/1YcZT7MV2kC7r2oeWKkItI.mpga",
   "main_content": "Researchers have developed a book with specially treated pages that can make water safe to drink. The researchers say their invention could improve the lives of many in the developing world.\n\nAn estimated 600 to 700 million people around the world are at risk of disease or even death because their drinking water is not clean. The water is infected with harmful bacteria or other contaminants.\n\nBut researcher Teri Dankovich has developed a special book that could turn dirty water into clean, drinkable water.\n\nThe book contains 25 pages. Each page is about one millimeter thick. The pages can be used as filters to remove harmful microorganisms that can pollute drinking water.\n\nPictures on the pages show the dangers of dirty water and how to use the book for those unable to read. The pages are made of filter paper. They are designed to be torn from the book. Water can be poured through the paper to be decontaminated.\n\nTeri Dankovich and another researcher tested the drinkable book in Bangladesh, Ghana and South Africa. The tests proved to be successful.",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "How many pages are in the book?",
-      "options": [
-        "20 pages",
-        "25 pages",
-        "30 pages",
-        "35 pages"
-      ],
+      "options": ["20 pages", "25 pages", "30 pages", "35 pages"],
       "answer": "25 pages"
     }
   ],

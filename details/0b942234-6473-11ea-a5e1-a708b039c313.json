@@ -5,7 +5,7 @@
     "id": "0b93e634-6473-11ea-a5e0-7752f558f3df",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/0Llb9HT2QBnhGZPfa7Ad3g.jpeg",
+    "url": "https://blocks.vocabical.com/images/0Llb9HT2QBnhGZPfa7Ad3g.jpeg",
     "dimensions": {
       "x": 512,
       "y": 770
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5OMSCXd6VrnB9VytpDou2a.mpga",
+  "audio": "https://blocks.vocabical.com/audio/5OMSCXd6VrnB9VytpDou2a.mpga",
   "main_content": "April 12 is the International Day of Human Space Flight, marking the day in 1961 when 27-year-old Soviet cosmonaut Yuri Gagarin became the world’s first man in space.\n\nHis historic single orbit around Earth, while crouched in the Vostok 1 spacecraft at a speed of 27,400 kilometers per hour, lasted only 108 minutes, but ushered in a new chapter of history – space travel.\n\nBefore Gagarin’s flight, space travel had been the purview of science fiction writers.\n\nGagarin had no control over his spacecraft while it was orbiting. It was instead controlled by a computer program sending radio commands to the Vostok. However, a key had been placed in the spacecraft in case Gagarin needed to take command.\n\nPremier Nikita Krushchev named Gagarin a hero of the Soviet Union, and Gagarin, who became an international hero, was dubbed “the Christopher Columbus of the Cosmos.”\n\nHis flight during Cold War tensions sent the American space program into a frenzy. The Soviet Union had said the space flight was an affirmation of “the genius of the Soviet people.”\n\nLess than a month later, U.S. astronaut Alan Shepherd became the first American in space. In February of the next year, U.S. astronaut John Glenn became the first American to orbit the Earth.\n\nGagarin died in a plane he was piloting in 1968. At the time of his death, he was training for a second space mission.",
   "questions": [
     {
@@ -33,12 +33,7 @@
     },
     {
       "question": "How much time did he spend on orbit?",
-      "options": [
-        "89 minutes",
-        "108 minutes",
-        "162 minutes",
-        "120 minutes"
-      ],
+      "options": ["89 minutes", "108 minutes", "162 minutes", "120 minutes"],
       "answer": "108 minutes"
     },
     {

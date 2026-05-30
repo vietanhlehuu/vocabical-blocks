@@ -5,7 +5,7 @@
     "id": "f171296b-e1ce-4496-8706-415a46aa27e0",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/7LargUJUpVT53E8XNjRL0q.jpeg",
+    "url": "https://blocks.vocabical.com/images/7LargUJUpVT53E8XNjRL0q.jpeg",
     "dimensions": {
       "x": 512,
       "y": 384
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4lVRbeLY1EOxFZzOs4eQnq.mpga",
+  "audio": "https://blocks.vocabical.com/audio/4lVRbeLY1EOxFZzOs4eQnq.mpga",
   "main_content": "A new study says the global population is growing faster than expected and projects the number of people globally will rise to just under 11 billion people by 2100.\n\nThe study, which is an extension of a 2013 United Nations report, says growth is unlikely to stabilize this century.\n\nAbout seven billion people currently inhabit the planet. For the past 20 years, population experts have predicted the population would grow to nine billion before it begins to level off and possibly decline.\n\nBut the new projections that estimate 11 billion people by 2100 factor in government data and expert forecasts of mortality rates, fertility trends and international migration.\n\nThe new study also says Africa is likely to see the largest increase in population — from about 3.5 billion to 5.1 billion people — during the next 85 years.\n\nUnited Nations Population Division Director John Wilmoth, one of the study’s authors, says researchers previously anticipated population trends in Africa would follow patterns in other countries, increasing at a slower rate as birth control use became more widespread.\n\nBut that has not turned out to be the case.\n\n“The level of contraceptive use has continued to increase but slowly — more slowly than expected — and fertility therefore has been falling less rapidly than expected, and the population therefore continues to grow more rapidly than we expected,” he said.\n\nResearch conducted jointly by the United Nations and the University of Washington anticipates the population of Asia will peak at five billion people by 2050, up from 4.4 billion people today.\n\nWilmoth says the strain of feeding the rising global population is likely to be less than might be expected.\n\n“The relatively good news is that the world has been winning the race between population growth and food production,” he said. “If you look back historically over the last 50 years, certainly for the world as a whole and for most individual countries and regions, the increase in food production has outpaced the increase of population.”\n\nThe latest global population estimates, contained in a report published in Science, flesh out the most recent U.N. population projections released in July.",
   "questions": [
     {
       "question": "According to the researchers, how many people will be living on Earth by 2100?",
-      "options": [
-        "9 billion",
-        "10 billion",
-        "11 billion",
-        "7 billion"
-      ],
+      "options": ["9 billion", "10 billion", "11 billion", "7 billion"],
       "answer": "11 billion"
     },
     {
@@ -43,12 +38,7 @@
     },
     {
       "question": "How many people will Asia have by 2050?",
-      "options": [
-        "5 billion",
-        "4.4 billion",
-        "3 billion",
-        "6 billion"
-      ],
+      "options": ["5 billion", "4.4 billion", "3 billion", "6 billion"],
       "answer": "5 billion"
     }
   ],

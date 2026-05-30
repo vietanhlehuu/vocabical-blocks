@@ -5,7 +5,7 @@
     "id": "ada715a5-ec35-446b-98a2-d67b3a753a57",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/5Hg1sxhh1L2rS7VKQgchGR.jpeg",
+    "url": "https://blocks.vocabical.com/images/5Hg1sxhh1L2rS7VKQgchGR.jpeg",
     "dimensions": {
       "x": 512,
       "y": 384
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4nxvF0EvHLcWY1VIR1ch9b.mpga",
+  "audio": "https://blocks.vocabical.com/audio/4nxvF0EvHLcWY1VIR1ch9b.mpga",
   "main_content": "France has become the first country to ban supermarkets from throwing away unsold food.\n\nLegislators passed the law in February. The law requires supermarkets to donate unsold food to charities and food banks.\n\nOther European countries are also making efforts to reduce food waste. In Denmark, a new “waste” supermarket has opened, where customers can buy leftover food for cheaper prices.\n\nArash Derambarsh is a municipal councilor in Paris.\n\n“The situation is very simple,” he said. “On the one hand, we have supermarkets that throw away kilos of unsold food every day. On the other, we have millions of poor people in France.\n\nDerambarsh is now campaigning for the European Union to adopt similar supermarket waste laws.",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "Which country has a special “waste” supermarket?",
-      "options": [
-        "France",
-        "Germany",
-        "Denmark",
-        "Italy"
-      ],
+      "options": ["France", "Germany", "Denmark", "Italy"],
       "answer": "Denmark"
     }
   ],

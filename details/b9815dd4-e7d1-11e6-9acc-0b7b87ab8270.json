@@ -5,7 +5,7 @@
     "id": "e45ded50-0eab-11e7-b45a-8b8906801735",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/61DlAdRtUFl09liYFxoGTp.jpeg",
+    "url": "https://blocks.vocabical.com/images/61DlAdRtUFl09liYFxoGTp.jpeg",
     "dimensions": {
       "x": 512,
       "y": 420
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1xrxMeekM9es8xhUmvDjju.mpga",
+  "audio": "https://blocks.vocabical.com/audio/1xrxMeekM9es8xhUmvDjju.mpga",
   "main_content": "People have long known that nuts are part of a healthy diet. However, scientists in the Netherlands recently found that you do not need to eat many to get all the health benefits.\n\nThe researchers found that eating a handful of nuts or peanuts every day is linked to a lower risk of death from several major diseases.\n\nPiet van den Brandt, a professor of epidemiology at Maastricht University, led the research. He says that eating nuts protects the health of both men and women.\n\nAbout 10 grams a day is enough to get the full health benefits of nuts. That is about an average-sized handful. Nuts are high in fat and calories. So, eating a handful before dinner can help you to eat less.\n\nAlso, when choosing which nuts to eat, avoid those stored or roasted in oil. Dry-roasted is better but still the high temperatures can kill the healthy nutrients. Nuts are most healthy if you eat them raw.\n\nNuts differ in their fat and nutrient content.\n\nAlmonds are among the least fatty nuts. Almonds also have calcium and are high in Vitamin E. And it’s good for skin and eyes.\n\nChestnuts are the nut with the least fat and fewest calories. Chestnuts are rich in carbohydrates and fiber. And in their raw form, chestnuts are a good source of vitamin C.",
   "questions": [
     {
@@ -33,22 +33,12 @@
     },
     {
       "question": "How many grams is enough to get the full health benefits of nuts?",
-      "options": [
-        "5 grams",
-        "10 grams",
-        "15 grams",
-        "20 grams"
-      ],
+      "options": ["5 grams", "10 grams", "15 grams", "20 grams"],
       "answer": "10 grams"
     },
     {
       "question": "What nuts have least fat and fewest calories?",
-      "options": [
-        "Almonds",
-        "Pistachios",
-        "Cashews",
-        "Chestnuts"
-      ],
+      "options": ["Almonds", "Pistachios", "Cashews", "Chestnuts"],
       "answer": "Chestnuts"
     }
   ],

@@ -5,7 +5,7 @@
     "id": "e4598f58-0eab-11e7-b1da-5beb6098b91d",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/2Tzt2KMdAqeREOk0vcmntL.jpeg",
+    "url": "https://blocks.vocabical.com/images/2Tzt2KMdAqeREOk0vcmntL.jpeg",
     "dimensions": {
       "x": 512,
       "y": 366
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2fTMdS3f9qW2OMDUvv0E6e.mpga",
+  "audio": "https://blocks.vocabical.com/audio/2fTMdS3f9qW2OMDUvv0E6e.mpga",
   "main_content": "We all know that exercise is good for your health. But some kinds of exercise may be better than others. Running, for example, may help to protect against heart disease and other health problems. Running also may help you live longer.\n\nResearchers say it is not important how far you run. It also does not matter how fast or even how often you run.\n\nRecently, researchers studied more than 55,000 adults. About one-fourth of the adults reported running regularly. The study found these runners were considerably less likely than non-runners to die of any form of disease, including heart disease.\n\nThis study lasted 15 years. During that time, more than 3,400 of the individuals died. About 1,200 of the deaths were linked to heart disease, a heart attack or stroke.\n\nTo stay healthy, doctors suggest that adults up to age 65 do 150 minutes of moderate exercise every week. They say these individuals need 75 minutes of vigorous exercise, like running, every week for good health.",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "How many minutes of moderate exercise every week do doctors suggest?",
-      "options": [
-        "100 minutes",
-        "150 minutes",
-        "75 minutes",
-        "200 minutes"
-      ],
+      "options": ["100 minutes", "150 minutes", "75 minutes", "200 minutes"],
       "answer": "150 minutes"
     }
   ],

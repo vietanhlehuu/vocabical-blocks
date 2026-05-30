@@ -5,7 +5,7 @@
     "id": "15495419-a33c-4248-b596-508bc8ea93c9",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/0eALhknEZtapCPF7htYEDh.jpeg",
+    "url": "https://blocks.vocabical.com/images/0eALhknEZtapCPF7htYEDh.jpeg",
     "dimensions": {
       "x": 512,
       "y": 336
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3kcJKIcUkEl3Cy2mpUPPjD.mpga",
+  "audio": "https://blocks.vocabical.com/audio/3kcJKIcUkEl3Cy2mpUPPjD.mpga",
   "main_content": "How far would you go for a perfect body?\n\nMany people these days are going as far as South Africa to get their version of perfection. People from across Africa and the world come for so-called “surgery safaris.”  There are no animals to see on these safaris. The visitors instead look for smaller stomachs, firmer bottoms or perhaps new eye, nose or chin shapes.\n\nFor years, South Africa has appealed to medical tourists from Europe and the United States. But local cosmetic surgeons say now more clients from Africa’s growing economies are interested in such operations.\n\nLorraine Melvill is a doctor with Surgeon and Safari. She has been performing cosmetic surgeries for nearly 16 years in Johannesburg. She says that more than 80 percent of her clients now come from sub-Saharan Africa. She says this is because Africa did not experience the economic problems that hit other parts of the world.\n\nClients can spend anywhere from $5,000 to $7,000 on a cosmetic treatment. They might spend an additional $2,000 on the cost of the hotel while they heal.\n\nFor many African women, less is more. Ms. Melvill says the most popular forms of cosmetic surgeries for African women are breast reductions and liposuction. Liposuction removes fat from the body. So-called tummy tucks are also common. This treatment removes fat from a person’s middle.\n\nDr. Chris Snijman is the national secretary for the Association of Plastic and Reconstructive Surgeons of South Africa (APRSSA). He says that there are several reasons for the increase in cosmetic treatments in South Africa. These include a favorable exchange rate and better and safer surgical methods.\n\nMr. Snijman says there is also less of a stigma attached to plastic surgery in South Africa.\n\nA lack of rules on the cosmetic surgery industry has led to a growing number of rogue surgeons. South Africa’s medical professionals say as the industry continues to grow there must be stronger laws to govern it.",
   "questions": [
     {
       "question": "For how long has been Lorraine Melvill performing surgeries?",
-      "options": [
-        "10 years",
-        "16 years",
-        "20 years",
-        "5 years"
-      ],
+      "options": ["10 years", "16 years", "20 years", "5 years"],
       "answer": "16 years"
     },
     {

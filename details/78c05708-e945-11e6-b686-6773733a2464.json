@@ -5,7 +5,7 @@
     "id": "e459a8da-0eab-11e7-b1e9-9b9830ef89ef",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/2ZXvs07hmSr5fzp8lkHo9P.jpeg",
+    "url": "https://blocks.vocabical.com/images/2ZXvs07hmSr5fzp8lkHo9P.jpeg",
     "dimensions": {
       "x": 512,
       "y": 650
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1Ydqd5ribKuAySeZJlfNxd.mpga",
+  "audio": "https://blocks.vocabical.com/audio/1Ydqd5ribKuAySeZJlfNxd.mpga",
   "main_content": "The English rock band Pink Floyd released the album Dark Side of the Moon in 1973.\n\nBut four years earlier, in 1969, NASA astronauts on the Apollo 10 space mission heard what sounded like outer-space music – from the dark side of the moon.\n\nAnd nearly 50 years later, those mysterious noises on Apollo 10 have become a trending topic on social media.\n\nIn May of 1969, the Apollo 10 crew approached the far side of the moon. The three astronauts, Thomas Stafford, John Young, and Eugene Cernan, would have no contact with the Earth.\n\nBut just as they approached the far side of the moon, the crew heard strange “music.”\n\nThe story of the unusual space noises will appear on a television series called NASA’s Unexplained Files.\n\nSome news reports and social media posts wrongly said that the Apollo 10 audio files were recently ‘declassified’ – or made public.\n\nBut the audio files have actually been publicly available at the National Archives since 1973 – the same year that Pink Floyd released its hit album.",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "When did Pink Floyd release the album Dark Side of the Moon?",
-      "options": [
-        "In 1970",
-        "In 1971",
-        "In 1973",
-        "In 1975"
-      ],
+      "options": ["In 1970", "In 1971", "In 1973", "In 1975"],
       "answer": "In 1973"
     }
   ],

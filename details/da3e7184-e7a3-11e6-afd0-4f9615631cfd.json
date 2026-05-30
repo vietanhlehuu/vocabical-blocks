@@ -5,7 +5,7 @@
     "id": "e45e6aa0-0eab-11e7-b4a3-87f8b7f71dfa",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/6LBy8ezJTIG0NjkBwPJRD8.jpeg",
+    "url": "https://blocks.vocabical.com/images/6LBy8ezJTIG0NjkBwPJRD8.jpeg",
     "dimensions": {
       "x": 512,
       "y": 384
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/50cUtMEMbLhqSQqFmowWjR.mpga",
+  "audio": "https://blocks.vocabical.com/audio/50cUtMEMbLhqSQqFmowWjR.mpga",
   "main_content": "Every year the magazine People publishes a list of who it considers the most beautiful people in the world.\n\nHow do the editors choose from the 7 billion people on Earth? What makes a person beautiful or ugly?\n\n​A new study suggests that what a person finds good-looking in another person is shaped by the observer’s environment and experiences.\n\nOver 35,000 people took part by rating the faces of people in photographs on the website TestMyBrain.org.\n\nThe scientists got a good idea of the uniqueness of individual face preferences from the online group.\n\nThen the researchers turned to twins. They included 550 sets of identical twins and 214 pairs of same sex, non-identical twins. The two groups of twins rated faces for attractiveness.\n\nIdentical twins share 100 percent of their genetic material. Non-identical twins do not. So, the scientists expected that the identical twins would share an identical face preference.\n\nThe findings suggest that environmental experiences have as much influence on people’s idea of beauty as genetics.",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "Which magazine publishes a list of the most beautiful people in the world every year?",
-      "options": [
-        "Vanity Fair",
-        "Glamour",
-        "People",
-        "Cosmopolitan"
-      ],
+      "options": ["Vanity Fair", "Glamour", "People", "Cosmopolitan"],
       "answer": "People"
     }
   ],

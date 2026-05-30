@@ -5,7 +5,7 @@
     "id": "9c6ed339-b79f-4a33-9672-f5e75e4dedd8",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/4lBRueUPYkStGxSbzbk55E.jpeg",
+    "url": "https://blocks.vocabical.com/images/4lBRueUPYkStGxSbzbk55E.jpeg",
     "dimensions": {
       "x": 512,
       "y": 276
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6IyHIEYi8t49gzYfee6QRc.mpga",
+  "audio": "https://blocks.vocabical.com/audio/6IyHIEYi8t49gzYfee6QRc.mpga",
   "main_content": "A new report says Internet speeds around the world are getting much faster. The report comes from Akamai. But it warns that the increase in the number of devices connected to the World Wide Web could cause problems. The company says this increase might use up all of the remaining space that is currently available on the Internet.\n\nThe report is called “State of the Internet.” It examines use of the World Wide Web, Internet and mobile device data speeds, and overall strength of the web.\n\nThe report says Internet connectivity continues to grow in every part of the world.\n\nThe report says the growth in the number of connected devices is adding to a new problem: the need for more addresses.\n\nMost of the World Wide Web uses Internet Protocol version 4 to govern data traffic. IPv4 has a total of 4.29 billion unique addresses for computers, computer tablets and other electronic devices to connect.\n\nBut billions of addresses are already being used. Experts use the term “Internet of Things” for all the physical objects that are able to connect to the Internet. Researchers are warning that as the “Internet of Things” grows, IPv4 will not have enough room in the near future.",
   "questions": [
     {

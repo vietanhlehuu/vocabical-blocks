@@ -5,7 +5,7 @@
     "id": "1d43f10c-35b8-405f-974c-123168b592ca",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/0tDpGVzEuaUE26AGtSkPCE.jpeg",
+    "url": "https://blocks.vocabical.com/images/0tDpGVzEuaUE26AGtSkPCE.jpeg",
     "dimensions": {
       "x": 444,
       "y": 592
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/24oRdcKxxuAdh2rNJV6r7W.mpga",
+  "audio": "https://blocks.vocabical.com/audio/24oRdcKxxuAdh2rNJV6r7W.mpga",
   "main_content": "Murtaza Ahmadi’s improvised shirt is made from a plastic bag and has Lionel Messi’s name scrawled on it with a marker pen.\n\nHis brother posted a photo of Murtaza wearing it on Facebook last month. The photo went viral and the boy became an Internet sensation, attracting reporters to his farm in a remote rural area of Afghanistan.\n\n“I wear this plastic bag shirt for Messi. I would like to meet him. I love him so much,” little Murtaza says.\n\nLionel Messi is a professional footballer who plays for the Spanish team Barcelona and the Argentina national team. Last month, he was awarded a fifth FIFA Ballon d’Or that goes to the world’s best male player.\n\nMurtaza plays soccer near his house and does not have a proper field, football jersey or sports shoes. But he dreams of becoming a famous player like Messi, his father says.\n\n“We want to go to Spain so that Murtaza would be able to meet his idol Messi face to face, since he is a huge fan of him. Even when he wakes up he says ‘I love Messi,’ ” Mohammad Arif Ahmadi says.\n\nMurtaza’s wish may yet be fulfilled. His new celebrity status has prompted Afghan football officials to contact Messi’s charitable organization to see if a meeting can be arranged.",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "What nationality is Lionel Messi?",
-      "options": [
-        "Spanish",
-        "Italian",
-        "Argentinian",
-        "Brazilian"
-      ],
+      "options": ["Spanish", "Italian", "Argentinian", "Brazilian"],
       "answer": "Argentinian"
     }
   ],

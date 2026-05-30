@@ -5,7 +5,7 @@
     "id": "04fbe76e-06d2-4345-93df-f926b9947237",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/09P5Z4Ej95Vd8VhzRFSpCJ.png",
+    "url": "https://blocks.vocabical.com/images/09P5Z4Ej95Vd8VhzRFSpCJ.png",
     "dimensions": {
       "x": 512,
       "y": 512
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/56JMDoNNnZaPw1R7EqFugc.mpga",
+  "audio": "https://blocks.vocabical.com/audio/56JMDoNNnZaPw1R7EqFugc.mpga",
   "main_content": "The U.S. economy expanded at a disappointing annual rate in the first three months of this year, but new data show it wasn’t quite as bad as first thought.\n\nThe Commerce Department reported Friday that gross domestic product grew at an annual rate of eight-tenths of one percent during the first quarter. That is three-tenths of a percent higher than government economists had estimated earlier this year, but still reflects a slowing economy.\n\nExperts routinely revise their initial growth estimates as more complete data becomes available.\n\nThe GDP rate revised upward on Friday reflected a stronger housing market as well as more effort by businesses to stock up merchandise for sale.\n\nThe U.S. economy has been hurt by the strong dollar, which means American-made products are more expensive on global markets. Weak demand overseas also hurt exports, and thus slowed U.S. economic growth.\n\nEconomists will get more information about the health of the economy next Friday when the U.S. unemployment rate for May is published. In April the jobless rate was five percent.\n\nLooking a bit farther into the future, experts also will be watching a meeting of top U.S. central bank officials on June 15 — a session the Federal Reserve governors may or may not raise the key interest rate.\n\nInterest rates remain unusually low after they were slashed during the financial crisis in a bid to boost economic growth.\n\nThe economy’s sputtering and uneven recovery has experts debating how soon rates should rise, and by how much. Raise them too soon and the economy could stumble back into recession and shrink. Waiting too long to raise rates carries a risk that inflation that could hurt the economy.",
   "questions": [
     {
       "question": "By how much did the U.S. GDP increase in the first three months of this year?",
-      "options": [
-        "0.5 percent",
-        "0.8 percent",
-        "1.1 percent",
-        "1.5 percent"
-      ],
+      "options": ["0.5 percent", "0.8 percent", "1.1 percent", "1.5 percent"],
       "answer": "0.8 percent"
     },
     {

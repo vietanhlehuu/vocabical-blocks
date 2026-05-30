@@ -5,7 +5,7 @@
     "id": "8a053c45-9d24-4c26-98df-bfd88ed1d704",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/4CRKgqASdrkaVL1EG5zwiC.jpeg",
+    "url": "https://blocks.vocabical.com/images/4CRKgqASdrkaVL1EG5zwiC.jpeg",
     "dimensions": {
       "x": 512,
       "y": 349
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3JxZZbmonGSwsvhTVOePzM.mpga",
+  "audio": "https://blocks.vocabical.com/audio/3JxZZbmonGSwsvhTVOePzM.mpga",
   "main_content": "China’s Internet regulator has slammed Google for deciding to not recognize the agency’s website safety checks, following a security breach blamed on Beijing.\n\nThe China Internet Network Information Center, or CNNIC, improperly certified false credentials for several Google domains, according to a blog post by the U.S.-based web giant.\n\nThose who visited the affected websites were vulnerable to so-called “man-in-the-middle” hacking attempts, which can be used to steal data and impersonate unsuspecting web users.\n\nGoogle’s decision to no longer recognize the agency’s safety verification process means those using Google Chrome, the world’s most popular web browser, could receive a security warning when trying to visit websites approved by CNNIC.\n\nMicrosoft and Mozilla, which also operate prominent Internet browsers, have said they will also no longer accept CNNIC’s website safety certificates.\n\nIn a statement Thursday, CNNIC criticized Google for making an “unacceptable and unintelligible” decision. It urged Google to “take users’ rights and interests into full consideration.”\n\nChinese authorities have denied being directly involved in the security breach, saying the Egypt-based MCS Holdings is responsible for issuing the faulty certificates.\n\nIt is the latest dispute between China and Google. The Internet giant shut down its local Chinese search engine in 2010 because of censorship restrictions put in place by Beijing.",
   "questions": [
     {

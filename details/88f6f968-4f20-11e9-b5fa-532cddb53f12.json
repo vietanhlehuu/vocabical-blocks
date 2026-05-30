@@ -5,7 +5,7 @@
     "id": "88f68154-4f20-11e9-b5f9-ab8f9301e12a",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/5k1GH9QoGgqLRZS8dyqRkE.jpeg",
+    "url": "https://blocks.vocabical.com/images/5k1GH9QoGgqLRZS8dyqRkE.jpeg",
     "dimensions": {
       "x": 512,
       "y": 341
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5BJlNM6z3imM7RbntYPcmV.mpga",
+  "audio": "https://blocks.vocabical.com/audio/5BJlNM6z3imM7RbntYPcmV.mpga",
   "main_content": "U.S. Secretary of State John Kerry took part in a ceremony Friday to raise the U.S. flag at the country’s reopened embassy in Havana, Cuba. Mr. Kerry is the first U.S. secretary of state to visit Cuba in 70 years. He called the ceremony a memorable occasion.\n\nThe ceremony marks growing relations between the U.S. and Cuba. Both the U.S. and Cuban embassies reopened on July 20. The two countries had not had diplomatic relations for 54 years.\n\nMr. Kerry will meet Friday with Cuban Minister of Foreign Affairs Bruno Rodriguez. But the secretary has no planned meeting with Cuban President Raul Castro.\n\nA top U.S. official noted that Cuban dissidents would not be part of the ceremony at the U.S. Embassy. Human rights activists have criticized the decision.\n\nMembers of Cuban civil society, including political, human rights and media activists, were invited to a second, larger ceremony later in the day.\n\nPresident Barack Obama has not yet appointed an ambassador to Cuba.",
   "questions": [
     {
       "question": "For how many years have Cuba and the US not had any diplomatic relations?",
-      "options": [
-        "42 years",
-        "54 years",
-        "70 years",
-        "60 years"
-      ],
+      "options": ["42 years", "54 years", "70 years", "60 years"],
       "answer": "54 years"
     },
     {

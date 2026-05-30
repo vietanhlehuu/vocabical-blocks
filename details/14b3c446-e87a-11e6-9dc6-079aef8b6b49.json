@@ -5,7 +5,7 @@
     "id": "01213cda-81fc-4b75-b79b-c31290214b49",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/028BHcIW6Fm88u1nnoGi9h.jpeg",
+    "url": "https://blocks.vocabical.com/images/028BHcIW6Fm88u1nnoGi9h.jpeg",
     "dimensions": {
       "x": 512,
       "y": 357
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5GINCai0MWPZXpxbaOyTVj.mpga",
+  "audio": "https://blocks.vocabical.com/audio/5GINCai0MWPZXpxbaOyTVj.mpga",
   "main_content": "Bananas are often called the perfect food.\n\nBananas, it turns out, have a secret weapon. And this secret weapon could protect against viruses.\n\nScientists are now taking a protein found in bananas and turning it into a drug that may someday fight viral infections.\n\nThe secret weapon is called banana lectin, or BanLec. BanLec is a protein that attaches to sugar molecules and keeps viruses out of cells. A virus cannot infect what it cannot enter.\n\nThe team of researchers published their study in the journal Cell. In their article, the researchers say it could be one of the first to treat a wide-range of viruses. These viruses include HIV, hepatitis and even the common flu virus.\n\nSenior co-author of the study is David Markovitz at the University of Michigan in Ann Arbor. He warns that you can’t get the benefits of BanLec simply by eating a bunch of bananas.",
   "questions": [
     {
       "question": "What is the banana’s secret weapon?",
-      "options": [
-        "Banana lectin",
-        "Potassium",
-        "Vitamin C",
-        "Fiber"
-      ],
+      "options": ["Banana lectin", "Potassium", "Vitamin C", "Fiber"],
       "answer": "Banana lectin"
     },
     {

@@ -5,7 +5,7 @@
     "id": "38ee0e6f-0cd9-4071-acde-40274bb31fa2",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/1jQMSzka7ChsqlaXIp5oFm.jpeg",
+    "url": "https://blocks.vocabical.com/images/1jQMSzka7ChsqlaXIp5oFm.jpeg",
     "dimensions": {
       "x": 512,
       "y": 288
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1EzFXTfMA8ckCzimggyLZf.mpga",
+  "audio": "https://blocks.vocabical.com/audio/1EzFXTfMA8ckCzimggyLZf.mpga",
   "main_content": "There are now more obese people on the planet than there are underweight people, according to a new study.\n\nIn what they’re calling the “world’s biggest obesity study,” researchers from Imperial College London compared global body mass indices (BMI) from almost 20 million adults from 1975 to 2014.\n\nWhat they found was that over that period, global obesity rates among men tripled from 3.2 percent to 10.8 percent. For women, it more than doubled, rising from 6.4 percent to 14.9 percent. That means that there were 266 million obese men and 375 million obese women in the world in 2014, with all humans becoming 1.5 kilograms heavier each decade since 1975.\n\nMorbid obesity, when a person’s basic activities are impaired by being overweight, affects 1 percent of men and 2 percent of women, researchers said, adding that there are now 55 million morbidly obese adults.\n\nWhen looking at people who are underweight, by contrast, those rates have fallen from 14 percent to 9 percent among men and from 15 percent to 10 percent among women.\n\n“The number of people across the globe whose weight poses a serious threat to their health is greater than ever before,” said Majid Ezzati, the senior author of the study from the School of Public Health at Imperial. “And this epidemic of severe obesity is too extensive to be tackled with medications such as blood pressure lowering drugs or diabetes treatments alone, or with a few extra bike lanes. We need coordinated global initiatives – such as looking at the price of healthy food compared to unhealthy food, or taxing high sugar and highly processed foods – to tackle this crisis.”\n\nIf the obesity trend continues, researchers said, by 2025, 18 percent of the world’s men and 21 percent of the world’s women will be obese.\n\nThe study found that China has the most obese people of any country and that the U.S. has the highest number of severely obese people.\n\nIndia and Bangladesh accounted for about a quarter of the world’s underweight people.",
   "questions": [
     {
@@ -33,12 +33,7 @@
     },
     {
       "question": "\fHow many obese women were there in the world in 2014?",
-      "options": [
-        "266 million",
-        "375 million",
-        "350 million",
-        "150 million"
-      ],
+      "options": ["266 million", "375 million", "350 million", "150 million"],
       "answer": "375 million"
     },
     {

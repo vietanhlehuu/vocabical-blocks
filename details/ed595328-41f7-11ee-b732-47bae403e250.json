@@ -5,7 +5,7 @@
     "id": "ed58da4c-41f7-11ee-b731-933ed976aaf7",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/6EHyPWlPNaYfJgOkmCL7Fz.jpeg",
+    "url": "https://blocks.vocabical.com/images/6EHyPWlPNaYfJgOkmCL7Fz.jpeg",
     "dimensions": {
       "x": 450,
       "y": 600
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4PoclHazKxYPG4qZA9AJM0.mpga",
+  "audio": "https://blocks.vocabical.com/audio/4PoclHazKxYPG4qZA9AJM0.mpga",
   "main_content": "Asia has long tradition of tea-drinking. And China is no exception.\n\nHowever, lately more and more Chinese people are turning to a different drink. Coffee has become an increasingly popular choice of Chinese people living abroad and in the country’s huge cities. It is also a popular crop among those living in the mountains of southern Yunnan Province.\n\nIn big cities such as Beijing, coffee shops seem to be on nearly every major street corner. These shops are not just selling drinks from Starbucks, the world-famous coffee company. Coffee businesses from South Korea, Taiwan, Hong Kong and Britain are also operating in China.\n\nTea-drinking is steeped in the culture and traditions of many Asian countries. But is that changing? Are young people from Asia now choosing a cup of coffee instead of tea?\n\nBeiBei Su is from China. She has been living in the United States for the past eight years. Before that, she lived in Italy for two years. Ms.Su says she likes tea better than coffee. But she adds that may not be true among the younger generation in China.\n\nOn average a person in China drinks about five cups of coffee a year. This information comes from the China Coffee Association Beijing.\n\nThat amount is far below the world average of 240 cups a year. But the association says the amount of coffee that Chinese drink is growing by about 15 percent every year.",
   "questions": [
     {
@@ -33,22 +33,12 @@
     },
     {
       "question": "Where has BeiBei Su been living in the past 8 years?",
-      "options": [
-        "China",
-        "Japan",
-        "Italy",
-        "United States"
-      ],
+      "options": ["China", "Japan", "Italy", "United States"],
       "answer": "United States"
     },
     {
       "question": "How many cups of coffee a year does a person in China drink on average?",
-      "options": [
-        "5 cups",
-        "15 cups",
-        "240 cups",
-        "60 cups"
-      ],
+      "options": ["5 cups", "15 cups", "240 cups", "60 cups"],
       "answer": "5 cups"
     }
   ],

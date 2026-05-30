@@ -5,7 +5,7 @@
     "id": "838296ab-4b8d-46ed-b956-740ac880f7c1",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/409fmjuqDH7Eqm6H6kSOaf.jpeg",
+    "url": "https://blocks.vocabical.com/images/409fmjuqDH7Eqm6H6kSOaf.jpeg",
     "dimensions": {
       "x": 512,
       "y": 341
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/14ydU3Q2HWNs5it8QJQiOr.mpga",
+  "audio": "https://blocks.vocabical.com/audio/14ydU3Q2HWNs5it8QJQiOr.mpga",
   "main_content": "President Barack Obama discussed his plan to give all students across the country the chance to learn computer science in school.\n\nIn his weekly address, Obama noted that with the rapid shifts in the U.S. economy, knowledge of computer science has become a new “basic skill” necessary for economic achievement.\n\n“Today’s auto mechanics aren’t just sliding under cars to change the oil; they’re working on machines that run on as many as 100 million lines of code. That’s 100 times more than the space shuttle,” the president said. “Nurses are analyzing data and managing electronic health records.\n\nMachinists are writing computer programs. And workers of all kinds need to be able to figure out how to break a big problem into smaller pieces and identify the right steps to solve it.”\n\nObama then emphasized the need for his Computer Science for All Initiative, which would provide $4 billion in funding for states and $100 million directly for districts in his upcoming budget, and would invest more than $135 million beginning this year through the National Science Foundation and the Corporation for National and Community Service to support and train computer science teachers.\n\nThe goal of the initiative, he said, is to give “every student in America an early start at learning the skills they’ll need to get ahead in the new economy,” and he said he would be calling on “governors, mayors, business leaders and tech entrepreneurs to join the growing bipartisan movement around this cause.”\n\nAmericans must all do their part “to make sure all our young people can compete in a high-tech, global economy,” Obama said. “They’re the ones who will make sure America keeps growing, keeps innovating and keeps leading the world in the years ahead. And they’re the reason I’ve never been more confident about our future.”",
   "questions": [
     {
@@ -33,12 +33,7 @@
     },
     {
       "question": "How much money will states receive to implement this initiative?",
-      "options": [
-        "$1 billion",
-        "$4 billion",
-        "$100 million",
-        "$135 million"
-      ],
+      "options": ["$1 billion", "$4 billion", "$100 million", "$135 million"],
       "answer": "$4 billion"
     },
     {

@@ -5,7 +5,7 @@
     "id": "2bd51182-4f22-11e9-b3bb-478c5e1a73c8",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/51rxHWE6d4mctnl78mwxId.jpeg",
+    "url": "https://blocks.vocabical.com/images/51rxHWE6d4mctnl78mwxId.jpeg",
     "dimensions": {
       "x": 512,
       "y": 384
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6QDn3zlvDdgD0QP8fokIBP.mpga",
+  "audio": "https://blocks.vocabical.com/audio/6QDn3zlvDdgD0QP8fokIBP.mpga",
   "main_content": "The food manufacturer Nestle has removed a product from sale in India because of safety concerns. Tests showed Maggi noodles contained large amounts of the heavy metal, lead.\n\nThe first reports of a problem with the product came from a rural town in one of India’s poorest states, Uttar Pradesh. Soon after, the country’s food safety agency declared Maggi noodles “unsafe” to eat.\n\nThe noodles cook in two minutes and are popular among children and students. Nestle sells about $240 million dollars worth of the noodles every year.\n\nNestle has rejected the test results. It says the product is safe. It has appealed the ban in court. It has asked for an examination of the government’s testing method.\n\nSeveral other countries, including Canada and Britain, also have ordered tests on Maggi noodles imported from India.\n\nThe food scare has led to mixed reactions. Some Maggi noodle lovers are not persuaded of any danger, like Shweta Andrews. She and her friends still enjoy the food.",
   "questions": [
     {
@@ -33,12 +33,7 @@
     },
     {
       "question": "How much worth of noodles does Nestle sell every year?",
-      "options": [
-        "$500 million",
-        "$240 million",
-        "$100 million",
-        "$1 billion"
-      ],
+      "options": ["$500 million", "$240 million", "$100 million", "$1 billion"],
       "answer": "$240 million"
     },
     {

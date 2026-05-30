@@ -5,7 +5,7 @@
     "id": "cd0e0aa9-d4bb-4990-b88f-504eb3fe92ca",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/6EvqKfKy21j6UBlUtpMSug.jpeg",
+    "url": "https://blocks.vocabical.com/images/6EvqKfKy21j6UBlUtpMSug.jpeg",
     "dimensions": {
       "x": 512,
       "y": 366
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4eKE6ABZcsB15de6ty9gHf.mpga",
+  "audio": "https://blocks.vocabical.com/audio/4eKE6ABZcsB15de6ty9gHf.mpga",
   "main_content": "China’s state-run Xinhua news agency says President Xi Jinping will make his first official state visit to the United States in September.\n\nThe timing of the trip was announced after Xi spoke on the phone with President Barack Obama.\n\n“During the conversation, both sides agreed to make full preparations to ensure the success of the trip,” Xinhua reported.\n\nThe White House said Obama urged his Chinese counterpart to push his country further towards “consumption-led growth and a market-determined exchange rate.” The U.S. president also reiterated his commitment to reaching a bilateral investment treaty with Beijing.\n\nThe White House said Obama and Xi also discussed cybersecurity and the U.S.-led international negotiations with Iran on its nuclear weapons program.\n\nThe U.S. has recently leveled accusations of cyberattacks launched by Chinese hackers against American companies and government targets. China has rejected those accusations.\n\nThe White House on Tuesday announced the creation of a federal agency to analyze threats to the nation’s cybersecurity and coordinate strategy to combat them.",
   "questions": [
     {
       "question": "When will the Chinese leader meet with Barack Obama?",
-      "options": [
-        "In October",
-        "In September",
-        "In August",
-        "In November"
-      ],
+      "options": ["In October", "In September", "In August", "In November"],
       "answer": "In September"
     },
     {

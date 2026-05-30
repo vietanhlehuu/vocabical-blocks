@@ -5,7 +5,7 @@
     "id": "b5d11245-b085-4bf0-80fe-8a2fd57fc776",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/5X59jmH8IceQTbK1bmXnfi.jpeg",
+    "url": "https://blocks.vocabical.com/images/5X59jmH8IceQTbK1bmXnfi.jpeg",
     "dimensions": {
       "x": 512,
       "y": 384
@@ -18,37 +18,22 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1QxfT98DNFUcoZSaDlZVdT.mpga",
+  "audio": "https://blocks.vocabical.com/audio/1QxfT98DNFUcoZSaDlZVdT.mpga",
   "main_content": "Taiko drummers beat their drums. Local restaurants served delicious sushi – a type of food made with uncooked fish, rice and vegetables.\n\nAnd almost everyone drank sake, or Japanese rice wine.\n\nThe Grand Sake Tasting was held in Washington D.C. on September 30. The Carnegie Library in the heart of the city was full of Japanese, Americans and others, enjoying the traditional alcoholic drink from Japan called sake.\n\nJapanese food and music were also served to the 100 or so people who attended the event. This was the third year the fundraiser was held.\n\nMoney raised from ticket sales – each ticket cost $100 to $150 – supports the National Cherry Blossom Festival. The festival celebrates the native Japanese trees the Japanese government donated to the U.S. in 1912. Each year when the trees bloom pink flowers, thousands of people come to Washington to see them along the Potomac River.",
   "questions": [
     {
       "question": "When did the Japanese government donate trees to the US?",
-      "options": [
-        "1910",
-        "1912",
-        "1920",
-        "1930"
-      ],
+      "options": ["1910", "1912", "1920", "1930"],
       "answer": "1912"
     },
     {
       "question": "When was the Grand Sake Tasting?",
-      "options": [
-        "September 28",
-        "September 29",
-        "September 30",
-        "October 1"
-      ],
+      "options": ["September 28", "September 29", "September 30", "October 1"],
       "answer": "September 30"
     },
     {
       "question": "How many times has the Grand Sake Tasting been held?",
-      "options": [
-        "Once",
-        "Twice",
-        "Three times",
-        "Four times"
-      ],
+      "options": ["Once", "Twice", "Three times", "Four times"],
       "answer": "Three times"
     }
   ],

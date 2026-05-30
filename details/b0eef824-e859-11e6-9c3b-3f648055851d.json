@@ -5,7 +5,7 @@
     "id": "6ffdd53c-f08f-4d56-9267-9148f02a60ae",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/3PK9Jgde31eYmA8Iw7CjuQ.jpeg",
+    "url": "https://blocks.vocabical.com/images/3PK9Jgde31eYmA8Iw7CjuQ.jpeg",
     "dimensions": {
       "x": 512,
       "y": 409
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5UtsY9mXzVxb2FDPrJzVYL.mpga",
+  "audio": "https://blocks.vocabical.com/audio/5UtsY9mXzVxb2FDPrJzVYL.mpga",
   "main_content": "Every word has its own story.\n\nToday’s word is “Shenandoah.”\n\nHundreds of years ago a Native American chief named Shenandoah lived with his tribes in what is now the state of Virginia. Little is known about Shenandoah, but in some way, the soft sound of his name was given to a river.\n\nHowever, there is an old Native American story which is far more beautiful.\n\nLong ago there was a great lake hidden in the mountains of Virginia.\n\nFor hundreds of years, Native American tribes lived near this lake, feeding on the fish from its clean waters.\n\nThe Native Americans loved this lake, and, because they could see the stars in it, they called the lake, “Clear Daughter of the Stars.”\n\nIn their language, the word for this was “Shenandoah.”\n\nOne day, there was a loud crashing sound at one end of the lake. The waters ran on and on until they joined another river.\n\nAt last, the lake was gone. In its place was only a river. It is this way today. The lake is gone, but the beautiful Shenandoah River runs on.",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "In what state was the river?",
-      "options": [
-        "West Virginia",
-        "Virginia",
-        "Maryland",
-        "Kentucky"
-      ],
+      "options": ["West Virginia", "Virginia", "Maryland", "Kentucky"],
       "answer": "Virginia"
     }
   ],

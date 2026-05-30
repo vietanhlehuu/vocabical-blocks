@@ -5,7 +5,7 @@
     "id": "7a7dcebb-4d0f-40c5-adc2-d72c6725ff2d",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/3j8YbLB85HVrws3m5AQoRh.jpeg",
+    "url": "https://blocks.vocabical.com/images/3j8YbLB85HVrws3m5AQoRh.jpeg",
     "dimensions": {
       "x": 512,
       "y": 508
@@ -18,27 +18,17 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2MOsto8kPuozqGIobm0qeM.mpga",
+  "audio": "https://blocks.vocabical.com/audio/2MOsto8kPuozqGIobm0qeM.mpga",
   "main_content": "A Russian Soyuz spacecraft arrived Friday at the International Space Station with a three-man international crew.\n\nIt carried Denmark’s first astronaut, Andreas Mogensen of the European Space Agency; Russia’s Sergei Volkov of Roscosmos; and Kazakhstan’s Aidyn Aimbetov of the Kazakh Space Agency, bringing to nine the number of crew on the orbiting space station for the first time since November 2013.\n\nRussian Mission Control said Soyuz docked on time, about 51 hours after blasting off Wednesday from the Baikonur Cosmodrome in Kazakhstan, the launch site operated by Russia.\n\nThe Russian Federal Space Agency had rerouted the spacecraft, taking a less direct route than in the past two years because of security concerns after the International Space Station had to adjust its orbit to dodge space junk.\n\nMogensen and Aimbetov are due to return to Earth on September 12 with veteran Russian cosmonaut Gennady Padalka, who has been working aboard the ISS since March.\n\nPadalka will have totaled 878 days in space, more than any other person.\n\nVolkov will return in March with NASA astronaut Scott Kelly and Russian Mikhail Kornienko, who will have spent one year in space by that time.",
   "questions": [
     {
       "question": "How many crew members are on the International Space Station right now?",
-      "options": [
-        "Seven",
-        "Nine",
-        "Ten",
-        "Eight"
-      ],
+      "options": ["Seven", "Nine", "Ten", "Eight"],
       "answer": "Nine"
     },
     {
       "question": "How long was the journey of the Soyuz spacecraft?",
-      "options": [
-        "48 hours",
-        "51 hours",
-        "54 hours",
-        "42 hours"
-      ],
+      "options": ["48 hours", "51 hours", "54 hours", "42 hours"],
       "answer": "51 hours"
     },
     {

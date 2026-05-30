@@ -5,7 +5,7 @@
     "id": "a17ac5ea-3603-46f5-ba00-ded78b5923a3",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/4uhs4OOFzOdxN0ZlslEiax.jpeg",
+    "url": "https://blocks.vocabical.com/images/4uhs4OOFzOdxN0ZlslEiax.jpeg",
     "dimensions": {
       "x": 800,
       "y": 599
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6ON5qctbt9x8UVLKPdb7Jx.mpga",
+  "audio": "https://blocks.vocabical.com/audio/6ON5qctbt9x8UVLKPdb7Jx.mpga",
   "main_content": "When Americans call for customer support there is a good chance the agent on the other end of the telephone line is Filipino.\n\nThe Philippines has the world’s largest business process outsourcing, or BPO, industry, employing some one-million workers.\n\nOne of them is Angeline Rodriguez. The 30-year-old trained nurse says she makes more money working the overnight shift at the C3 call center, where she and 2300 colleagues handle customer service for several foreign companies, answering up to 200 calls per night.\n\nBPO centers are now among the Philippines’ largest sources of revenue, making the country’s economic growth the fastest in Southeast Asia.\n\nBut for all of the financial rewards, there are concerns that the lack of sleep and odd hours contribute to unhealthy lifestyles.\n\nResearcher Victoria Fritz says overnight call center employees the world-over face these risks.\n\n“I found that BPO workers who work the night shift develop physical ailments over the years,” she said. “Among the findings is they develop cardiovascular diseases, type 2 diabetes and obesity.”\n\nFor about $7 a month, employees at the BPO center C3 can sign up for fitness classes at an onsite gym.\n\nBut some workers say they are more bothered by the toll the overnight shift has taken on their social lives.\n\nCustomer service agent Angeline Rodriguez says after five years of working in the industry, she has gotten used to it.\n\n“Social life, I don’t really have one right now. I’m not really into it, I’d rather work,” she said.\n\nShe adds that if she wants to make new friends, or a boyfriend, there are plenty of people on her same shift.",
   "questions": [
     {
@@ -33,22 +33,12 @@
     },
     {
       "question": "How many calls does Angeline Rodriguez answer every night?",
-      "options": [
-        "150 calls",
-        "200 calls",
-        "300 calls",
-        "250 calls"
-      ],
+      "options": ["150 calls", "200 calls", "300 calls", "250 calls"],
       "answer": "200 calls"
     },
     {
       "question": "Which country has the fastest economic growth in Souteast Asia?",
-      "options": [
-        "Thailand",
-        "Vietnam",
-        "Indonesia",
-        "The Philippines"
-      ],
+      "options": ["Thailand", "Vietnam", "Indonesia", "The Philippines"],
       "answer": "The Philippines"
     }
   ],

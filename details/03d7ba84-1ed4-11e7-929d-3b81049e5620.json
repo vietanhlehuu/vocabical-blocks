@@ -5,7 +5,7 @@
     "id": "449d710a-6f43-411c-b9e2-4628c9320cfa",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/25TQbxuWIjVweAUP4cpE0w.jpeg",
+    "url": "https://blocks.vocabical.com/images/25TQbxuWIjVweAUP4cpE0w.jpeg",
     "dimensions": {
       "x": 512,
       "y": 683
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/32sNbB14i95n45FNTZvTj8.mpga",
+  "audio": "https://blocks.vocabical.com/audio/32sNbB14i95n45FNTZvTj8.mpga",
   "main_content": "Thousands of Nepalese children, affected by last month’s earthquake, returned to class as schools reopened five weeks after the disaster that claimed 8,600 lives.\n\nSchool authorities said students would be encouraged to talk about the quake with teachers who have undergone training to help the children overcome the trauma and adjust to being back in class.\n\nThey added that formal studies will begin in two weeks.\n\nThe 7.8-magnitude quake damaged more than 8,000 schools across the country, with the majority in the rural districts.\n\nThe United Nations children’s organization has warned that children in Nepal are facing an ‘unprecedented emotional toll” as they deal with the massive April 25 earthquake and a second large quake that occurred on May 12.\n\n“We cannot underestimate the psychological impact on children of these repeated powerful tremors,” said Rownak Khan, Deputy Representative of UNICEF Nepal earlier in May.\n\nUNICEF said it is prioritizing psychological support for children who are dealing with extreme stress.",
   "questions": [
     {
       "question": "How many lives has the earthquake claimed?",
-      "options": [
-        "6,500",
-        "8,600",
-        "9,200",
-        "7,800"
-      ],
+      "options": ["6,500", "8,600", "9,200", "7,800"],
       "answer": "8,600"
     },
     {
@@ -43,12 +38,7 @@
     },
     {
       "question": "How many schools were damaged by the earthquake?",
-      "options": [
-        "5,000",
-        "8,000",
-        "10,000",
-        "12,000"
-      ],
+      "options": ["5,000", "8,000", "10,000", "12,000"],
       "answer": "8,000"
     }
   ],

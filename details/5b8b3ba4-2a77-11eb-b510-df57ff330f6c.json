@@ -5,7 +5,7 @@
     "id": "5b8ab666-2a77-11eb-b50f-b3f3d9531b0d",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/7OhptZlScFP64PvPSQ4M6z.jpeg",
+    "url": "https://blocks.vocabical.com/images/7OhptZlScFP64PvPSQ4M6z.jpeg",
     "dimensions": {
       "x": 512,
       "y": 880
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6mYhGYmxmWfxG8rdTGCk37.mpga",
+  "audio": "https://blocks.vocabical.com/audio/6mYhGYmxmWfxG8rdTGCk37.mpga",
   "main_content": "Guirec Soudee is sailing around the world.\n\nThe 24-year-old Frenchman has already been at sea for two years.\n\nSoudee is the only person on his sailboat. But he is not making the trip alone. He brought along his pet chicken with him.\n\nSoudee met Monique the hen on the Canary Islands shortly before he began his around-the-world voyage. At the time, the bird was only about four months old.\n\nWhile planning for his trip, Soudee had considered bringing along an animal for companionship, but not necessarily a chicken. But as he told the BBC reporter, “the hen was an ideal choice.”\n\nThe sailing chicken has made international news.\n\nThe story has also become popular on social media.\n\nMonique and her owner are currently in Greenland. You can find reports about Soudee’s trip on his Facebook, Instagram, and YouTube pages.",
   "questions": [
     {
       "question": "Where is Guirec Soudee from?",
-      "options": [
-        "Spain",
-        "France",
-        "Canary Islands",
-        "Greenland"
-      ],
+      "options": ["Spain", "France", "Canary Islands", "Greenland"],
       "answer": "France"
     },
     {
@@ -43,12 +38,7 @@
     },
     {
       "question": "Where are Monique and Guirec Soudee right now?",
-      "options": [
-        "Australia",
-        "The Canary Islands",
-        "Greenland",
-        "France"
-      ],
+      "options": ["Australia", "The Canary Islands", "Greenland", "France"],
       "answer": "Greenland"
     }
   ],

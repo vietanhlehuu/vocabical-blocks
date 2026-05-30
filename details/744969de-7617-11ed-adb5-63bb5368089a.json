@@ -5,7 +5,7 @@
     "id": "74493644-7617-11ed-adb4-7b433c16c7fd",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/6DqAVv8aHR0JE7YEIKVJAd.jpeg",
+    "url": "https://blocks.vocabical.com/images/6DqAVv8aHR0JE7YEIKVJAd.jpeg",
     "dimensions": {
       "x": 512,
       "y": 384
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7QMvrTW3mgbNGRTyCxxpEd.mpga",
+  "audio": "https://blocks.vocabical.com/audio/7QMvrTW3mgbNGRTyCxxpEd.mpga",
   "main_content": "The number of buses, taxis and other vehicles on Kenya’s roads is growing every day.\n\nNow, the country’s first electric-powered motorbike is being made. The bike is designed to cut down on pollution and aimed at low-income communities.\n\nMost motorbikes used in Kenya depend on gasoline as fuel. But not this new motorbike. Its energy comes from sunlight.\n\nThree university students developed the new ecotran bike. It captures the sun’s energy, stores it in batteries and uses it to charge the electric motor.\n\nRobert Achoge is one of the student inventor.\n\nThe students have set up a ‘fueling’ station for the motorbikes in Nairobi. Riders can plug the bikes into any electrical outlet.\n\nEach ecotran bike costs about $700.\n\nA Nairobi dealership is selling the ecotran bikes. Businessman Kennedy Kusimba hopes they will become popular.",
   "questions": [
     {
@@ -33,12 +33,7 @@
     },
     {
       "question": "Where is the ‘fueling’ station for the motorbike?",
-      "options": [
-        "Mombasa",
-        "Nairobi",
-        "Kisumu",
-        "Eldoret"
-      ],
+      "options": ["Mombasa", "Nairobi", "Kisumu", "Eldoret"],
       "answer": "Nairobi"
     },
     {

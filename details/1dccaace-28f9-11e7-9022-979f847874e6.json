@@ -5,7 +5,7 @@
     "id": "bfda6d71-2339-4975-9741-7d7abec1bd6d",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/5q1M4reYKiZoU4T9JjAJ9J.jpeg",
+    "url": "https://blocks.vocabical.com/images/5q1M4reYKiZoU4T9JjAJ9J.jpeg",
     "dimensions": {
       "x": 739,
       "y": 550
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7BljRdDr2g34vWHbT9jeGl.mpga",
+  "audio": "https://blocks.vocabical.com/audio/7BljRdDr2g34vWHbT9jeGl.mpga",
   "main_content": "Fugitive drug lord Joaquin “El Chapo” Guzman has been captured six months after his bold escape from prison.\n\nHe was one of the most wanted men in the world.\n\nGuzman was arrested in a raid on a home before dawn in Los Mochis.\n\nGuzman escaped from a maximum-security prison in Mexico last July 11. He broke out of the prison in a mile-long tunnel from his prison cell shower.\n\nAuthorities have been hunting him ever since.\n\nGuzman is a wealthy drug lord. He is worth about $1 billion, say news reports. The U.S. wants him arrested for illegal drug trafficking to this country.\n\nCNN said the U.S. had a $5 million reward for his capture, and the Mexican government was offering $4 million for him as well.\n\nGuzman is nicknamed “Shorty” for his small height.",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "What reward did the U.S. offer for the capture of “El Chapo”?",
-      "options": [
-        "$1 million",
-        "$5 million",
-        "$10 million",
-        "$4 million"
-      ],
+      "options": ["$1 million", "$5 million", "$10 million", "$4 million"],
       "answer": "$5 million"
     }
   ],

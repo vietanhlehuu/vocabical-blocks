@@ -5,7 +5,7 @@
     "id": "99c2c2aa-7563-11ed-aebb-4354211abdd0",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/66KDAgi8WLpuyxdIHWdrLH.jpeg",
+    "url": "https://blocks.vocabical.com/images/66KDAgi8WLpuyxdIHWdrLH.jpeg",
     "dimensions": {
       "x": 512,
       "y": 384
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1PfKZw2wbLBJlR0iu6MZmk.mpga",
+  "audio": "https://blocks.vocabical.com/audio/1PfKZw2wbLBJlR0iu6MZmk.mpga",
   "main_content": "Shortly after Tunisia’s 2011 revolution, 25-year-old Issam Nouaili set sail for Europe from this southern port town, taking advantage of lax border controls in the ensuing chaos. But the good life he hoped for did not lie on the other side of the Mediterranean.\n\nInstead, he found himself working in the gritty underbelly of Paris, first demolishing buildings and then flipping pizzas, paid under the table as an illegal migrant.\n\n“I was disgusted with life in France,” he said. “It was very hard to find work without papers.” Three years later, Nouaili went home. Unlike many young Tunisians, he now has a job. After enrolling in business training, he opened up his own auto parts business seven months ago.\n\n“The training was really good,” said Nouaili, showing off his stock of tires and bolts. “It changed my life.”\n\nBoth the training and startup funds for his business were bankrolled by the French government, amid a broader European effort to find solutions to the migrant crisis that has brought nearly 215,000 asylum seekers to its shores this year.\n\nFor those returning here, or those who never left, the prospects are bleak. Five years after the country’s uprising rising insecurity has driven away tourists and foreign investment.\n\nIn the poorest regions about one-third of young Tunisians are jobless, rising to nearly two-thirds among college graduates. Earlier this year, protests over jobs and lack of economic opportunities spread across the country.\n\nThe training program for returnees — part of a broader migration deal between France and Tunisia — offers a bright spot of hope.\n\nIn Zarzis, the ADDCI, the NGO overseeing the program in the southern part of the country, says 90 percent of the start-up businesses are still running.\n\n“We tell the trainees that if they don’t make their project a success, they penalize others who want the same help,” says ADDCI’s President Faycal Dchicha.\n\nYet Dchicha is the first to admit the project is no solution to Tunisia’s broader problems. Fewer than 500 people have graduated from the course to date.",
   "questions": [
     {
       "question": "Where did Issam Nouaili go after the 2011 revolution?",
-      "options": [
-        "A. Italy",
-        "B. Greece",
-        "C. France",
-        "D. Germany"
-      ],
+      "options": ["A. Italy", "B. Greece", "C. France", "D. Germany"],
       "answer": "C. France"
     },
     {

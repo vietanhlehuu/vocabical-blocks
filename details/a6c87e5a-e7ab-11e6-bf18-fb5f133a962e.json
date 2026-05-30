@@ -5,7 +5,7 @@
     "id": "4111893b-a608-4334-affa-afc558c2d678",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/1ymVwecOS6812atTE77KSe.jpeg",
+    "url": "https://blocks.vocabical.com/images/1ymVwecOS6812atTE77KSe.jpeg",
     "dimensions": {
       "x": 512,
       "y": 383
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/37v0M5H7PUCzVRo3CKXZW9.mpga",
+  "audio": "https://blocks.vocabical.com/audio/37v0M5H7PUCzVRo3CKXZW9.mpga",
   "main_content": "An elections commission has asked Myanmar to postpone the national vote because of recent natural disasters.\n\nThe Union Election Commission wants the elections, set for November 8, delayed because of flooding. More than 100 people are reported to have died in floods in Chin State and the Sagaing Region.\n\nAbout 1.6 million people have been “critically affected” because of recent flooding in Myanmar.\n\nIn an emergency meeting, only the National League for Democracy of Aung San Suu Kyi objected to the delay, party officials said.\n\nAt least three parties have expressed support for the commission’s proposal to delay the elections. They are the Union Solidarity Party, the Farmer’s Development Party and the National Development Party. Observers reported that three other parties said they would let the commission decide when to hold the vote.\n\nUnder Myanmar’s laws, the next election needs to be held 30 to 90 days before the first meeting of the next parliament. It is set for January 30.",
   "questions": [
     {
@@ -33,22 +33,12 @@
     },
     {
       "question": "How many people have died in floods in Chin State and the Sagaing Region?",
-      "options": [
-        "Over 50",
-        "Over 75",
-        "More than 100",
-        "More than 150"
-      ],
+      "options": ["Over 50", "Over 75", "More than 100", "More than 150"],
       "answer": "More than 100"
     },
     {
       "question": "When is the next election going to be?",
-      "options": [
-        "November 8",
-        "January 30",
-        "December 15",
-        "February 10"
-      ],
+      "options": ["November 8", "January 30", "December 15", "February 10"],
       "answer": "January 30"
     }
   ],

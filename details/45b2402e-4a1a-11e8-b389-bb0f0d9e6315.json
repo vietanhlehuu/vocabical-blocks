@@ -5,7 +5,7 @@
     "id": "45b206ae-4a1a-11e8-b388-873314d459e4",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/YLf5lkPXDtwAlkIfiIVeEaWpTy4vKnZVs2Lagp8BaqI.jpeg",
+    "url": "https://blocks.vocabical.com/images/YLf5lkPXDtwAlkIfiIVeEaWpTy4vKnZVs2Lagp8BaqI.jpeg",
     "dimensions": {
       "x": 4288,
       "y": 2848
@@ -18,27 +18,17 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4BQ7HXMBqV2CNvBjcQKgUj.mpga",
+  "audio": "https://blocks.vocabical.com/audio/4BQ7HXMBqV2CNvBjcQKgUj.mpga",
   "main_content": "High-school students at the Career Center in Arlington, Virginia are learning firsthand, and hands-on, how to care for animals. They are at the animal science laboratory, learning about, and taking care of, about 50 species of animals.\n\nHolding a happy rabbit in her arms, Elleny Alemu says it is “so cute.”\n\nMiguel Zambrano doesn’t feel the same way about Snickers. That is a brown miniature horse.\n\nZambrano is one of the 70 students taking the year long animal science program. Students learn in class and hands-on with the animals. It gives them both class credit and a chance to learn what it is like to work with animals.\n\nMany high schools have animal science programs. But animal-science teacher Cindy Schall says this program is different because they have a large number of different kinds of animals.\n\nThe students take turns every two weeks taking care of a different animal.\n\nSchall explains that the students learn “hand taming.”  They have to hold them for at least 10 minutes.\n\nPart of the care includes weighing the animals and checking them for any health problems.",
   "questions": [
     {
       "question": "How many students are taking the year long animal science program?",
-      "options": [
-        "50 students",
-        "70 students",
-        "100 students",
-        "30 students"
-      ],
+      "options": ["50 students", "70 students", "100 students", "30 students"],
       "answer": "70 students"
     },
     {
       "question": "What is the name of the brown miniature horse Miguel Zambrano is taking care of?",
-      "options": [
-        "Buster",
-        "Snickers",
-        "Patches",
-        "Cocoa"
-      ],
+      "options": ["Buster", "Snickers", "Patches", "Cocoa"],
       "answer": "Snickers"
     },
     {

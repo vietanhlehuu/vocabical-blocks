@@ -5,7 +5,7 @@
     "id": "ae9c6c69-928c-4faf-b559-02395512080d",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/5JU9L0ztvog4TPFdlQjruH.jpeg",
+    "url": "https://blocks.vocabical.com/images/5JU9L0ztvog4TPFdlQjruH.jpeg",
     "dimensions": {
       "x": 512,
       "y": 758
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2pUypmUvvOs8HMakRQIuTw.mpga",
+  "audio": "https://blocks.vocabical.com/audio/2pUypmUvvOs8HMakRQIuTw.mpga",
   "main_content": "British rock star David Bowie has died. He was 69 years old.\n\nHis family confirmed his death on Bowie’s Facebook and Twitter accounts. They wrote that he died peacefully on Sunday “surrounded by his family after a courageous 18-month battle with cancer.”\n\nLast Friday, the iconic singer turned 69. That same day, he released his album, Blackstar. Bowie mixed rock and jazz on the album. Critics have described Blackstar as his best work in years.\n\nOn social media, fellow musicians, fans and even astronauts mourned Bowie’s death. So far, more than 4 million Tweets worldwide have mentioned the music legend.\n\nMadonna wrote several tweets about Bowie’s musical influence.\n\nAs news broke of his death on Monday, fans worldwide were in tears, as well.",
   "questions": [
     {
       "question": "How old was David Bowie?",
-      "options": [
-        "70",
-        "69",
-        "68",
-        "71"
-      ],
+      "options": ["70", "69", "68", "71"],
       "answer": "69"
     },
     {
@@ -43,12 +38,7 @@
     },
     {
       "question": "What was the name of his last album?",
-      "options": [
-        "Heroes",
-        "Blackstar",
-        "Let’s Dance",
-        "Young Americans"
-      ],
+      "options": ["Heroes", "Blackstar", "Let’s Dance", "Young Americans"],
       "answer": "Blackstar"
     }
   ],

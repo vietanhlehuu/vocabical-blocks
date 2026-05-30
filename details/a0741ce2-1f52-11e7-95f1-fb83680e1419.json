@@ -5,7 +5,7 @@
     "id": "fa8dc6e9-ac61-4b23-bc70-c4a5b8dbc17e",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/7cmsBj02EtLyvf8B9JeDug.png",
+    "url": "https://blocks.vocabical.com/images/7cmsBj02EtLyvf8B9JeDug.png",
     "dimensions": {
       "x": 521,
       "y": 488
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5IffDqSkVGjXqVjb9MVXZ1.mpga",
+  "audio": "https://blocks.vocabical.com/audio/5IffDqSkVGjXqVjb9MVXZ1.mpga",
   "main_content": "India’s plans to massively scale up solar power generation have got a big boost with a planned $20 billion investment by Japan’s SoftBank.\n\nWith two times the sunshine and half the cost of construction of a solar park compared to Japan, SoftBank Corporation head Masayoshi Son said India could become a world leader in solar energy.\n\nThat confidence has prompted the Japanese billionaire to make an ambitious entry in India’s solar sector through a joint venture with India’s Bharti Enterprises and Taiwan’s Foxconn. The group effort was announced earlier this week.\n\n“We will make 20 gigawatts as a minimum commitment to make investment into the solar in India. That is in economic terms roughly $20 billion of investment,” said Son.\n\nWith nearly a quarter of the population still without an electricity connection and even big cities routinely grappling with power outages, India urgently needs to scale up power generation. Equally pressing is the need to switch to cleaner energy to reduce high pollution levels from coal-based power plants.\n\nHoping that solar energy can help meet both goals in a sun-drenched country, the government has set a target of generating 100 gigawatts of solar power by 2022. That is a huge step up from the 3 gigawatts being generated presently – less than one per cent of its total energy mix.\n\nTobias Engelmeier, who heads solar consultancy Bridge to India, said SoftBank’s investment in the sector is significant and could “shape the industry.” He said it shows the market is now responding to the government’s targets.\n\nSoftBank is not the only one to be betting big on solar power generation. India’s Adani Group said last month it will invest nearly $10 billion in building a solar plant in Rajasthan state.",
   "questions": [
     {
       "question": "How much money will SoftBank invest in India?",
-      "options": [
-        "$10 billion",
-        "$15 billion",
-        "$20 billion",
-        "$25 billion"
-      ],
+      "options": ["$10 billion", "$15 billion", "$20 billion", "$25 billion"],
       "answer": "$20 billion"
     },
     {
@@ -43,12 +38,7 @@
     },
     {
       "question": "What percentage of Indians don’t have access to electricity?",
-      "options": [
-        "10 percent",
-        "25 percent",
-        "50 percent",
-        "75 percent"
-      ],
+      "options": ["10 percent", "25 percent", "50 percent", "75 percent"],
       "answer": "25 percent"
     }
   ],

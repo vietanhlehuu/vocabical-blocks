@@ -5,7 +5,7 @@
     "id": "e45859b2-0eab-11e7-b11a-db9b54ba7744",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/1Xq758Nmo7Hl5aWLJ1bXdq.jpeg",
+    "url": "https://blocks.vocabical.com/images/1Xq758Nmo7Hl5aWLJ1bXdq.jpeg",
     "dimensions": {
       "x": 512,
       "y": 384
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0OgbXJAzEaWOhHbOO6K8Ya.mpga",
+  "audio": "https://blocks.vocabical.com/audio/0OgbXJAzEaWOhHbOO6K8Ya.mpga",
   "main_content": "Today we have more good news for all our coffee drinkers around the world. Another new study finds that drinking coffee can help you live longer.\n\nResearchers at the Harvard School of Public Health recently discovered that drinking between three and five cups of coffee a day may prevent illnesses. They found that coffee can protect against heart disease, brain diseases, type 2 diabetes.\n\nWalter Willett is a nutrition researcher at Harvard and co-author of the study.\n\nThe health benefits come not just from the caffeine in coffee, but from the compounds in the beans.\n\nThe large study of about 200,000 subjects included data from three ongoing studies. Subjects in the study had to answer questions about their coffee drinking habits every four years over a 30-year period.\n\nResearchers found that moderate coffee drinking was linked with a reduced risk of death from many diseases.",
   "questions": [
     {
       "question": "How many subjects were there in the study?",
-      "options": [
-        "150,000",
-        "200,000",
-        "250,000",
-        "300,000"
-      ],
+      "options": ["150,000", "200,000", "250,000", "300,000"],
       "answer": "200,000"
     },
     {

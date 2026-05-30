@@ -5,7 +5,7 @@
     "id": "e459e5d4-0eab-11e7-b20e-632f4340c73e",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/2n6tcgZxM6YWFpKvhq93uk.jpeg",
+    "url": "https://blocks.vocabical.com/images/2n6tcgZxM6YWFpKvhq93uk.jpeg",
     "dimensions": {
       "x": 394,
       "y": 600
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2siKoHhPXIohQ0xBSuwIrM.mpga",
+  "audio": "https://blocks.vocabical.com/audio/2siKoHhPXIohQ0xBSuwIrM.mpga",
   "main_content": "November is Alzheimer’s Awareness Month in the United States. Alzheimer’s is a frightening disease. It is frightening not only for those who suffer from memory loss, but also for their loved ones.\n\nBut researchers in California say a new way of treating Alzheimer’s disease is showing promise for reversing some of that memory loss. The new treatment combines western medicine with eastern philosophy – ideas rooted in Asian religions.\n\nDr. Dale Bredesen is with the Easton Center for Alzheimer’s Disease Research at UCLA. He says nine of 10 patients suffering from either Alzheimer’s or other disorders of the brain noted improvements in their memory.\n\nUsing Eastern philosophy seems to help.\n\nHe says the new therapy treats the whole patient, not just parts of the patient. This is called holistic care.\n\nDr. Bredesen says the traditional use of only one treatment, what he calls “monotheraphy,” just did not work with many patients.\n\nDr. Bredesen says there is a constant balance of the brain remembering and forgetting. He says many things, including a person’s lifestyle, can create an imbalance in brain activity. And this imbalance can lead to memory loss.\n\nTreatments include lifestyle changes and even medicines or vitamin supplements. He describes this new therapy as combining western understanding of the human body with the eastern method of looking at the whole patient.\n\nAs for lifestyle changes, subjects were told to avoid carbohydrates, like bread and pasta. They also avoided processed foods and gluten, a protein found in wheat. Researchers told subjects to eat more fish and to take vitamin B12, D3 and fish oil. They also practiced yoga, sat quietly for 20 minutes two times each day and they slept more.\n\nThe UCLA center is now working with 30 additional patients as it moves to expand its research. The researchers say they followed some patients up to two and a half years and the memory improvements remained.",
   "questions": [
     {
       "question": "Which month is Alzheimer’s Awareness Month in the United States?",
-      "options": [
-        "October",
-        "November",
-        "January",
-        "April"
-      ],
+      "options": ["October", "November", "January", "April"],
       "answer": "November"
     },
     {

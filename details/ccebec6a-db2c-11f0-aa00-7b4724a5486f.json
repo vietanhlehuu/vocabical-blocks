@@ -5,7 +5,7 @@
     "id": "cceb85f4-db2c-11f0-a9ff-cf8bc07feb48",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/77nuW3fBzIjev0wMlPdmHi.jpeg",
+    "url": "https://blocks.vocabical.com/images/77nuW3fBzIjev0wMlPdmHi.jpeg",
     "dimensions": {
       "x": 512,
       "y": 605
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4MsjHJupGADm42cFIl5Xea.mpga",
+  "audio": "https://blocks.vocabical.com/audio/4MsjHJupGADm42cFIl5Xea.mpga",
   "main_content": "Japan’s government vowed not to give in to terrorism after Islamic State militants released a videotaped threat to kill two Japanese citizens held hostage.\n\nA man clad in black and speaking with a British accent said, in a video posted online Tuesday, that unless $200 million is paid to his group, two Japanese men will be executed.\n\nThe knife-wielding man is seen standing between the two Japanese, who are clad in orange jumpsuits and are kneeling on the desert ground. The man said unless Japan pays the money within 72 hours, “this knife will become your nightmare.”\n\nTraveling in the Middle East, Japanese Prime Minister Shinzo Abe was defiant just hours after the video’s release, issuing a “strong demand” for the release of the Japanese men.\n\nSpeaking to reporters in Jerusalem, Abe said the demand to pay ransom in exchange for the lives of the hostages is unforgivable. The prime minister added that Japan will not give in to terrorism.\n\nThe United States also called for the immediate release of the two hostages, as well as “all other hostages.” State Department spokeswoman Jen Psaki condemned the threat by ISIS to kill the two Japanese men and said the U.S. stands by Japan in this matter.\n\nAbe, during a visit to Cairo Saturday, as part of a $2.5 billion Middle East aid package, pledged $200 million in nonmilitary assistance for countries fighting against the Islamic State group.\n\nThat is the amount demanded on the videotape to spare the lives of the Japanese hostages.\n\nAlthough he was repeatedly asked by reporters whether Japan would negotiate with the hostage-takers or pay any ransom, Abe declined to explicitly say no.\n\nThe two captives are identified as Kenji Goto, who has previously reported from war zones for Japanese news broadcasters. Goto last year apparently assisted the man who is now his fellow hostage, Haruna Yukawa, who once ran a military clothing and accessories store, in getting into Iraq.\n\nJapan is not among the countries participating in the U.S.-led coalition battling insurgents in Syria and Iraq.\n\nHowever, Japanese citizens have previously been killed by Islamic militants — the most notable attack was at an Algerian gas plant in 2013, where 10 Japanese died.\n\nThe Islamic State group, which controls territory in Syria and Iraq, has killed three Americans and two Britons since August, posting graphic videos of their beheadings online.",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "How much money does Japan give to the Middle East as aid?",
-      "options": [
-        "$1 billion",
-        "$2 billion",
-        "$2.5 billion",
-        "$3 billion"
-      ],
+      "options": ["$1 billion", "$2 billion", "$2.5 billion", "$3 billion"],
       "answer": "$2.5 billion"
     }
   ],

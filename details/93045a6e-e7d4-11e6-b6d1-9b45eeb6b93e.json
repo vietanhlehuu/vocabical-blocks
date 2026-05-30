@@ -5,7 +5,7 @@
     "id": "294293f9-9548-418b-bf13-8d967b4b2837",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/1Fr6vBI0zQlvNBifdKJ1k7.jpeg",
+    "url": "https://blocks.vocabical.com/images/1Fr6vBI0zQlvNBifdKJ1k7.jpeg",
     "dimensions": {
       "x": 512,
       "y": 384
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7FwuDFu8ETi6bun5tZyVtu.mpga",
+  "audio": "https://blocks.vocabical.com/audio/7FwuDFu8ETi6bun5tZyVtu.mpga",
   "main_content": "Repeated cases of child abuse in China have shocked the country. They also have led to more protection of children’s rights. But rights activists say the government and private groups need to do more to help children in need.\n\nRecently, Chinese media reported on repeated cases of child abuse in the country. A six-year-old girl in Yiwu was beaten to death by her own mother. Two girls in Nanjing died from starvation in their own home. The reports shocked many Chinese and led the government to strengthen measures to protect children’s rights.\n\nXie Chang-E is a lawyer. She offers legal assistance at a child protection service called Hope Home. Ms. Xie said that China has laws to protect children’s rights.\n\nHowever, the government is starting to recognize the problems in the child welfare system. New rules state that parents or legal guardians who sexually abuse, sell, abandon or violently hurt children will lose their legal right to care for them.\n\nMs. Xie approves of the new regulations. She says they are a good way to help protect children. But, she says police and other officials do not know about the regulations or do not always follow them.",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "What child protection service is mentioned in the article?",
-      "options": [
-        "Safe Haven",
-        "Hope Home",
-        "Child Shield",
-        "Protective Nest"
-      ],
+      "options": ["Safe Haven", "Hope Home", "Child Shield", "Protective Nest"],
       "answer": "Hope Home"
     }
   ],

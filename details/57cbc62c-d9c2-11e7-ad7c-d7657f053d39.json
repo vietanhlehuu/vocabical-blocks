@@ -5,7 +5,7 @@
     "id": "57cb1894-d9c2-11e7-ad7b-d734020a5438",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/6e0t2YLBZgfhcQU6tGzqW4.jpeg",
+    "url": "https://blocks.vocabical.com/images/6e0t2YLBZgfhcQU6tGzqW4.jpeg",
     "dimensions": {
       "x": 512,
       "y": 377
@@ -18,37 +18,22 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6ti2jPPVamqY9h5ZXE6a6K.mpga",
+  "audio": "https://blocks.vocabical.com/audio/6ti2jPPVamqY9h5ZXE6a6K.mpga",
   "main_content": "Many people are watching a video showing a real dog barking at a robot dog.\n\nThe robot was made by Boston Dynamics, which is owned by the Internet search company Google. Like most of the company’s robots, it was designed for military use. But the military did not accept it, so Google is now showing it to the public.\n\nIn the video, the robot dog plays with Alex – a real dog reportedly owned by Andy Rubin, who helped create the mobile operating system Android.\n\nThe robot weighs 75 kilograms – ten times more than Alex. But Alex does not run away from the robot. The video shows him barking at the robot and preparing to attack it. The person controlling the robot directed it to move away from Alex. But this only seemed to make Alex bark louder.",
   "questions": [
     {
       "question": "Who is the owner of the real dog?",
-      "options": [
-        "Alex Smith",
-        "Andy Rubin",
-        "Boston Dynamics",
-        "Google"
-      ],
+      "options": ["Alex Smith", "Andy Rubin", "Boston Dynamics", "Google"],
       "answer": "Andy Rubin"
     },
     {
       "question": "What is the name of the real dog?",
-      "options": [
-        "Robot Dog",
-        "Buddy",
-        "Alex",
-        "Rover"
-      ],
+      "options": ["Robot Dog", "Buddy", "Alex", "Rover"],
       "answer": "Alex"
     },
     {
       "question": "What company made the robot?",
-      "options": [
-        "Boston Dynamics",
-        "Google",
-        "Apple",
-        "Microsoft"
-      ],
+      "options": ["Boston Dynamics", "Google", "Apple", "Microsoft"],
       "answer": "Boston Dynamics"
     }
   ],

@@ -5,7 +5,7 @@
     "id": "e45b848e-0eab-11e7-b2f9-e79eebeaf3b9",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/40l1QBviAi6a5Ohb2HJQMR.jpeg",
+    "url": "https://blocks.vocabical.com/images/40l1QBviAi6a5Ohb2HJQMR.jpeg",
     "dimensions": {
       "x": 512,
       "y": 341
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7939A5JShr2OeVfpbrBf4k.mpga",
+  "audio": "https://blocks.vocabical.com/audio/7939A5JShr2OeVfpbrBf4k.mpga",
   "main_content": "The makers and pilots of a solar-powered plane will try to fly it around the world beginning next month.\n\nThe plane is called “Solar Impulse 2,” or SI-2. It arrived in pieces recently in Abu Dhabi in the United Arab Emirates. The plane’s material is mostly plastic strengthened with lightweight glass. It is now being assembled and prepared for its journey around the globe.\n\nThe plane’s wings are 72 meters across. They are covered with more than 17,000 solar cells. These special energy storage containers provide power to the batteries that permit the plane’s four electric motors to operate at night.\n\nOnly one person can sit in the SI-2. In March, the first pilot will take off from Abu Dhabi and fly along the equator, where the sun’s rays are strongest. The plane will land every few days so that the two pilots can take turns flying it.\n\nBertrand Piccard is one of the pilots. He also helped create the project. He says the flight around the world will require that he and the other pilot have a lot of endurance.\n\nAndre Borschberg is the other pilot. He helped Mr. Piccard create the solar planes. He says that although a computer called an autopilot can fly SI-2, he and Mr. Piccard plan to rest or sleep for only 20 minutes at a time.\n\nSI-2 is to return to Abu Dhabi in July.",
   "questions": [
     {
@@ -33,12 +33,7 @@
     },
     {
       "question": "When will SI-2 return to Abu Dhabi?",
-      "options": [
-        "In March",
-        "In July",
-        "In August",
-        "In December"
-      ],
+      "options": ["In March", "In July", "In August", "In December"],
       "answer": "In July"
     },
     {

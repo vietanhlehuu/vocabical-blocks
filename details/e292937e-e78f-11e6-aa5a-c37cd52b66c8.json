@@ -5,7 +5,7 @@
     "id": "e457b958-0eab-11e7-b0b8-bfc768e82d01",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/10gzUGXzHh8LGXXOJpnRkg.jpeg",
+    "url": "https://blocks.vocabical.com/images/10gzUGXzHh8LGXXOJpnRkg.jpeg",
     "dimensions": {
       "x": 512,
       "y": 341
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0Q3U78Wy6GFdmpAm1vgryk.mpga",
+  "audio": "https://blocks.vocabical.com/audio/0Q3U78Wy6GFdmpAm1vgryk.mpga",
   "main_content": "Billionaire businessman Donald Trump wants to stop automatically giving U.S. citizenship to anyone who is born in the United States.\n\nMr. Trump is presidential candidate. He says automatic citizenship is the reason many women come to the United States illegally and give birth.\n\nThe Center for Immigration Studies seeks to limit immigration to the United States. It says 30 of the world’s 194 countries give citizenship to people born in their country. But it says the United States and Canada are the only two developed countries that do so. It says some foreign women are entering the United States as what it calls “birth tourists.” It says they are giving birth to 36,000 babies yearly so that their children can become American citizens.\n\nChanging the U.S. Constitution is difficult. At least two-thirds of the House and Senate must support any change. If that happens, the proposed change is sent to the states, where at least 38 of the 50 state legislatures must support it before it can become part of the Constitution.",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "How many countries in the world give citizenship to people born in their country?",
-      "options": [
-        "30",
-        "50",
-        "194",
-        "36,000"
-      ],
+      "options": ["30", "50", "194", "36,000"],
       "answer": "30"
     }
   ],

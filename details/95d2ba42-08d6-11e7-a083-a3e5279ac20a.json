@@ -5,7 +5,7 @@
     "id": "71d92356-39da-451e-b013-770387e863bf",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/3SpMeFGRB4tssZXcNuE327.jpeg",
+    "url": "https://blocks.vocabical.com/images/3SpMeFGRB4tssZXcNuE327.jpeg",
     "dimensions": {
       "x": 512,
       "y": 341
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0oNaT73ZHu1AzxMiXFkOhk.mpga",
+  "audio": "https://blocks.vocabical.com/audio/0oNaT73ZHu1AzxMiXFkOhk.mpga",
   "main_content": "There are still lots of undiscovered areas around the globe – but most are below the surface of the ocean.\n\nRecently, the U.S. National Oceanic and Atmospheric Administration, or NOAA, discovered something new on the ocean floor.\n\nAnd everyone is calling it “cute” and “adorable“.\n\nScientists say it might be a new species of octopus.\n\nBefore this new discovery, the only octopi found in water this deep were very different.\n\nSome people want to name it Casper after the famous ghost of cartoons and movies.\n\nNOAA posted a video to YouTube of the octopus sitting on the ocean floor.\n\nThe science writer Melissa Dahl called the octopus “adorable.”\n\nBut the octopus is not only “cute” and “adorable.”  It seems to be an important discovery. The scientists at NOAA say the octopus may be a new species.\n\nNOAA released images and video of this new octopus in early March and people on social media sites started talking about it over the weekend.",
   "questions": [
     {
       "question": "What name did some people give the octopus?",
-      "options": [
-        "Casper",
-        "Octavius",
-        "Bubbles",
-        "Shadow"
-      ],
+      "options": ["Casper", "Octavius", "Bubbles", "Shadow"],
       "answer": "Casper"
     },
     {
@@ -43,12 +38,7 @@
     },
     {
       "question": "What did the writer Melissa Dahl call the octopus?",
-      "options": [
-        "Magnificent",
-        "Cute",
-        "Adorable",
-        "Extraordinary"
-      ],
+      "options": ["Magnificent", "Cute", "Adorable", "Extraordinary"],
       "answer": "Adorable"
     }
   ],

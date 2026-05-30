@@ -5,7 +5,7 @@
     "id": "8b875b44-4f3b-4e45-b09a-dfb145f27149",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/4FHn4iQn3qinoSyZbIwVp3.jpeg",
+    "url": "https://blocks.vocabical.com/images/4FHn4iQn3qinoSyZbIwVp3.jpeg",
     "dimensions": {
       "x": 512,
       "y": 341
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6J16zLc624Hdjb42nL2827.mpga",
+  "audio": "https://blocks.vocabical.com/audio/6J16zLc624Hdjb42nL2827.mpga",
   "main_content": "Tens of thousands of demonstrators took to the streets across France Thursday for a one-day nationwide strike protesting a government labor reform proposal that would make it easier for employers to hire and fire workers and weaken the power of unions.\n\nProtesters clashed with police as several thousand people shouting anti-government slogans marched through Paris Thursday, demanding the government reverse its labor bill. Protesters met with waves of tear gas as police fought bands of masked marchers.\n\nPolice detained 77 people as tens of thousands marched from the Bastille plaza through eastern Paris.\n\nThe situation has been particularly tense in the French port city of Le Havre, where workers are blocking one of the country’s main oil terminals. Thousands of dock workers poured into the square in front of city hall Thursday, setting off smoke bombs throughout the area.\n\nMeanwhile, at least 11 of France’s 58 nuclear power plants were hit with unplanned outages when workers joined the strikes.\n\nTrade union members were seen slowing traffic at the Gravelines Nuclear Power Station, handing out leaflets, and encouraging drivers to join the strike.\n\nThe Gravelines facility is the sixth largest nuclear plant in the world, the second largest in Europe, and the largest in Western Europe.\n\nAs union activists disrupted fuel supplies, trains, and nuclear plants around the country, French Transport Minister Alain Vidalies played down concerns that strikes would lead to blackouts, saying France could import electricity if needed.\n\nFrench Prime Minister Manuel Valls suggested possible “changes” or “improvements” to the labor bill that has sparked intensifying strikes and protests, but insisted the government will not abandon it.",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "How many nuclear power plants are affected by the strikes?",
-      "options": [
-        "5",
-        "11",
-        "58",
-        "20"
-      ],
+      "options": ["5", "11", "58", "20"],
       "answer": "11"
     }
   ],

@@ -5,7 +5,7 @@
     "id": "206ff051-1251-477b-9767-ba1063a26dab",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/0zCuSNiF6j4iswkusOs5hT.jpeg",
+    "url": "https://blocks.vocabical.com/images/0zCuSNiF6j4iswkusOs5hT.jpeg",
     "dimensions": {
       "x": 512,
       "y": 341
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0dtR50rvyDWyy0q6ii9WBD.mpga",
+  "audio": "https://blocks.vocabical.com/audio/0dtR50rvyDWyy0q6ii9WBD.mpga",
   "main_content": "The 50 most generous donors in the U.S. gave away $9.8 billion in 2014, according to The Chronicle of Philanthropy, a Washington, D.C.-based periodical. That figure was up 27.5 percent from the year before, driven largely by a rise in the number of tech entrepreneurs donating millions of dollars.\n\nAnd the 10 most generous contributors (individuals and couples) combined to give the majority of the money – more than $6.2 billion, or 64 percent of the total amount.\n\nThe boost was powered in large part by a $1.5 billion gift from Bill and Melinda Gates and a rise in the number of tech entrepreneurs under 40, three of whom gave more than $500 million each.\n\nTwo of the technology donors transforming the profile of philanthropy had not previously disclosed the extent of their giving. Jan Koum, the 38-year-old founder of the messaging company WhatsApp, donated $556 million and Sean Parker, the 35-year-old former Facebook president and founder of Napster, contributed $550 million. They rank No. 4 and 5, respectively, on the list.\n\nNo. 2 on the list was Ralph Wilson Jr., the owner of the NFL’s Buffalo Bills, who died in March at the age of 95 and provided $1 billion to charity. He was followed by Ted Stanley, an 83-year-old businessman who made one of the largest financial commitments ever to mental-health research by pledging $650 million to the Broad Institute.\n\nAmong the top 50 donors, 12 couples or individuals on the list come from the technology sector, 11 from finance, four made money in real estate and four inherited their wealth. In all, tech donors accounted for 47 percent of the money donated by the top 50.",
   "questions": [
     {
       "question": "By what percentage did donations increase in the U.S. in 2014 compared with the previous year?",
-      "options": [
-        "27.5 percent",
-        "$2.1 billion",
-        "$1.5 billion",
-        "64 percent"
-      ],
+      "options": ["27.5 percent", "$2.1 billion", "$1.5 billion", "64 percent"],
       "answer": "27.5 percent"
     },
     {

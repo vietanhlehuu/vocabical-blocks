@@ -5,7 +5,7 @@
     "id": "e45d5f3e-0eab-11e7-b404-07e2a2bed3cd",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/5WJD4FCdcKat3y1t361Rfr.jpeg",
+    "url": "https://blocks.vocabical.com/images/5WJD4FCdcKat3y1t361Rfr.jpeg",
     "dimensions": {
       "x": 512,
       "y": 380
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3P0scuu2ofj08FfhR7TnRp.mpga",
+  "audio": "https://blocks.vocabical.com/audio/3P0scuu2ofj08FfhR7TnRp.mpga",
   "main_content": "Consider this: There are more than 400 museums in the U.S. that celebrate the history of the military.\n\nBut not a single one devoted to American diplomacy.\n\nThat’s about to change.\n\nA new museum celebrating the history of American diplomacy is being built at the U.S. Department of State. The U.S. Diplomacy Center (USDC) will feature 238 years of American diplomatic history, as well as an education area for students interested in diplomatic careers.\n\nThe U.S. Diplomacy Center has collected over 6,200 objects to display in the new, 20,000-square-foot museum. Among them is a portion of the Berlin Wall, after it fell in 1989.\n\nThe museum will show the achievements of American diplomats from the earliest days of the country. Benjamin Franklin, for example, was America’s first U.S. diplomat who won support for the American Revolution and negotiated peace with Great Britain.",
   "questions": [
     {
@@ -33,12 +33,7 @@
     },
     {
       "question": "How many years of American diplomatic history will be shown in the museum?",
-      "options": [
-        "150 years",
-        "200 years",
-        "238 years",
-        "300 years"
-      ],
+      "options": ["150 years", "200 years", "238 years", "300 years"],
       "answer": "238 years"
     },
     {

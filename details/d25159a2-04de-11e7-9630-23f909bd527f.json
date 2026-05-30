@@ -5,7 +5,7 @@
     "id": "a7d00a24-f6fc-4efa-ad4b-11e4a71d5088",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/56enADlwlHcSqQCIn8k840.jpeg",
+    "url": "https://blocks.vocabical.com/images/56enADlwlHcSqQCIn8k840.jpeg",
     "dimensions": {
       "x": 512,
       "y": 298
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4RuJZo9mnvzoMRMdciH6y4.mpga",
+  "audio": "https://blocks.vocabical.com/audio/4RuJZo9mnvzoMRMdciH6y4.mpga",
   "main_content": "[This article is divided into 2 parts! In part 1 we discussed jokes, pranks, tricks and the origin of April Fool’s Day.]\n\nThe fool is a common character in art, music and literature. William Shakespeare is famous for his fools. Fools are found in many words, expressions and proverbs.\n\nTo be foolhardy means to do something that is too dangerous. For example, it is foolhardy to hike up a mountain during a snowstorm.\n\nIf something is foolproof, it is planned or made so well that nothing could go wrong. Not even a fool could mess it up.\n\nIf you are on a fool’s errand you are doing something that is pointless.\n\nEven a smart and reasonable person can be a fool at times. You can be a fool for love, a fool for money or a fool for success. Basically, you can be a fool for anything that causes you to lose control or lose touch with reality.\n\nIn this song, Connie Francis sings that everybody’s somebody’s fool.\n\n“And there are no exceptions to the rule. Yes, everybody’s somebody’s fool.”",
   "questions": [
     {
@@ -33,12 +33,7 @@
     },
     {
       "question": "How can you call a party that you planned perfectly?",
-      "options": [
-        "Foolproof",
-        "A fool's errand",
-        "Foolhardy",
-        "Foolish fun"
-      ],
+      "options": ["Foolproof", "A fool's errand", "Foolhardy", "Foolish fun"],
       "answer": "Foolproof"
     },
     {

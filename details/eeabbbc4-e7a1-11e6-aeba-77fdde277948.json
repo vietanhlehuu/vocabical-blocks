@@ -5,7 +5,7 @@
     "id": "e456c980-0eab-11e7-bfba-a7f48e9b4c7a",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/0JAHNpOsBRMYGfEWKatZ7B.jpeg",
+    "url": "https://blocks.vocabical.com/images/0JAHNpOsBRMYGfEWKatZ7B.jpeg",
     "dimensions": {
       "x": 512,
       "y": 414
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4yTyyb3LwLP6LbovydyFot.mpga",
+  "audio": "https://blocks.vocabical.com/audio/4yTyyb3LwLP6LbovydyFot.mpga",
   "main_content": "During World War II, American women pilots were trained to fly non-combat missions so that men could fly fighter planes. U.S. officials gave the women permission to fly military aircraft as civilian pilots, but not in battle or over enemy lines.\n\nBernice Falk Haydu was one of those pilots. She is now 94 years old. She was recently recognized for her service.\n\nShe and the other women pilots volunteered to fly in what was a time of great crisis in the United States and around the world.\n\nIn 1943, the U.S. government created a group it called WASP – the Women’s Airforce Service Pilots. Its members did not belong to the armed forces, so they did not get the pay, health care and other benefits that military pilots received.\n\nThirty-eight of the WASPs died during World War II. Bee Haydu says she knew the work was dangerous, but it was something she had to do.\n\nIn 2009, Bee Haydu went to the White House to see President Barack Obama sign a bill that awarded the Congressional Gold Medal to all the female fliers.\n\nBee Haydu says she loved to fly and is honored to have helped her country.",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "How many WASPs died during World War II?",
-      "options": [
-        "25",
-        "40",
-        "38",
-        "20"
-      ],
+      "options": ["25", "40", "38", "20"],
       "answer": "38"
     }
   ],

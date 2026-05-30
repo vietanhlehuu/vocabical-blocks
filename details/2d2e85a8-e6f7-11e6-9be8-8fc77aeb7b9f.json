@@ -5,7 +5,7 @@
     "id": "ffa15202-9749-44ea-a86c-b59c81968fd0",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/7mMlYIqHnL5oIGBxaMacXw.jpeg",
+    "url": "https://blocks.vocabical.com/images/7mMlYIqHnL5oIGBxaMacXw.jpeg",
     "dimensions": {
       "x": 581,
       "y": 599
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0KaFOTbI7rTaxebne9EgOc.mpga",
+  "audio": "https://blocks.vocabical.com/audio/0KaFOTbI7rTaxebne9EgOc.mpga",
   "main_content": "Indonesia is facing widespread international criticism after executing six people, including five foreigners. All six were found guilty of violating Indonesian drug laws. Other countries had urged Indonesian officials to cancel the death sentences. After the executions were carried out, two of the countries ordered their ambassadors in Indonesia to return home.\n\nA Brazilian and Dutch citizen were among six people who received the death sentence for violating Indonesian drug laws. The other criminals were from Malawi, Nigeria, Vietnam and Indonesia. All six were shot to death on Sunday.\n\nIndonesia began executing some criminals in 2013 after five years without executing anyone. No prisoners were put to death last year.\n\nBut two Australians could be executed soon. They were sentenced to death in 2006 after being found guilty of leading a drug group known as the Bali Nine.\n\nIndonesia’s top law enforcement official, Muhammad Prasetyo, has also defended the executions of those who were sentenced for serious drug crimes. He says the death sentence is necessary to protect the country against drugs.\n\nHe says Indonesia must be strong and never compromise with anyone involved in trafficking illegal drugs.",
   "questions": [
     {
@@ -33,12 +33,7 @@
     },
     {
       "question": "How many prisoners were executed in Indonesia last year?",
-      "options": [
-        "Zero",
-        "Five",
-        "Ten",
-        "Three"
-      ],
+      "options": ["Zero", "Five", "Ten", "Three"],
       "answer": "Zero"
     },
     {

@@ -5,7 +5,7 @@
     "id": "e2ba1aa6-63a2-11ea-a693-b32ee9bd4544",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/4cBboBdhCxQ6NMczIjn7Jq.jpeg",
+    "url": "https://blocks.vocabical.com/images/4cBboBdhCxQ6NMczIjn7Jq.jpeg",
     "dimensions": {
       "x": 512,
       "y": 192
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6lKlgS1sWjVQ1gAU3P5mZ0.mpga",
+  "audio": "https://blocks.vocabical.com/audio/6lKlgS1sWjVQ1gAU3P5mZ0.mpga",
   "main_content": "Can you imagine riding around the streets of your hometown on a skateboard without wheels? In the late 1980s, film director Robert Zemeckis showed a skateboard floating above the ground in his movie Back To The Future Part II.\n\nNow, an American company, Arx Pax, has moved the idea for such a device from a futuristic dream to reality. The new product operates on the same rules that govern magnetism.\n\nWhen similarly charged ends of two magnets get close together, they repel or push away from each other. That force can make an object levitate or hover in space.\n\nSince the 1980s, levitation has been used on trains in Europe, Japan and China. These maglev trains, seem to float above the ground. There is no contact between the bottom of the cars and the surface of the train track. Maglev trains are almost noiseless and can move very fast.\n\nGreg Henderson says the same technology can make anything hover, even buildings.\n\n“Imagine there’s an earthquake and the early warning turns on the warning systems and the supports fall away as the building starts to hover. The shaking stops, the supports return, and no one in that room or in that building ever knew there was an earthquake.”\n\nGreg Henderson’s company created the first maglev hoverboard, called Hendo. It can hold a single person about 2.5 centimeters above a metal surface.\n\nBatteries provide the electricity needed to power Hendo’s four engines. However, the batteries only last for a short time. But design engineer Kyle O’Neil says they last long enough for experienced skateboarders to learn how to control the hoverboard.\n\nThe creators of Hendo say they do not expect to see their hoverboard on the streets anytime soon. The reason: it only works on a metal-covered surface. But they say larger hover engines could be used to transport containers in storerooms.",
   "questions": [
     {
@@ -33,12 +33,7 @@
     },
     {
       "question": "What is the the first maglev hoverboard called?",
-      "options": [
-        "Magneto Board",
-        "Hendo",
-        "HoverTron",
-        "Levitator"
-      ],
+      "options": ["Magneto Board", "Hendo", "HoverTron", "Levitator"],
       "answer": "Hendo"
     },
     {

@@ -5,7 +5,7 @@
     "id": "d527b81e-6f00-45a4-97a8-3de03946a903",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/6UDW4o6jIHUDdUTEL4VgmJ.jpeg",
+    "url": "https://blocks.vocabical.com/images/6UDW4o6jIHUDdUTEL4VgmJ.jpeg",
     "dimensions": {
       "x": 550,
       "y": 368
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5MQHmifzLWr5sOj91GyAqa.mpga",
+  "audio": "https://blocks.vocabical.com/audio/5MQHmifzLWr5sOj91GyAqa.mpga",
   "main_content": "Every people has its own way of saying things – its own special expressions. Many everyday American expressions are based on colors.\n\nRed is a hot color. Americans often use it to express heat. They may say they are “red hot” about something unfair. When they are “red hot” they are very angry about something. Fast, loud music is popular with many people. They may say the music is “red hot” – especially the kind called Dixieland jazz.\n\nPink is a lighter kind of red. People sometimes say they are “in the pink” when they are in good health.\n\nBlue is a cool color. The traditional blues music in the United States is the opposite of red hot music. Blues is slow, sad and soulful. Someone who is blue is very sad.\n\nThe color green is natural for trees and grass. But it is an unnatural color for humans. A person who has a sick-feeling stomach may say she feels “a little green.”\n\nSometimes a person may be upset because he does not have something as nice as a friend has, like a fast new car. That person may say he is “green with envy.”",
   "questions": [
     {
       "question": "What kind of music is red hot?",
-      "options": [
-        "Classical music",
-        "Dixieland jazz",
-        "Blues",
-        "Folk music"
-      ],
+      "options": ["Classical music", "Dixieland jazz", "Blues", "Folk music"],
       "answer": "Dixieland jazz"
     },
     {

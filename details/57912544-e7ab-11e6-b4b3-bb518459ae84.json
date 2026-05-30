@@ -5,7 +5,7 @@
     "id": "adb20c37-e034-40b6-8306-71bd1e3ee3e4",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/5Hl2W5vuBsWYUu88WxsVYi.jpeg",
+    "url": "https://blocks.vocabical.com/images/5Hl2W5vuBsWYUu88WxsVYi.jpeg",
     "dimensions": {
       "x": 512,
       "y": 454
@@ -18,27 +18,17 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2UShl6DKqNpCOuldPtXXPj.mpga",
+  "audio": "https://blocks.vocabical.com/audio/2UShl6DKqNpCOuldPtXXPj.mpga",
   "main_content": "The first self-driving truck began its first trip on a major European highway last week.\n\nThe German automobile company Daimler made the vehicle, which is named Actros. It is perhaps the first mass-produced truck whose driver will only be required to watch the vehicle’s movements. The driver will have duties similar to those of an airline pilot while the plane flies in autopilot mode.\n\nWolfgang Bernhard, the head of Daimler’s trucks and buses division, drove the Actros.\n\nThe Actros reached a speed of 80 kilometers an hour while driving down the busy road.\n\nRadar, a number of video cameras and sensing devices watch other vehicles and road conditions. The truck will ask the driver to take control of the vehicle in dangerous situations. If the driver does not, the truck will slow to a stop by itself.\n\nDaimler says its trucks will help drivers on long road trips and in stop-and-go traffic conditions. The company hopes governments will pass laws to permit the use of its self-driving trucks by 2020.",
   "questions": [
     {
       "question": "What is the self-driving truck called?",
-      "options": [
-        "TransAuto",
-        "Actros",
-        "AutoPilot Truck",
-        "Daimler Drive"
-      ],
+      "options": ["TransAuto", "Actros", "AutoPilot Truck", "Daimler Drive"],
       "answer": "Actros"
     },
     {
       "question": "What company made the truck?",
-      "options": [
-        "Volkswagen",
-        "BMW",
-        "Daimler",
-        "Mercedes-Benz"
-      ],
+      "options": ["Volkswagen", "BMW", "Daimler", "Mercedes-Benz"],
       "answer": "Daimler"
     },
     {

@@ -5,7 +5,7 @@
     "id": "e4582b18-0eab-11e7-b100-7b408b0a77e5",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/1PL97ZFS1u8BqoFXKqyQ44.jpeg",
+    "url": "https://blocks.vocabical.com/images/1PL97ZFS1u8BqoFXKqyQ44.jpeg",
     "dimensions": {
       "x": 512,
       "y": 384
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4NqSxdcLArRSXXHZFM3HK4.mpga",
+  "audio": "https://blocks.vocabical.com/audio/4NqSxdcLArRSXXHZFM3HK4.mpga",
   "main_content": "The country of Vietnam is among YouTube’s top 10 foreign markets.\n\nIt has become a major test area in Asia.\n\nYouTube announced the ranking at a Ho Chi Minh City event celebrating the one-year anniversary of Vietnam’s YouTube channel.\n\nVietnam was not close to the top 10 two years ago. Since then, young people thrilled by technology have been making YouTube popular in Vietnam. The website reports that 400 hours worth of video are uploaded per minute.\n\nVietnam’s YouTube channel has debuted with “120 percent growth in terms of watch time,” according to Phuong Anh Nguyen, a YouTube official.\n\nVietnamese are watching YouTube at a big rate. Females are watching British singer Adele’s “Hello.” Foreign sitcoms, like Australia’s “Thank God You’re Here,” get 3 to 4 million in Vietnam, according to the country’s newspaper, Tuoi Tre.",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "How many hours of video are uploaded to YouTube every minute?",
-      "options": [
-        "200 hours",
-        "300 hours",
-        "400 hours",
-        "500 hours"
-      ],
+      "options": ["200 hours", "300 hours", "400 hours", "500 hours"],
       "answer": "400 hours"
     }
   ],

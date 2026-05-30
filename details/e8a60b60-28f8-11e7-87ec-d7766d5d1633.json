@@ -5,7 +5,7 @@
     "id": "61cbe2e1-8d56-4bbc-bf71-0d63d8a227c8",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/2yXQmao8KuK8FCaI8r0b5k.jpeg",
+    "url": "https://blocks.vocabical.com/images/2yXQmao8KuK8FCaI8r0b5k.jpeg",
     "dimensions": {
       "x": 512,
       "y": 341
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/39C4kHCvQpnSEUUEbaRiP3.mpga",
+  "audio": "https://blocks.vocabical.com/audio/39C4kHCvQpnSEUUEbaRiP3.mpga",
   "main_content": "A survey by an independent Russian polling agency has found just a third of Russians say the Western sanctions imposed on their country for its actions in Ukraine have created problems for them.\n\nIn the poll conducted by the Levada Center, 27 percent of the respondents said the sanctions have created “pretty serious” problems for them and their families, while 7 percent said they have created “very serious” problems.\n\nThirty-seven percent of the respondents, however, said they thought the sanctions may create “pretty serious” problems for them and their families, while 10 percent said they may create “very serious” problems.\n\nAsked how Russia should respond to the Western sanctions, 69 percent of the respondents said it should continue its policy despite sanctions, while 21 percent said it should “seek a compromise” and “make concessions.”\n\nThe results of the poll, which was conducted January 23-26, were published Tuesday.",
   "questions": [
     {
@@ -33,22 +33,12 @@
     },
     {
       "question": "What percentage of respondents said the sanctions have created \"very serious\" problems for them and their families?",
-      "options": [
-        "7 percent",
-        "27 percent",
-        "10 percent",
-        "37 percent"
-      ],
+      "options": ["7 percent", "27 percent", "10 percent", "37 percent"],
       "answer": "7 percent"
     },
     {
       "question": "What percentage of respondents said the sanctions may create \"very serious\" problems for them and their families?",
-      "options": [
-        "7 percent",
-        "10 percent",
-        "21 percent",
-        "37 percent"
-      ],
+      "options": ["7 percent", "10 percent", "21 percent", "37 percent"],
       "answer": "10 percent"
     }
   ],

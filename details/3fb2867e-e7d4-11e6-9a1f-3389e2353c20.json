@@ -5,7 +5,7 @@
     "id": "ee453018-f668-445e-aa08-36b0b6fb57ad",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/7Fbn9PwppKK9xYAAfSGlYL.jpeg",
+    "url": "https://blocks.vocabical.com/images/7Fbn9PwppKK9xYAAfSGlYL.jpeg",
     "dimensions": {
       "x": 512,
       "y": 356
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4u9ymfAu9Mz2nG3AIZ8rdM.mpga",
+  "audio": "https://blocks.vocabical.com/audio/4u9ymfAu9Mz2nG3AIZ8rdM.mpga",
   "main_content": "In just two weeks, “Jurassic World” has earned more than one billion dollars in ticket sales around the world. It is already the second most popular movie of 2015. The huge hit is part of the dinosaur movie series that began in 1993 with the Academy Award-winning “Jurassic Park.” The latest film opened on June 10.\n\n“Jurassic World” is a movie about a dinosaur theme park, like “Jurassic Park.” But this one is fully open to the public and successful. Researchers at the park create a bigger and better dinosaur to bring more business to the park. This dinosaur is genetically modified. The researchers use a secret mix of DNA from several other especially vicious dinosaurs and other animals.\n\nSome movie critics praised “Jurassic World” as exciting with great special effects even as they dismissed the film’s plot as “stupid.” But many agreed the movie does not measure up to the first “Jurassic” directed by Steven Spielberg.\n\nPeople continue to flood showings of “Jurassic World.”",
   "questions": [
     {
       "question": "How much time did it take “Jurassic World” to earn more than one billion dollars in ticket sales?",
-      "options": [
-        "One week",
-        "Two weeks",
-        "Three weeks",
-        "One month"
-      ],
+      "options": ["One week", "Two weeks", "Three weeks", "One month"],
       "answer": "Two weeks"
     },
     {

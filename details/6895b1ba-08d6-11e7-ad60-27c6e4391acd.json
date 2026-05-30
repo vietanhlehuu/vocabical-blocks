@@ -5,7 +5,7 @@
     "id": "023a0db1-1c7d-4c5c-83e9-32058c379f86",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/04CVwJTyKMRpDj23mkR2uc.jpeg",
+    "url": "https://blocks.vocabical.com/images/04CVwJTyKMRpDj23mkR2uc.jpeg",
     "dimensions": {
       "x": 512,
       "y": 384
@@ -18,37 +18,22 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/10VA2KbBUS8VMYuGNFYxDF.mpga",
+  "audio": "https://blocks.vocabical.com/audio/10VA2KbBUS8VMYuGNFYxDF.mpga",
   "main_content": "The driverless car had an accident February 14 in California. The accident was reported to the Department of Motor Vehicles in California February 23.\n\nAccording to WIRED, a technology publication, the car changed traffic lanes and moved into the path of a bus.\n\nThe driverless car was a Lexus SUV. When it hit the bus, the Google car was moving at around 3 kilometers per hour.\n\nThe speed of the bus was 24 kilometers per hour at the time. No injuries were reported.\n\nThe left front wheel and fender of the Google car were damaged.\n\nIn a May 2015 monthly report Google said: “We’ll inevitably be involved in accidents. In the six years of our project, we’ve been involved in 12 minor accidents during more than 1.8 million miles of autonomous and manual driving.",
   "questions": [
     {
       "question": "When did the accident happen?",
-      "options": [
-        "February 14",
-        "February 23",
-        "May 2015",
-        "January 2022"
-      ],
+      "options": ["February 14", "February 23", "May 2015", "January 2022"],
       "answer": "February 14"
     },
     {
       "question": "What model of car was the Google car?",
-      "options": [
-        "Toyota Prius",
-        "Lexus SUV",
-        "Ford Explorer",
-        "Honda Civic"
-      ],
+      "options": ["Toyota Prius", "Lexus SUV", "Ford Explorer", "Honda Civic"],
       "answer": "Lexus SUV"
     },
     {
       "question": "How many accidents did the Google car have in these 6 years?",
-      "options": [
-        "5",
-        "8",
-        "12",
-        "20"
-      ],
+      "options": ["5", "8", "12", "20"],
       "answer": "12"
     }
   ],

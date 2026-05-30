@@ -5,7 +5,7 @@
     "id": "1b6e5efd-0926-441f-ba4e-d58d3402eaa0",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/0plEPsVHaPAogx2bbHbmoy.jpeg",
+    "url": "https://blocks.vocabical.com/images/0plEPsVHaPAogx2bbHbmoy.jpeg",
     "dimensions": {
       "x": 800,
       "y": 600
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5y6wzjqzstv8EAnhHfjwpO.mpga",
+  "audio": "https://blocks.vocabical.com/audio/5y6wzjqzstv8EAnhHfjwpO.mpga",
   "main_content": "Japanese mountain climber Nobukazu Kuriki has failed in his fifth solo attempt to reach the summit of Mount Everest.\n\nKuriki announced on his Facebook page Sunday that “it took too much time to move in deep deep snow. I realized if I kept going, I wouldn’t be able to come back alive.”\n\nThe 33-year-old Kuriki was attempting to climb the world’s tallest peak despite losing all of his fingers and one thumb to frostbite after spending two days in a snow hole at 8,230 meters in temperatures lower than -20 C (20 degrees below Celsius) during an attempt in 2012.\n\nHe was climbing without the aid of bottled oxygen.\n\nKuriki was the only climber pursuing the summit this year after an avalanche set off by a massive quake in April that killed more than 9,000 people, including 18 people at base camp, and destroyed Nepal’s lucrative climbing industry.\n\nHundreds of climbers abandon their bids to ascend the 8,848-meter peak, marking a second spring season with virtually no one reaching the summit of the world’s highest mountain.\n\nThe deaths of 16 Nepali guides in an avalanche in 2014 sparked a shutdown that year.",
   "questions": [
     {
       "question": "How many times has Nobukazu Kuriki tried to reach the top of Mount Everest?",
-      "options": [
-        "Three",
-        "Five",
-        "Seven",
-        "Four"
-      ],
+      "options": ["Three", "Five", "Seven", "Four"],
       "answer": "Five"
     },
     {

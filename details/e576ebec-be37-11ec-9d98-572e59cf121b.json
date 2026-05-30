@@ -5,7 +5,7 @@
     "id": "e5766d70-be37-11ec-9d97-4b646264f8ed",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/44YH25XdLFOR822K0LjPEZ.jpeg",
+    "url": "https://blocks.vocabical.com/images/44YH25XdLFOR822K0LjPEZ.jpeg",
     "dimensions": {
       "x": 512,
       "y": 608
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/39LCW6nRWMfwkbEMUCtzl1.mpga",
+  "audio": "https://blocks.vocabical.com/audio/39LCW6nRWMfwkbEMUCtzl1.mpga",
   "main_content": "Clothing designer Oscar de la Renta died Monday at his home in the American state of Connecticut. He was 82 years old. His wife said he died of problems related to cancer.\n\nMr. de la Renta dressed American movie stars and first ladies. Amal Alamuddin chose de la Renta to design the dress she wore to her wedding to George Clooney last month.\n\nOscar de la Renta was born in Santo Domingo, the capital of the Dominican Republic, in 1932. His interest in women’s clothing is perhaps not surprising – he grew up with six sisters. After he completed high school, de la Renta went to Madrid to study art. His first love was painting, but an interest in fashion design developed.\n\nThe young man found his first design job in Europe. But he did not stay long. He moved to New York City to work for the Elizabeth Arden company. In the late 1960s, he opened his own house of fashion design.\n\nHe became popular quickly in Hollywood and in the nation’s capital. The first American first lady he dressed was the former Jacqueline Kennedy.\n\nHillary Clinton was also a big fan. Ms. Clinton spoke in April at an event to honor Oscar de la Renta. She described him as “the man working for 20 years to turn me into a fashion icon.”\n\nOscar de la Renta’s style mixed romantic, feminine elements with a modern edge that included bright color. He once said that his love of rich colors came from his Hispanic roots. He called it his “island side.”\n\nOscar de la Renta did not just work in the fashion industry. He was also a major supporter of the arts.",
   "questions": [
     {
@@ -33,12 +33,7 @@
     },
     {
       "question": "Where was he born?",
-      "options": [
-        "Mexico City",
-        "Havana",
-        "Santo Domingo",
-        "New York City"
-      ],
+      "options": ["Mexico City", "Havana", "Santo Domingo", "New York City"],
       "answer": "Santo Domingo"
     },
     {

@@ -5,7 +5,7 @@
     "id": "77229819-d73d-445d-83f4-364c50aeb032",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/3cnta4AyaSkiHpoapPjgFW.jpeg",
+    "url": "https://blocks.vocabical.com/images/3cnta4AyaSkiHpoapPjgFW.jpeg",
     "dimensions": {
       "x": 512,
       "y": 421
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0rxeGmQNZ8h7fev0t30oWR.mpga",
+  "audio": "https://blocks.vocabical.com/audio/0rxeGmQNZ8h7fev0t30oWR.mpga",
   "main_content": "New Zealand prosecutors have dropped a murder-for-hire charge against the drummer for the legendary rock band AC/DC, just one day after it was filed.\n\nPolice charged 60-year-old Phil Rudd Thursday with attempting to procure murder, which carries a maximum sentence of 10 years in prison.\n\nBut when prosecutors took over the case from police Friday, they quickly dropped the charge, saying there was not enough evidence to proceed.\n\nRudd still faces a charge of threatening to kill, and possessing methamphetamine and marijuana.\n\nLocal media reported Rudd was trying to hire a hit man to kill two men whose identities were not disclosed.\n\nThe Australia-born Rudd, who now lives in New Zealand, left AC/DC in 1983, but rejoined the band in 1994.\n\nAC/DC is one of the highest-grossing bands of all-time, with hit songs that include “Back in Black,” “Thunderstruck” and “You Shook Me All Night Long.”\n\nThe band is due to release a new album, titled “Rock or Bust” next month.\n\nEarlier this year, the band announced that rhythm guitarist and founding member Malcom Young was leaving the group. His family said the 61-year-old Young is suffering from dementia.",
   "questions": [
     {
@@ -33,12 +33,7 @@
     },
     {
       "question": "What charge does Phil Rudd still face after the murder-for-hire charge was dropped?",
-      "options": [
-        "Threatening to kill",
-        "Arson",
-        "Fraud",
-        "Embezzlement"
-      ],
+      "options": ["Threatening to kill", "Arson", "Fraud", "Embezzlement"],
       "answer": "Threatening to kill"
     },
     {

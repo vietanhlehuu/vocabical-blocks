@@ -5,7 +5,7 @@
     "id": "26e9628f-863b-4fa7-9d5f-c661ac2377ba",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/1BQMfdKwf8j5XGzipqLUV8.jpeg",
+    "url": "https://blocks.vocabical.com/images/1BQMfdKwf8j5XGzipqLUV8.jpeg",
     "dimensions": {
       "x": 512,
       "y": 384
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4WMp1CdlHPZbBhQmguAdWq.mpga",
+  "audio": "https://blocks.vocabical.com/audio/4WMp1CdlHPZbBhQmguAdWq.mpga",
   "main_content": "A single cigarette sold on a street corner may not cost a lot; however, the overall costs of smoking are huge.\n\nFirst, consider the cost of human life. The World Health Organization says about 10 people die of a tobacco-linked disease every minute. That rate adds up to almost six million people dying from such diseases every year.\n\nFor most people, stopping smoking is hard. Many began smoking as teenagers. They are used to it.\n\nStudies show people who want to stop smoking can do so with different treatments. Some get help from electronic cigarettes, medicine or nicotine patches that reduce one’s desire for the drug.\n\nBut smoking costs more than the life of an individual. It can affect the health of an entire country.\n\nThe World Health Organization says low-income countries depend heavily on taxes from cigarettes. They use the money, in part, to pay the costs of health care for tobacco-related diseases.",
   "questions": [
     {
       "question": "How many people die of a tobacco-linked disease every minute?",
-      "options": [
-        "5 people",
-        "10 people",
-        "15 people",
-        "20 people"
-      ],
+      "options": ["5 people", "10 people", "15 people", "20 people"],
       "answer": "10 people"
     },
     {

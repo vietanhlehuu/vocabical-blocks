@@ -5,7 +5,7 @@
     "id": "2e887057-9e0f-4592-857a-58a3ef095077",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/1Pnzz5mpg8pNR5MsOmJpJf.jpeg",
+    "url": "https://blocks.vocabical.com/images/1Pnzz5mpg8pNR5MsOmJpJf.jpeg",
     "dimensions": {
       "x": 512,
       "y": 683
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/74k9dDdPaVFVjxxGW4hPUJ.mpga",
+  "audio": "https://blocks.vocabical.com/audio/74k9dDdPaVFVjxxGW4hPUJ.mpga",
   "main_content": "Musicians have been using clay, or ceramic, wind and percussion instruments for a long time. But a rock guitarist in Spain is now attracting audiences with not only his music, but his unique ceramic guitar.\n\nLuis Martin is the guitarist and lead singer in the Spanish band “Lobos Negros.” \n\nThe idea to use a ceramic guitar came from Luis Martin’s hometown of Talavera de la Reina in central Spain. The town is known for the ceramic art found in many houses there.\n\nManuel Carrillo makes ceramic guitars in Talavera de la Reina. He says it took him some time to master the process of making a guitar body without any cracks or deformities.\n\nHe says, “A very thin wall of clay is made for the outside of the body. Then we make openings in the body, so the guitar maker can assemble everything he needs. And then, once the clay is baked, it is glazed and decorated.”\n\nLuis Martin says that, back in the 1950s, rock musicians in the United States discovered the unique quality of bouncing sound off ceramic material.\n\nA ceramic guitar costs about $3,000 and weighs 3.5 kilograms. Each one is unique and has different decorations.\n\nLuis Martin and his band now plan to travel around Spain hoping to attract fans with their new ceramic sound.",
   "questions": [
     {
@@ -33,12 +33,7 @@
     },
     {
       "question": "What is Luis Martin’s hometown?",
-      "options": [
-        "Barcelona",
-        "Talavera de la Reina",
-        "Madrid",
-        "Sevilla"
-      ],
+      "options": ["Barcelona", "Talavera de la Reina", "Madrid", "Sevilla"],
       "answer": "Talavera de la Reina"
     },
     {

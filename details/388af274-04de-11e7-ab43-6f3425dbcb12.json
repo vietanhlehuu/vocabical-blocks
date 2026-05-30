@@ -5,7 +5,7 @@
     "id": "997cdaa8-a8c7-475d-bb9f-0e8d8f96fde6",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/4fcsq7vrKq7DbZw2Q42e7a.jpeg",
+    "url": "https://blocks.vocabical.com/images/4fcsq7vrKq7DbZw2Q42e7a.jpeg",
     "dimensions": {
       "x": 512,
       "y": 698
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1XepW8efsTCFFdLpJ259rH.mpga",
+  "audio": "https://blocks.vocabical.com/audio/1XepW8efsTCFFdLpJ259rH.mpga",
   "main_content": "For the first time in history, a woman gymnast from India will compete at the Olympics.\n\nDipa Karmakar won rights to compete in the 2016 Summer Olympic Games during a Test Event last weekend. The test event was held in Rio de Janeiro, Brazil.\n\nKarmakar is 22 years old. She is from the Indian state of Tripura. She qualified for the Olympics by finishing among the top 33 individual gymnasts at the Test Event.\n\nKarmakar is also the first gymnast from India – male or female – to reach the Olympics in more than 50 years.\n\nSupporters on social media praised and congratulated her.\n\nEven Indian Prime Minister Narendra Modi spoke about Karmakar’s performance.\n\nAlso during the Test Event, the women’s gymnastics team from Romania failed to qualify to the Rio Olympics.\n\nRomania placed seventh at the Test Event’s team competition. Only the top four teams at the event qualified to the Olympics.\n\nRomania has won a medal in team gymnastics in every Olympics since 1976.",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "Which country has won a medal in team gymnastics in every Olympics since 1976?",
-      "options": [
-        "India",
-        "Romania",
-        "Brazil",
-        "Russia"
-      ],
+      "options": ["India", "Romania", "Brazil", "Russia"],
       "answer": "Romania"
     }
   ],

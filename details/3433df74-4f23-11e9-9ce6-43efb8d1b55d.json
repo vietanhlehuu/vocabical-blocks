@@ -5,7 +5,7 @@
     "id": "3433bbc0-4f23-11e9-9ce5-33be09b7ba2b",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/ruHdGuVbcAEs0sjO1348gW3tKg8InFjk6uWQUu5e7pv.jpeg",
+    "url": "https://blocks.vocabical.com/images/ruHdGuVbcAEs0sjO1348gW3tKg8InFjk6uWQUu5e7pv.jpeg",
     "dimensions": {
       "x": 1000,
       "y": 843
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7hVBKKt6Nx1oxPqrQvJxFX.mpga",
+  "audio": "https://blocks.vocabical.com/audio/7hVBKKt6Nx1oxPqrQvJxFX.mpga",
   "main_content": "March 10th, is the anniversary of the first successful telephone call. Alexander Graham Bell was one of the inventors of the telephone. He completed that first call 139 years ago. He also played an important part in creating sound recordings. The National Museum of American History in Washington, D.C. recently opened an exhibition that plays sounds recorded by Mr. Bell in the 1880s.\n\n“This record has been made by Alexander Graham Bell…”\n\nThat is the only confirmed audio recording of Alexander Graham Bell’s voice. He says: “This record has been made by Alexander Graham Bell…”\n\nThe wax and cardboard disc recording was made in 1885. It captured the inventor’s words as he recited numbers for about four minutes. This is how he ended the recording:\n\n“…in witness whereof, hear my voice, Alexander Graham Bell.”\n\nCarlene Stephens is the curator of the exhibit, which is called “Hear My Voice.”\n\nThe experimental recordings were made using different techniques and materials. The materials include wax discs and glass discs.",
   "questions": [
     {
@@ -33,12 +33,7 @@
     },
     {
       "question": "When did Bell record his voice?",
-      "options": [
-        "In 1885",
-        "In 1890",
-        "In 1880",
-        "In 1900"
-      ],
+      "options": ["In 1885", "In 1890", "In 1880", "In 1900"],
       "answer": "In 1885"
     },
     {

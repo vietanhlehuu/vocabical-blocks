@@ -5,7 +5,7 @@
     "id": "49692715-a6ab-455c-b8a9-0b968a481bae",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/2EWUfv4TZq9Uv8wvpkKI9O.jpeg",
+    "url": "https://blocks.vocabical.com/images/2EWUfv4TZq9Uv8wvpkKI9O.jpeg",
     "dimensions": {
       "x": 512,
       "y": 341
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4jk8pLVK3B0jP1LnSgEdLF.mpga",
+  "audio": "https://blocks.vocabical.com/audio/4jk8pLVK3B0jP1LnSgEdLF.mpga",
   "main_content": "Japan announced Wednesday that its defense budget for the coming year will rise to almost $42 billion which will be used to push ahead with controversial changes to Japan’s military that have already caused anger in Beijing.\n\nJapanese defense forces have been conducting military exercises designed to simulate amphibious assaults and invasions.\n\nThe nation’s record defense budget will go towards new amphibious vehicles, surveillance aircraft and F-35 stealth fighters. The investment is intended to counter the changing security threats of the region, says Alessio Patalano of the Department of War Studies at King’s College London.\n\nJapan’s defense spending, part of an $814 billion total annual budget, is part of Prime Minister Shinzo Abe’s push to build a more active military. After his re-election last month, Abe said he had a mandate to strengthen Japan’s defense forces.\n\nHe said he pledges to keep engaging in global diplomacy, keep defending national interests and protecting the lives of citizens, and to make sure they live a happy life.\n\nThe United States has made clear its support for Japan’s territorial integrity. Japan’s increased defense spending does not reduce the importance of the U.S.-Japan alliance, says Alessio Patalano.\n\nJapan’s military spending is still dwarfed by China’s, whose military budget at $132 billion last year is second only to that of the United States.",
   "questions": [
     {
       "question": "How much money will Japan spend on defense in 2015?",
-      "options": [
-        "$32 billion",
-        "$42 billion",
-        "$50 billion",
-        "$814 billion"
-      ],
+      "options": ["$32 billion", "$42 billion", "$50 billion", "$814 billion"],
       "answer": "$42 billion"
     },
     {

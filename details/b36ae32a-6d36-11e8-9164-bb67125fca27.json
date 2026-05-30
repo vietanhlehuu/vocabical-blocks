@@ -5,7 +5,7 @@
     "id": "b36a478a-6d36-11e8-9163-b728de1af434",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/0Hc7zRf9RYB3fvr3QRUlGicgrX1hRgVf38hncVKj0ku.jpeg",
+    "url": "https://blocks.vocabical.com/images/0Hc7zRf9RYB3fvr3QRUlGicgrX1hRgVf38hncVKj0ku.jpeg",
     "dimensions": {
       "x": 4100,
       "y": 2716
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3nyq4SADLSxH8hXo1w9YHJ.mpga",
+  "audio": "https://blocks.vocabical.com/audio/3nyq4SADLSxH8hXo1w9YHJ.mpga",
   "main_content": "Can eating a chocolate bar every day really prevent age-related memory loss?\n\nNo.\n\nThat would be too good to be true.\n\nBut new research shows that large amounts of flavanols, substances found in cocoa, tea and some vegetables, may reverse age-related memory failure. Another study is looking to see if high levels of cocoa flavanols can help prevent heart attacks and strokes.\n\nFlavanols found in dark chocolate are known to increase blood flow in the part of the brain that controls memory. They also help prevent heart disease by lowering blood pressure and “bad” cholesterol.\n\nCan chocolate improve memory?\n\nDr. Scott Small is a professor of neurology at Columbia University in New York City. He is the lead writer of a research paper describing the effects of cocoa flavanols on brain activity.\n\nThe study involved 37 volunteers aged between 50 and 69. Researchers gave them a high-level flavanol drink made from cocoa beans or a low-level flavanol drink. For a period of three months, some subjects got 900 milligrams of flavanol a day. The others got 10 milligrams of flavanol each day.\n\nBrain imaging and memory tests were given to each study subject before and after the study. Dr. Small says that the subjects who had the high-level flavanol drink showed much improvement on memory tests.",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "How many volunteers were involved in the study?",
-      "options": [
-        "20",
-        "37",
-        "50",
-        "69"
-      ],
+      "options": ["20", "37", "50", "69"],
       "answer": "37"
     }
   ],

@@ -5,7 +5,7 @@
     "id": "45d7706c-cc13-11ed-a65a-cf126abc01db",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/FXDNbdOlzY0GS0kM6f0SzrJpqRakmxVT6LE7Td1jDQn.jpeg",
+    "url": "https://blocks.vocabical.com/images/FXDNbdOlzY0GS0kM6f0SzrJpqRakmxVT6LE7Td1jDQn.jpeg",
     "dimensions": {
       "x": 4804,
       "y": 3601
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3oknzUulMZXtA9TNgx9IOU.mpga",
+  "audio": "https://blocks.vocabical.com/audio/3oknzUulMZXtA9TNgx9IOU.mpga",
   "main_content": "Refugees from Tibet live in many countries around the world. Australia’s largest community of Tibetan refugees is in a town just north of Sydney. Australia’s East Coast seems a world away from the Himalaya Mountains of Tibet. In their new home, hundreds of Tibetans are learning to swim – something they did not do back in Tibet. Swimming is an important safety skill for those living near the sea. It also is a good way for the refugees to improve their understanding of Australian culture.\n\nWaves crash on the beach in Dee Why, a coastal town about 40 minutes north of Sydney. It is almost nightfall, but swimmers still are out in the waters of the Pacific Ocean. Seawater feeds a large swimming pool at one end of the beach. Many people swim, splash and play here. They include adults and children from Tibet.\n\nDee Why is home to nearly 20,000 people, including more than 800 Tibetans. The refugees are slowly getting settled in their new home. The Australian government is paying for English classes and other training to help them.\n\nThe refugees in Dee Why are also learning to swim. About 300 Tibetans, including adults and children, have learned to swim through a program launched in 2012. A local non-profit group called Water Skills for Life helped to organize the training. The next swimming class for Tibetans starts this month.\n\nPasang Tsering is a 40-year-old Tibetan who left India for Australia in 2008. He had never seen the ocean before arriving in Australia, just like most Tibetans in Dee Why. But he learned to swim through Water Skills for Life, which also supports swim programs in Vietnam.",
   "questions": [
     {
@@ -33,12 +33,7 @@
     },
     {
       "question": "How many Tibetans live in Dee Why?",
-      "options": [
-        "Over 500",
-        "More than 800",
-        "Around 1,000",
-        "About 1,200"
-      ],
+      "options": ["Over 500", "More than 800", "Around 1,000", "About 1,200"],
       "answer": "More than 800"
     },
     {

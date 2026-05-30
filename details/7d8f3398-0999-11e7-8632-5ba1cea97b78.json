@@ -5,7 +5,7 @@
     "id": "7fe8ebc2-0727-4731-800c-11fa4e1c1a9d",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/3tMTBKUpUDHjBJQWl77RvB.png",
+    "url": "https://blocks.vocabical.com/images/3tMTBKUpUDHjBJQWl77RvB.png",
     "dimensions": {
       "x": 500,
       "y": 500
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7mLURvHzgAeU4Mvo8HSHPQ.mpga",
+  "audio": "https://blocks.vocabical.com/audio/7mLURvHzgAeU4Mvo8HSHPQ.mpga",
   "main_content": "An internally flawless blue diamond, weighing 10.10 carats, was the star attraction at a recent press event in London.\n\nThe largest oval blue diamond ever to appear at auction is to be sold April 5 in Hong Kong.\n\n“Blue diamonds are extremely rare, and when they are over 10 carats and flawless, they are quite special,” Quek Chin Yeow, deputy chairman for Asia at Sotheby’s auction house, said at the press event.\n\nAccording to the website minerals.net, most diamonds used as gemstones are colorless or have a very faint tint. However, colored diamonds, known as “fancies,” can be extremely rare and valuable. The most valuable gemstones ever known have been fancy diamonds.\n\n“This is a beautiful sky blue, baby blue shade of blue, and the shape is very rare,” said Chin Yeow. The gorgeous color, and the fact that it’s an oval, “will make it a little different from everything else that’s sold before and to come,” he added.\n\nThe diamond, mined in South Africa, is one of a collection of 11 cut by luxury jewelers De Beers in London in 2000.\n\n“De Beers cut these to celebrate the millennium here in London. So to have it offered here 16 years later now in Hong Kong for the private Asian collection, it is extremely wonderful,” said Chin Yeow.\n\nOnly one of the diamonds has previously appeared on the market before, selling at Sotheby’s in Hong Kong for more than $6 million in April 2010.\n\nThis rare gem will lead Sotheby’s Hong Kong spring sale after being exhibited in London, Geneva, New York, Singapore and Taipei.\n\nIt is estimated to sell for $30 million to $35 million.",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "Where does this diamond come from?\n",
-      "options": [
-        "South Africa",
-        "Australia",
-        "Brazil",
-        "Russia"
-      ],
+      "options": ["South Africa", "Australia", "Brazil", "Russia"],
       "answer": "South Africa"
     }
   ],

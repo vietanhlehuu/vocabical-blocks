@@ -5,7 +5,7 @@
     "id": "d28a89bc-4f22-11e9-9c09-3b9a27935de7",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/szkQ6q5DUYT1XZHtOlWAYmEs2HP0AKtWE0DXiAmlvrW.jpeg",
+    "url": "https://blocks.vocabical.com/images/szkQ6q5DUYT1XZHtOlWAYmEs2HP0AKtWE0DXiAmlvrW.jpeg",
     "dimensions": {
       "x": 4242,
       "y": 2828
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1QhG6JBhLMLxKJ0eQG2zus.mpga",
+  "audio": "https://blocks.vocabical.com/audio/1QhG6JBhLMLxKJ0eQG2zus.mpga",
   "main_content": "The 70th anniversary of the end of World War II will be marked in all but one European country this week. Germany lost the war, and has no plans to hold a special observance.\n\nVOA recently went to the German capital Berlin to report on how the conflict is considered and the effect it still has.\n\nIn central Berlin, there is a huge memorial to the six million Jews killed during World War II. Their deaths were the work of Germany’s Nazi Party.\n\nThe memorial was built just 10 years ago, after much public debate.\n\nVisitors to the area – like a woman named Tina, a retired journalist from Britain – say there are things to be learned from the war.\n\nGerd Appenzeller is the former publisher of the Berlin newspaper Tagesspiegel. He worries that the alliances that formed after the World War II are weakening. He says younger Germans do not know what life was like during the war.",
   "questions": [
     {
       "question": "Which country won’t celebrate the end of World War II?",
-      "options": [
-        "France",
-        "Germany",
-        "Italy",
-        "United Kingdom"
-      ],
+      "options": ["France", "Germany", "Italy", "United Kingdom"],
       "answer": "Germany"
     },
     {

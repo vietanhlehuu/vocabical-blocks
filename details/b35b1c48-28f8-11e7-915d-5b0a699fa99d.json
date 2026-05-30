@@ -5,7 +5,7 @@
     "id": "389273cc-ced8-43e8-ae74-a891f3ea2ec6",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/1ikUwzyYZidnnSobIbNxws.jpeg",
+    "url": "https://blocks.vocabical.com/images/1ikUwzyYZidnnSobIbNxws.jpeg",
     "dimensions": {
       "x": 512,
       "y": 369
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/11VryE2VR1YWkoM5wwjhZg.mpga",
+  "audio": "https://blocks.vocabical.com/audio/11VryE2VR1YWkoM5wwjhZg.mpga",
   "main_content": "Sunday night’s broadcast of the National Football League’s (NFL) championship game, the Super Bowl, was the most watched television program in U.S. history.\n\nThe dramatic 28-24 victory by the New England Patriots over the defending champion Seattle Seahawks was seen by 114.4 million American viewers, according to NBC, which telecast the game played outside Phoenix, Arizona. That is 2.2 million more than the previous record viewership set by last year’s Super Bowl when Seattle beat the Denver Broncos outside New York City.\n\nNBC Sports Group Chairman Mark Lazarus said this year an additional 600,000 watched the game with Spanish-language announcers on the NBC Universal cable network.\n\nSeven of the eight most watched shows in U.S. history are Super Bowls.\n\nSunday’s ratings showed that the highest number of viewers tuned in during the fourth quarter when New England rallied from a 10-point deficit and stopped a final Seattle drive with an interception on the goal line to seal the victory.\n\nBecause of the huge audience the Super Bowl reaches, a record $4.5 million was paid by advertisers this year for a 30-second commercial.",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "How many people watched the Super Bowl?",
-      "options": [
-        "114.4 million",
-        "112 million",
-        "116 million",
-        "120 million"
-      ],
+      "options": ["114.4 million", "112 million", "116 million", "120 million"],
       "answer": "114.4 million"
     }
   ],

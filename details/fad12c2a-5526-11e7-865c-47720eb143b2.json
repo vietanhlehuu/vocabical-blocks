@@ -5,7 +5,7 @@
     "id": "7d5a2c78-27e0-44a2-b568-1ec6874ea134",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/3oXFWQxUPjd44BNGHe3ZBs.jpeg",
+    "url": "https://blocks.vocabical.com/images/3oXFWQxUPjd44BNGHe3ZBs.jpeg",
     "dimensions": {
       "x": 512,
       "y": 384
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5ju4749O5VGMyKhDsmttFc.mpga",
+  "audio": "https://blocks.vocabical.com/audio/5ju4749O5VGMyKhDsmttFc.mpga",
   "main_content": "Colonel Terry Virts always knew he wanted to be a pilot or an astronaut.\n\nHe had pictures of galaxies and planes on his walls as a child. He never thought he could actually become an astronaut, but he did the things he had to do to qualify. He got a mathematics degree, went into the Air Force, and eventually became a test pilot. In 2000, he was accepted to the astronaut candidate program.\n\nAs an active astronaut with the U.S. Space Program Virts has one of the most demanding jobs in the world. He has flown the space shuttle, conducted spacewalks, and was the commander of the International Space Station in spring 2015.",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "When was Terry Virts accepted to the astronaut candidate program?",
-      "options": [
-        "In 1990",
-        "In 2000",
-        "In 2010",
-        "In spring 2015"
-      ],
+      "options": ["In 1990", "In 2000", "In 2010", "In spring 2015"],
       "answer": "In 2000"
     }
   ],

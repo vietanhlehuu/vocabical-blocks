@@ -5,7 +5,7 @@
     "id": "9ce76984-4f21-11e9-8bb2-1f25ae4c5cd9",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/1PHJ38uPGXZnyrw7VcvF76.jpeg",
+    "url": "https://blocks.vocabical.com/images/1PHJ38uPGXZnyrw7VcvF76.jpeg",
     "dimensions": {
       "x": 416,
       "y": 411
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5s24K1GyqmEnJUJ6SmBkVv.mpga",
+  "audio": "https://blocks.vocabical.com/audio/5s24K1GyqmEnJUJ6SmBkVv.mpga",
   "main_content": "Millions of people all over the world use the word okay. In fact, some people say the word is used more often than any other word in the world.\n\nOkay means “all right” or “acceptable.” Still, language experts do not agree about where the word came from.\n\nSome people say it came from the Native American Indian tribe known as the Choctaw. The Choctaw word “okeh” means the same as the American word okay. Experts say early explorers in the American West spoke the Choctaw language in the nineteenth century.\n\nLanguage expert Allen Walker Read wrote about the word okay in reports published in the 1960s. He said the word began being used in the 1830s. It was a short way of writing a different spelling of the words “all correct.”\n\nThen there is the expression A-Okay. This means everything is fine. It was used in 1961 during the flight of astronaut Alan Shepard. His flight ended when his spacecraft landed in the ocean, as planned. Shepard reported: “Everything is A-Okay.”\n\nThere are also funny ways to say okay. Some people say okey-dokey or okey-doke.",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "What Native American Indian tribe is thought to have used the word ‘okay’?",
-      "options": [
-        "Apache",
-        "Navajo",
-        "Choctaw",
-        "Sioux"
-      ],
+      "options": ["Apache", "Navajo", "Choctaw", "Sioux"],
       "answer": "Choctaw"
     }
   ],

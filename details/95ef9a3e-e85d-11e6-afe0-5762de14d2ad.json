@@ -5,7 +5,7 @@
     "id": "e4595db2-0eab-11e7-b1bc-3fb21ae94b33",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/2NjCCPohkt7iGMTBNk7NaY.jpeg",
+    "url": "https://blocks.vocabical.com/images/2NjCCPohkt7iGMTBNk7NaY.jpeg",
     "dimensions": {
       "x": 463,
       "y": 474
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7O8n8tBUMQGgQK6qq2QCQo.mpga",
+  "audio": "https://blocks.vocabical.com/audio/7O8n8tBUMQGgQK6qq2QCQo.mpga",
   "main_content": "The Oscar nominations were announced in Beverly Hills, California.​\n\n“The Revenant” and “The Martian” are among the eight nominated for best motion picture. The others include “Mad Max: Fury Road”, and “Bridge of Spies”.\n\nLeonardo DiCaprio, star of “The Revenant,” and “The Martian” lead Matt Damon will compete for the best actor Oscar.\n\nBest actress nominees include Cate Blanchett for “Carol\", and Jennifer Lawrence for “Joy.” Lawrence plays the real inventor and successful businesswoman Joy Mangano.\n\nNominees for best director include George Miller for “Mad Max: Fury Road,” Alejandro Inarritu for “The Revenant,” and Tom McCarthy for “Spotlight.”\n\nThis year’s foreign language nominees include the Arabic-language “Theeb” from Jordan.\n\nThe Oscars are the top award in the American movie industry.",
   "questions": [
     {
@@ -33,12 +33,7 @@
     },
     {
       "question": "Which country’s production is the movie “Theeb”?",
-      "options": [
-        "Jordan",
-        "Lebanon",
-        "Egypt",
-        "United Arab Emirates"
-      ],
+      "options": ["Jordan", "Lebanon", "Egypt", "United Arab Emirates"],
       "answer": "Jordan"
     },
     {

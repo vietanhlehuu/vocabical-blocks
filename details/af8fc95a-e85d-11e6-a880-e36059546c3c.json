@@ -5,7 +5,7 @@
     "id": "e45ae3a8-0eab-11e7-b2a0-27184f309325",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/3UW7pd6lTppSPQ2rwQvHZo.jpeg",
+    "url": "https://blocks.vocabical.com/images/3UW7pd6lTppSPQ2rwQvHZo.jpeg",
     "dimensions": {
       "x": 300,
       "y": 300
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6Hh3qIM2RXY1lalrF1dHfi.mpga",
+  "audio": "https://blocks.vocabical.com/audio/6Hh3qIM2RXY1lalrF1dHfi.mpga",
   "main_content": "The ruling Nationalist Party (KMT) of Taiwan lost the presidential election.\n\nTsai Ing-wen of the opposition Democratic Progressive Party (DPP) will become the first female president of the island nation.\n\nThe changes are expected to bring historic changes to Taiwan.\n\nTsai will face the tasks of dealing with China, which is Taiwan’s biggest trading partner. Making stronger economy and wages — particularly for young workers — are other challenges she will face.\n\nIn a speech, hours after voting ended, KMT candidate Eric Chu apologized for failure and congratulated his opponent.\n\n“We’ve lost,” Chu said. “The KMT has suffered an election defeat. We haven’t worked hard enough and we failed voters’ expectations.”\n\n[Former President] Ma could not run again because of limits on how long he could serve.",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "Which country is Taiwan’s biggest trading partner?",
-      "options": [
-        "Japan",
-        "United States",
-        "China",
-        "South Korea"
-      ],
+      "options": ["Japan", "United States", "China", "South Korea"],
       "answer": "China"
     }
   ],

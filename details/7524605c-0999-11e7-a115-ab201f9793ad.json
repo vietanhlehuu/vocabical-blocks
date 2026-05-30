@@ -5,7 +5,7 @@
     "id": "b77a6557-8751-48ba-889d-1dce4e2c41fc",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/5aDWunlzSqtIHhs9JdrQey.png",
+    "url": "https://blocks.vocabical.com/images/5aDWunlzSqtIHhs9JdrQey.png",
     "dimensions": {
       "x": 512,
       "y": 389
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/57LmrL8jPawOQKSVIjGVK4.mpga",
+  "audio": "https://blocks.vocabical.com/audio/57LmrL8jPawOQKSVIjGVK4.mpga",
   "main_content": "The World Health Organization says ending tuberculosis by 2030, the target set by the U.N. Sustainable Development Goals will be a challenge, but it can be done. It notes 43 million people’s lives have been saved since 2000.\n\nThe WHO says countries can save the lives of the 1.5 million people who continue to die from tuberculosis every year by strengthening TB programs and adopting newer tools.\n\nThe director of WHO’s Global TB Program, Mario Raviglione, says several of the 30 countries with the highest TB burden are implementing newer TB strategies with some success. One such country is India, home to more people ill with TB and multidrug-resistant TB than any other country in the world.\n\nHe says the country is making progress in providing universal access to TB care for patients. South Africa is another country that has expanded access to a rapid molecular test for TB and drug-resistant TB.\n\nEvery year, an estimated one million children become ill with TB and some 140,000 die. UNITAID team leader Janet Ginnard says medicines suitable for children in the right doses and formulations now are available.\n\n“So, the drugs that we had were either child-friendly dissolvable, but not in the right doses or crushed and split pills from adult medicines to try to make up those doses – so, both sub-optimal workaround solutions,” said Ginnard.\n\nGinnard says these new child friendly medicines now can be bought on the market in doses that are right for treating tuberculosis in children.",
   "questions": [
     {
       "question": "By what year does the WHO want to eradicate TB?",
-      "options": [
-        "2025",
-        "2030",
-        "2040",
-        "2028"
-      ],
+      "options": ["2025", "2030", "2040", "2028"],
       "answer": "2030"
     },
     {
@@ -43,12 +38,7 @@
     },
     {
       "question": "In which country do the most people ill with TB live?",
-      "options": [
-        "South Africa",
-        "India",
-        "Nigeria",
-        "Bangladesh"
-      ],
+      "options": ["South Africa", "India", "Nigeria", "Bangladesh"],
       "answer": "India"
     }
   ],

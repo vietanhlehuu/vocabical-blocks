@@ -5,7 +5,7 @@
     "id": "e45a9542-0eab-11e7-b273-2f041a6694e6",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/3Hex1GSBNjE2icx7zkFGFc.jpeg",
+    "url": "https://blocks.vocabical.com/images/3Hex1GSBNjE2icx7zkFGFc.jpeg",
     "dimensions": {
       "x": 1709,
       "y": 1714
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4rufo8ZF8s1kVDYCZhOItv.mpga",
+  "audio": "https://blocks.vocabical.com/audio/4rufo8ZF8s1kVDYCZhOItv.mpga",
   "main_content": "The Pakistani city of Lahore recently held a three-day literary festival. The event looked a lot like literary festivals in many other cities. But for some Pakistanis, its importance went beyond works of poetry and prose. For them, the show symbolized a fight against violent extremism.\n\nPakistan has seen a rise in violent extremism in the past 10 years. Thousands of civilians have died in bomb attacks. People have been targeted and killed for expressing liberal ideas in public.\n\nMany of the festival’s sessions had discussions that went beyond literature. Subjects included politics, the ideas of tolerance, and the struggle for defining an ideology of Pakistan.\n\nBest-selling writer Ahmed Rashid worked as an advisor to the literary festival. He says the event was important because of those discussions – discussions that, in his words, “would be impossible on the TV channels.”\n\nAs a result, organizers feared the festival would be a target for extremists. Security measures were tight – with metal detectors, fully-body pat downs and bag searches.\n\nThe festival went forward. People arrived by the thousands. More than 100 young volunteers guided people toward different meeting areas and discussion sessions.",
   "questions": [
     {
       "question": "How long was the literary festival in Lahore?",
-      "options": [
-        "One day",
-        "Two days",
-        "Three days",
-        "Four days"
-      ],
+      "options": ["One day", "Two days", "Three days", "Four days"],
       "answer": "Three days"
     },
     {

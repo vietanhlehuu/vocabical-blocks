@@ -5,7 +5,7 @@
     "id": "e457bc82-0eab-11e7-b0ba-4bf7e929c885",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/12YxY7PVlMxTgw1VZcIDuE.jpeg",
+    "url": "https://blocks.vocabical.com/images/12YxY7PVlMxTgw1VZcIDuE.jpeg",
     "dimensions": {
       "x": 512,
       "y": 505
@@ -18,27 +18,17 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5l7yfT1TRRDFbXoldCAlBm.mpga",
+  "audio": "https://blocks.vocabical.com/audio/5l7yfT1TRRDFbXoldCAlBm.mpga",
   "main_content": "Many people say not enough Americans speak a foreign language. A contrario! (On the contrary!) Americans use many Latin phrases, sometimes without even knowing it.\n\nOne common Latin word is per se. Per se is used to show that something is considered by itself, alone. For example, let’s say your boyfriend watches soccer every night at his friend’s house. You could tell him that it’s not his watching soccer that bothers you, per se. It’s the fact that you never see him!\n\nSpeaking of a soccer, anyone who talks about one sports team versus another is using Latin too. Like good superhero films? They often use Latin when they talk about Good versus Evil.\n\nEt cetera is another Latin phrase that is more commonly written as “etc.” We often use the phrase to replace “and so on and so on.”\n\nIn the movie “Silence of the Lambs,” Jodie Foster’s police officer character, named Clarice, agrees to a quid pro quo with the human-eating murderer, Dr. Hannibal Lector. She wants something from him. He wants something from her.\n\nSo, now you can sound even smarter by using some of these common Latin terms in your everyday English.",
   "questions": [
     {
       "question": "What latin word is often used in superhero movies?",
-      "options": [
-        "Per se",
-        "Quid pro quo",
-        "Et cetera",
-        "Good versus Evil"
-      ],
+      "options": ["Per se", "Quid pro quo", "Et cetera", "Good versus Evil"],
       "answer": "Good versus Evil"
     },
     {
       "question": "How is etcetera usually written?",
-      "options": [
-        "e.g.",
-        "q.p.q.",
-        "etc.",
-        "i.e."
-      ],
+      "options": ["e.g.", "q.p.q.", "etc.", "i.e."],
       "answer": "etc."
     },
     {

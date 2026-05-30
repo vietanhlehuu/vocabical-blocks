@@ -5,7 +5,7 @@
     "id": "e45f85c0-0eab-11e7-b547-53b371141318",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/7JSdLqe5mgzCx2jhHLEaIk.jpeg",
+    "url": "https://blocks.vocabical.com/images/7JSdLqe5mgzCx2jhHLEaIk.jpeg",
     "dimensions": {
       "x": 450,
       "y": 600
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2D7itadec75mLCXsctFsKA.mpga",
+  "audio": "https://blocks.vocabical.com/audio/2D7itadec75mLCXsctFsKA.mpga",
   "main_content": "Now everyone can view one of the world’s most important collection of Asian and American art. The Arthur M. Sackler and Freer Galleries of Art in Washington, D.C. have put their entire collection on the Internet.​\n\nThe Freer and Sackler Galleries worked for over 15 years to photograph and make digital copies of more than 40,000 objects. The images are now released online. They include Chinese and Islamic art, as well as works from Persia, Egypt and parts of Asia.\n\nCourtney O’Callaghan is the chief digital officer at the Freer and Sackler Galleries. She says the online objects have deep cultural and historical meaning. She says the museum wanted to be sure that anyone who wanted to see the works could.\n\nOnline visitors sometimes see more details in an image than they can when they look at a piece in the museum. For example, many museum visitors struggle to examine the artwork in the famed Whistler Peacock Room because the light is kept low there. The low light helps protect the exhibit.\n\nMs. O’Callaghan believes more museums will start making art available online. She says the Freer and Sackler Galleries plan to digitize every work of art they add to the collection in the coming years.",
   "questions": [
     {
@@ -33,12 +33,7 @@
     },
     {
       "question": "How long it took to digitize all the collection?",
-      "options": [
-        "5 years",
-        "10 years",
-        "15 years",
-        "20 years"
-      ],
+      "options": ["5 years", "10 years", "15 years", "20 years"],
       "answer": "15 years"
     },
     {

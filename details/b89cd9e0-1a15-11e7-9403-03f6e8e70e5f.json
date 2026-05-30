@@ -5,7 +5,7 @@
     "id": "3ad640c6-9f6f-4fdb-98ef-0e1173f4f3dc",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/1n1T4Lmsf4GjpfsVuloBAa.jpeg",
+    "url": "https://blocks.vocabical.com/images/1n1T4Lmsf4GjpfsVuloBAa.jpeg",
     "dimensions": {
       "x": 512,
       "y": 342
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/15TbTYvah4XQkQdhI9aWV7.mpga",
+  "audio": "https://blocks.vocabical.com/audio/15TbTYvah4XQkQdhI9aWV7.mpga",
   "main_content": "Bookshops in many parts of the world opened Tuesday to lines of shoppers waiting to purchase one particular book: Harper Lee’s “Go Set a Watchman.”\n\nWatchman is the much ballyhooed and long awaited second book from Lee, who is famous for having written the classic, “To Kill a Mockingbird” first published in 1960 – and nothing since.\n\nOne of the best beloved books in American literature, “To Kill a Mockingbird” is the story of courtly white lawyer Atticus Finch, who defends a black man wrongfully accused of rape. While Mockingbird deals with the serious issues of rape and racial inequality, it is also a gentle and bittersweet book, told from the point of view of Finch’s 6-year-old daughter, Scout.\n\nHarper Lee based the setting and characters on observations of her family and neighbors, including the famous writer Truman Capote, who also grew up in her hometown. The plot was based on an event that occurred there in 1936, when she was 10 years old.\n\nSo begins “Go Set a Watchman.” In it, Scout is grown up and she is returning home from New York 20 years later to visit her father – who is depicted as a bigot. It is a darker, adult view and has been labeled by critics as “distressing” and “disturbing.”\n\nBut Watchman also provides insight into the creation of Mockingbird. It was written before its famous cousin. After reading it, Harper Lee’s agent sent her back to her desk with instructions to rewrite the story from the young Scout’s point of view.\n\nFor literary detectives, Watchman will be a trove of clues into the making of the classic. The books share characters, setting and even some lines.",
   "questions": [
     {
       "question": "When did Harper Lee publish her first book?",
-      "options": [
-        "1955",
-        "1960",
-        "1965",
-        "1970"
-      ],
+      "options": ["1955", "1960", "1965", "1970"],
       "answer": "1960"
     },
     {

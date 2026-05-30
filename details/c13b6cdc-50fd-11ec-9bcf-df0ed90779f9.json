@@ -5,7 +5,7 @@
     "id": "c13b34ba-50fd-11ec-9bce-b38b3b810686",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/7LeCqTW4Lw9MVLV0x6Pr6c.jpeg",
+    "url": "https://blocks.vocabical.com/images/7LeCqTW4Lw9MVLV0x6Pr6c.jpeg",
     "dimensions": {
       "x": 514,
       "y": 346
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7dzo8k2gQ1HgFEgTqYNl6T.mpga",
+  "audio": "https://blocks.vocabical.com/audio/7dzo8k2gQ1HgFEgTqYNl6T.mpga",
   "main_content": "Americans spend $7.4 billion on Halloween — and $350 million of that is for costumes for their pets, reports the National Retail Federation.\n\nAbout 15 percent of Americans will buy costumes for their pets.\n\nGo online, and you can buy a Robin Hood outfit for your dog. Or a Wonder Woman dog costume.\n\nThey cost as little as $7.80 or as much as $300.\n\nIn Hollywood, pet costumes for movie characters and celebrities are popular. Some dogs are dressed as Edward Scissorhands or Kim Kardashian, reported Entertainment Weekly. In New York, Jimmy Kimmel, the late-night television host, held a dog costume parade on his show.\n\nCat owners can also participate in the fun.\n\nWhy are Americans spending so much on their pets? Time magazine reports that “pets have more status today,” and “more than nine in 10 owners consider their pets to be members of their family.”\n\nThe Halloween pet costume craze is spreading globally.",
   "questions": [
     {
       "question": "What percentage of Americans buy costumes for their pets?",
-      "options": [
-        "10 percent",
-        "15 percent",
-        "20 percent",
-        "25 percent"
-      ],
+      "options": ["10 percent", "15 percent", "20 percent", "25 percent"],
       "answer": "15 percent"
     },
     {

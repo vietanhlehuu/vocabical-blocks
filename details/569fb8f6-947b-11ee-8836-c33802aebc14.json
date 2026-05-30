@@ -5,7 +5,7 @@
     "id": "569f7760-947b-11ee-8835-7b34298f758e",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/5Q0oWDE0AeeHI8AuhVBhQd.jpeg",
+    "url": "https://blocks.vocabical.com/images/5Q0oWDE0AeeHI8AuhVBhQd.jpeg",
     "dimensions": {
       "x": 640,
       "y": 480
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5xrmrQ2iPAUUQD0cbRvaIg.mpga",
+  "audio": "https://blocks.vocabical.com/audio/5xrmrQ2iPAUUQD0cbRvaIg.mpga",
   "main_content": "The Iraqi army has launched what it calls a major offensive to retake the northern city of Tikrit from Sunni ISIL extremists.\n\nMilitary officials say the main ground operation started Saturday with heavy fighting in the city between Sunni militants and Iraqi special forces attempting to regain control of a university campus. Iraqi helicopter gunships fired on the area to repel the militants as Iraqi tanks rumbled from the south to attack.\n\nCasualties are unclear at this time.\n\nThe operation comes shortly after U.S. officials said its military is flying armed drones in Iraqi airspace to protect U.S. military advisers sent to help counter insurgents.\n\nU.S. President Barack Obama sent 300 military personnel to Iraq earlier this month to strengthen government security forces and help establish joint operation centers to combat ISIL.\n\nHuman Rights Watch said Friday analysis of photographs and satellite imagery “strongly indicates” that ISIL extremists conducted mass executions in Tikrit after seizing control of the city.\n\nThe rights group says the extremists killed between 160 and 190 men in at least two locations between June 11 and 14.\n\nU.S. Secretary of State John Kerry was in the Middle East to encourage regional leaders to tackle the Islamist militant threat posed by the conflicts in Syria and Iraq. The White House has announced it wants to send $500 million to train Syrian rebels fighting ISIL and the Syrian president’s forces.\n\nKerry met Thursday in Paris with the foreign ministers of Saudi Arabia, Jordan and the United Arab Emirates, in an effort to rally regional unity against ISIL.\n\nOn Friday he held talks with Saudi King Abdullah. Reuters reports that Abdullah pledged to use Saudi influence to encourage Iraqi Sunni Muslims to join any new inclusive government that might replace the administration of current Iraqi Prime Minister Nouri al-Maliki, who has been criticized for stoking sectarian tensions in Iraq.\n\nThe prime minister has rejected forming any new emergency government saying that would go against the country’s constitution and the results of the April 30 parliamentary election.",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "What amount of financial aid does the US want to send in order for Syrian rebels to be trained and fight against ISIL?",
-      "options": [
-        "$100 million",
-        "$250 million",
-        "$500 million",
-        "$1 billion"
-      ],
+      "options": ["$100 million", "$250 million", "$500 million", "$1 billion"],
       "answer": "$500 million"
     }
   ],

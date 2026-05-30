@@ -5,7 +5,7 @@
     "id": "c1161ac8-ebf0-4faa-b48a-589eb408fb67",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/5sLcUwCUmaiziXfCndfZ1L.jpeg",
+    "url": "https://blocks.vocabical.com/images/5sLcUwCUmaiziXfCndfZ1L.jpeg",
     "dimensions": {
       "x": 512,
       "y": 269
@@ -18,27 +18,17 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2KgD4qtDXmdWiROa8vymdr.mpga",
+  "audio": "https://blocks.vocabical.com/audio/2KgD4qtDXmdWiROa8vymdr.mpga",
   "main_content": "Taiwan authorities are still searching for 11 missing people from the TransAsia Airways plane that clipped a bridge and crashed into a river in Taipei on Wednesday.\n\nThe death toll has risen to 32 as rescuers plumb the shallow, but cold, river for a second day. Investigators have yet to release clues about the cause of the crash.\n\nFire rescue crews were diving into the chilly Keelung River in sometimes rainy weather Thursday to find people who were on board the flight to the Taiwan-controlled outlying islets of Kinmen.\n\nReports that emerged Thursday told of one passenger predicting the crash at takeoff and people on board helping one another in the early minutes of the rescue Wednesday.\n\nLin Ming-yi is the brother of Lin Ming-wei, a passenger who the family says saved his own two-year-old son from drowning. Both parents had escaped with the boy.\n\nHe says it must have been his brother’s instinctual reaction to perform CPR right away. Lin says his brother’s child had been underwater for three minutes. His lips had turned purple and he already had no heartbeat. So his brother responded with urgent CPR to bring him back.",
   "questions": [
     {
       "question": "How many people are still missing from the TransAsia Airways plane crash?",
-      "options": [
-        "5",
-        "11",
-        "32",
-        "20"
-      ],
+      "options": ["5", "11", "32", "20"],
       "answer": "11"
     },
     {
       "question": "What did the plane clip before crashing into the river?",
-      "options": [
-        "A building",
-        "The ground",
-        "A bridge",
-        "Another airplane"
-      ],
+      "options": ["A building", "The ground", "A bridge", "Another airplane"],
       "answer": "A bridge"
     },
     {

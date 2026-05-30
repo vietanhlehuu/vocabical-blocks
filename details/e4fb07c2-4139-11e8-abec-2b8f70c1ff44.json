@@ -5,7 +5,7 @@
     "id": "e4fab150-4139-11e8-abeb-4703c7a5c8a4",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/v5JTm6hTxq5Y28gx1YIAU8i0ZKCKQMT26XLKSVGVT1p.jpeg",
+    "url": "https://blocks.vocabical.com/images/v5JTm6hTxq5Y28gx1YIAU8i0ZKCKQMT26XLKSVGVT1p.jpeg",
     "dimensions": {
       "x": 800,
       "y": 600
@@ -18,27 +18,17 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5s0Y4O3VHepPljPXw3gSJf.mpga",
+  "audio": "https://blocks.vocabical.com/audio/5s0Y4O3VHepPljPXw3gSJf.mpga",
   "main_content": "China’s top official in Hong Kong has warned activists against continuing their democracy campaign. Zhang Xiaoming spoke to a gathering of 4,000 people in Hong Kong. The crowd included Hong Kong’s chief executive and leading Chinese business officials.\n\nMr. Zhang said China’s central government will not permit any rejection of its rule over the city. He said activists could not campaign for independence or criticize the central government, in his words, “through illegal ways.”\n\nPro-democracy demonstrators camped in central parts of the city for two months last year. They demanded the right to a direct election to fill the office of Chief Executive. Chinese officials have proposed that Hong Kong holds a direct vote. But, they say an election committee will choose the candidates.\n\nThe vote for chief executive is planned for 2017.\n\nThe most recent pro-democracy demonstration in Hong Kong was last Sunday. It was the first in more than a month. Activists say they plan a series of peaceful demonstrations to continue until lawmakers vote on Hong Kong’s electoral plans. The date for that vote is not set.\n\nThe expert says strong action from the central government could lead to an exodus, a situation in which many people leave a place at the same time.",
   "questions": [
     {
       "question": "How many people have gathered in Hong Kong?",
-      "options": [
-        "3,000",
-        "4,000",
-        "5,000",
-        "6,000"
-      ],
+      "options": ["3,000", "4,000", "5,000", "6,000"],
       "answer": "4,000"
     },
     {
       "question": "For how long did the pro-democracy demonstrators camp in central parts of the city last year?",
-      "options": [
-        "One month",
-        "Two months",
-        "Three months",
-        "A few weeks"
-      ],
+      "options": ["One month", "Two months", "Three months", "A few weeks"],
       "answer": "Two months"
     },
     {

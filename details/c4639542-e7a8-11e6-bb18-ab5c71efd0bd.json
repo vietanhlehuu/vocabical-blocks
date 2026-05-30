@@ -5,7 +5,7 @@
     "id": "e45dfc28-0eab-11e7-b464-5b19123e021f",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/63SE36POAMnKr1wZmbD8pi.jpeg",
+    "url": "https://blocks.vocabical.com/images/63SE36POAMnKr1wZmbD8pi.jpeg",
     "dimensions": {
       "x": 800,
       "y": 532
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6vYLt7uca9efOxljcwCnGQ.mpga",
+  "audio": "https://blocks.vocabical.com/audio/6vYLt7uca9efOxljcwCnGQ.mpga",
   "main_content": "In the middle of the 1980s, thousands of boys from Sudan escaped the country’s civil war by walking. They are the so-called “Lost Boys of Sudan” and they had little time for games.\n\nBut one of them did learn a game to help him ignore his hunger in a refugee camp. The game was chess. This boy became an expert.\n\nHis name is Majur Juac. Today, Mr. Juac shares his chess skills with students in public and private schools, in chess camps and at other events.\n\n\nDuring Sudan’s civil war he was forced out of the country. He fled to Ethiopia with 20,000 other Lost Boys.\n\nThey made it to Ethiopia. Then, civil war broke out in that country. Majur Juac and his friends had to flee again. Majur Juac landed in Kenya and lived in a refugee camp. It was there that he taught himself to play chess.\n\nIn 2004, Majur Juac arrived in the United States. He continued to play chess. He told the Wall Street Journal that he went to a chess tournament in New York while visiting a friend there. He had only meant to watch the tournament. Instead, he entered it. He finished as tournament champion.\n\nThat competition led to the connections that began his life as a chess teacher.\n\nMajur Juac still has a big goal ahead of him. That goal is to become an international chess master.",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "In what year did Majur Juac arrive in the United States?",
-      "options": [
-        "A. 2000",
-        "B. 2004",
-        "C. 2002",
-        "D. 1999"
-      ],
+      "options": ["A. 2000", "B. 2004", "C. 2002", "D. 1999"],
       "answer": "B. 2004"
     }
   ],

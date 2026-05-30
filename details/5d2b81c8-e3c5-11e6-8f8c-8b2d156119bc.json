@@ -5,7 +5,7 @@
     "id": "e4573d98-0eab-11e7-bffc-abab90a721ad",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/0cvNzFsA5BCknw07G0iRuG.jpeg",
+    "url": "https://blocks.vocabical.com/images/0cvNzFsA5BCknw07G0iRuG.jpeg",
     "dimensions": {
       "x": 512,
       "y": 384
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2A7jcG62WEeObZu2pudz36.mpga",
+  "audio": "https://blocks.vocabical.com/audio/2A7jcG62WEeObZu2pudz36.mpga",
   "main_content": "October 31st is Halloween. On that night, children around the United States will wear special clothing and make up their faces to look like frightening creatures. These little vampires, ghosts and witches will walk around their neighborhoods, knocking on doors and yelling “trick or treat.”  If the people in the homes do not give them a sweet treat, candy, the children may play a trick on them.\n\nMany homes are also dressed up for Halloween. People hang toy spiders, skeletons and other scary decorations on trees and bushes. Pumpkins are also popular. People often empty the pumpkins and carve frightening faces on them. Then they place a candle inside so the pumpkin face glows in the night.\n\nHalloween traditions developed from Celtic beliefs in ancient Britain. The Celts believed that spirits of the dead would return to their homes on October 31st, the day of the autumn feast. Celts would build huge fires to frighten away evil spirits released with the dead on that night.\n\nPeople from Scotland and Ireland brought these ideas with them when they came to America. Some believed that spirits played tricks on people on the last night of October.\n\nToday, Halloween is a favorite holiday among children. But Halloween is also big business. The National Retail Federation has reported predictions about Halloween spending for the last 11 years. It says, this year, it expects Halloween sales to total about $7.4 billion. The National Retail Federation says the average person will spend more than $77 on Halloween goods. And, the NRF says more Americans plan to take part in Halloween activities than last year. The group expects 162 million people to celebrate compared to 158 million people in 2013. It says 54 million of those people plan to hold Halloween parties.",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "How many people celebrated Halloween in 2013?",
-      "options": [
-        "162 million",
-        "158 million",
-        "54 million",
-        "77 million"
-      ],
+      "options": ["162 million", "158 million", "54 million", "77 million"],
       "answer": "158 million"
     }
   ],

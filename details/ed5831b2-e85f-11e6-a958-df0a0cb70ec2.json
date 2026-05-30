@@ -5,7 +5,7 @@
     "id": "e45d4d78-0eab-11e7-b3f9-274e5fac9597",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/5ToaOPmVsR2WFL1gSfJyCq.jpeg",
+    "url": "https://blocks.vocabical.com/images/5ToaOPmVsR2WFL1gSfJyCq.jpeg",
     "dimensions": {
       "x": 512,
       "y": 382
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2hVH8mdM7EgPsDkDNSfZTm.mpga",
+  "audio": "https://blocks.vocabical.com/audio/2hVH8mdM7EgPsDkDNSfZTm.mpga",
   "main_content": "America’s holiday shopping season started on Black Friday, the day after Thanksgiving. It is the busiest shopping day of the year.\n\nRetailers make the most money this time of year, about 20 percent to 30 percent of all revenue all year. The National Retail Federation (NRF) says about 136 million people will shop during the Thanksgiving Holiday weekend.\n\nMore and more will shop online.\n\nOnline spending on Black Friday will rise 15 percent to hit $2.7 billion this year. Cyber Monday spending will increase 12 percent to $3 billion, says Adobe Systems Inc.\n\nAccording to the NRF, the average American consumer will spend about $805 on gifts. That’s about $630.5 billion between November and December – an increase of 3.7 percent from last year.\n\nNonetheless, Cyber Monday is not the biggest online shopping day in the world. That distinction goes to China’s Singles’ Day, celebrated November 11, which posted record sales of $14.3 billion this year.",
   "questions": [
     {
       "question": "How much will the average American consumer spend on gifts?",
-      "options": [
-        "$905",
-        "$705",
-        "$805",
-        "$605"
-      ],
+      "options": ["$905", "$705", "$805", "$605"],
       "answer": "$805"
     },
     {

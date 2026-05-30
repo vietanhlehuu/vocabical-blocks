@@ -5,7 +5,7 @@
     "id": "6779c955-f745-4aa9-b7b2-49ce76170b13",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/39Frhrscf71nViPUjj14vD.jpeg",
+    "url": "https://blocks.vocabical.com/images/39Frhrscf71nViPUjj14vD.jpeg",
     "dimensions": {
       "x": 512,
       "y": 384
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7ajBiwrUo6U1AdHxvGMN2t.mpga",
+  "audio": "https://blocks.vocabical.com/audio/7ajBiwrUo6U1AdHxvGMN2t.mpga",
   "main_content": "Investors in Hong Kong and Shanghai may now invest in a limited group of securities on either city’s stock exchange.\n\nC. K. Chow is the chairman of Hong Kong Exchanges and Clearing. He called the move “a breakthrough in the opening of China’s financial markets and an important milestone in the development of Hong Kong.”  He said the new way to invest made Hong Kong a gateway between mainland China and international investors.\n\nThe Shanghai-Hong Kong Stock Connect gives investors the ability to buy stocks listed in mainland China. It also permits Chinese investors to buy stocks listed in Hong Kong.\n\nThere are limits, however, to the value and the kinds of stocks that can be traded. Investors may trade only a total of $3.8 billion-dollars-worth of stocks each day.\n\nJulian Evans-Pritchard is a China economic expert at Capital Economics based in Singapore. He told VOA’s Victor Beattie that the move to open the stock exchanges to each other was important. But Mr. Evans-Pritchard noted that the total value of stock that can be traded is a relatively small quota.\n\n“The immediate impact of the scheme is not likely to be that big and that is partly because regulators are taking a very cautious approach to limiting the quota to about one percent of the market capitalization of each market.”\n\nMr. Evans-Pritchard says, if the quota is filled, officials may see a reason to increase it over time and open up the exchange further. The stock plan represents a limited reform measure. Mr. Evans-Pritchard says what is important is that China is opening up its capital account to foreign investment money, which can come in or go out.\n\nChina’s stock market offerings have had limited success in recent years. The biggest public stock offering by a Chinese company, Alibaba, took place on the New York Stock Exchange rather than within China.",
   "questions": [
     {
@@ -33,12 +33,7 @@
     },
     {
       "question": "Where is Capital Economics based?",
-      "options": [
-        "Shanghai",
-        "Hong Kong",
-        "Beijing",
-        "Singapore"
-      ],
+      "options": ["Shanghai", "Hong Kong", "Beijing", "Singapore"],
       "answer": "Singapore"
     },
     {

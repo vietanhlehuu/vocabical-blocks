@@ -5,7 +5,7 @@
     "id": "3a0bd29a-eca4-4cc0-813f-f0741d41373d",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/1lWxOKkZWAsrpQCtrx5dOf.jpeg",
+    "url": "https://blocks.vocabical.com/images/1lWxOKkZWAsrpQCtrx5dOf.jpeg",
     "dimensions": {
       "x": 255,
       "y": 416
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1wEweKJiVZlb9DmZtMcmP6.mpga",
+  "audio": "https://blocks.vocabical.com/audio/1wEweKJiVZlb9DmZtMcmP6.mpga",
   "main_content": "The wealthiest 62 people own as much as half the world’s population, as the super-rich have grown richer and the poor poorer, according to international charity Oxfam.\n\nFive years ago, 388 people owned as much as half the world’s population.\n\nWhile the wealth of the poorest half of the world’s population, more than 3.6 billion people, has fallen by a trillion dollars, or 41 percent, since 2010, Oxfam says the wealth of the super-elite has risen by around half a trillion dollars.\n\nThe group released its report before the World Economic Forum’s annual meeting in Davos, Switzerland.\n\nAlmost half the super-rich individuals are from the United States, 17 from Europe, and the rest from countries including China, Brazil, Mexico, Japan and Saudi Arabia.\n\n“World leaders’ concern about the escalating inequality crisis has so far not translated into concrete action.The world has become a much more unequal place and the trend is accelerating,” Oxfam International’s executive director, Winnie Byanima, said in a statement accompanying the report.\n\nThough acknowledging that dealing with inequalities has become a part of discussions in Davos, Oxfam said it is time for leaders to do more than just acknowledge the problem, especially if they want to hit poverty-reduction targets.\n\nEnsuring governments collect the taxes they are owed by companies and rich individuals will be vital if world leaders are to meet their goal to eliminate extreme poverty by 2030, one of 17 Sustainable Development Goals set in September, Oxfam said.",
   "questions": [
     {
@@ -33,12 +33,7 @@
     },
     {
       "question": "Where do most of the “super-rich” people live?",
-      "options": [
-        "In Europe",
-        "In Asia",
-        "In the United States",
-        "In Brazil"
-      ],
+      "options": ["In Europe", "In Asia", "In the United States", "In Brazil"],
       "answer": "In the United States"
     },
     {

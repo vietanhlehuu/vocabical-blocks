@@ -5,7 +5,7 @@
     "id": "b4a92a4a-7b6b-472b-a1d0-5431c720c793",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/5UtvVZoMsQhnVGuUnHkydn.jpeg",
+    "url": "https://blocks.vocabical.com/images/5UtvVZoMsQhnVGuUnHkydn.jpeg",
     "dimensions": {
       "x": 512,
       "y": 683
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1jHfMbKhBdnfzWEe9ajV4P.mpga",
+  "audio": "https://blocks.vocabical.com/audio/1jHfMbKhBdnfzWEe9ajV4P.mpga",
   "main_content": "Giant automaker General Motors could be on the verge of paying a record penalty for failing to reveal an ignition defect in its vehicles linked to at least 104 deaths, according to a report Friday in The New York Times.\n\nGM’s settlement payment is still being negotiated, but is expected to surpass the $1.2 billion Toyota paid last year for failing to reveal unintended acceleration problems in its vehicles, the newspaper’s unnamed sources said.\n\nThe New York Times said GM’s “eagerness to resolve the investigation” will likely earn the carmaker a “cooperation credit,” making the penalty it pays “somewhat smaller” than if GM had declined to cooperate.\n\nLast year, GM, paid “an estimated $3 billion” on recalls and other safety issues, according the the report. That amount included $600 million set aside to compensate switch-related accident victims and their families.\n\nThe Times said GM has paid the National Highway Traffic Safety Administration a $35 million fine for failing to report the faulty ignition problem in “a timely manner.”",
   "questions": [
     {
@@ -33,12 +33,7 @@
     },
     {
       "question": "How much did Toyota have to pay last year?",
-      "options": [
-        "$500 million",
-        "$1.2 billion",
-        "$3 billion",
-        "$600 million"
-      ],
+      "options": ["$500 million", "$1.2 billion", "$3 billion", "$600 million"],
       "answer": "$1.2 billion"
     },
     {

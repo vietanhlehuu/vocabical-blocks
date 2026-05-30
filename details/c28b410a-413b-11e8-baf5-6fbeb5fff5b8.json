@@ -5,7 +5,7 @@
     "id": "c28ab2ee-413b-11e8-baf4-c354463e7df9",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/p6r38bjYDMJZvFK010xMUsUjhJgysiIrAfggSZzDBwp.jpeg",
+    "url": "https://blocks.vocabical.com/images/p6r38bjYDMJZvFK010xMUsUjhJgysiIrAfggSZzDBwp.jpeg",
     "dimensions": {
       "x": 5520,
       "y": 3925
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1KctzWSbPf9XKiHN1QeWZa.mpga",
+  "audio": "https://blocks.vocabical.com/audio/1KctzWSbPf9XKiHN1QeWZa.mpga",
   "main_content": "In New York City public schools, 176 different languages are spoken among the more than 1 million students.\n\nFor 160,000 children, English is not their first language. New York’s Department of Education makes learning better for these students by providing dual language programs.\n\nStudents are taught in two languages, English and another one, like Russian or Chinese. Math, and all other regular courses are taught in both languages. And they learn about the culture of the other country.\n\nMilady Baez is Deputy Chancellor of English Language Learners and Student Support. She says these dual language programs will help children succeed in the future.\n\n“The jobs of the future require that our students know more than one language.”\n\nDavid A. Booty Middle School in Brooklyn offers dual language education in four languages: Russian, Mandarin, Spanish and Hebrew.\n\nThe New York schools also offer dual-language programs in seven other languages: Arabic, French, Haitian Creole, Hebrew, Korean, Polish and Spanish. There are plans to add even more languages in the future.",
   "questions": [
     {
       "question": "For how many children in New York English is not the first language?",
-      "options": [
-        "150,000",
-        "160,000",
-        "170,000",
-        "180,000"
-      ],
+      "options": ["150,000", "160,000", "170,000", "180,000"],
       "answer": "160,000"
     },
     {

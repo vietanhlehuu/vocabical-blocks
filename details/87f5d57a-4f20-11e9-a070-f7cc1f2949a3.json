@@ -5,7 +5,7 @@
     "id": "87f556fe-4f20-11e9-a06f-0bb07462ed38",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/4T0nNB9x72CratCtjTw1f7.jpeg",
+    "url": "https://blocks.vocabical.com/images/4T0nNB9x72CratCtjTw1f7.jpeg",
     "dimensions": {
       "x": 512,
       "y": 341
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1DEzxGbEyjvwDAstl2NNMa.mpga",
+  "audio": "https://blocks.vocabical.com/audio/1DEzxGbEyjvwDAstl2NNMa.mpga",
   "main_content": "Public anger is growing in China following last week’s deadly explosions at a warehouse in the northern port city of Tianjin.\n\nOn Monday, angry residents gathered outside a building where Tianjin officials spoke to the media.\n\nThe residents are asking the government to hold talks with them and provide answers about what happened. The explosions have forced about 6,000 people to leave their homes.\n\nOfficials did not give clear answers about what the government plans to do to help displaced residents. They say they are investigating the disaster. And, they say, if they learn that anyone violated the law, they will punish whoever is responsible.\n\nMany are asking why a warehouse that contained dangerous chemicals was permitted to operate so close to people’s houses. Chinese media have suggested the answer is political connections.\n\nA study at the time found the site had some environmental risks, but it was safe enough to operate.\n\nNow, people are growing concerned about the possible spread of sodium cyanide following the blast. The explosion also included a deadly combination of other dangerous chemicals.",
   "questions": [
     {
       "question": "Where in China did the explosions happen?",
-      "options": [
-        "Beijing",
-        "Shanghai",
-        "Tianjin",
-        "Guangzhou"
-      ],
+      "options": ["Beijing", "Shanghai", "Tianjin", "Guangzhou"],
       "answer": "Tianjin"
     },
     {

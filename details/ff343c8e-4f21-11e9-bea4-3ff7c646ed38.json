@@ -5,7 +5,7 @@
     "id": "ff34179a-4f21-11e9-bea3-677d2b82d6a2",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/7gq45N0Wcj7xtXll51NC4n.jpeg",
+    "url": "https://blocks.vocabical.com/images/7gq45N0Wcj7xtXll51NC4n.jpeg",
     "dimensions": {
       "x": 512,
       "y": 384
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2dGQUaVx5HwdudYbZlQnNq.mpga",
+  "audio": "https://blocks.vocabical.com/audio/2dGQUaVx5HwdudYbZlQnNq.mpga",
   "main_content": "Americans have an expression: “If you give a person a fish, they will eat for a day. If you teach a person to fish, they can eat for a lifetime.”\n\nOne way to explain this is that helping people grow their own food is a better way to fight hunger. That is the purpose of an agricultural research organization called HarvestPlus.\n\nHarvestPlus is teaching people around the world how to grow what it calls “smart” crops.\n\nIn 2006, HarvestPlus workers provided orange sweet potato plants to people in 24 Mozambique villages.\n\nFarmers in Mozambique had been planting white and yellow sweet potatoes. The white and yellow potatoes have very little Vitamin A. However, one small, orange sweet potato has a full day’s supply of Vitamin A.\n\nA lack of Vitamin A is dangerous. Without enough Vitamin A, you face an increased risk of getting a serious disease or dying from infections.\n\nEconomist Alan de Brauw is with the International Food Policy Research Institute.\n\nMr. de Brauw says the potatoes had a surprising effect on the health of children.",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "The orange sweet potato has a full day’s supply of which vitamin?",
-      "options": [
-        "Vitamin C",
-        "Vitamin B12",
-        "Vitamin A",
-        "Vitamin D"
-      ],
+      "options": ["Vitamin C", "Vitamin B12", "Vitamin A", "Vitamin D"],
       "answer": "Vitamin A"
     }
   ],

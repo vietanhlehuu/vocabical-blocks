@@ -5,7 +5,7 @@
     "id": "62ccdfe7-54d0-455c-896f-fa9489e3c97d",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/30QsJNYb1w5BNhGqfgNPQ5.jpeg",
+    "url": "https://blocks.vocabical.com/images/30QsJNYb1w5BNhGqfgNPQ5.jpeg",
     "dimensions": {
       "x": 340,
       "y": 296
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/62mJerczrmm5kpWgRqRewX.mpga",
+  "audio": "https://blocks.vocabical.com/audio/62mJerczrmm5kpWgRqRewX.mpga",
   "main_content": "Haitian law enforcement officials continued their search Monday for 328 inmates on the run following an attack at a high security prison on the outskirts of Haiti’s capital that led to a mass jailbreak from the facility.\n\nAuthorities said the attack was apparently intended to free Clifford Brandt, a member of a prominent and wealthy family jailed since 2012 on kidnapping charges.\n\nBrandt escaped with the other prisoners, only 10 of whom have been recaptured.\n\nWitnesses said about 15 gunmen in two SUVs showed up at the prison in Croix-des-Bouquets before noon on Sunday and opened fire on guards, wounding two.\n\nAll the escapees are reportedly either convicted or accused of drug trafficking or kidnapping for ransom. Authorities in Haiti have offered a $20,000 reward for information leading to Brandt’s recapture. Haiti also has asked the neighboring Dominican Republic and nearby Jamaica for help in its international manhunt, and has notified Interpol.\n\nThe prison, near Port-au-Prince, held 899 inmates at the time of the attack, about 130 over capacity.",
   "questions": [
     {
       "question": "How many inmates have escaped during the jailbreak?",
-      "options": [
-        "328 inmates",
-        "899 inmates",
-        "10 inmates",
-        "15 inmates"
-      ],
+      "options": ["328 inmates", "899 inmates", "10 inmates", "15 inmates"],
       "answer": "328 inmates"
     },
     {

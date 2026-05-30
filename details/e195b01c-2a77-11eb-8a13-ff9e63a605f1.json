@@ -5,7 +5,7 @@
     "id": "e195294e-2a77-11eb-8a12-9bf9349e2bf8",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/7W4FPSg5I1YllDX7KppE1P.jpeg",
+    "url": "https://blocks.vocabical.com/images/7W4FPSg5I1YllDX7KppE1P.jpeg",
     "dimensions": {
       "x": 2141,
       "y": 1393
@@ -18,27 +18,17 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6VMzxJHQNvUwspHCPOJThz.mpga",
+  "audio": "https://blocks.vocabical.com/audio/6VMzxJHQNvUwspHCPOJThz.mpga",
   "main_content": "April 22 is the 45th anniversary of Earth Day. This year’s theme is “It’s Our Turn to Lead.” The organization, Earth Day Network, says a huge number of people have joined the environmental movement since the first Earth Day in 1970.\n\nBack then, about 20 million people around the world were mobilized. This year, more than one billion people are planning to take action to protect the planet. And the events will be large and small.\n\nIn Plant City, Florida, a community garden is holding its first Earth Day fundraiser.\n\nIn Washington, D.C., the Earth Day celebration will be out of this world. NASA is hosting a series of events on the National Mall and at Union Station.\n\nSome GLOBE students from West Virginia will celebrate Earth Day at Union Station in Washington.\n\nIn Beijing, a hiking group will clean up and carry away trash along part of the Great Wall. An environmental group in Singapore will also do some cleanup although its focus is the island’s coasts.\n\nThere are hundreds of Earth Day events taking place around the world. Many will continue beyond a single day.",
   "questions": [
     {
       "question": "What date is the 45th anniversary of Earth Day?",
-      "options": [
-        "April 22",
-        "April 23",
-        "March 22",
-        "May 22"
-      ],
+      "options": ["April 22", "April 23", "March 22", "May 22"],
       "answer": "April 22"
     },
     {
       "question": "How many people are planning to take action to protect the planet this year?",
-      "options": [
-        "20 million",
-        "1 billion",
-        "500 million",
-        "100 million"
-      ],
+      "options": ["20 million", "1 billion", "500 million", "100 million"],
       "answer": "1 billion"
     },
     {

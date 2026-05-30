@@ -5,7 +5,7 @@
     "id": "b23a4614-cb39-4ed1-8f4e-9e49ec2b93c6",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/5QJGS8R81efOj5cCRxJPqI.jpeg",
+    "url": "https://blocks.vocabical.com/images/5QJGS8R81efOj5cCRxJPqI.jpeg",
     "dimensions": {
       "x": 512,
       "y": 384
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1kjSlLzUUy5zDgz7uVuaOs.mpga",
+  "audio": "https://blocks.vocabical.com/audio/1kjSlLzUUy5zDgz7uVuaOs.mpga",
   "main_content": "At almost regular intervals, our sun displays phenomena benignly called sunspots. Actually, they are violent storms.\n\nSpace scientists closely observe this activity, because it may have adverse effects on communications, navigation and even power grids. But the diminishing intensity of the last two solar cycles leaves them puzzled.\n\nWhen gigantic electromagnetic storms occur on the sun, we see them eight minutes later, which is how long it takes the light to reach Earth.\n\nIt takes the first charged particles ejected by the storms 20 to 30 minutes to arrive. They are dangerous to humans, so if the storm is intense, astronauts aboard the International Space Station are advised to move into specially protected areas.\n\nAfter a day or two comes the biggest part of the storm, the coronal mass ejection.\n\n“That is billions of tons of solar material that’s blown away from the sun,” said Alex Young of NASA’s Heliophysics Science Division. “It’s traveling millions of kilometers an hour, but that is relatively slow.”\n\n“Also, sometimes the intensity is higher and sometimes it is lower,” Young said. “The current solar cycle that we are in is much lower than the previous one.”\n\nAnother big question: Why is the sun’s atmosphere hotter than its surface?\n\n“Particles are much farther and farther apart,” Young said, “but the temperature — that is, how fast these particles are moving — increases very quickly, going from tens of thousands of degrees up to millions of degrees.”\n\nSeveral satellites are constantly observing the sun, as well as the environment between the sun and Earth, sending pictures and other data. Young said we have been looking at the sun in incredible detail for only 30 to 40 years, and because our star is about 4 billion years old, that is only a tiny fraction of its long life.",
   "questions": [
     {
@@ -33,12 +33,7 @@
     },
     {
       "question": "How long does it take light to get from the Sun to Earth?",
-      "options": [
-        "20 to 30 minutes.",
-        "8 minutes.",
-        "1 hour.",
-        "10 minutes."
-      ],
+      "options": ["20 to 30 minutes.", "8 minutes.", "1 hour.", "10 minutes."],
       "answer": "8 minutes."
     },
     {

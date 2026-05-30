@@ -5,7 +5,7 @@
     "id": "84d02e6e-c9ac-4950-88f0-e7813a98f22c",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/42c7pZ5ZSKJbkwQzzsESXk.jpeg",
+    "url": "https://blocks.vocabical.com/images/42c7pZ5ZSKJbkwQzzsESXk.jpeg",
     "dimensions": {
       "x": 1024,
       "y": 768
@@ -18,27 +18,17 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/49nfFUbwdkDqL0DJXdPWeb.mpga",
+  "audio": "https://blocks.vocabical.com/audio/49nfFUbwdkDqL0DJXdPWeb.mpga",
   "main_content": "Legendary American guitarist B.B. King, considered one of the most influential blues musicians of all-time, has died at the age of 89.\n\nThe “King of Blues” died peacefully in his sleep Thursday night at his home in the western U.S. city of Las Vegas, his attorney said.\n\nDuring his nearly 70-year career, King helped popularize the blues genre and influenced countless other rock and blues musicians with his deep, soulful vocals and trademark vibrato electric guitar style.\n\nKing was born in 1925 on a cotton plantation in the southern U.S. state of Mississippi. He got his start in the music industry working as a disc jockey and performer at a radio station in Memphis, Tennessee, where he became known as the Beale Street Blues Boy, a name that was later shortened to “B.B.”\n\nKing, who nicknamed his guitar “Lucille,” was inducted into the Rock and Roll Hall of Fame and the Blues Foundation Hall of Fame. His hit songs include The Thrill is Gone, Let the Good Times Roll and How Blue Can You Get.",
   "questions": [
     {
       "question": "What kind of music did B.B. King play?",
-      "options": [
-        "Jazz",
-        "Country",
-        "Blues",
-        "Rock"
-      ],
+      "options": ["Jazz", "Country", "Blues", "Rock"],
       "answer": "Blues"
     },
     {
       "question": "Where was he living?",
-      "options": [
-        "Los Angeles",
-        "New York",
-        "Memphis",
-        "Las Vegas"
-      ],
+      "options": ["Los Angeles", "New York", "Memphis", "Las Vegas"],
       "answer": "Las Vegas"
     },
     {

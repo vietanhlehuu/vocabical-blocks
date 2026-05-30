@@ -5,7 +5,7 @@
     "id": "3cc7b512-761a-11ed-884d-cb239f6ba0d1",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/2PBCth3pbijQ5cwEZ8d6ZB.jpeg",
+    "url": "https://blocks.vocabical.com/images/2PBCth3pbijQ5cwEZ8d6ZB.jpeg",
     "dimensions": {
       "x": 512,
       "y": 288
@@ -18,27 +18,17 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6U460WS9uus6UERHEAVMO8.mpga",
+  "audio": "https://blocks.vocabical.com/audio/6U460WS9uus6UERHEAVMO8.mpga",
   "main_content": "Islamic rebels in Syria have freed an American journalist they have held since 2012, just days after another American reporter was beheaded.\n\nKidnappers turned over Peter Theo Curtis to a United Nations representative Sunday, although the circumstances of his release were not immediately known. He was believed to be held by the al-Nusra Front, an al-Qaida affiliate in Syria.\n\nIn a video that surfaced during his captivity, Curtis said he was a journalist from Boston, Massachusetts and was being well cared for.\n\nThe U.S.-based Committee to Protect Journalists said that Curtis was among about 20 journalists believed to be missing in Syria.\n\nIn a statement, the White House said President Obama “shares in the joy and relief that we all feel now that Theo is out of Syria and safe. But we continue to hold in our thoughts and prayers the Americans who remain in captivity in Syria – and we will continue to use all of the tools at our disposal to see that the remaining American hostages are freed.”\n\nU.S. Secretary of State John Kerry praised the release of Curtis and said the United States is using its widespread diplomatic, military and intelligence contacts to free other Americans held hostage in Syria. He said he is relieved to know that Curtis is coming home after being held by Jabhat Al-Nusrah.\n\nIn a statement released by the U.S. State Department, Curtis’s family expressed gratitude to the U.S. and Qatar governments and others who helped secure his release.\n\n“My heart is full at the extraordinary, dedicated, incredible people, too many to name individually, who have become my friends and have tirelessly helped us over these many months,” said Curtis’ mother, Nancy Curtis, of Cambridge, Massachusetts.\n\nMeanwhile, Britain said it is close to identifying a man, thought to be British, as the Islamic State fighter who beheaded American journalist James Foley as a protest against U.S. airstrikes against the militants in Iraq.\n\nThe British ambassador to the United States, Peter Westmacott, told the CNN television news network that Britain is using “sophisticated technologies” and voice identification to track down the hooded killer shown in a video standing next to Foley before decapitating him.\n\nThe Sunday Times newspaper reported British intelligence agencies have identified the jihadist, but its sources did not divulge his name.",
   "questions": [
     {
       "question": "Which organisation kidnapped Peter Theo Curtis?",
-      "options": [
-        "Al-Nusra Front",
-        "Islamic State",
-        "Hezbollah",
-        "FSA"
-      ],
+      "options": ["Al-Nusra Front", "Islamic State", "Hezbollah", "FSA"],
       "answer": "Al-Nusra Front"
     },
     {
       "question": "How many journalists are supposed to be held hostage in Syria?",
-      "options": [
-        "10",
-        "20",
-        "30",
-        "50"
-      ],
+      "options": ["10", "20", "30", "50"],
       "answer": "20"
     },
     {

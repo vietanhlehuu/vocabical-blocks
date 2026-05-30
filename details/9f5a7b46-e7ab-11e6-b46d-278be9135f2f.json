@@ -5,7 +5,7 @@
     "id": "e45f808e-0eab-11e7-b544-57da33d5585a",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/7HuBphKpKHjyESrgDTB2Gg.jpeg",
+    "url": "https://blocks.vocabical.com/images/7HuBphKpKHjyESrgDTB2Gg.jpeg",
     "dimensions": {
       "x": 512,
       "y": 325
@@ -18,37 +18,22 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6URct3oO7fAQAxL0L7QWAM.mpga",
+  "audio": "https://blocks.vocabical.com/audio/6URct3oO7fAQAxL0L7QWAM.mpga",
   "main_content": "The Syrian Network for Human Rights says Syrian army helicopters dropped more than 1,700 barrel bombs last month. Those attacks are said to have killed at least 103 people, including 25 children and 15 women.\n\nThirteen-year-old Ahmed and eleven-year-old Nizar both survived barrel bomb attacks. The force from the explosions nearly crushed them. But they are alive and learning to deal with their injuries.\n\nAhmed is partially paralyzed, unable to move anything below his chest. He has only recently started to use his hands and arms. But the rest of his body will most likely never be able to move again.\n\nThe Syrian Network for Human Rights reported this week on the Syrian government’s use of barrel bombs. First used in August 2012, they are simple devices: oil drums or other containers filled with the explosive TNT and pieces of metal.\n\nThe United Nations Security Council condemned the use of barrel bombs in February 2014.\n\nDoctors at the hospital are numbed by the tragedies and wonder why, after four years, more has not been done in Syria.",
   "questions": [
     {
       "question": "How many people in Syria were killed last month?",
-      "options": [
-        "Over 1,500",
-        "103",
-        "25",
-        "15"
-      ],
+      "options": ["Over 1,500", "103", "25", "15"],
       "answer": "103"
     },
     {
       "question": "How many of the killed people were children?",
-      "options": [
-        "25",
-        "103",
-        "15",
-        "11"
-      ],
+      "options": ["25", "103", "15", "11"],
       "answer": "25"
     },
     {
       "question": "How old is Ahmed?",
-      "options": [
-        "11",
-        "12",
-        "13",
-        "14"
-      ],
+      "options": ["11", "12", "13", "14"],
       "answer": "13"
     }
   ],

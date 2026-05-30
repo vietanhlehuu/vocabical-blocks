@@ -5,7 +5,7 @@
     "id": "e4594836-0eab-11e7-b1ae-9bdd36f08b78",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/2Jr5nPcSlfrNEUrE0sVxk2.jpeg",
+    "url": "https://blocks.vocabical.com/images/2Jr5nPcSlfrNEUrE0sVxk2.jpeg",
     "dimensions": {
       "x": 800,
       "y": 600
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5Lmm2ecFJHFHDwEKISYaca.mpga",
+  "audio": "https://blocks.vocabical.com/audio/5Lmm2ecFJHFHDwEKISYaca.mpga",
   "main_content": "Makers of a prototype flying car have unveiled their latest model at a technology festival in Austin, Texas, promising to have a model available for purchase by 2017.\n\nSlovakian company AeroMobil this week put its flying car on display at the South by Southwest Interactive conference. The two-seater vehicle runs on standard gasoline and can operate on both the highway and in the air, taking off from a grass or pavement runway of 300 meters or less.\n\nThe makers say the vehicle, which fits into a standard-size parking space and auto lane, has a top flight speed of about 200 kilometers per hour and top road speed of about 160 kilometers per hour.\n\nAeroMobil says its vehicle is designed to increase efficiency on what it calls “medium distance” trips – around 650 kilometers – where travel to and from the airport greatly lengthens the time it takes to make a relatively short flight.\n\nThe company says the current model, known as the Flying Roadster, will be sold at a cost of several hundred thousand dollars. If the Roadster sells well enough, Aeromobil plans to develop a self-flying model.",
   "questions": [
     {
       "question": "According to the article, when does AeroMobil promise to have a model available for purchase?",
-      "options": [
-        "By 2016",
-        "By 2017",
-        "In 2018",
-        "In 2019"
-      ],
+      "options": ["By 2016", "By 2017", "In 2018", "In 2019"],
       "answer": "By 2017"
     },
     {

@@ -5,7 +5,7 @@
     "id": "d500c0c4-73c7-11ea-ae7f-17277535eb9f",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/X196HEsoIMXuxuWeeBow9U0TzFW8Ij06mFHfTAeN56z.jpeg",
+    "url": "https://blocks.vocabical.com/images/X196HEsoIMXuxuWeeBow9U0TzFW8Ij06mFHfTAeN56z.jpeg",
     "dimensions": {
       "x": 1000,
       "y": 667
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2IotjfoKWNejmOBXeT6Him.mpga",
+  "audio": "https://blocks.vocabical.com/audio/2IotjfoKWNejmOBXeT6Him.mpga",
   "main_content": "The International Campaign to Ban Landmines says there are nine new landmine victims around the world every day. A group of young people from the United States recently went overseas to investigate the problem.\n\nMelanie Saltzman is a student at Northwestern University’s Medill Graduate School of Journalism in Evanston, Illinois. She recently traveled halfway around the world to Cambodia. She met there with members of a rural community who have suffered horrible injuries from landmine accidents.\n\nCambodia has one of the largest populations of amputees – individuals who have had an arm or leg removed.\n\nMs. Saltzman was part of a team of students from the Medill Graduate School of Journalism. They studied the effects of landmines and cluster bombs around the world and what steps the United States is taking to disarm them.\n\nJosh Meyer led the student journalism project.\n\nBased on her trip to Cambodia, Melanie Saltzman produced a film. It is called Living with the Legacy of War.",
   "questions": [
     {
       "question": "Which country has one of the largest populations of amputees?",
-      "options": [
-        "Vietnam",
-        "Cambodia",
-        "Afghanistan",
-        "Iraq"
-      ],
+      "options": ["Vietnam", "Cambodia", "Afghanistan", "Iraq"],
       "answer": "Cambodia"
     },
     {

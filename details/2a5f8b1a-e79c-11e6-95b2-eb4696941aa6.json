@@ -5,7 +5,7 @@
     "id": "59468e91-6f3b-4bc5-8c00-f9c9fdc3e1dc",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/2iSYpAQSijTiyG7FnP074O.jpeg",
+    "url": "https://blocks.vocabical.com/images/2iSYpAQSijTiyG7FnP074O.jpeg",
     "dimensions": {
       "x": 512,
       "y": 348
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1miLrCuZXUcMRg7LdxETmF.mpga",
+  "audio": "https://blocks.vocabical.com/audio/1miLrCuZXUcMRg7LdxETmF.mpga",
   "main_content": "A great master of blues guitar, B.B. King, is dead. King died Thursday night at his home in Las Vegas, Nevada. He was 89 years old.\n\nB.B. King was in the music business for almost 70 years. He influenced generations of musicians during his career.\n\nWherever B.B. King traveled, at least one of his black Gibson guitars came along. He named each “Lucille.” He told fans he first named his guitar after a performance at a club in Arkansas. He said two men began to fight and started a fire in the process.\n\n“And everybody started to run for the front door, including B.B. King. But when I got on the outside, then I realized I’d left my guitar.”\n\nHe went back into the burning building. He got his guitar but almost lost his life, he said.\n\nLater, King discovered the two men in the club had been fighting over a woman named Lucille.\n\nB.B. King won 15 Grammy awards. He was named to the Blues Foundation Hall of Fame, as well as the Rock and Roll and R&B halls of fame.",
   "questions": [
     {
@@ -33,22 +33,12 @@
     },
     {
       "question": "How long has he been in the music business?",
-      "options": [
-        "50 years",
-        "60 years",
-        "70 years",
-        "80 years"
-      ],
+      "options": ["50 years", "60 years", "70 years", "80 years"],
       "answer": "70 years"
     },
     {
       "question": "What did B.B. King name all his guitars?",
-      "options": [
-        "Gibson",
-        "Lucille",
-        "Bluesy",
-        "Sweetheart"
-      ],
+      "options": ["Gibson", "Lucille", "Bluesy", "Sweetheart"],
       "answer": "Lucille"
     }
   ],

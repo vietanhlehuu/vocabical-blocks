@@ -5,7 +5,7 @@
     "id": "473eea91-35f5-4823-8f2c-b18358ca44ab",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/2ARCtghVhhzPCiKvmie43X.jpeg",
+    "url": "https://blocks.vocabical.com/images/2ARCtghVhhzPCiKvmie43X.jpeg",
     "dimensions": {
       "x": 512,
       "y": 384
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7ihVultHFd2pUEhrDlamap.mpga",
+  "audio": "https://blocks.vocabical.com/audio/7ihVultHFd2pUEhrDlamap.mpga",
   "main_content": "The new force gathered with the old one on Monday, when“Star Wars: The Force Awakens” made its world premiere in Hollywood.\n\n“The Force Awakens” is the seventh film in the “Star Wars” series. The original premiered in 1977 and made movie stars of three actors. Carrie Fisher played Princess Leia, Mark Hamill was Luke Skywalker and Harrison Ford played Han Solo.\n\nThe trio returned to reprise their roles in one of the most secretive movie openings of all time.\n\n“There’s a lot of admirable characteristics to the opportunity [of being in this picture],” Ford said. “People have been anticipating this film for a long time.”\n\nJohn Boyega plays Finn, a new character. He expressed respect for the work of his older co-stars.\n\nThe red carpet event included the stars, but the movie’s Stormtroopers and droids also made appearances.\n\nMonday’s preview is a sneak peek of the excitement which will take place at theaters in North America. “The Force Awakens” officially opened on December 18.",
   "questions": [
     {
       "question": "When did “Star Wars: The Force Awakens” officially open?",
-      "options": [
-        "December 10",
-        "December 18",
-        "January 1",
-        "November 15"
-      ],
+      "options": ["December 10", "December 18", "January 1", "November 15"],
       "answer": "December 18"
     },
     {

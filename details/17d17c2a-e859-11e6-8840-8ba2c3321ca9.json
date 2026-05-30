@@ -5,7 +5,7 @@
     "id": "e45fe8ee-0eab-11e7-b580-776f7ccdbd21",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/7aJYnW9aVYucaDw9p0tf5I.jpeg",
+    "url": "https://blocks.vocabical.com/images/7aJYnW9aVYucaDw9p0tf5I.jpeg",
     "dimensions": {
       "x": 512,
       "y": 288
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3JgLm835GC1O8j3MVFDbHZ.mpga",
+  "audio": "https://blocks.vocabical.com/audio/3JgLm835GC1O8j3MVFDbHZ.mpga",
   "main_content": "A new phone app uses vibrations from smartphones to alert people about earthquakes.\n\nThe phone app recognizes sudden shaking of the earth’s surface through sensors in smartphones.\n\nThe new app is called MyShake. It is the work of four researchers at the University of California, Berkeley. They said they created a worldwide warning system.\n\nThe MyShake app is available only for Android phones.",
   "questions": [
     {
       "question": "How is the app that alerts people about earthquakes called?",
-      "options": [
-        "ShakeAlert",
-        "Earthquake Watcher",
-        "MyShake",
-        "QuakeNotify"
-      ],
+      "options": ["ShakeAlert", "Earthquake Watcher", "MyShake", "QuakeNotify"],
       "answer": "MyShake"
     },
     {

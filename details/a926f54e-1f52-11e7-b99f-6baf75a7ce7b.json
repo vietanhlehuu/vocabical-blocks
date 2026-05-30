@@ -5,7 +5,7 @@
     "id": "2e826914-c29e-4dc3-9c1a-037b7e7fbed5",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/1PlFAzILJVh3x8brjsCKpB.jpeg",
+    "url": "https://blocks.vocabical.com/images/1PlFAzILJVh3x8brjsCKpB.jpeg",
     "dimensions": {
       "x": 512,
       "y": 384
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3KuAoX8xqcO6SIzantYyTy.mpga",
+  "audio": "https://blocks.vocabical.com/audio/3KuAoX8xqcO6SIzantYyTy.mpga",
   "main_content": "During certain maneuvers, jet fighter pilots sometimes experience loss of vision and even loss of consciousness. Although short, these so-called ‘blackouts’ can have tragic consequences. An Israeli company says it has developed a device that could save pilots’ lives at such moments.\n\nTwo different physiological situations can lead to a pilot’s loss of consciousness, says Elbit Systems senior research and development director, retired fighter pilot Yaron Kranz.\n\n“One is ‘G-LOC’ or G Loss of Consciousness, and the other one is hypoxia which is lack of oxygen to the brain,” Kranz said.\n\nG-LOC happens during sharp turns and high-speed accelerations, when centrifugal force reduces the normal flow of blood to the pilot’s brain. At that speed, loss of control of the aircraft proved fatal for many pilots.\n\nHypoxia, or lack of oxygen, can affect anyone at high altitudes, which is why passenger planes are equipped with oxygen masks, deployed in case of loss of cabin pressure.\n\nCurrent devices for preventing these dangerous situations are bulky so Elbit Systems and a startup called LifeBEAM developed a system called Canary.\n\nKranz says it uses small, non-invasive sensors built into the pilot’s helmet.\n\n“The pilot doesn’t have to do anything in order to activate those sensors and they are small enough and wise enough to give the information in order to gather the physiological data that is required,” he said.\n\nWhen the danger is imminent, the system flashes an alert message on the helmet’s visor. If it senses that the pilot has lost consciousness, it signals the plane’s computer to activate the autopilot.\n\nElbit Systems is now developing its Canary device for advanced U.S. F-35 fighter jets and other Western aircraft.",
   "questions": [
     {

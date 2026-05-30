@@ -5,7 +5,7 @@
     "id": "3d83a405-e165-4a4e-ba75-cff6def9ae27",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/1s4gtk8bv2m2smLtjmILqh.jpeg",
+    "url": "https://blocks.vocabical.com/images/1s4gtk8bv2m2smLtjmILqh.jpeg",
     "dimensions": {
       "x": 430,
       "y": 318
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2bhZmnDNK36Vr4TPaLfibS.mpga",
+  "audio": "https://blocks.vocabical.com/audio/2bhZmnDNK36Vr4TPaLfibS.mpga",
   "main_content": "NASA — the U.S. space agency — said it found 1,300 planets outside our solar system.\n\nNine of the planets are orbiting stars at the distance that can support life.\n\nNASA said that the Kepler space telescope confirmed the existence of 1,284 planets. This result came from studying more than 4,000 possible planets.\n\nScientists said the research is important to help them find out whether there is life on other planets.\n\nPaul Hertz is NASA’s director of astrophysics. He said, “this gives us hope that somewhere out there, around a star much like ours, we can discover another Earth.”\n\nHe said the information brings humans a little closer to finding out whether they are alone in the universe.\n\nTo reach this number of planets, scientists looked at thousands of pieces of data. The researchers used a new method to study thousands of candidates for traits that would establish them as planets.",
   "questions": [
     {
@@ -33,12 +33,7 @@
     },
     {
       "question": "How many possible planets were studied?",
-      "options": [
-        "3,000",
-        "5,000",
-        "4,000",
-        "1,500"
-      ],
+      "options": ["3,000", "5,000", "4,000", "1,500"],
       "answer": "4,000"
     },
     {

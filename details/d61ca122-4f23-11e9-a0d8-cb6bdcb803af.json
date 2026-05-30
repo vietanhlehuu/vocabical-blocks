@@ -5,7 +5,7 @@
     "id": "d61c794a-4f23-11e9-a0d7-47c548cfc261",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/3tTuGpaiyrHwTVS1G2GaZo.jpeg",
+    "url": "https://blocks.vocabical.com/images/3tTuGpaiyrHwTVS1G2GaZo.jpeg",
     "dimensions": {
       "x": 652,
       "y": 600
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3bQdz4QEbJTv42BpZ2Mgam.mpga",
+  "audio": "https://blocks.vocabical.com/audio/3bQdz4QEbJTv42BpZ2Mgam.mpga",
   "main_content": "The Academy of Motion Picture Arts and Sciences has announced this year’s Oscar nominations.\n\nThe debate in the entertainment world centers on how few people of color received nominations for the Oscars.\n\nThe online entertainment magazine Variety.com noted the surprise absence of British actor David Oyelowo. He plays Dr. Martin Luther King, Jr. in the civil rights picture, “Selma.”  Critics have widely praised his performance and he already was nominated for several awards, including a Golden Globe.\n\n“Selma” was one of the four best picture nominees about real people. “The Theory of Everything” is about famed British physicist Stephen Hawking. It is based on a book by his wife Jane Wilde Hawking that tells about their life together and his scientific career.\n\n“The Imitation Game” is about another British genius. Alan Turing was a mathematician in the 1940s who built a machine to break German code during World War Two. A hero, Britain later jailed him because he was homosexual.\n\nWe can see how it all works out on February 22 when the Academy of Motion Picture Arts and Sciences holds its 87th Oscar Awards.",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "When will the Oscar Awards be held?",
-      "options": [
-        "January 15",
-        "February 22",
-        "March 5",
-        "April 1"
-      ],
+      "options": ["January 15", "February 22", "March 5", "April 1"],
       "answer": "February 22"
     }
   ],

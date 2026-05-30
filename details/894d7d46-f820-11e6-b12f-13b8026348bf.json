@@ -5,7 +5,7 @@
     "id": "7f6d6f65-9b12-4e13-ad41-3094b06569b1",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/3sS2KFxg6GR86RiWT0flK5.png",
+    "url": "https://blocks.vocabical.com/images/3sS2KFxg6GR86RiWT0flK5.png",
     "dimensions": {
       "x": 512,
       "y": 333
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/35povx7ZNtAo9il7nzJns3.mpga",
+  "audio": "https://blocks.vocabical.com/audio/35povx7ZNtAo9il7nzJns3.mpga",
   "main_content": "Today, we will explore a seemingly simple word: book.\n\nPeople who love to read and love books are called bookworms. Like the actual insects that feed on the pages and paste of books, bookworms eat up every word on the page.\n\nBesides pages and paste, a book is made up of several parts.\n\nLet’s begin with what we usually see first – the cover. In American English we like to say do not judge a book by its cover. This means you should not judge something or someone simply by how it looks.\n\nAnother part of a book is the page. If we say a book is a real page-turner it means it is very well written. You cannot wait to turn the page to find out what happens next!\n\nHowever, to turn the page means something different. This means to stop thinking or dealing with something unpleasant. A chapter is also part of a book. It can also mean a part of history or a person’s life.",
   "questions": [
     {
       "question": "If a person reads a lot and loves books, how can you call him/her?",
-      "options": [
-        "Page-turner",
-        "Bookworm",
-        "Cover-reader",
-        "Chapter-lover"
-      ],
+      "options": ["Page-turner", "Bookworm", "Cover-reader", "Chapter-lover"],
       "answer": "Bookworm"
     },
     {

@@ -5,7 +5,7 @@
     "id": "8b58954b-dac4-42c6-8ab9-8ebf3b0bedec",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/4EwPnPsTXd3qxYdanWGXMq.jpeg",
+    "url": "https://blocks.vocabical.com/images/4EwPnPsTXd3qxYdanWGXMq.jpeg",
     "dimensions": {
       "x": 512,
       "y": 341
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3obk1yb1EcFpf1PllM8CBV.mpga",
+  "audio": "https://blocks.vocabical.com/audio/3obk1yb1EcFpf1PllM8CBV.mpga",
   "main_content": "Every year, cities around the world hold events for people interested in superheroes, science fiction stories. These gatherings are often called comic book conventions, or comic “cons.”\n\nTwo of the biggest comic cons in the U.S. are held in San Diego, California and New York City. Until recently, Washington, DC was among the cities in the U.S. without its own big event. This all changed in 2013 when Awesome Con first arrived in Washington.\n\nBen Penrod has loved comic books, science fiction, fantasy, and all things nerdy throughout his life. Growing up in Annapolis, Maryland, Penrod worked in a store that sold comic books.\n\nPenrod would often visit a store called Third Eye Comics. He then became friends with the owners. Together they decided that Annapolis needed its own comic book convention.\n\nSo in 2011 Penrod and his partners organized the first Awesome Con in Annapolis.\n\nIn addition to comic book lovers, fans of video games and professional wrestling attend the event.",
   "questions": [
     {
       "question": "What does the “con” in Comic-Con mean?",
-      "options": [
-        "Convention",
-        "Connection",
-        "Confabulation",
-        "Convergence"
-      ],
+      "options": ["Convention", "Connection", "Confabulation", "Convergence"],
       "answer": "Convention"
     },
     {

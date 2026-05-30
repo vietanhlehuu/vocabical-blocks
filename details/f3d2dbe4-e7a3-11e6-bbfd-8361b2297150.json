@@ -5,7 +5,7 @@
     "id": "7ca37032-34c6-417d-83ac-4309138c8de5",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/3nBjsitgLNAJ63I7mgi5WH.jpeg",
+    "url": "https://blocks.vocabical.com/images/3nBjsitgLNAJ63I7mgi5WH.jpeg",
     "dimensions": {
       "x": 512,
       "y": 384
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/06PlfX21yZe5rSupTUkdCo.mpga",
+  "audio": "https://blocks.vocabical.com/audio/06PlfX21yZe5rSupTUkdCo.mpga",
   "main_content": "A silver bullet is a way to make everything better.\n\nThe belief that there is magical power in the metal silver goes back to ancient Greece. In the stories of other cultures, a silver bullet is the only way to defeat monsters like werewolves and witches.\n\nWriter Stephen King is considered by many in the United States to be the master of scary stories. His book “Silver Bullet” is about a man who turns into a werewolf with every full moon and attacks people in a small town.\n\nA werewolf is a make-believe half-man, half-wolf beast that can only be killed by a silver bullet. As with many of King’s books, “Silver Bullet” was made into a film in 1985.\n\nThe term silver bullet has its roots in pop culture. But there are other words that are close in meaning.\n\nPanacea sounds more formal and bookish. It has Latin and Greek roots. The Latin word “panacea,” means a herb that would heal all illnesses. The Greek word “panakeia” means “cure-all.”\n\nCure-all does just what it says – it cures all. Cure-all is used often in spoken English.",
   "questions": [
     {
       "question": "When was the book “Silver Bullet” made into a film?",
-      "options": [
-        "1975",
-        "1980",
-        "1985",
-        "1990"
-      ],
+      "options": ["1975", "1980", "1985", "1990"],
       "answer": "1985"
     },
     {

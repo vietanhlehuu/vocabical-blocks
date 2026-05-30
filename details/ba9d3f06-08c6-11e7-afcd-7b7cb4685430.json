@@ -5,7 +5,7 @@
     "id": "6067829e-27f9-4462-bf9e-81d609da2111",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/2vuZCDsTUuWuff5MdAjTPt.jpeg",
+    "url": "https://blocks.vocabical.com/images/2vuZCDsTUuWuff5MdAjTPt.jpeg",
     "dimensions": {
       "x": 512,
       "y": 341
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/61gdNCWCYAodYdpbr23A1r.mpga",
+  "audio": "https://blocks.vocabical.com/audio/61gdNCWCYAodYdpbr23A1r.mpga",
   "main_content": "You can order plenty of  treats at Leon’s Frozen Custard in Milwaukee, Wisconsin.\n\nBut you cannot order anything in Spanish.\n\nThis week, people started talking about the restaurant on Facebook. In fact, Leon’s language policy was one of the top trending topics on Wednesday and Thursday.\n\nThat is because the owner of the restaurant, Ron Schneider, wants his workers to speak English all the time – even if both the employee and customer are Spanish speakers.\n\nSchneider said he is not discriminating against customers who cannot speak English. He just wants English to be the language spoken at his business.\n\nBut people reacting on Facebook are not so sure.\n\nAlex Dominguez said, “so much for racism not being dead.”\n\nBut many people also agree with Schneider’s policy.",
   "questions": [
     {
       "question": "Who is the owner of the ice cream shop?",
-      "options": [
-        "Ron Schneider",
-        "Alex Dominguez",
-        "Leon",
-        "The manager"
-      ],
+      "options": ["Ron Schneider", "Alex Dominguez", "Leon", "The manager"],
       "answer": "Ron Schneider"
     },
     {

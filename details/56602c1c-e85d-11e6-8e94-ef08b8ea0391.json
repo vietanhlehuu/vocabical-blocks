@@ -5,7 +5,7 @@
     "id": "e45718c2-0eab-11e7-bfe9-9f6f0bffde8b",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/0VBYsY9WzfQgrVE4TN4aV0.jpeg",
+    "url": "https://blocks.vocabical.com/images/0VBYsY9WzfQgrVE4TN4aV0.jpeg",
     "dimensions": {
       "x": 512,
       "y": 341
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1zvElXiptCyd8gbOAIdz6j.mpga",
+  "audio": "https://blocks.vocabical.com/audio/1zvElXiptCyd8gbOAIdz6j.mpga",
   "main_content": "There is a woman named Tao Porchon-Lynch. She was born in India in 1918. So, if you do the math … she’s 97.\n\nAnd at 97 years young, she has been recognized as the world’s oldest yoga teacher. She has been teaching yoga, full-time, since 1967.\n\nBut that’s not all she’s done.\n\nShe’s also been a model, actress and dancer. And she is a firm believer in positive thinking. Dream the impossible dream, kind of thinker.\n\n“I’m not interested in what I can’t do. Nothing is impossible.”\n\nTao not only talks the talk, she walks the walk. Or rather dances the dance. At age 85 she not only learned how to dance, she won dance competitions.\n\nAnd she offers this advice to the young. “Don’t put off tomorrow what you can do today.”\n\n“Don’t procrastinate. Tomorrow never comes.”\n\nSo, what about retirement? At 97, she is well past the age when many people make retirement plans. Retiring, it turns out, is not Tao’s style.",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "When did Tao Porchon-Lynch start teaching yoga?",
-      "options": [
-        "In 1960",
-        "In 1965",
-        "In 1967",
-        "In 1970"
-      ],
+      "options": ["In 1960", "In 1965", "In 1967", "In 1970"],
       "answer": "In 1967"
     }
   ],

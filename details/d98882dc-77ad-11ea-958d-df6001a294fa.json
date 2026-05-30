@@ -5,7 +5,7 @@
     "id": "d988452e-77ad-11ea-958c-13a60b5b16d5",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/7NZXWC6p1Ryt2ZsvOV4YpQ.png",
+    "url": "https://blocks.vocabical.com/images/7NZXWC6p1Ryt2ZsvOV4YpQ.png",
     "dimensions": {
       "x": 512,
       "y": 242
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3b32hQhmppzZnkVAdDpvLH.mpga",
+  "audio": "https://blocks.vocabical.com/audio/3b32hQhmppzZnkVAdDpvLH.mpga",
   "main_content": "For the first time in more than 60 years, the death rate for Americans killed by firearms is as high as the mortality rate linked to motor vehicle accidents.\n\nNew data released by the government’s Centers for Disease Control and Prevention show that guns and car accidents each cause 103 deaths among every 1 million people.\n\nThe two death rates were far apart for decades, but improved safety equipment in cars has drastically reduced the number of fatalities from motor vehicle accidents.\n\nAt the same time, the incidence of deaths caused by firearms is higher, the CDC said.\n\nThe CDC said firearms and motor vehicles are among the leading non medical causes of Americans’ deaths each year. Guns and cars kill more people than do falls, and considerably more than alcohol abuse does.\n\nAutomobile deaths have dropped about 60 percent since the 1960s because of the introduction of seat belts, air bags, anti-lock brakes and other technological aids for drivers, plus increased enforcement of prohibitions on driving under the influence of alcohol and advances in roadway designs.\n\nRegional differences illustrate the changes in mortality data linked to firearms. Ten years ago, only two of the 50 U.S. states — Alaska and Maryland — recorded more gun-related deaths than auto-related fatalities. However, the most recent figures available, for 2014, show 21 states had more gun deaths than auto fatalities.\n\nThe District of Columbia, the nation’s capital, had a higher rate of firearms deaths compared with car accident fatalities throughout that period.\n\nIt is easy and legal for the vast majority of people in the U.S. to buy guns, including assault rifles.\n\nThe National Rifle Association, a strong lobbying group, has been successful in blocking gun control regulation, despite calls by President Barack Obama for Congress to take action against certain types of gun sales.\n",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "In how many U.S. states do guns kill more people than traffic accidents? ",
-      "options": [
-        "A. 10",
-        "B. 15",
-        "C. 21",
-        "D. 25"
-      ],
+      "options": ["A. 10", "B. 15", "C. 21", "D. 25"],
       "answer": "C. 21"
     }
   ],

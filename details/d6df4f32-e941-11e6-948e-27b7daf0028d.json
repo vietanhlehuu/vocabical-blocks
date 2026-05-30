@@ -5,7 +5,7 @@
     "id": "e4575936-0eab-11e7-b07a-ff612aa77fe1",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/0fpOllLXEXJVJDZTANVyp1.jpeg",
+    "url": "https://blocks.vocabical.com/images/0fpOllLXEXJVJDZTANVyp1.jpeg",
     "dimensions": {
       "x": 512,
       "y": 384
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4oO3DuPFSsrTdVUEDiBxHf.mpga",
+  "audio": "https://blocks.vocabical.com/audio/4oO3DuPFSsrTdVUEDiBxHf.mpga",
   "main_content": "British scientists say they have found the oldest known evidence of war.\n\nResearchers discovered the remains of 27 people near Lake Turkana in northern Kenya. Scientists say they believe the remains are from a Stone Age culture of about 10,000 years ago. The so-called Nataruk fossils show signs of attack.\n\nThe dig also uncovered weapons.\n\nMarta Mirazon Lahr was the lead investigator. She is a paleoanthropologist at the University of Cambridge in Britain. She wrote that the victims were people who hunted, fished and gathered plants for food.\n\nShe described the 10,000-year-old battle in which they were killed as a “brutal” attack.\n\nMany experts had thought war did not begin until humans started to form settled communities. But the Nataruk people were hunter-gatherers of an earlier period.",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "Remains of how many people were found?",
-      "options": [
-        "23 people",
-        "27 people",
-        "30 people",
-        "15 people"
-      ],
+      "options": ["23 people", "27 people", "30 people", "15 people"],
       "answer": "27 people"
     }
   ],

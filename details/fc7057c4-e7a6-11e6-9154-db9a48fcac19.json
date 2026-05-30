@@ -5,7 +5,7 @@
     "id": "bb0bc052-58a6-4995-b401-fcb089f614b8",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/5gww00Rc2lNkyP57Da3qfo.jpeg",
+    "url": "https://blocks.vocabical.com/images/5gww00Rc2lNkyP57Da3qfo.jpeg",
     "dimensions": {
       "x": 800,
       "y": 835
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6hmmznE5WPaPRByTjEQ1yJ.mpga",
+  "audio": "https://blocks.vocabical.com/audio/6hmmznE5WPaPRByTjEQ1yJ.mpga",
   "main_content": "For many years, Indian families seemed more interested in having boys than girls. This choice of boys has led to many illegal abortions.\n\nThis custom has also led to a big problem in India – there are not enough girls compared to all the boys.\n\nIn a strong message, Prime Minister Narendra Modi told Indians that “we cannot be counted as citizens of the 21st century.” \n\nThe prime minister says no mother wants to do away with her child. But, he adds, family and social pressures make her involved in this crime.\n\nIn the traditional culture in India, sons are considered a valuable resource. They can earn money for the family and take care of parents. Girls are considered a liability, bringing financial pressure on the mother and father.\n\nThat is because the parents have to give a dowry, usually money or property, to the family of the girl’s husband.\n\nUltrasound technology has made knowing the sex of the unborn possible. Studies show that during the past 40 years, as many as 12 million girls may have been aborted.\n\nLast year, a United Nations report warned the lessening number of girls in India has reached an “emergency” level. It said this lack of women has caused an increase in some crimes such as the kidnapping and trafficking of women.",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "How many girls may have been aborted in the past 40 years?",
-      "options": [
-        "3 million",
-        "12 million",
-        "20 million",
-        "5 million"
-      ],
+      "options": ["3 million", "12 million", "20 million", "5 million"],
       "answer": "12 million"
     }
   ],

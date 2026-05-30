@@ -5,7 +5,7 @@
     "id": "9168dd9a-11c5-471a-a116-ba5925b84a6a",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/4QNoI1accfoIsoe6TZRmEE.jpeg",
+    "url": "https://blocks.vocabical.com/images/4QNoI1accfoIsoe6TZRmEE.jpeg",
     "dimensions": {
       "x": 512,
       "y": 342
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7QvBfWuocnu46gTfW7s6WA.mpga",
+  "audio": "https://blocks.vocabical.com/audio/7QvBfWuocnu46gTfW7s6WA.mpga",
   "main_content": "American filmmakers are luring Chinese movie fans to the cinema with more Chinese plots and characters.\n\nThe motion picture Kung Fu Panda 3 is a prime example of Hollywood trying to attract more Chinese movie ticket buyers.\n\nHollywood understands that China is the second-largest movie market in the world.\n\nThe premiere date for Kung Fu Panda 3 was carefully selected to get more people to the cinemas. The opening date coincided with the Chinese New Year. So the animated American movie earned more than $100 million in ticket sales that day in China.\n\nFamiliar plot lines and characters are another reason for Kung Fu Panda 3’s success in China. The cast includes the voices of internationally known movie stars, like Dustin Hoffman and Jackie Chan.",
   "questions": [
     {
       "question": "Which country is the second-largest movie market in the world?",
-      "options": [
-        "India",
-        "United States",
-        "China",
-        "Germany"
-      ],
+      "options": ["India", "United States", "China", "Germany"],
       "answer": "China"
     },
     {
@@ -43,12 +38,7 @@
     },
     {
       "question": "How much money did Kung Fu Panda 3 earn on its opening day in China?",
-      "options": [
-        "$50 million",
-        "$75 million",
-        "$100 million",
-        "$150 million"
-      ],
+      "options": ["$50 million", "$75 million", "$100 million", "$150 million"],
       "answer": "$100 million"
     }
   ],

@@ -5,7 +5,7 @@
     "id": "e45955d8-0eab-11e7-b1b7-a7484b7eb75e",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/2MMRc4e4FhwJYGX8eCsJjo.jpeg",
+    "url": "https://blocks.vocabical.com/images/2MMRc4e4FhwJYGX8eCsJjo.jpeg",
     "dimensions": {
       "x": 512,
       "y": 340
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/77lv8zaKECWR6FWROY5gnL.mpga",
+  "audio": "https://blocks.vocabical.com/audio/77lv8zaKECWR6FWROY5gnL.mpga",
   "main_content": "Life is not perfect. Things go wrong. We make mistakes. We have mishaps and failures.\n\nBut mistakes, mishaps and failures are nothing compared to a fiasco!\n\nA fiasco is something that goes completely wrong, often in a ridiculous or embarrassing way. It is dramatic and sometimes absurd. These are all important words when talking about fiascos. They are what make fiascos different from other types of failures.\n\nFiasco is an Italian word meaning “bottle.”  The Italians use the word fiasco in a phrase that literally means “to make a bottle.”  But Italians also use it to mean “a dramatic mess.” Many word experts are not sure why “making a bottle” means something is a complete failure.\n\nAccording to the Oxford English Dictionary, “fiasco” entered English in the mid-1800s. At that time it meant a “breakdown in a dramatic or musical performance.” Basically, a theatrical screwup.\n\nPeople often aren’t seriously hurt in a fiasco. That would make it a tragedy.\n\nFiascos may be complete failures, but sometimes they are our best stories.",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "What do you call a failure that hurt somebody?",
-      "options": [
-        "A mishap",
-        "A fiasco",
-        "A mistake",
-        "A tragedy"
-      ],
+      "options": ["A mishap", "A fiasco", "A mistake", "A tragedy"],
       "answer": "A tragedy"
     }
   ],

@@ -5,7 +5,7 @@
     "id": "c64e7ce2-f712-4fbe-a57e-5947d07747be",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/62CLgZifqbe4iPso0tLd7e.jpeg",
+    "url": "https://blocks.vocabical.com/images/62CLgZifqbe4iPso0tLd7e.jpeg",
     "dimensions": {
       "x": 1024,
       "y": 768
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/23Vo4N1uHOAMwNdc9G75iA.mpga",
+  "audio": "https://blocks.vocabical.com/audio/23Vo4N1uHOAMwNdc9G75iA.mpga",
   "main_content": "China’s economy slowed in the third quarter of 2015, growing by only 6.9 percent. It is the weakest period for the world’s second-largest economy since the global economic slowdown.\n\nThe figures released Monday by China’s National Bureau of Statistics marked the first time since 2009 that the rate of growth for China’s gross domestic product dropped below 7 percent since the second quarter of 2009, when it fell to 6.2 percent. The bureau said factory output rose just 5.7 percent in September, a further sign of a slowing economy.\n\nChina’s economy is growing at its slowest rate in 25 years, due to weak global demand for exports, and despite five interest rate cuts since last November and increased spending on infrastructure. A recent stock market collapse and Beijing’s surprise devaluation of the yuan have compounded problems.\n\nA spokesman for the statistics bureau told reporters in Beijing the economy is facing some “downward pressures” as the country transitions from an export-driven to a consumer-demand economy.\n\nRetail sales grew at an annual rate of 10.9 percent in August. Fixed asset investment, which measures government spending on infrastructure, expanded 10.3 percent between January and September of this year.",
   "questions": [
     {
       "question": "By how much did China’s economy grow in the third quarter of 2015?",
-      "options": [
-        "6.2 percent",
-        "6.9 percent",
-        "7.5 percent",
-        "5.7 percent"
-      ],
+      "options": ["6.2 percent", "6.9 percent", "7.5 percent", "5.7 percent"],
       "answer": "6.9 percent"
     },
     {

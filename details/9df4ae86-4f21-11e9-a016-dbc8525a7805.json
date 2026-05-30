@@ -5,7 +5,7 @@
     "id": "9df483c0-4f21-11e9-a015-5fe8fc4f785a",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/35FZ6h3Hol7mOv1bfSx2kc.jpeg",
+    "url": "https://blocks.vocabical.com/images/35FZ6h3Hol7mOv1bfSx2kc.jpeg",
     "dimensions": {
       "x": 512,
       "y": 384
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6jgXnEjCHGJSWkqO7cyg2S.mpga",
+  "audio": "https://blocks.vocabical.com/audio/6jgXnEjCHGJSWkqO7cyg2S.mpga",
   "main_content": "The Christmas holiday is five months away. But people from all over the world are meeting this week to prepare for Christmas celebrations. They are attending the World Santa Claus Congress in Copenhagen, Denmark.\n\nThe congress is designed for people who enjoy playing Santa Claus during the holiday season. Some may have a part-time job working as Santa in a large store or shopping center. Others are sometimes asked to join in seasonal parades or other events.\n\nSanta Claus is the make-believe person who brings gifts to children on the night before Christmas. In some cultures, he is known as Father Christmas or Saint Nicholas.\n\nThis week, more than 120 Santas from 15 countries have gathered in Copenhagen for a three-day meeting. They are preparing for the holiday season and discussing a number of issues.\n\nThe World Santa Claus Congress has taken place every summer in Denmark since 1957. This year, many of the Santas paraded through the center of Copenhagen.\n\nOther events include Christmas cake baking demonstrations and storytelling for children. The Congress also is an opportunity for the delegates to meet with other Santas and socialize.",
   "questions": [
     {
@@ -33,22 +33,12 @@
     },
     {
       "question": "How many Santas have gathered this year?",
-      "options": [
-        "100",
-        "120",
-        "150",
-        "200"
-      ],
+      "options": ["100", "120", "150", "200"],
       "answer": "120"
     },
     {
       "question": "When was the first World Santa Claus Congress?",
-      "options": [
-        "1950",
-        "1955",
-        "1957",
-        "1960"
-      ],
+      "options": ["1950", "1955", "1957", "1960"],
       "answer": "1957"
     }
   ],

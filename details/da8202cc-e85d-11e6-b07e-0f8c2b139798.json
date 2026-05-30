@@ -5,7 +5,7 @@
     "id": "e45aef92-0eab-11e7-b2a6-bb786d3c6024",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/3WboW9fqinDO5ehVsDJq6X.jpeg",
+    "url": "https://blocks.vocabical.com/images/3WboW9fqinDO5ehVsDJq6X.jpeg",
     "dimensions": {
       "x": 512,
       "y": 341
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0ICBHkxpPJy2nGrzV67frj.mpga",
+  "audio": "https://blocks.vocabical.com/audio/0ICBHkxpPJy2nGrzV67frj.mpga",
   "main_content": "Have you ever considered all the English expressions that include words about clothes? Let’s see if I can name a few off the cuff – or without any preparation.\n\nPeople wear pants to cover the lower part of their bodies. We sometimes say that people who are restless or nervous have ants in their pants. Sometimes, people may get caught with their pants down. They are found doing something they should not be doing.\n\nPants usually have pockets to hold things. Money that is likely to be spent quickly can burn a hole in your pocket. Sometimes you need a belt to hold up your pants. If you have less money than usual, you may have to tighten your belt. You may have to live on less money and spend your money carefully.\n\nI always praise people who can save their money and not spend too much. I really take my hat off to them.",
   "questions": [
     {
       "question": "If you can give a speech without preparation, you “give a speech off the…”?",
-      "options": [
-        "cuff",
-        "top of your head",
-        "beaten path",
-        "charts"
-      ],
+      "options": ["cuff", "top of your head", "beaten path", "charts"],
       "answer": "cuff"
     },
     {

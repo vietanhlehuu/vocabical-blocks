@@ -5,7 +5,7 @@
     "id": "e45e5b50-0eab-11e7-b49d-9b5ad2cc8c92",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/6J7V0gMNEu2F2G2JoNnqJl.jpeg",
+    "url": "https://blocks.vocabical.com/images/6J7V0gMNEu2F2G2JoNnqJl.jpeg",
     "dimensions": {
       "x": 750,
       "y": 536
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1YvW1uyJGfMltib2h013tH.mpga",
+  "audio": "https://blocks.vocabical.com/audio/1YvW1uyJGfMltib2h013tH.mpga",
   "main_content": "As we age, we often take longer to recover from injuries. That is, for some people.\n\nAfter a Japanese woman suffered a knee injury, she became a competitive swimmer – at age 88.\n\nNearing the age of 101 has not slowed down one Japanese woman. In fact, in the swimming pool – she is only getting faster.\n\nRecently, a 100-year-old Japanese woman became the world’s first centenarian to complete a 1,500-meter freestyle swimming competition in a 25-meter pool.\n\nHer name is Mieko Nagaoka. Ms. Nagaoka set a world record for her age group at a recent Japan Masters Swimming Association event in the western city of Matsuyama. She swam the race in one hour, 15 minutes and 54 seconds.\n\nBy comparison, the overall female world record holder completed the same distance in just under 15 and a half minutes. But that swimmer, Katie Ledecky, is only 17 years old.\n\nAnd Ms. Nagaoka was not competing against her. In fact, Ms. Nagaoka was the only competitor in the 100-104 year old category. Her race was not a race of speed but of endurance, or not giving up.",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "Where was the Japan Masters Swimming Association event held?",
-      "options": [
-        "Tokyo",
-        "Kyoto",
-        "Matsuyama",
-        "Osaka"
-      ],
+      "options": ["Tokyo", "Kyoto", "Matsuyama", "Osaka"],
       "answer": "Matsuyama"
     }
   ],

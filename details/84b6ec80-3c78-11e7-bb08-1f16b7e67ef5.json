@@ -5,7 +5,7 @@
     "id": "8d160d18-e1fd-4edd-a7c9-3b48d2c30aaa",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/4IDzikorx2OAKsTqxFKdEw.jpeg",
+    "url": "https://blocks.vocabical.com/images/4IDzikorx2OAKsTqxFKdEw.jpeg",
     "dimensions": {
       "x": 512,
       "y": 384
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0W7J2TGiVEmkneuFkQdyb4.mpga",
+  "audio": "https://blocks.vocabical.com/audio/0W7J2TGiVEmkneuFkQdyb4.mpga",
   "main_content": "What does the Sahara Desert have in common with a Caribbean island? Quite a lot, say researchers from the University of Miami.\n\nTheir study shows that the iron-rich dust from the vast African desert, carried 8,000 kilometers through the atmosphere across the Atlantic, nourished the specialized bacteria that produced the calcium carbonate to build up the Bahama islands over the last 100 million years.\n\nLed by marine geologist Peter Swart, the scientists found high concentrations of two trace elements characteristic of Sahara’s sand in samples of the sea floor along the Great Bahama Bank.\n\nThe sediment there was created by cyanobacteria, which, Swart says, “need 10 times more iron than other photosynthesizers because they fix atmospheric nitrogen.”\n\nThat process produced the calcium carbonate that now surrounds the Bahama island chain.",
   "questions": [
     {
@@ -33,22 +33,12 @@
     },
     {
       "question": "Which organisms created the sediment on the Great Bahama Bank?",
-      "options": [
-        "Cyanobacteria",
-        "Coral reefs",
-        "Seaweed",
-        "Plankton"
-      ],
+      "options": ["Cyanobacteria", "Coral reefs", "Seaweed", "Plankton"],
       "answer": "Cyanobacteria"
     },
     {
       "question": "What trace element did the cyanobacteria need in large amounts to help produce the calcium carbonate?",
-      "options": [
-        "Iron",
-        "Nitrogen",
-        "Carbon",
-        "Oxygen"
-      ],
+      "options": ["Iron", "Nitrogen", "Carbon", "Oxygen"],
       "answer": "Iron"
     }
   ],

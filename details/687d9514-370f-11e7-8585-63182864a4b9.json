@@ -5,7 +5,7 @@
     "id": "6749e327-92e5-4bc4-8d64-9633a1c29457",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/38tyWoxfKkjix7gbc2mpUd.jpeg",
+    "url": "https://blocks.vocabical.com/images/38tyWoxfKkjix7gbc2mpUd.jpeg",
     "dimensions": {
       "x": 512,
       "y": 512
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3Ul7tA2yMTw5EUd5EMVUJj.mpga",
+  "audio": "https://blocks.vocabical.com/audio/3Ul7tA2yMTw5EUd5EMVUJj.mpga",
   "main_content": "The universe we can see — stars, planets, galaxies — is only 5 percent of what’s out there.\n\nThe rest, so-called dark matter and dark energy, — can’t be observed, so scientists have developed instruments to detect the sub-atomic particles thought to be responsible for their presence.\n\nNow some new evidence from the International Space Station hints at their existence.\n\nAn extremely sensitive instrument, attached to the space station since 2011, has since analyzed 41 billion cosmic rays looking for the elusive particles called “neutralinos,” responsible for dark matter. As the particle does not react with anything, including light, its existence can only be proved if two of them collide, releasing other particles that the instrument can detect.\n\nScientists say the rise and fall in the ratio of electrons and their anti-matter counterparts, positrons, suggests that dark matter really exists.\n\nAdditional proof may come from the Large Hadron Collider, a huge underground particle accelerator beneath the French-Swiss border that will soon be operational again after an extensive upgrade.",
   "questions": [
     {
       "question": "What percentage of the universe we can see is visible matter?",
-      "options": [
-        "5 percent",
-        "27 percent",
-        "68 percent",
-        "10 percent"
-      ],
+      "options": ["5 percent", "27 percent", "68 percent", "10 percent"],
       "answer": "5 percent"
     },
     {

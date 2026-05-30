@@ -5,7 +5,7 @@
     "id": "8654b07a-4147-41cd-bca7-2580abf61c8d",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/45TfqYuoTpAJu5Rfd8nNoz.jpeg",
+    "url": "https://blocks.vocabical.com/images/45TfqYuoTpAJu5Rfd8nNoz.jpeg",
     "dimensions": {
       "x": 512,
       "y": 340
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2T1aotMgDpsiCXyZE1k2OX.mpga",
+  "audio": "https://blocks.vocabical.com/audio/2T1aotMgDpsiCXyZE1k2OX.mpga",
   "main_content": "Americans are very attached to their electronic devices, especially their mobile phones.\n\nSo much so that nearly half of us — 48 percent — check our smartphones up to 25 times per day. Collectively, Americans look at their phones 8 billion times a day, according to Deloitte’s 5th Global Mobile Consumer Survey.\n\nSome of us (17 percent) check our phones as soon as we wake up, while 43 percent look at their phone within five minutes.\n\nUnsurprisingly, the heaviest mobile usage is among people between the ages of 18 and 24, who look at their phone 74 times a day. For 97 percent of those young people, phone usage starts within three hours of waking up in the morning.\n\nBut America’s mobile phone obsession isn’t just limited to the youngest generations. Among people of all ages, half report checking their phones one last time about 15 minutes before going to sleep at night.\n\nOverall enthusiasm for electronic devices seems to be growing.\n\nSmartphone ownership is up by 9 percent while the number of people who own tablets increased by 10 percent in 2015.\n\nSeventy percent of Americans now own smartphones while more than half (51 percent) own tablets. Fourteen percent of people surveyed said they own wearable electronic devices.\n Almost 1 in 10 Americans (9 percent) own all three devices.\n\nAmericans are also using their electronic devices while engaging in a number of other activities. They say they use their phone simultaneously at some point while out shopping (92 percent), talking to family and friends (87 percent), watching TV (87 percent) and while dining out (81 percent).",
   "questions": [
     {
@@ -33,22 +33,12 @@
     },
     {
       "question": "Which age group uses their phone the most?",
-      "options": [
-        "25-34 years",
-        "35-44 years",
-        "45-54 years",
-        "18-24 years"
-      ],
+      "options": ["25-34 years", "35-44 years", "45-54 years", "18-24 years"],
       "answer": "18-24 years"
     },
     {
       "question": "What percentage of Americans own tablets?",
-      "options": [
-        "40 percent",
-        "51 percent",
-        "60 percent",
-        "70 percent"
-      ],
+      "options": ["40 percent", "51 percent", "60 percent", "70 percent"],
       "answer": "51 percent"
     }
   ],

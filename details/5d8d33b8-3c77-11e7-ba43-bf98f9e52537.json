@@ -5,7 +5,7 @@
     "id": "8761bebd-1aec-4efe-960b-046767842b05",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/47SdICHX5EkmB4GHIIOcXF.jpeg",
+    "url": "https://blocks.vocabical.com/images/47SdICHX5EkmB4GHIIOcXF.jpeg",
     "dimensions": {
       "x": 512,
       "y": 683
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1MZwKXCRlzI6k0FeFCWrh3.mpga",
+  "audio": "https://blocks.vocabical.com/audio/1MZwKXCRlzI6k0FeFCWrh3.mpga",
   "main_content": "Japan’s economy has experienced its worst quarterly decline since the 2011 earthquake and tsunami disaster.\n\nFigures released Wednesday show Japan’s gross domestic product shrank at an annual pace of 6.8 percent during the second quarter.\n\nWhen compared to the previous three months, the economy fell 1.7 percent.\n\nThe drop was expected. It is seen as the result of a sales tax increase that held back household and corporate spending.\n\nThe government in April raised the consumption tax from 5 percent to 8 percent in order to deal with Japan’s massive public debt.\n\nThere have been worries the tax hike would threaten the limited growth achieved by Prime Minister Shinzo Abe’s “Abenomics” strategy.\n\nThe plan has involved massive monetary easing, a policy that increases the money supply to fight deflation and thereby help exporters, a main driver of the world’s third largest economy.\n\nThe government must decide now whether further monetary easing is needed, especially if the economy does not rebound in the third quarter.\n\nThere may also be questions about whether the government will introduce another tax increase next year, as planned.",
   "questions": [
     {
       "question": "How much did Japan’s economy fall compared to the previous 3 months?",
-      "options": [
-        "1.7 percent",
-        "6.8 percent",
-        "5 percent",
-        "8 percent"
-      ],
+      "options": ["1.7 percent", "6.8 percent", "5 percent", "8 percent"],
       "answer": "1.7 percent"
     },
     {

@@ -5,7 +5,7 @@
     "id": "e4565bf8-0eab-11e7-bf84-7ff3006c220d",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/01FAQAwGlx2jpiQqupe7eg.jpeg",
+    "url": "https://blocks.vocabical.com/images/01FAQAwGlx2jpiQqupe7eg.jpeg",
     "dimensions": {
       "x": 512,
       "y": 341
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3QjqE2ZS2uvvWBRDB26rGL.mpga",
+  "audio": "https://blocks.vocabical.com/audio/3QjqE2ZS2uvvWBRDB26rGL.mpga",
   "main_content": "Air pollution is the biggest environmental health risk in the world, says the World Health Organization.\n\nPart of the problem is particulate matter – very small particles floating in the air. Particulate matter, also known as PM, may get trapped in the lungs.\n\nIn 2005, the World Health Organization proposed air quality guidelines and limits for some air pollutants that raise health risks.\n\nThe study estimates that reducing air pollution around the world could save 1.4 million people in places like India and China. But that is not an easy goal.\n\nIn places like New Delhi, PM levels are sometimes 10 times higher than the amount set in the WHO’s air quality guidelines.\n\nIndia and China are home to some of the world’s most polluted cities. Thirteen of the world’s 20 most polluted cities are in India. The capital, New Delhi, is at the top of the list.\n\nResearchers found that places with cleaner air, such as North America and Europe, could save up to 500,000 people a year if they met the WHO’s air quality guidelines.",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "What city in India has the most polluted air?",
-      "options": [
-        "Mumbai",
-        "Bangalore",
-        "Kolkata",
-        "New Delhi"
-      ],
+      "options": ["Mumbai", "Bangalore", "Kolkata", "New Delhi"],
       "answer": "New Delhi"
     }
   ],

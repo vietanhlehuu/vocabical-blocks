@@ -5,7 +5,7 @@
     "id": "27c9fe68-99a9-11ea-aaea-23b5cce12644",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/5PxDu0tX127KHpRGInoVQn.jpeg",
+    "url": "https://blocks.vocabical.com/images/5PxDu0tX127KHpRGInoVQn.jpeg",
     "dimensions": {
       "x": 512,
       "y": 223
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7gmyvzXTKFc75TLc5rvN1J.mpga",
+  "audio": "https://blocks.vocabical.com/audio/7gmyvzXTKFc75TLc5rvN1J.mpga",
   "main_content": "Recovery efforts have resumed at the site of the crash of a Germanwings Airbus A320 that went down Tuesday in the French Alps, killing all 150 people on board.\n\nThe French interior ministry says one of the so-called “black boxes” from Germanwings Flight 4U 9525 has been recovered, although damaged, and is being analyzed in Paris for clues to the cause of the crash.\n\nGerman Chancellor Angela Merkel, French President Francois Hollande, and Spanish Prime Minister Mariano Rajoy are expected to visit the crash site on Wednesday.\n\nThe plane went down Tuesday morning without issuing any distress signals, while en route from Barcelona, Spain to the German city of Dusseldorf. The passengers are believed to have included a large number of Spanish and German citizens, as well as nationals of Turkey, the Netherlands and Australia.\n\nAmong the passengers is believed to be a pair of German opera singers and 16 German teenagers returning from a school trip.\n\nLufthansa, the parent company of the budget subsidiary Germanwings, says it is treating the crash as an accident at this time, and cautioned that any immediate references to possible terrorism are speculative.\n\nFrench President Francois Hollande said those killed included Germans, Spaniards and “probably” Turks. Hollande said he could not say with “total certainty” that no French nationals were aboard the flight.\n\n“It’s a tragedy on our soil,” the French leader said.\n\nHollande called German Chancellor Angela Merkel to express his condolences. Her spokesman said she was “deeply shocked” by the accident and canceled all of her other appointments for the day. Merkel said she would visit the crash site on Wednesday.\n\nSpanish Prime Minister Mariano Rajoy said in a Twitter message: “Shocked by the air accident in the Alps. A tragedy. We are cooperating with the French and German authorities in the investigation.”\n\nGermanwings is a budget airline subsidiary of the German-based airline Lufthansa. The A320 aircraft that crashed was 24 years old and was at the upper end of its normal use as a commercial airliner. It had undergone a mechanical inspection on Monday.",
   "questions": [
     {
       "question": "How many people died in the plane crash?",
-      "options": [
-        "100",
-        "120",
-        "150",
-        "200"
-      ],
+      "options": ["100", "120", "150", "200"],
       "answer": "150"
     },
     {

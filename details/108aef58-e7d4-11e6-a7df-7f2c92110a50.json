@@ -5,7 +5,7 @@
     "id": "1b948450-b73e-43cf-8c78-afe642419a62",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/0q2fF6z5I9UAE5VmJRtbiE.jpeg",
+    "url": "https://blocks.vocabical.com/images/0q2fF6z5I9UAE5VmJRtbiE.jpeg",
     "dimensions": {
       "x": 512,
       "y": 341
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4TbcZr3H0ArxKehXXXfszG.mpga",
+  "audio": "https://blocks.vocabical.com/audio/4TbcZr3H0ArxKehXXXfszG.mpga",
   "main_content": "A plane that uses only solar power landed on the island of Oahu, Hawaii after being flown across the Pacific Ocean. The flight was the most dangerous part of the plane’s planned 35,000-kilometer trip around the world. The trip is being made without using any fuel.\n\nThe name of the plane is Solar Impulse 2. Pilot Andre Borschberg now holds the record for the longest non-stop solo flight in history.\n\nDuring the trip Mr. Borschberg slept in the cockpit of the plane for regular periods of 20 minutes. During those periods, the airplane used autopilot.\n\nThe flight began in Nagoya, Japan after a month-long stop. The stop was not part of the trip’s original plan. During the plane’s trip from Nanjing, China to Hawaii at the beginning of June, bad weather forced it to land in Nagoya.\n\nSwiss adventurer Bertrand Piccard will fly the airplane on the next part of the trip from Hawaii to the western American state of Arizona. The plane is then to be flown to New York and across the Atlantic Ocean to Europe. From there, it will fly to its final destination – Abu Dhabi in the United Arab Emirates.",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "Where is the next pilot of the plane from?",
-      "options": [
-        "United States",
-        "Switzerland",
-        "Japan",
-        "China"
-      ],
+      "options": ["United States", "Switzerland", "Japan", "China"],
       "answer": "Switzerland"
     }
   ],

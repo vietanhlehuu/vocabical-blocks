@@ -5,7 +5,7 @@
     "id": "3a25abf2-af83-4694-8d25-c836d7cad9b2",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/1lilnb6yMvgkuwKLDmsJd4.jpeg",
+    "url": "https://blocks.vocabical.com/images/1lilnb6yMvgkuwKLDmsJd4.jpeg",
     "dimensions": {
       "x": 512,
       "y": 341
@@ -18,27 +18,17 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3XaRtyT4HEpe36WmGEoY0g.mpga",
+  "audio": "https://blocks.vocabical.com/audio/3XaRtyT4HEpe36WmGEoY0g.mpga",
   "main_content": "Hollywood’s summer films are often based on adventure and escape.\n\nThis summer’s offerings are no exception. This weekend, a sequel to a popular science fiction disaster film from 1996, opened in theaters.\n\n“Independence Day: Resurgence” stars Liam Hemsworth. Actors Vivica Fox, Jeff Goldblum, and Bill Pullman returned to play their characters in the original “Independence Day” movie.\n\nAnother summer movie that seems to be a look to the past is “The Shallows.” Could it be 2016’s version of “Jaws?”  That 1978 film starring a huge mechanical shark made millions of moviegoers afraid to step into the ocean.\n\nFor those interested in quieter adventure, Disney’s “Finding Dory,” might be a better choice. Tens of millions of moviegoers have seen the film since its release last weekend. The movie has made more than $200 million in U.S. ticket sales.\n\nThe animation is a sequel to the successful 2003 film, “Finding Nemo.”",
   "questions": [
     {
       "question": "When did the first “Independence Day” film come out?",
-      "options": [
-        "1994",
-        "1996",
-        "1998",
-        "2000"
-      ],
+      "options": ["1994", "1996", "1998", "2000"],
       "answer": "1996"
     },
     {
       "question": "Which movie made people scared of the ocean in the past?",
-      "options": [
-        "The Shallows",
-        "Finding Dory",
-        "Jaws",
-        "Independence Day"
-      ],
+      "options": ["The Shallows", "Finding Dory", "Jaws", "Independence Day"],
       "answer": "Jaws"
     },
     {

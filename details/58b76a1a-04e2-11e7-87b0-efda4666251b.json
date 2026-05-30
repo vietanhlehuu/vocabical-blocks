@@ -5,7 +5,7 @@
     "id": "2fada42c-23e1-47d5-bf42-3db12fb78ac9",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/1Rxzbdr4uizrj6HZIXpt61.jpeg",
+    "url": "https://blocks.vocabical.com/images/1Rxzbdr4uizrj6HZIXpt61.jpeg",
     "dimensions": {
       "x": 640,
       "y": 427
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2oehQ6keB9opJQ6HPY0z9D.mpga",
+  "audio": "https://blocks.vocabical.com/audio/2oehQ6keB9opJQ6HPY0z9D.mpga",
   "main_content": "Sprawled out in parks on colorful mats, millions of people across Indian towns and cities bent, stretched, and did breathing exercises on the second International Yoga Day.\n\nBefore joining a group of about 30,000 in the north Indian city of Chandigarh for a mass session in which he performed yoga exercises effortlessly, Indian Prime Minister Narendra Modi pitched yoga as a secular practice that promotes health.",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "Where did Narendra Modi join about 30,000 people for a mass yoga session?",
-      "options": [
-        "New Delhi",
-        "Mumbai",
-        "Chandigarh",
-        "Jaipur"
-      ],
+      "options": ["New Delhi", "Mumbai", "Chandigarh", "Jaipur"],
       "answer": "Chandigarh"
     }
   ],

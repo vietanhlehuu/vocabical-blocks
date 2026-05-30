@@ -5,7 +5,7 @@
     "id": "3e10638b-a49b-4f9a-9702-7f651b3e3b42",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/1t70roCE3VmjdawaRjvdzu.jpeg",
+    "url": "https://blocks.vocabical.com/images/1t70roCE3VmjdawaRjvdzu.jpeg",
     "dimensions": {
       "x": 512,
       "y": 341
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5qLWjOaAcgXkgB8z3HGyZF.mpga",
+  "audio": "https://blocks.vocabical.com/audio/5qLWjOaAcgXkgB8z3HGyZF.mpga",
   "main_content": "The area around the California city of San Francisco has some of the worst traffic in the United States.\n\nOne of the main bridges that connects San Francisco with Oakland, another big California city, is called the Bay Bridge.\n\nAn average of 270,000 cars cross the Bay Bridge every day. If anything stops traffic on the bridge, it becomes a big problem.\n\nOn the morning of April 3, police officers on motorcycles stopped traffic on part of the bridge. The traffic lanes on the normally crowded bridge were empty, except for some police on motorcycles…chasing something down.\n\nWhat were they chasing?\n\nA small, black dog, called a Chihuahua, running around on the bridge.\n\nPolice had trouble catching the dog.\n\nOn social media, people joked about the “high-speed” police chase. One Twitter user said, “What can shut down one of the largest bridges in the United States? An adorable Chihuahua it seems.”\n\nThe police are still looking for the dog’s owner.",
   "questions": [
     {
@@ -33,12 +33,7 @@
     },
     {
       "question": "When did it happen?",
-      "options": [
-        "April 1",
-        "April 3",
-        "April 5",
-        "April 10"
-      ],
+      "options": ["April 1", "April 3", "April 5", "April 10"],
       "answer": "April 3"
     },
     {

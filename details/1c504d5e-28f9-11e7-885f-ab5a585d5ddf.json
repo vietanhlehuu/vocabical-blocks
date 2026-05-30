@@ -5,7 +5,7 @@
     "id": "a54a2f20-d9ee-4ca8-9f1f-6f04a50d38c0",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/51tdRTGMVcIwYf65gRg2QC.jpeg",
+    "url": "https://blocks.vocabical.com/images/51tdRTGMVcIwYf65gRg2QC.jpeg",
     "dimensions": {
       "x": 512,
       "y": 384
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/29Z7jkT107YkgVG9chFoOM.mpga",
+  "audio": "https://blocks.vocabical.com/audio/29Z7jkT107YkgVG9chFoOM.mpga",
   "main_content": "Why is it that when dogs drink, water seems to go everywhere?\n\nResearchers at Virginia Tech University have been studying how dogs drink.\n\nIt turns out that neither dogs, nor cats, have a full set of cheeks. This means they cannot create suction to drink, like humans or elephants and horses.\n\nDogs lap, or take up, the water with their tongues curled backward.\n\nThe Virginia Tech researchers filmed 19 dogs as they drank water. They created different laboratory models to measure tongue motion, and the amounts of water taken in.\n\nThe researchers said that since the mouths of dogs and cats are structured nearly the same way, they thought they would drink water the same way, too.\n\nBut here is a surprise. The studies showed each family of animals has its own special drinking method.",
   "questions": [
     {
@@ -33,12 +33,7 @@
     },
     {
       "question": "How many dogs were filmed?",
-      "options": [
-        "15 dogs",
-        "19 dogs",
-        "21 dogs",
-        "25 dogs"
-      ],
+      "options": ["15 dogs", "19 dogs", "21 dogs", "25 dogs"],
       "answer": "19 dogs"
     },
     {

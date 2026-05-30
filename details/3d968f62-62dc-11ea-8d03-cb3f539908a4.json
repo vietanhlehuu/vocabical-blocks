@@ -5,7 +5,7 @@
     "id": "3d965696-62dc-11ea-8d02-c763f43a617a",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/24gOUS7c6YiZcgNQEIZJ7A.jpeg",
+    "url": "https://blocks.vocabical.com/images/24gOUS7c6YiZcgNQEIZJ7A.jpeg",
     "dimensions": {
       "x": 512,
       "y": 297
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0OMrxEbtnvnPh7Yw3y1LPR.mpga",
+  "audio": "https://blocks.vocabical.com/audio/0OMrxEbtnvnPh7Yw3y1LPR.mpga",
   "main_content": "During major emergencies, like the Boston Marathon bombing in 2010, cell phone and Wi-Fi networks quickly get overloaded. A group of scientists at the Stevens Institute of Technology in Hoboken, New Jersey, have designed and successfully tested a system that automatically uses all available networks, switching seamlessly from one to another, thus reducing the burden on all of them.\n\nModern cell phones have the ability to communicate in various ways, says professor Suba Subbalakshmi.\n\n“We have several different networks enabled within a cell phone for example,” said Subbalakshmi. “So we can do Wi-Fi, we can do LTE and so on, but usually it is only one or the other of these networks that is used at any given time.”\n\nWith support from the National Science Foundation and National Institute of Justice, Subbalakshmi, and fellow professor Rajarathnam Chandramouli, designed a smart wireless router called SpiderRadio that simultaneously uses parts of both networks, reducing the burden on them.\n\n“It has multiple radios in it and it can access multiples of these networks at the same time, and constantly what the router is doing it is taking measurements,” said Chandramouli. “It is trying to find out what is the quality of the Wi-Fi network in this location, or Wi-Fi networks in this location, what is the quality of LTE network, 3G network and so on and so forth, public safety network and so on.”\n\nGraduate student Vidya Sagar, who developed the technical side and algorithms for SpiderRadio, says communicating via different networks also improves security.\n\n“It is not so easy to actually track down or sniff your password because someone who wants to do that should control all wireless links, which is really difficult,” said Sagar.\n\nSpiderRadio has been tested by Idaho National Laboratory. It is now being used by the police department in Brookline, Massachusetts as well as in South Africa, where it serves as a communication hub in a school in Pretoria.\n\nIts creators say eventually the smart router’s capabilities will be transferred to an app that could be installed in any modern cell phone, enabling it to automatically switch between different networks.",
   "questions": [
     {

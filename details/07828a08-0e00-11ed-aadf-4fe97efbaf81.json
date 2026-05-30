@@ -5,7 +5,7 @@
     "id": "07822fb8-0e00-11ed-aade-67e5ce2ca226",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/3FYNhPVq8jL6CYW3X1EnXC.jpeg",
+    "url": "https://blocks.vocabical.com/images/3FYNhPVq8jL6CYW3X1EnXC.jpeg",
     "dimensions": {
       "x": 512,
       "y": 354
@@ -18,17 +18,12 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/72tI46Ny1zBOJM7kw78QpP.mpga",
+  "audio": "https://blocks.vocabical.com/audio/72tI46Ny1zBOJM7kw78QpP.mpga",
   "main_content": "The world held its first International Day of Yoga on Sunday. Yoga events took place in almost 200 countries. The Indian government organized many of the events. Prime Minister Narendra Modi was the leader who suggested to the United Nations to mark June 21 as International Day of Yoga. He said India wants to protect yoga as the country’s gift to the world.\n\nYoga is an ancient spiritual, physical and mental practice. In India, Prime Minister Modi has taken on the job of a yoga guru for China’s Internet users. He is providing a daily yoga class to his followers on Weibo, the Chinese version of Twitter. His Weibo posts also include images of exercise positions, and a list describing yoga’s effects on human health.\n\nThe posts are the latest in a series of Indian efforts to connect directly with people in China.\n\nAnd it is not only in yoga where India is seeking to build ties with China. The two countries recently agreed to push forward with three joint production films. One is called “Kung Fu Yoga” and will star Jackie Chan.",
   "questions": [
     {
       "question": "When is the International Day of Yoga?",
-      "options": [
-        "June 21",
-        "July 21",
-        "August 21",
-        "May 21"
-      ],
+      "options": ["June 21", "July 21", "August 21", "May 21"],
       "answer": "June 21"
     },
     {

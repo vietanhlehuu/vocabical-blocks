@@ -5,7 +5,7 @@
     "id": "754e4140-d20f-4669-9351-31c4a77296b4",
     "_type": "Image",
     "_version": 4,
-    "url": "https://assets.app.engoo.com/images/3ZLrcSfpm4ClFZD7NJsQ5s.jpeg",
+    "url": "https://blocks.vocabical.com/images/3ZLrcSfpm4ClFZD7NJsQ5s.jpeg",
     "dimensions": {
       "x": 512,
       "y": 492
@@ -18,7 +18,7 @@
     "alt_text_validated": null
   },
   "language": "en",
-  "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4VQdhxMWaIH0LWL8OakKn3.mpga",
+  "audio": "https://blocks.vocabical.com/audio/4VQdhxMWaIH0LWL8OakKn3.mpga",
   "main_content": "Gravity waves, one of Albert Einstein’s most interesting predictions about the weirdness of space time, have been an elusive but accepted element of the theory of general relativity. Now it looks like a coalition of scientists from CalTech, MIT, and the LIGO Scientific Collaboration has finally found them. And it only took a century.\n\nGravitational waves are easy to imagine but hard to comprehend. Think of what happens when you throw a rock in a pond. Ripples spread out from the point where your rock hits the water. Now imagine space time as the surface of the pond, and something with mass as the rock. Gravitational waves, then, would be the ripples. Pretty easy, right?\n\nSure, but what do they do? Well, they literally expand and contract space and time as they pass through a point in space.\n\nEinstein predicted that these expansions and contractions should be observable. And that’s what Thursday’s announcement is all about.\n\nGravitational waves were discovered by a giant scientific tool called LIGO that stands for the Laser Interferometer Gravitational-Wave Observatory. Its only job was to find gravitational waves and it has been looking on and off since 2002.\n\nScientists had already done the math that proved gravitational waves exist way back in the 1970’s. But the waves had never been actually ‘seen.’\n\n“It’s really comparable only to Galileo taking up the telescope and looking at the planets,” said Penn State physics theorist Abhay Ashtekar, who wasn’t part of the discovery team. “Our understanding of the heavens changed dramatically.”",
   "questions": [
     {
@@ -43,12 +43,7 @@
     },
     {
       "question": "Since when has LIGO been operational?",
-      "options": [
-        "Since 1990",
-        "Since 2002",
-        "Since 2010",
-        "Since 2000"
-      ],
+      "options": ["Since 1990", "Since 2002", "Since 2010", "Since 2000"],
       "answer": "Since 2002"
     }
   ],

@@ -1,0 +1,3334 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>
+      Vocabical Blocks - Turn wasted screen time into English learning
+    </title>
+    <link rel="icon" type="image/png" href="logo.png" />
+    <meta
+      name="description"
+      content="Turn wasted screen time into English learning. Vocabical Blocks replaces distracting websites with bite-sized English reading and listening challenges, native audio, and one-tap sentence translation in 6 languages to build your vocabulary daily."
+    />
+    <style>
+      /* Hallmark · macrostructure: Workbench + Component Playground · genre: playful · theme: custom
+       * states: default · hover · focus · active · disabled · loading · error · success
+       * contrast: pass
+       */
+
+      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800;900&display=swap');
+
+      :root {
+        /* Design Tokens from design.md */
+        --font-sans: 'Inter', sans-serif;
+        --font-heading: 'Outfit', sans-serif;
+
+        /* Ink / Dark Anchors */
+        --color-brand-500: #111111;
+        --color-brand-600: #000000;
+        --color-brand-700: #222222;
+        --color-brand-900: #080808;
+
+        /* Selection / Highlights */
+        --color-brand-50: #f5f3ff;
+        --color-brand-100: #e9e5fc;
+        --color-brand-200: #dcd7fa;
+
+        /* Page Canvas Background */
+        --color-bg-light: #f4f5f9;
+
+        /* Pastel Accent Clusters */
+        --color-pastel-purple: #ebe6f8;
+        --color-pastel-green: #e6f5e6;
+        --color-pastel-yellow: #fff9e6;
+        --color-pastel-blue: #dce9f2;
+
+        /* Secondary/Text Accents */
+        --color-text-primary: #0f172a; /* Slate 900 */
+        --color-text-secondary: #475569; /* Slate 600 */
+        --color-text-muted: #94a3b8; /* Slate 400 */
+        --color-border: rgba(226, 232, 240, 0.8);
+
+        /* Status Colors */
+        --color-success: #10b981;
+        --color-error: #f43f5e;
+        --color-success-bg: rgba(16, 185, 129, 0.05);
+        --color-error-bg: rgba(244, 63, 94, 0.05);
+
+        /* Spacing Scale (4-pt) */
+        --space-2xs: 4px;
+        --space-xs: 8px;
+        --space-sm: 12px;
+        --space-md: 16px;
+        --space-lg: 24px;
+        --space-xl: 32px;
+        --space-2xl: 48px;
+        --space-3xl: 64px;
+
+        /* Border Radii */
+        --radius-sm: 8px;
+        --radius-md: 12px;
+        --radius-xl: 16px;
+        --radius-2xl: 24px;
+        --radius-3xl: 32px;
+        --radius-full: 9999px;
+
+        /* Transitions */
+        --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+        --dur-fast: 150ms;
+        --dur-base: 250ms;
+      }
+
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+
+      html {
+        scroll-behavior: smooth;
+        overflow-x: clip;
+      }
+
+      body {
+        font-family: var(--font-sans);
+        background-color: var(--color-bg-light);
+        color: var(--color-text-primary);
+        line-height: 1.6;
+        font-size: 16px;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        overflow-x: clip;
+      }
+
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6 {
+        font-family: var(--font-heading);
+        color: var(--color-brand-900);
+        font-weight: 800;
+        line-height: 1.2;
+      }
+
+      /* SVG Icon styling */
+      .icon {
+        width: 1.2em;
+        height: 1.2em;
+        stroke: currentColor;
+        stroke-width: 2;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        fill: none;
+        display: inline-block;
+        vertical-align: middle;
+        position: relative;
+        top: -1px;
+      }
+
+      /* Layout Utilities */
+      .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 0 var(--space-lg);
+        width: 100%;
+      }
+
+      section {
+        padding: var(--space-3xl) 0;
+      }
+
+      /* Custom Scrollbar */
+      ::-webkit-scrollbar {
+        width: 6px;
+        height: 6px;
+      }
+      ::-webkit-scrollbar-track {
+        background: transparent;
+      }
+      ::-webkit-scrollbar-thumb {
+        background: rgba(148, 163, 184, 0.3);
+        border-radius: var(--radius-full);
+      }
+      ::-webkit-scrollbar-thumb:hover {
+        background: rgba(148, 163, 184, 0.5);
+      }
+
+      /* Typography styles */
+      .text-gradient {
+        background: linear-gradient(
+          135deg,
+          var(--color-brand-600) 20%,
+          #4f46e5 100%
+        );
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+      }
+
+      .eyebrow {
+        text-transform: uppercase;
+        letter-spacing: 0.15em;
+        font-size: 13px;
+        font-weight: 700;
+        color: var(--color-text-muted);
+        margin-bottom: var(--space-sm);
+        display: inline-block;
+      }
+
+      /* Header & Nav */
+      header.site-header {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: 100;
+        background: rgba(255, 255, 255, 0.8);
+        backdrop-filter: blur(10px);
+        -webkit-backdrop-filter: blur(10px);
+        border-bottom: 1px solid rgba(226, 232, 240, 0.5);
+        padding: var(--space-md) 0;
+        transition: all var(--dur-base) var(--ease-out);
+      }
+
+      .header-container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+
+      .logo-group {
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+      }
+
+      .logo-icon {
+        padding: 6px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: var(--color-brand-500);
+      }
+
+      .logo-text h1 {
+        font-size: 18px;
+        font-weight: 800;
+        letter-spacing: 0.02em;
+        color: var(--color-brand-900);
+      }
+
+      .logo-text p {
+        font-size: 11px;
+        color: var(--color-text-muted);
+        font-weight: 600;
+      }
+
+      .nav-links {
+        display: flex;
+        gap: var(--space-lg);
+        align-items: center;
+        list-style: none;
+      }
+
+      .nav-links a {
+        text-decoration: none;
+        font-size: 15px;
+        font-weight: 600;
+        color: var(--color-text-secondary);
+        transition: color var(--dur-fast);
+      }
+
+      .nav-links a:hover {
+        color: var(--color-brand-900);
+      }
+
+      /* Buttons */
+      .btn {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        gap: var(--space-xs);
+        padding: var(--space-sm) var(--space-xl);
+        font-weight: 700;
+        font-size: 15px;
+        border-radius: var(--radius-xl);
+        text-decoration: none;
+        cursor: pointer;
+        transition: all var(--dur-fast) var(--ease-out);
+        border: 1px solid transparent;
+      }
+
+      .btn:active {
+        transform: scale(0.96);
+      }
+
+      .btn-primary {
+        background-color: var(--color-brand-500);
+        color: white;
+        box-shadow: 0 4px 12px rgba(17, 17, 17, 0.08);
+      }
+
+      .btn-primary:hover {
+        background-color: var(--color-brand-600);
+      }
+
+      .btn-secondary {
+        background-color: white;
+        border: 1px solid var(--color-border);
+        color: var(--color-text-secondary);
+      }
+
+      .btn-secondary:hover {
+        background-color: var(--color-bg-light);
+        color: var(--color-brand-900);
+        border-color: var(--color-text-muted);
+      }
+
+      /* Badges */
+      .badge-pill {
+        display: inline-flex;
+        align-items: center;
+        gap: var(--space-xs);
+        padding: var(--space-xs) var(--space-md);
+        border-radius: var(--radius-full);
+        font-size: 12px;
+        font-weight: 700;
+        border: 1px solid transparent;
+      }
+
+      .badge-green {
+        background-color: var(--color-pastel-green);
+        color: #064e3b;
+        border-color: rgba(16, 185, 129, 0.15);
+      }
+
+      .badge-blue {
+        background-color: var(--color-pastel-blue);
+        color: #1e3a8a;
+        border-color: rgba(30, 58, 138, 0.1);
+      }
+
+      .badge-purple {
+        background-color: var(--color-pastel-purple);
+        color: #4c1d95;
+        border-color: rgba(124, 58, 237, 0.1);
+      }
+
+      /* Hero Section */
+      .hero {
+        padding-top: 140px;
+        padding-bottom: var(--space-2xl);
+        text-align: center;
+        background: radial-gradient(
+          circle at top,
+          rgba(233, 229, 252, 0.4) 0%,
+          rgba(244, 245, 249, 0) 60%
+        );
+      }
+
+      .hero-content {
+        max-width: 800px;
+        margin: 0 auto;
+      }
+
+      .hero h2 {
+        font-size: 64px;
+        font-weight: 900;
+        letter-spacing: -0.03em;
+        margin-bottom: var(--space-md);
+        margin-top: var(--space-xs);
+      }
+
+      .hero p.tagline {
+        font-size: 22px;
+        color: var(--color-text-secondary);
+        max-width: 750px;
+        margin: 0 auto var(--space-xl) auto;
+        font-weight: 500;
+        line-height: 1.6;
+      }
+
+      .hero-actions {
+        display: flex;
+        gap: var(--space-md);
+        justify-content: center;
+        margin-bottom: var(--space-2xl);
+      }
+
+      /* App Mockup / Demo Section */
+      .demo-section {
+        padding-top: 0;
+        position: relative;
+        z-index: 10;
+      }
+
+      /* ==========================================================================
+         Mock Browser Window Simulator (offline operational)
+         ========================================================================== */
+      .mock-browser {
+        background: #f8fafc;
+        border-radius: var(--radius-3xl);
+        overflow: hidden;
+        box-shadow: 0 20px 40px rgba(15, 23, 42, 0.06);
+        border: 1px solid var(--color-border);
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        max-width: 1100px;
+        margin: 0 auto;
+      }
+
+      .browser-top-bar {
+        display: flex;
+        align-items: center;
+        gap: var(--space-md);
+        padding: 10px var(--space-lg);
+        background: #e2e8f0;
+        border-bottom: 1px solid var(--color-border);
+      }
+
+      .browser-dots {
+        display: flex;
+        gap: 6px;
+      }
+
+      .browser-dots .dot {
+        width: 12px;
+        height: 12px;
+        border-radius: 50%;
+        display: inline-block;
+      }
+
+      .browser-dots .dot.red {
+        background: #ef4444;
+      }
+      .browser-dots .dot.yellow {
+        background: #f59e0b;
+      }
+      .browser-dots .dot.green {
+        background: #10b981;
+      }
+
+      .browser-navigation {
+        display: flex;
+        gap: 4px;
+        flex-shrink: 0;
+      }
+
+      .browser-navigation button {
+        background: transparent;
+        border: none;
+        color: var(--color-text-secondary);
+        padding: 4px;
+        cursor: pointer;
+        border-radius: var(--radius-sm);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .browser-navigation button:hover:not(:disabled) {
+        background: rgba(0, 0, 0, 0.05);
+      }
+
+      .browser-navigation button:disabled {
+        opacity: 0.3;
+        cursor: not-allowed;
+      }
+
+      .browser-address-bar {
+        flex: 1;
+        min-width: 0;
+        background: white;
+        border-radius: var(--radius-sm);
+        padding: 6px var(--space-md);
+        display: flex;
+        align-items: center;
+        gap: var(--space-sm);
+        font-size: 13px;
+        color: var(--color-text-secondary);
+        border: 1px solid rgba(226, 232, 240, 0.8);
+        font-family: monospace;
+      }
+
+      .browser-address-bar .icon {
+        width: 14px;
+        height: 14px;
+        color: var(--color-text-muted);
+        flex-shrink: 0;
+      }
+
+      #browser-url {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        min-width: 0;
+      }
+
+      .browser-viewport {
+        background: white;
+        height: 580px; /* Fixed height to avoid stretching */
+        max-height: 580px;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+      }
+
+      /* State Display Rules */
+      .demo-state {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+      }
+
+      .demo-state.active {
+        display: flex;
+      }
+
+      /* --- STATE 1: SETUP SITE --- */
+      .popup-mockup-wrapper {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex: 1;
+        padding: var(--space-xl) var(--space-lg);
+        background: radial-gradient(circle at center, #f8fafc 0%, #f1f5f9 100%);
+        overflow-y: auto;
+        height: 100%;
+      }
+      .popup-mockup {
+        width: 100%;
+        max-width: 360px;
+        background: white;
+        border-radius: var(--radius-2xl);
+        border: 1px solid var(--color-border);
+        box-shadow:
+          0 10px 25px -5px rgba(0, 0, 0, 0.05),
+          0 8px 10px -6px rgba(0, 0, 0, 0.05);
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+        font-family: var(--font-sans);
+      }
+
+      .popup-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: var(--space-md) var(--space-lg);
+        border-bottom: 1px solid var(--color-border);
+      }
+
+      .popup-logo {
+        display: flex;
+        align-items: center;
+        gap: var(--space-sm);
+        color: var(--color-brand-900);
+      }
+
+      .popup-logo h4 {
+        font-size: 14px;
+        font-weight: 800;
+        letter-spacing: 0.02em;
+      }
+
+      .popup-logo p {
+        font-size: 10px;
+        color: var(--color-text-muted);
+      }
+
+      .popup-content {
+        padding: var(--space-md);
+        display: flex;
+        flex-direction: column;
+        gap: var(--space-md);
+      }
+
+      .popup-section-title {
+        font-size: 11px;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        color: var(--color-text-muted);
+        margin-bottom: var(--space-xs);
+        display: flex;
+        align-items: center;
+        gap: var(--space-2xs);
+      }
+
+      .popup-section-title .icon {
+        width: 12px;
+        height: 12px;
+      }
+
+      .popup-duration-options {
+        display: flex;
+        background: var(--color-bg-light);
+        border: 1px solid var(--color-border);
+        padding: 4px;
+        border-radius: var(--radius-md);
+      }
+
+      .popup-duration-btn {
+        flex: 1;
+        background: transparent;
+        border: none;
+        padding: 6px 0;
+        font-size: 12px;
+        font-weight: 700;
+        color: var(--color-text-secondary);
+        cursor: pointer;
+        border-radius: var(--radius-sm);
+        transition: all var(--dur-fast);
+      }
+
+      .popup-duration-btn.active {
+        background: var(--color-brand-500);
+        color: white;
+      }
+
+      .popup-duration-btn:hover:not(.active) {
+        background: rgba(0, 0, 0, 0.05);
+      }
+
+      .popup-add-site {
+        display: flex;
+        gap: var(--space-xs);
+      }
+
+      .popup-input {
+        flex: 1;
+        padding: 8px var(--space-md);
+        border-radius: var(--radius-md);
+        border: 1px solid var(--color-border);
+        font-size: 12px;
+        outline: none;
+        font-family: var(--font-sans);
+      }
+
+      .popup-add-btn {
+        background: var(--color-brand-500);
+        border: none;
+        color: white;
+        padding: 8px var(--space-md);
+        border-radius: var(--radius-md);
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: 700;
+        font-size: 12px;
+      }
+
+      .popup-add-btn:hover {
+        background: var(--color-brand-600);
+      }
+
+      .popup-blocked-list {
+        background: var(--color-bg-light);
+        border: 1px solid var(--color-border);
+        border-radius: var(--radius-md);
+        padding: var(--space-sm);
+        min-height: 80px;
+        max-height: 140px;
+        overflow-y: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        gap: 6px;
+      }
+
+      .popup-empty-state {
+        text-align: center;
+        color: var(--color-text-muted);
+        font-size: 11px;
+        margin: auto 0;
+      }
+
+      .popup-empty-state .icon {
+        width: 20px;
+        height: 20px;
+        margin-bottom: var(--space-2xs);
+        color: var(--color-text-muted);
+        opacity: 0.7;
+      }
+
+      .popup-blocked-item {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background: white;
+        padding: 6px var(--space-sm);
+        border-radius: var(--radius-sm);
+        border: 1px solid var(--color-border);
+        font-size: 12px;
+        font-family: monospace;
+      }
+
+      .popup-blocked-item .trash-btn {
+        background: transparent;
+        border: none;
+        color: var(--color-error);
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        padding: 2px;
+        opacity: 0.7;
+      }
+
+      .popup-blocked-item .trash-btn:hover {
+        opacity: 1;
+      }
+
+      .setup-prompt-card {
+        margin-top: var(--space-md);
+        padding: var(--space-md);
+        background: var(--color-pastel-purple);
+        border: 1px solid rgba(124, 58, 237, 0.15);
+        border-radius: var(--radius-xl);
+        text-align: center;
+        width: 100%;
+        max-width: 360px;
+        animation: slideUp 0.3s var(--ease-out);
+      }
+
+      .setup-prompt-card p {
+        font-size: 13px;
+        font-weight: 700;
+        color: #4c1d95;
+        margin-bottom: var(--space-sm);
+      }
+
+      /* --- STATE 2: INTERCEPT / REDIRECT --- */
+      .redirect-mockup-wrapper {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        flex: 1;
+        background: white;
+        padding: var(--space-2xl) var(--space-lg);
+        text-align: center;
+      }
+
+      .redirect-spinner {
+        width: 48px;
+        height: 48px;
+        border: 4px solid var(--color-brand-100);
+        border-top-color: var(--color-brand-500);
+        border-radius: 50%;
+        animation: spin 1s linear infinite;
+        margin-bottom: var(--space-lg);
+      }
+
+      @keyframes spin {
+        0% {
+          transform: rotate(0deg);
+        }
+        100% {
+          transform: rotate(360deg);
+        }
+      }
+
+      .redirect-title {
+        font-size: 20px;
+        font-weight: 800;
+        color: var(--color-brand-900);
+        margin-bottom: var(--space-xs);
+        display: flex;
+        align-items: center;
+        gap: var(--space-xs);
+      }
+
+      .redirect-desc {
+        font-size: 14px;
+        color: var(--color-text-secondary);
+      }
+
+      /* --- STATE 3: INTERACTIVE CHALLENGE --- */
+      .interactive-quiz-container {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: auto 1fr;
+        background-color: white;
+        overflow: hidden;
+        flex: 1;
+        height: 100%;
+      }
+
+      @media (min-width: 992px) {
+        .interactive-quiz-container {
+          grid-template-columns: 1fr 1fr;
+          grid-template-rows: auto 1fr;
+        }
+      }
+
+      .quiz-widget-header {
+        grid-row: 1;
+        grid-column: 1 / -1;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: var(--space-md) var(--space-lg);
+        border-bottom: 1px solid var(--color-border);
+      }
+
+      .quiz-widget-actions {
+        display: flex;
+        gap: var(--space-sm);
+        align-items: center;
+      }
+
+      .floating-bypass-actions {
+        display: flex;
+        gap: var(--space-sm);
+        align-items: center;
+      }
+
+      .widget-info {
+        display: flex;
+        align-items: center;
+        gap: var(--space-sm);
+      }
+
+      .widget-icon-box {
+        background: var(--color-bg-light);
+        border: 1px solid var(--color-border);
+        width: 36px;
+        height: 36px;
+        border-radius: var(--radius-full);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-shrink: 0;
+      }
+
+      .widget-title h4 {
+        font-size: 16px;
+        font-weight: 800;
+        color: var(--color-brand-900);
+      }
+
+      .widget-title p {
+        font-size: 11px;
+        color: var(--color-text-muted);
+        font-weight: 600;
+      }
+
+      .quiz-passage-side {
+        padding: var(--space-lg);
+        display: flex;
+        flex-direction: column;
+        gap: var(--space-md);
+        border-bottom: 1px solid var(--color-border);
+      }
+
+      @media (min-width: 992px) {
+        .quiz-passage-side {
+          grid-row: 2;
+          grid-column: 1;
+          height: 100%;
+          overflow-y: auto;
+          padding: var(--space-xl);
+          border-bottom: none;
+          border-right: 1px solid var(--color-border);
+        }
+      }
+
+      .passage-title-box {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: var(--space-xs);
+        border-bottom: 1px solid rgba(226, 232, 240, 0.5);
+        padding-bottom: var(--space-sm);
+      }
+
+      .passage-title-box h3 {
+        font-size: 20px;
+        font-weight: 800;
+        color: var(--color-brand-900);
+      }
+
+      .mock-audio-player {
+        background: var(--color-bg-light);
+        border: 1px solid rgba(226, 232, 240, 0.6);
+        border-radius: var(--radius-xl);
+        padding: var(--space-sm) var(--space-md);
+        display: flex;
+        align-items: center;
+        gap: var(--space-md);
+      }
+
+      .audio-play-btn {
+        background: var(--color-brand-500);
+        border: none;
+        width: 32px;
+        height: 32px;
+        border-radius: var(--radius-full);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: white;
+        cursor: pointer;
+        transition: all var(--dur-fast);
+      }
+
+      .audio-play-btn:hover {
+        background: var(--color-brand-600);
+      }
+
+      .audio-info {
+        flex: 1;
+      }
+
+      .audio-label {
+        font-size: 13px;
+        font-weight: 800;
+        color: var(--color-text-primary);
+      }
+
+      .audio-sublabel {
+        font-size: 11px;
+        color: var(--color-text-muted);
+        font-weight: 500;
+      }
+
+      .audio-timeline-wrapper {
+        display: flex;
+        align-items: center;
+        gap: var(--space-xs);
+        flex: 1;
+      }
+
+      .audio-timeline-track {
+        flex: 1;
+        height: 3px;
+        background: #e2e8f0;
+        border-radius: var(--radius-full);
+        position: relative;
+        overflow: hidden;
+      }
+
+      .audio-timeline-fill {
+        width: 0%;
+        height: 100%;
+        background: var(--color-brand-500);
+        position: absolute;
+        top: 0;
+        left: 0;
+        transition: width 100ms linear;
+      }
+
+      .audio-time {
+        font-size: 11px;
+        font-family: monospace;
+        color: var(--color-text-muted);
+      }
+
+      .passage-text-content {
+        font-size: 15px;
+        color: var(--color-text-secondary);
+        line-height: 1.6;
+        padding-right: var(--space-xs);
+      }
+
+      .passage-text-content p {
+        margin-bottom: var(--space-md);
+      }
+
+      .quiz-questions-side {
+        padding: var(--space-lg);
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        gap: var(--space-md);
+      }
+
+      @media (min-width: 992px) {
+        .quiz-questions-side {
+          grid-row: 2;
+          grid-column: 2;
+          height: 100%;
+          overflow-y: auto;
+          padding: var(--space-xl);
+        }
+      }
+
+      .question-card {
+        border: 1px solid var(--color-border);
+        border-radius: var(--radius-2xl);
+        padding: var(--space-lg);
+        background: white;
+        transition:
+          border-color var(--dur-base) var(--ease-out),
+          background-color var(--dur-base) var(--ease-out);
+      }
+
+      .question-card.correct-card {
+        border-color: rgba(16, 185, 129, 0.3);
+        background-color: var(--color-success-bg);
+      }
+
+      .question-card.incorrect-card {
+        border-color: rgba(244, 63, 94, 0.3);
+        background-color: var(--color-error-bg);
+      }
+
+      .question-title {
+        font-size: 17px;
+        font-weight: 800;
+        color: var(--color-brand-900);
+        margin-bottom: var(--space-md);
+        display: flex;
+        align-items: flex-start;
+        gap: var(--space-xs);
+      }
+
+      .question-number {
+        font-family: monospace;
+        font-weight: 800;
+        color: var(--color-brand-600);
+      }
+
+      .option-list {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: var(--space-xs);
+        list-style: none;
+      }
+
+      .option-item {
+        border: 1px solid var(--color-border);
+        border-radius: var(--radius-xl);
+        padding: var(--space-md);
+        background: rgba(248, 250, 252, 0.5);
+        font-size: 15px;
+        color: var(--color-text-secondary);
+        cursor: pointer;
+        font-weight: 500;
+        transition: all var(--dur-fast) var(--ease-out);
+        display: flex;
+        align-items: center;
+        gap: var(--space-sm);
+      }
+
+      .option-item:hover {
+        border-color: var(--color-text-muted);
+        background: rgba(241, 245, 249, 0.7);
+      }
+
+      .option-item:active {
+        transform: scale(0.98);
+      }
+
+      .option-letter {
+        font-family: monospace;
+        font-weight: 800;
+        width: 22px;
+        height: 22px;
+        background: white;
+        border: 1px solid var(--color-border);
+        border-radius: var(--radius-sm);
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        color: var(--color-text-muted);
+        font-size: 13px;
+      }
+
+      .option-item.selected {
+        border-color: var(--color-brand-500);
+        background-color: var(--color-pastel-purple);
+        color: var(--color-brand-900);
+        font-weight: 600;
+      }
+
+      .option-item.selected .option-letter {
+        border-color: var(--color-brand-500);
+        color: var(--color-brand-900);
+        background-color: var(--color-brand-100);
+      }
+
+      .option-item.correct {
+        border-color: var(--color-success) !important;
+        background-color: var(--color-pastel-green) !important;
+        color: #064e3b !important;
+        font-weight: 600;
+      }
+
+      .option-item.correct .option-letter {
+        border-color: var(--color-success) !important;
+        background-color: white !important;
+        color: var(--color-success) !important;
+      }
+
+      .option-item.incorrect {
+        border-color: var(--color-error) !important;
+        background-color: var(--color-error-bg) !important;
+        text-decoration: line-through;
+        opacity: 0.8;
+      }
+
+      .quiz-action-bar {
+        display: flex;
+        flex-direction: column;
+        gap: var(--space-md);
+      }
+
+      .btn-submit {
+        width: 100%;
+        padding: var(--space-md);
+        border: none;
+        font-size: 16px;
+      }
+
+      .btn-submit:disabled {
+        background-color: #cbd5e1;
+        color: #94a3b8;
+        cursor: not-allowed;
+        box-shadow: none;
+      }
+
+      .quiz-feedback-box {
+        border-radius: var(--radius-xl);
+        padding: var(--space-md) var(--space-lg);
+        font-size: 14px;
+        font-weight: 600;
+        display: flex;
+        align-items: center;
+        gap: var(--space-md);
+        opacity: 0;
+        transform: translateY(10px);
+        transition: all var(--dur-base) var(--ease-out);
+        max-height: 0;
+        overflow: hidden;
+        padding-top: 0;
+        padding-bottom: 0;
+        margin: 0;
+        border: none;
+      }
+
+      .quiz-feedback-box.show {
+        opacity: 1;
+        transform: translateY(0);
+        max-height: 200px;
+        padding-top: var(--space-md);
+        padding-bottom: var(--space-md);
+        border: 1px solid transparent;
+      }
+
+      .quiz-feedback-box.correct {
+        background-color: var(--color-pastel-green);
+        border-color: rgba(16, 185, 129, 0.2);
+        color: #064e3b;
+      }
+
+      .quiz-feedback-box.incorrect {
+        background-color: rgba(244, 63, 94, 0.08);
+        border-color: rgba(244, 63, 94, 0.2);
+        color: #881337;
+      }
+
+      /* --- STATE 4: UNBLOCKED / MOCK YOUTUBE --- */
+      .youtube-mock {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: 100%;
+        background: #f9f9f9;
+        position: relative;
+        overflow: hidden; /* Constrain YouTube mock inside fixed viewport */
+      }
+
+      .youtube-header {
+        background: white;
+        padding: 10px var(--space-lg);
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        border-bottom: 1px solid #e5e5e5;
+        flex-shrink: 0;
+      }
+
+      .youtube-logo-group {
+        display: flex;
+        align-items: center;
+        color: var(--color-brand-900);
+        font-weight: 850;
+        font-size: 15px;
+        font-family: var(--font-heading);
+      }
+
+      .youtube-search {
+        flex: 0 1 400px;
+        display: flex;
+        border: 1px solid #ccc;
+        border-radius: 40px;
+        overflow: hidden;
+        height: 32px;
+      }
+
+      .youtube-search input {
+        flex: 1;
+        border: none;
+        padding: 0 var(--space-md);
+        font-size: 13px;
+        outline: none;
+      }
+
+      .youtube-search button {
+        background: #f8f8f8;
+        border: none;
+        border-left: 1px solid #ccc;
+        padding: 0 var(--space-md);
+        cursor: pointer;
+      }
+
+      .youtube-user {
+        width: 32px;
+        height: 32px;
+        border-radius: 50%;
+        background: #ddd;
+      }
+
+      .youtube-content {
+        padding: var(--space-lg);
+        display: flex;
+        flex-direction: column;
+        gap: var(--space-lg);
+        flex: 1;
+        overflow-y: auto; /* Internal scrolling for content list */
+      }
+
+      .youtube-grid {
+        display: grid;
+        grid-template-columns: repeat(
+          3,
+          1fr
+        ); /* 3 items in a single row strictly */
+        gap: var(--space-md);
+      }
+
+      .youtube-card {
+        display: flex;
+        flex-direction: column;
+        gap: var(--space-xs);
+        cursor: pointer;
+      }
+
+      .youtube-thumbnail {
+        aspect-ratio: 16 / 9;
+        border-radius: var(--radius-sm);
+        background: linear-gradient(135deg, #e2e8f0 0%, #cbd5e1 100%);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: var(--color-text-muted);
+      }
+
+      .youtube-video-title {
+        font-size: 12px;
+        font-weight: 600;
+        color: var(--color-text-primary);
+        line-height: 1.3;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+      }
+
+      .youtube-video-meta {
+        font-size: 10px;
+        color: var(--color-text-muted);
+      }
+
+      .floating-bypass-banner {
+        background-color: var(--color-pastel-green);
+        border-bottom: 1px solid rgba(16, 185, 129, 0.2);
+        padding: var(--space-sm) var(--space-lg);
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        flex-shrink: 0;
+      }
+
+      .floating-bypass-text {
+        font-size: 13px;
+        font-weight: 700;
+        color: #064e3b;
+        display: flex;
+        align-items: center;
+        gap: var(--space-xs);
+      }
+
+      .floating-bypass-text .icon {
+        width: 14px;
+        height: 14px;
+        color: var(--color-success);
+      }
+
+      .floating-bypass-timer {
+        background: white;
+        border: 1px solid rgba(16, 185, 129, 0.3);
+        font-family: monospace;
+        color: #064e3b;
+        box-shadow: 0 2px 4px rgba(16, 185, 129, 0.05);
+      }
+
+      .bypass-item {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        height: 28px;
+        padding: 0 var(--space-md);
+        border-radius: var(--radius-full);
+        font-size: 11px;
+        font-weight: 700;
+        box-sizing: border-box;
+        border: 1px solid transparent;
+      }
+
+      .bypass-badge {
+        background-color: rgba(16, 185, 129, 0.1);
+        color: #064e3b;
+      }
+
+      #demo-restart-btn.bypass-item {
+        background-color: white;
+        border-color: rgba(16, 185, 129, 0.3);
+        color: #064e3b;
+        cursor: pointer;
+        padding: 0 var(--space-md);
+        transition: all var(--dur-fast) var(--ease-out);
+      }
+
+      #demo-restart-btn.bypass-item:hover {
+        background-color: rgba(16, 185, 129, 0.05);
+      }
+
+      /* How It Works Section */
+      .how-it-works {
+        background-color: white;
+        border-top: 1px solid var(--color-border);
+        border-bottom: 1px solid var(--color-border);
+      }
+
+      .section-header {
+        text-align: center;
+        max-width: 600px;
+        margin: 0 auto var(--space-2xl) auto;
+      }
+
+      .section-header h2 {
+        font-size: 44px;
+        font-weight: 900;
+        letter-spacing: -0.02em;
+        margin-bottom: var(--space-sm);
+      }
+
+      .section-header p {
+        color: var(--color-text-secondary);
+        font-size: 18px;
+      }
+
+      .steps-grid {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: var(--space-xl);
+      }
+
+      @media (min-width: 768px) {
+        .steps-grid {
+          grid-template-columns: repeat(4, 1fr);
+        }
+      }
+
+      .step-card {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        gap: var(--space-md);
+      }
+
+      .step-number {
+        font-family: var(--font-heading);
+        font-size: 72px;
+        font-weight: 900;
+        line-height: 1;
+        color: var(--color-brand-50);
+        user-select: none;
+        position: absolute;
+        top: -24px;
+        left: 0;
+        z-index: 1;
+      }
+
+      .step-content {
+        position: relative;
+        z-index: 2;
+        margin-top: 36px;
+      }
+
+      .step-content h3 {
+        font-size: 21px;
+        font-weight: 800;
+        color: var(--color-brand-900);
+        margin-bottom: var(--space-xs);
+      }
+
+      .step-content p {
+        font-size: 15px;
+        color: var(--color-text-secondary);
+        line-height: 1.6;
+      }
+
+      /* Features Grid Section */
+      .features-grid {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: var(--space-lg);
+      }
+
+      @media (min-width: 768px) {
+        .features-grid {
+          grid-template-columns: 1fr 1fr;
+        }
+      }
+
+      @media (min-width: 992px) {
+        .features-grid {
+          grid-template-columns: repeat(3, 1fr);
+        }
+      }
+
+      .feature-card {
+        background: white;
+        border: 1px solid var(--color-border);
+        border-radius: var(--radius-2xl);
+        padding: var(--space-lg);
+        transition: all var(--dur-base) var(--ease-out);
+      }
+
+      .feature-card:hover {
+        transform: translateY(-4px);
+        box-shadow: 0 12px 24px rgba(15, 23, 42, 0.03);
+        border-color: var(--color-text-muted);
+      }
+
+      .feature-icon-box {
+        width: 44px;
+        height: 44px;
+        border-radius: var(--radius-xl);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: var(--space-md);
+      }
+
+      .feature-card h3 {
+        font-size: 19px;
+        font-weight: 800;
+        color: var(--color-brand-900);
+        margin-bottom: var(--space-xs);
+      }
+
+      .feature-card p {
+        font-size: 15px;
+        color: var(--color-text-secondary);
+        line-height: 1.6;
+      }
+
+      /* CTA Section */
+      .cta-banner {
+        background: radial-gradient(
+          circle at bottom right,
+          rgba(233, 229, 252, 0.4) 0%,
+          rgba(220, 215, 250, 0.1) 40%,
+          rgba(244, 245, 249, 0) 100%
+        );
+        border-top: 1px solid var(--color-border);
+        padding: var(--space-3xl) 0;
+        text-align: center;
+      }
+
+      .cta-container {
+        max-width: 700px;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: var(--space-lg);
+      }
+
+      .cta-container h2 {
+        font-size: 46px;
+        font-weight: 900;
+        letter-spacing: -0.02em;
+      }
+
+      .cta-container p {
+        font-size: 18px;
+        color: var(--color-text-secondary);
+        line-height: 1.6;
+      }
+
+      /* Footer */
+      footer.site-footer {
+        background: white;
+        border-top: 1px solid var(--color-border);
+        padding: var(--space-xl) 0;
+        font-size: 15px;
+        color: var(--color-text-secondary);
+      }
+
+      .footer-content {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        gap: var(--space-md);
+      }
+
+      @media (min-width: 768px) {
+        .footer-content {
+          flex-direction: row;
+        }
+      }
+
+      .footer-logo {
+        display: flex;
+        align-items: center;
+        gap: var(--space-xs);
+        font-weight: 800;
+        font-family: var(--font-heading);
+        color: var(--color-brand-900);
+      }
+
+      .footer-links {
+        display: flex;
+        gap: var(--space-lg);
+        list-style: none;
+      }
+
+      .footer-links a {
+        color: var(--color-text-muted);
+        text-decoration: none;
+        transition: color var(--dur-fast);
+      }
+
+      .footer-links a:hover {
+        color: var(--color-text-secondary);
+      }
+
+      .copyright {
+        font-size: 13px;
+        color: var(--color-text-muted);
+      }
+
+      /* ==========================================================================
+         Responsive Overrides (Mobile & Tablet)
+         ========================================================================== */
+
+      @media (max-width: 991px) {
+        /* Page Header Overrides */
+        .logo-text p {
+          display: none !important; /* Hide secondary subhead early on tablet/mobile */
+        }
+        .nav-links {
+          gap: var(
+            --space-md
+          ); /* Reduce gaps between links to fit comfortably on tablet */
+        }
+
+        /* Mobile layout overrides for State 3 (Quiz) inside simulated browser */
+        .interactive-quiz-container {
+          display: flex;
+          flex-direction: column;
+          height: 100%;
+          overflow-y: auto; /* Enable scroll on container level on mobile */
+        }
+        .quiz-passage-side {
+          flex-shrink: 0;
+          border-bottom: 1px solid var(--color-border);
+          border-right: none;
+          padding: var(--space-md);
+        }
+        .quiz-questions-side {
+          flex-shrink: 0;
+          padding: var(--space-md);
+        }
+        .passage-text-content {
+          max-height: none; /* Let passage flow naturally on mobile scroll */
+          overflow-y: visible;
+        }
+      }
+
+      @media (max-width: 767px) {
+        /* Global Typography */
+        h2 {
+          font-size: 28px !important;
+        }
+        section {
+          padding: var(--space-2xl) 0;
+        }
+
+        /* Header & Navigation */
+        header.site-header {
+          padding: var(--space-sm) 0;
+        }
+        header.site-header .container {
+          padding: 0 var(--space-md); /* Reduce padding on mobile for more breathing room */
+        }
+        .nav-links {
+          display: none !important; /* Hide links on mobile to prevent squishing */
+        }
+        .logo-text p {
+          display: none !important; /* Hide secondary subhead to conserve space */
+        }
+        #header-install-btn {
+          padding: var(--space-xs) var(--space-md);
+          font-size: 13px;
+        }
+        #header-install-btn span {
+          font-size: 13px;
+        }
+
+        /* Hero Section */
+        .hero {
+          padding-top: 110px;
+          padding-bottom: var(--space-xl);
+        }
+        .hero h2 {
+          font-size: 36px !important;
+          line-height: 1.2;
+        }
+        .hero p.tagline {
+          font-size: 17px;
+          padding: 0 var(--space-xs);
+          margin-bottom: var(--space-xl);
+        }
+        .hero-actions {
+          flex-direction: column;
+          align-items: stretch;
+          gap: var(--space-sm);
+          padding: 0 var(--space-md);
+        }
+        .hero-actions .btn {
+          width: 100%;
+        }
+
+        /* Section Header */
+        .section-header h2 {
+          font-size: 32px !important;
+        }
+        .section-header p {
+          font-size: 15px;
+        }
+
+        /* Simulated Audio Player */
+        .mock-audio-player {
+          flex-wrap: wrap;
+          gap: var(--space-sm);
+          padding: var(--space-sm);
+        }
+        .audio-timeline-wrapper {
+          width: 100%;
+          flex: 0 0 100%;
+          margin-top: var(--space-xs);
+        }
+
+        /* Workflow & Steps */
+        .step-card {
+          margin-bottom: var(--space-lg);
+        }
+        .step-card:last-child {
+          margin-bottom: 0;
+        }
+
+        /* CTA Section */
+        .cta-container h2 {
+          font-size: 30px !important;
+        }
+        .cta-container p {
+          font-size: 15px;
+        }
+        #footer-download-chrome {
+          width: 100%;
+          padding: var(--space-md) var(--space-lg) !important;
+        }
+
+        /* Footer */
+        .footer-content {
+          flex-direction: column;
+          text-align: center;
+          gap: var(--space-lg);
+        }
+        .footer-links {
+          justify-content: center;
+        }
+
+        /* Responsive Grid for mobile */
+        .youtube-grid {
+          grid-template-columns: 1fr; /* Single column on mobile to keep it readable */
+        }
+
+        /* Simulated Browser Mockup Responsive Overrides */
+        .quiz-widget-header {
+          flex-direction: column;
+          align-items: stretch;
+          gap: var(--space-sm);
+          padding: var(--space-sm) var(--space-md);
+        }
+
+        .quiz-widget-actions {
+          justify-content: space-between;
+          width: 100%;
+        }
+
+        .widget-title h4 {
+          font-size: 14px;
+        }
+
+        .widget-title p {
+          font-size: 10px;
+        }
+
+        .floating-bypass-banner {
+          flex-direction: column;
+          align-items: stretch;
+          padding: var(--space-xs) var(--space-md);
+        }
+
+        .floating-bypass-text {
+          font-size: 11px;
+          justify-content: center;
+          margin-bottom: var(--space-xs);
+        }
+
+        .floating-bypass-actions {
+          justify-content: space-between;
+          width: 100%;
+        }
+      }
+
+      @media (max-width: 480px) {
+        /* Extra small screen simulator sizing */
+        .browser-navigation {
+          display: none !important; /* Hide navigation arrows to save space on mobile */
+        }
+        .browser-dots {
+          gap: 4px;
+        }
+        .browser-address-bar {
+          padding: 4px var(--space-sm);
+          font-size: 11px;
+        }
+        .youtube-search {
+          display: none !important; /* Hide search bar in mockup headers on mobile */
+        }
+
+        /* Extra small screen quiz typography & padding */
+        .passage-title-box {
+          flex-direction: column;
+          align-items: flex-start;
+          gap: var(--space-xs);
+        }
+        .passage-text-content {
+          font-size: 14px;
+          max-height: none;
+        }
+        .question-card {
+          padding: var(--space-md);
+        }
+        .question-title {
+          font-size: 16px;
+        }
+        .option-item {
+          font-size: 14px;
+          padding: var(--space-sm) var(--space-md);
+        }
+
+        /* Mobile page header overrides for extra small screens */
+        #header-install-btn .icon {
+          display: none !important;
+        }
+        .hide-on-mobile {
+          display: none !important;
+        }
+        .logo-text h1 {
+          font-size: 16px;
+        }
+      }
+
+      @keyframes slideUp {
+        from {
+          opacity: 0;
+          transform: translateY(8px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Header -->
+    <header class="site-header">
+      <div class="container header-container">
+        <a href="#" class="logo-group" id="logo-link">
+          <div class="logo-icon">
+            <img src="logo.png" alt="Vocabical Blocks" width="24" height="24" />
+          </div>
+          <div class="logo-text">
+            <h1>cabical Blocks</h1>
+          </div>
+        </a>
+
+        <ul class="nav-links">
+          <li><a href="#demo" id="nav-demo">Live Demo</a></li>
+          <li><a href="#how-it-works" id="nav-how">How It Works</a></li>
+          <li><a href="#features" id="nav-features">Features</a></li>
+        </ul>
+
+        <div>
+          <a href="#download" class="btn btn-primary" id="header-install-btn">
+            <span>Install <span class="hide-on-mobile">Extension</span></span>
+            <svg
+              class="icon"
+              viewBox="0 0 24 24"
+              style="width: 14px; height: 14px"
+            >
+              <path d="M15 3h6v6" />
+              <path d="M10 14 21 3" />
+              <path
+                d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"
+              />
+            </svg>
+          </a>
+        </div>
+      </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero" id="hero-section">
+      <div class="container hero-content">
+        <span class="badge-pill badge-purple">
+          <svg
+            class="icon"
+            viewBox="0 0 24 24"
+            style="width: 12px; height: 12px"
+          >
+            <path
+              d="M20 13c0 5-3.5 7.5-7.66 9.7a1 1 0 0 1-.68 0C7.5 20.5 4 18 4 13V6a1 1 0 0 1 .76-.97l8.24-2a1 1 0 0 1 .5 0l8.24 2A1 1 0 0 1 20 6Z"
+            />
+            <path d="m9 12 2 2 4-4" />
+          </svg>
+          <span>Reclaim Your Attention & Grow Your English</span>
+        </span>
+        <h2>
+          Master Your Focus.<br /><span class="text-gradient"
+            >Build Your Vocabulary.</span
+          >
+        </h2>
+        <p class="tagline">
+          Turn wasted screen time into English learning. Vocabical Blocks
+          intercepts mindless scrolling on your chosen sites, replacing them
+          with bite-sized, real-world English challenges.
+        </p>
+        <div class="hero-actions">
+          <a href="#demo" class="btn btn-primary" id="hero-try-btn">
+            <span>Try Interactive Demo</span>
+            <svg
+              class="icon"
+              viewBox="0 0 24 24"
+              style="width: 14px; height: 14px"
+            >
+              <path d="M5 12h14" />
+              <path d="m12 5 7 7-7 7" />
+            </svg>
+          </a>
+          <a href="#how-it-works" class="btn btn-secondary" id="hero-learn-btn">
+            <span>How It Works</span>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Live Demo Widget Section -->
+    <section class="demo-section" id="demo">
+      <div class="container">
+        <div class="section-header">
+          <span class="eyebrow">Try It Out</span>
+          <h2>Experience the Intercept Challenge</h2>
+        </div>
+
+        <!-- Simulated Browser Window mockup -->
+        <div class="mock-browser">
+          <div class="browser-top-bar">
+            <div class="browser-dots">
+              <span class="dot red"></span>
+              <span class="dot yellow"></span>
+              <span class="dot green"></span>
+            </div>
+            <div class="browser-navigation">
+              <button class="nav-arrow" id="nav-back-btn" disabled>
+                <svg
+                  class="icon"
+                  viewBox="0 0 24 24"
+                  style="width: 14px; height: 14px"
+                >
+                  <path d="M19 12H5" />
+                  <path d="m12 19-7-7 7-7" />
+                </svg>
+              </button>
+              <button class="nav-arrow" id="nav-forward-btn" disabled>
+                <svg
+                  class="icon"
+                  viewBox="0 0 24 24"
+                  style="width: 14px; height: 14px"
+                >
+                  <path d="M5 12h14" />
+                  <path d="m12 5 7 7-7 7" />
+                </svg>
+              </button>
+            </div>
+            <div class="browser-address-bar">
+              <svg
+                class="icon"
+                viewBox="0 0 24 24"
+                style="
+                  width: 12px;
+                  height: 12px;
+                  color: var(--color-text-muted);
+                "
+              >
+                <rect width="18" height="11" x="3" y="11" rx="2" ry="2" />
+                <path d="M7 11V7a5 5 0 0 1 10 0v4" />
+              </svg>
+              <span id="browser-url">chrome-extension://vocabical</span>
+            </div>
+          </div>
+
+          <div class="browser-viewport">
+            <!-- STATE 1: SETUP BLOCK LIST -->
+            <div id="demo-state-setup" class="demo-state active">
+              <div class="popup-mockup-wrapper">
+                <div
+                  style="
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    gap: var(--space-md);
+                    width: 100%;
+                  "
+                >
+                  <div class="popup-mockup">
+                    <div class="popup-header">
+                      <div class="popup-logo">
+                        <div
+                          class="logo-icon"
+                          style="padding: 4px; border-radius: var(--radius-md)"
+                        >
+                          <img
+                            src="logo.png"
+                            alt="Vocabical Blocks"
+                            width="14"
+                            height="14"
+                          />
+                        </div>
+                        <div>
+                          <h4 style="font-size: 14px; font-weight: 800">
+                            Vocabical Blocks
+                          </h4>
+                        </div>
+                      </div>
+                      <div
+                        style="
+                          background-color: var(--color-pastel-green);
+                          color: #064e3b;
+                          padding: 4px var(--space-sm);
+                          border-radius: var(--radius-full);
+                          font-size: 10px;
+                          font-weight: 700;
+                          display: flex;
+                          align-items: center;
+                          gap: 4px;
+                        "
+                      >
+                        <svg
+                          class="icon"
+                          viewBox="0 0 24 24"
+                          style="width: 10px; height: 10px; fill: currentColor"
+                        >
+                          <path
+                            d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z"
+                          />
+                        </svg>
+                        <span
+                          ><span class="setup-credits-val">20</span>
+                          Credits</span
+                        >
+                      </div>
+                    </div>
+
+                    <div class="popup-content">
+                      <!-- Site Unblock Duration -->
+                      <div>
+                        <div class="popup-section-title">
+                          <svg class="icon" viewBox="0 0 24 24">
+                            <circle cx="12" cy="12" r="10" />
+                            <polyline points="12 6 12 12 16 14" />
+                          </svg>
+                          <span>Sites Unblock Duration</span>
+                        </div>
+                        <div class="popup-duration-options">
+                          <button class="popup-duration-btn">10m</button>
+                          <button class="popup-duration-btn active">15m</button>
+                          <button class="popup-duration-btn">30m</button>
+                          <button class="popup-duration-btn">60m</button>
+                        </div>
+                      </div>
+
+                      <!-- Add Blocked Site -->
+                      <div>
+                        <div class="popup-section-title">
+                          <svg class="icon" viewBox="0 0 24 24">
+                            <path
+                              d="M20 13c0 5-3.5 7.5-7.66 9.7a1 1 0 0 1-.68 0C7.5 20.5 4 18 4 13V6a1 1 0 0 1 .76-.97l8.24-2a1 1 0 0 1 .5 0l8.24 2A1 1 0 0 1 20 6Z"
+                            />
+                            <path d="m9 12 2 2 4-4" />
+                          </svg>
+                          <span>Block a Website</span>
+                        </div>
+                        <div class="popup-add-site">
+                          <input
+                            type="text"
+                            class="popup-input"
+                            id="setup-site-input"
+                            placeholder="e.g. youtube.com"
+                          />
+                          <button class="popup-add-btn" id="setup-add-btn">
+                            <svg
+                              class="icon"
+                              viewBox="0 0 24 24"
+                              style="width: 14px; height: 14px"
+                            >
+                              <path d="M5 12h14" />
+                              <path d="M12 5v14" />
+                            </svg>
+                          </button>
+                        </div>
+                      </div>
+
+                      <!-- Blocked list -->
+                      <div>
+                        <div class="popup-section-title">Blocked Websites</div>
+                        <div class="popup-blocked-list" id="setup-blocked-list">
+                          <div class="popup-empty-state">
+                            <svg
+                              class="icon"
+                              viewBox="0 0 24 24"
+                              style="width: 20px; height: 20px"
+                            >
+                              <circle cx="12" cy="12" r="10" />
+                              <path d="m15 9-6 6" />
+                              <path d="m9 9 6 6" />
+                            </svg>
+                            <div style="margin-top: 4px">
+                              No websites blocked yet. Add one above!
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <!-- Action Prompt Card -->
+                  <div
+                    class="setup-prompt-card"
+                    id="setup-prompt"
+                    style="display: none; width: 100%"
+                  >
+                    <p>
+                      🎉
+                      <strong id="setup-target-display">youtube.com</strong> is
+                      now blocked!
+                    </p>
+                    <button
+                      class="btn btn-primary"
+                      id="setup-proceed-btn"
+                      style="
+                        width: 100%;
+                        padding: var(--space-sm);
+                        gap: var(--space-xs);
+                      "
+                    >
+                      <span>Try accessing website</span>
+                      <svg
+                        class="icon"
+                        viewBox="0 0 24 24"
+                        style="width: 14px; height: 14px"
+                      >
+                        <path d="M5 12h14" />
+                        <path d="m12 5 7 7-7 7" />
+                      </svg>
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- STATE 2: INTERCEPT LOADING / NAVIGATION -->
+            <div id="demo-state-navigate" class="demo-state">
+              <div class="redirect-mockup-wrapper">
+                <div class="redirect-spinner"></div>
+                <h3 class="redirect-title">
+                  <svg
+                    class="icon"
+                    viewBox="0 0 24 24"
+                    style="width: 22px; height: 22px; color: var(--color-error)"
+                  >
+                    <path
+                      d="M20 13c0 5-3.5 7.5-7.66 9.7a1 1 0 0 1-.68 0C7.5 20.5 4 18 4 13V6a1 1 0 0 1 .76-.97l8.24-2a1 1 0 0 1 .5 0l8.24 2A1 1 0 0 1 20 6Z"
+                    />
+                    <circle cx="12" cy="12" r="10" />
+                    <path d="m15 9-6 6" />
+                    <path d="m9 9 6 6" />
+                  </svg>
+                  <span>Vocabical Blocks Intercepted!</span>
+                </h3>
+                <p class="redirect-desc">
+                  Navigation to
+                  <strong id="redirect-target-site">youtube.com</strong> was
+                  intercepted. Redirecting to your focus challenge...
+                </p>
+              </div>
+            </div>
+
+            <!-- STATE 3: INTERACTIVE QUIZ CHALLENGE -->
+            <div id="demo-state-quiz" class="demo-state">
+              <div class="interactive-quiz-container">
+                <!-- Widget Header -->
+                <div class="quiz-widget-header">
+                  <div class="widget-info">
+                    <div class="widget-icon-box">
+                      <img
+                        src="logo.png"
+                        alt="Vocabical Blocks"
+                        width="16"
+                        height="16"
+                      />
+                    </div>
+                    <div class="widget-title">
+                      <h4>Vocabical Blocks</h4>
+                    </div>
+                  </div>
+
+                  <div class="quiz-widget-actions">
+                    <span class="badge-pill badge-green">
+                      <svg
+                        class="icon"
+                        viewBox="0 0 24 24"
+                        style="
+                          width: 12px;
+                          height: 12px;
+                          fill: currentColor;
+                          color: var(--color-success);
+                        "
+                      >
+                        <path
+                          d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z"
+                        />
+                      </svg>
+                      <span
+                        >Credits:
+                        <strong class="setup-credits-val">20</strong></span
+                      >
+                    </span>
+                  </div>
+                </div>
+
+                <!-- Left Side: Passage -->
+                <div class="quiz-passage-side">
+                  <div class="passage-title-box">
+                    <h3>Legendary Musician Prince Dies at 57</h3>
+                    <span class="badge-pill badge-purple"
+                      >Proficient (Level 9)</span
+                    >
+                  </div>
+
+                  <!-- Audio Voiceover simulation -->
+                  <div class="mock-audio-player">
+                    <button
+                      type="button"
+                      class="audio-play-btn"
+                      id="audio-play-btn"
+                      aria-label="Play native voiceover narration"
+                    >
+                      <svg
+                        class="icon"
+                        id="play-icon"
+                        viewBox="0 0 24 24"
+                        style="
+                          width: 14px;
+                          height: 14px;
+                          margin-left: 1.5px;
+                          fill: currentColor;
+                        "
+                      >
+                        <polygon points="6 3 20 12 6 21 6 3" />
+                      </svg>
+                      <svg
+                        class="icon"
+                        id="pause-icon"
+                        viewBox="0 0 24 24"
+                        style="
+                          width: 14px;
+                          height: 14px;
+                          display: none;
+                          fill: currentColor;
+                        "
+                      >
+                        <rect x="14" y="4" width="4" height="16" rx="1" />
+                        <rect x="6" y="4" width="4" height="16" rx="1" />
+                      </svg>
+                    </button>
+                    <div class="audio-info">
+                      <p class="audio-label">Listen Along</p>
+                      <p class="audio-sublabel">
+                        Professional native pronunciation
+                      </p>
+                    </div>
+                    <div class="audio-timeline-wrapper">
+                      <span class="audio-time" id="time-current">0:00</span>
+                      <div class="audio-timeline-track">
+                        <div
+                          class="audio-timeline-fill"
+                          id="timeline-fill"
+                        ></div>
+                      </div>
+                      <span class="audio-time" id="time-total">1:45</span>
+                    </div>
+                  </div>
+
+                  <!-- Passage Text -->
+                  <div class="passage-text-content">
+                    <p>American pop icon Prince has died at the age of 57.</p>
+                    <p>
+                      The shocking news was confirmed by the artist's publicist
+                      after reports that police were investigating a death at
+                      his home outside the northern city of Minneapolis,
+                      Minnesota.
+                    </p>
+                    <p>
+                      Prince was just 19 when he released his first album, For
+                      You, in 1978. In the decades that followed, the
+                      multi-talented musician released "1999," "Little Red
+                      Corvette" and "Purple Rain," the title track of his
+                      breakthrough 1984 album and movie.
+                    </p>
+                    <p>
+                      He sold more than 100 million albums worldwide, won seven
+                      Grammys and picked up an Oscar for Best Original Song
+                      score for "Purple Rain."
+                    </p>
+                    <p>
+                      Prince was inducted into the Rock and Roll Hall of Fame in
+                      2004.
+                    </p>
+                    <p>
+                      "He rewrote the rulebook, forging a synthesis of black
+                      funk and white rock that served as a blueprint for
+                      cutting-edge music in the '80s," said a posting on the
+                      Rock and Roll Hall of Fame website. "Prince made dance
+                      music that rocked and rock music that had a bristling,
+                      funky backbone."
+                    </p>
+                    <p>
+                      Musicians, artists and fans took to Twitter to express
+                      their shock and sadness at the news of Prince's death.
+                    </p>
+                    <p>
+                      U.S. President Barack Obama lamented that the "world lost
+                      a creative icon."
+                    </p>
+                    <p>
+                      He said in a statement, "As one of the most gifted and
+                      prolific musicians of our time, Prince did it all. Funk.
+                      R&B. Rock and roll. He was a virtuoso instrumentalist, a
+                      brilliant bandleader, and an electrifying performer."
+                    </p>
+                    <p>
+                      Television footage showed a small group of fans gathering
+                      outside Prince's Paisley Park studio. Sales of Prince's
+                      music have soared since news broke of the pop star's
+                      death.
+                    </p>
+                    <p>
+                      Three of his songs "Purple Rain," "Little Red Corvette,"
+                      and "When Doves Cry," surged to seventh, ninth and 10th on
+                      iTunes' Top Songs chart.
+                    </p>
+                    <p>
+                      Four of his albums — The Very Best of Prince, Purple Rain,
+                      The Hits / The B-Sides and 1999 — had jumped to first,
+                      second, third and eighth on iTunes' Top Albums chart by
+                      Thursday afternoon.
+                    </p>
+                  </div>
+                </div>
+
+                <!-- Right Side: Questions -->
+                <div class="quiz-questions-side">
+                  <div class="question-card">
+                    <h3 class="question-title">
+                      <span class="question-number">Q1.</span>
+                      When did Prince launch his first album?
+                    </h3>
+
+                    <ul class="option-list">
+                      <li class="option-item" id="option-0">
+                        <span class="option-letter">A</span>
+                        <span>1978</span>
+                      </li>
+                      <li class="option-item" id="option-1">
+                        <span class="option-letter">B</span>
+                        <span>1984</span>
+                      </li>
+                      <li class="option-item" id="option-2">
+                        <span class="option-letter">C</span>
+                        <span>1999</span>
+                      </li>
+                      <li class="option-item" id="option-3">
+                        <span class="option-letter">D</span>
+                        <span>2004</span>
+                      </li>
+                    </ul>
+                  </div>
+
+                  <div class="quiz-action-bar">
+                    <!-- Feedback notification box -->
+                    <div class="quiz-feedback-box" id="quiz-feedback">
+                      <div class="feedback-icon">
+                        <svg
+                          class="icon"
+                          id="feedback-icon-success"
+                          viewBox="0 0 24 24"
+                          style="
+                            width: 18px;
+                            height: 18px;
+                            display: none;
+                            color: var(--color-success);
+                          "
+                        >
+                          <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14" />
+                          <path d="m9 11 3 3L22 4" />
+                        </svg>
+                        <svg
+                          class="icon"
+                          id="feedback-icon-error"
+                          viewBox="0 0 24 24"
+                          style="
+                            width: 18px;
+                            height: 18px;
+                            display: none;
+                            color: var(--color-error);
+                          "
+                        >
+                          <circle cx="12" cy="12" r="10" />
+                          <path d="m15 9-6 6" />
+                          <path d="m9 9 6 6" />
+                        </svg>
+                      </div>
+                      <span id="feedback-text" style="flex: 1"></span>
+                    </div>
+
+                    <button
+                      type="button"
+                      class="btn btn-primary btn-submit"
+                      id="quiz-submit-btn"
+                      disabled
+                    >
+                      <span>Submit Answer</span>
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- STATE 4: SITE UNBLOCKED & DEMO COMPLETE -->
+            <div id="demo-state-unblocked" class="demo-state">
+              <div class="youtube-mock">
+                <!-- Bypass Floating Banner -->
+                <div class="floating-bypass-banner">
+                  <div class="floating-bypass-text">
+                    <svg
+                      class="icon"
+                      viewBox="0 0 24 24"
+                      style="color: var(--color-success)"
+                    >
+                      <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14" />
+                      <path d="m9 11 3 3L22 4" />
+                    </svg>
+                    <span
+                      ><span id="unblocked-target-site">youtube.com</span>
+                      unlocked by Vocabical Blocks</span
+                    >
+                  </div>
+                  <div class="floating-bypass-actions">
+                    <span class="bypass-badge bypass-item">
+                      <strong id="final-credits-val">25</strong> Credits
+                    </span>
+                    <div
+                      class="floating-bypass-timer bypass-item"
+                      id="final-timer-val"
+                    >
+                      15:00
+                    </div>
+
+                    <button
+                      class="btn btn-secondary bypass-item"
+                      id="demo-restart-btn"
+                    >
+                      Reset Demo
+                    </button>
+                  </div>
+                </div>
+
+                <!-- Mock Header -->
+                <div class="youtube-header">
+                  <div class="youtube-logo-group">
+                    <span id="unblocked-logo-icon"></span>
+                    <span id="unblocked-site-title">YouTube</span>
+                  </div>
+                  <div class="youtube-search">
+                    <input type="text" placeholder="Search" disabled />
+                    <button>
+                      <svg
+                        class="icon"
+                        viewBox="0 0 24 24"
+                        style="width: 14px; height: 14px; color: #555"
+                      >
+                        <circle cx="11" cy="11" r="8" />
+                        <path d="m21 21-4.3-4.3" />
+                      </svg>
+                    </button>
+                  </div>
+                  <div class="youtube-user"></div>
+                </div>
+
+                <!-- Dynamic Content Grid -->
+                <div class="youtube-content">
+                  <div class="youtube-grid" id="unblocked-grid">
+                    <!-- Injected via JS based on typed domain -->
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- How It Works Section -->
+    <section class="how-it-works" id="how-it-works">
+      <div class="container">
+        <div class="section-header">
+          <span class="eyebrow">The Flow</span>
+          <h2>How It Works</h2>
+        </div>
+
+        <div class="steps-grid">
+          <!-- Step 1 -->
+          <div class="step-card">
+            <span class="step-number">01</span>
+            <div class="step-content">
+              <h3>Choose Your Limits</h3>
+              <p>
+                Add the websites that drain your productivity. Pick your
+                preferred unlock durations - 10, 15, 30, or 60 minutes - so you
+                always stay in control.
+              </p>
+            </div>
+          </div>
+
+          <!-- Step 2 -->
+          <div class="step-card">
+            <span class="step-number">02</span>
+            <div class="step-content">
+              <h3>Get a Smart Nudge</h3>
+              <p>
+                Whenever you try to visit a blocked site, Vocabical Blocks steps
+                in with a clean, focus-ready English reading and listening
+                prompt.
+              </p>
+            </div>
+          </div>
+
+          <!-- Step 3 -->
+          <div class="step-card">
+            <span class="step-number">03</span>
+            <div class="step-content">
+              <h3>Read, Listen & Translate</h3>
+              <p>
+                Engage with real-world news and business articles, follow along
+                with professional audio at adjustable speeds, and tap any
+                sentence for an instant translation in your native language.
+              </p>
+            </div>
+          </div>
+
+          <!-- Step 4 -->
+          <div class="step-card">
+            <span class="step-number">04</span>
+            <div class="step-content">
+              <h3>Unlock and Focus</h3>
+              <p>
+                Answer a quick question to verify your understanding. Correct
+                answers instantly unlock the site and earn you credits for your
+                balance.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Features Grid Section -->
+    <section id="features">
+      <div class="container">
+        <div class="section-header">
+          <span class="eyebrow">Features</span>
+          <h2>Tailored for Mindful Growth</h2>
+        </div>
+
+        <div class="features-grid">
+          <!-- Feature 1 -->
+          <div class="feature-card">
+            <div
+              class="feature-icon-box"
+              style="
+                background-color: var(--color-pastel-purple);
+                color: #4c1d95;
+              "
+            >
+              <svg
+                class="icon"
+                viewBox="0 0 24 24"
+                style="width: 22px; height: 22px"
+              >
+                <path
+                  d="M20 13c0 5-3.5 7.5-7.66 9.7a1 1 0 0 1-.68 0C7.5 20.5 4 18 4 13V6a1 1 0 0 1 .76-.97l8.24-2a1 1 0 0 1 .5 0l8.24 2A1 1 0 0 1 20 6Z"
+                />
+                <path d="m9 12 2 2 4-4" />
+              </svg>
+            </div>
+            <h3>Intelligent Interception</h3>
+            <p>
+              Gently intercepts distracting domains on the fly, matching
+              subdomains automatically - while letting you whitelist specific
+              subdomains like <em>music.youtube.com</em> so the parts you need
+              stay open.
+            </p>
+          </div>
+
+          <!-- Feature 2 -->
+          <div class="feature-card">
+            <div
+              class="feature-icon-box"
+              style="
+                background-color: var(--color-pastel-green);
+                color: #064e3b;
+              "
+            >
+              <svg
+                class="icon"
+                viewBox="0 0 24 24"
+                style="width: 22px; height: 22px"
+              >
+                <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z" />
+                <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z" />
+              </svg>
+            </div>
+            <h3>Curated Levels</h3>
+            <p>
+              Match challenges to your current skill level. Instantly filter
+              content between Intermediate, Advanced, and Proficient topics.
+            </p>
+          </div>
+
+          <!-- Feature 3 -->
+          <div class="feature-card">
+            <div
+              class="feature-icon-box"
+              style="background-color: var(--color-pastel-blue); color: #1e3a8a"
+            >
+              <svg
+                class="icon"
+                viewBox="0 0 24 24"
+                style="width: 22px; height: 22px"
+              >
+                <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5" />
+                <path d="M15.54 8.46a5 5 0 0 1 0 7.07" />
+                <path d="M19.07 4.93a10 10 0 0 1 0 14.14" />
+              </svg>
+            </div>
+            <h3>Immersive Audio</h3>
+            <p>
+              Sharpen listening skills and master native accents. Listen to
+              professional narrations at 0.75x, 1x, or 1.25x speed alongside
+              every reading passage.
+            </p>
+          </div>
+
+          <!-- Feature: Click to Translate -->
+          <div class="feature-card">
+            <div
+              class="feature-icon-box"
+              style="
+                background-color: var(--color-pastel-purple);
+                color: #4c1d95;
+              "
+            >
+              <svg
+                class="icon"
+                viewBox="0 0 24 24"
+                style="width: 22px; height: 22px"
+              >
+                <path d="m5 8 6 6" />
+                <path d="m4 14 6-6 2-3" />
+                <path d="M2 5h12" />
+                <path d="M7 2h1" />
+                <path d="m22 22-5-10-5 10" />
+                <path d="M14 18h6" />
+              </svg>
+            </div>
+            <h3>One-Tap Translation</h3>
+            <p>
+              Never get stuck on a tricky sentence. Tap any line - or the title
+              - to reveal an instant translation in Vietnamese, Thai, Hindi,
+              Indonesian, Spanish, or Chinese.
+            </p>
+          </div>
+
+          <!-- Feature 4 -->
+          <div class="feature-card">
+            <div
+              class="feature-icon-box"
+              style="
+                background-color: var(--color-pastel-yellow);
+                color: #78350f;
+              "
+            >
+              <svg
+                class="icon"
+                viewBox="0 0 24 24"
+                style="width: 22px; height: 22px"
+              >
+                <path
+                  d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z"
+                />
+              </svg>
+            </div>
+            <h3>The Credit Economy</h3>
+            <p>
+              Earn credits proportional to quiz difficulty - 4 to 10 per
+              passage. Your balance is saved locally and grows every time you
+              ace a challenge.
+            </p>
+          </div>
+
+          <!-- Feature: Skip When Busy -->
+          <div class="feature-card">
+            <div
+              class="feature-icon-box"
+              style="background-color: var(--color-pastel-blue); color: #1e3a8a"
+            >
+              <svg
+                class="icon"
+                viewBox="0 0 24 24"
+                style="width: 22px; height: 22px"
+              >
+                <polygon points="13 19 22 12 13 5 13 19" />
+                <polygon points="2 19 11 12 2 5 2 19" />
+              </svg>
+            </div>
+            <h3>Skip When You're in a Rush</h3>
+            <p>
+              No time for a quiz? Spend earned credits to unlock instantly - 5,
+              7, 12, or 20 credits for 10, 15, 30, or 60 minutes of access.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Privacy Banner Section -->
+    <section
+      style="
+        background-color: white;
+        border-top: 1px solid var(--color-border);
+        border-bottom: 1px solid var(--color-border);
+      "
+    >
+      <div class="container" style="max-width: 900px; text-align: center">
+        <div
+          style="
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: var(--space-sm);
+          "
+        >
+          <div
+            style="
+              background-color: var(--color-pastel-green);
+              color: #064e3b;
+              width: 48px;
+              height: 48px;
+              border-radius: 50%;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              margin-bottom: var(--space-xs);
+            "
+          >
+            <svg
+              class="icon"
+              viewBox="0 0 24 24"
+              style="width: 22px; height: 22px"
+            >
+              <rect width="18" height="11" x="3" y="11" rx="2" ry="2" />
+              <path d="M7 11V7a5 5 0 0 1 10 0v4" />
+            </svg>
+          </div>
+          <h2
+            style="font-size: 32px; font-weight: 900; letter-spacing: -0.02em"
+          >
+            100% Private, Local, and Offline-Friendly*
+          </h2>
+          <p
+            style="
+              font-size: 16px;
+              color: var(--color-text-secondary);
+              line-height: 1.6;
+              max-width: 700px;
+              margin: 0 auto;
+            "
+          >
+            We believe your productivity and learning data belong entirely to
+            you. Vocabical Blocks requires no registrations, no passwords, and
+            collects absolutely zero browsing data. Your blocked sites list,
+            statistics, and earned credits stay securely saved in your browser's
+            local storage.
+          </p>
+          <p
+            style="
+              font-size: 13px;
+              color: var(--color-text-muted);
+              line-height: 1.6;
+              max-width: 700px;
+              margin: var(--space-md) auto 0 auto;
+            "
+          >
+            *Note: Article text content is stored locally and available offline.
+            Lesson images and audio voiceovers require an active internet
+            connection.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- CTA Banner Section -->
+    <section class="cta-banner" id="download">
+      <div class="container cta-container">
+        <h2>Transform Your Distractions Today</h2>
+        <p>
+          Reclaim your focus, grow your vocabulary, and build productive daily
+          routines. Install Vocabical Blocks for Chrome to get started.
+        </p>
+        <div
+          style="
+            display: flex;
+            gap: var(--space-md);
+            margin-top: var(--space-sm);
+            justify-content: center;
+          "
+        >
+          <a
+            href="#"
+            class="btn btn-primary"
+            style="padding: var(--space-md) var(--space-3xl)"
+            id="footer-download-chrome"
+          >
+            <svg
+              class="icon"
+              viewBox="0 0 24 24"
+              style="width: 16px; height: 16px"
+            >
+              <circle cx="12" cy="12" r="10" />
+              <circle cx="12" cy="12" r="4" />
+              <line x1="21.17" x2="12" y1="8" y2="8" />
+              <line x1="3.95" x2="8.58" y1="6.06" y2="14.07" />
+              <line x1="10.88" x2="15.51" y1="21.94" y2="14.07" />
+            </svg>
+            <span>Add to Chrome</span>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="site-footer">
+      <div class="container footer-content">
+        <div class="footer-logo">
+          <img src="logo.png" alt="Vocabical Blocks" width="16" height="16" />
+          <span>Vocabical Blocks</span>
+        </div>
+        <p class="copyright">
+          &copy; 2026 Vocabical Blocks. All rights reserved.
+        </p>
+      </div>
+    </footer>
+
+    <!-- Interactive script -->
+    <script>
+      document.addEventListener('DOMContentLoaded', () => {
+        // Global Mock Quiz & Demo States
+        let state = 'setup'; // 'setup', 'navigate', 'quiz', 'unblocked'
+        let credits = 20;
+        let selectedOptionIndex = null;
+        let isSolved = false;
+        let countdownInterval = null;
+        let isAudioPlaying = false;
+        const audioObj = new Audio(
+          'https://blocks.vocabical.com/audio/0lRPMqFgSYVPTPZEuRilYc.mpga',
+        );
+
+        let blockedSitesList = []; // In-memory blocked sites list
+
+        // DOM Elements - Navigation & Browser
+        const browserUrl = document.getElementById('browser-url');
+        const navBackBtn = document.getElementById('nav-back-btn');
+        const navForwardBtn = document.getElementById('nav-forward-btn');
+
+        // States Containers
+        const stateSetup = document.getElementById('demo-state-setup');
+        const stateNavigate = document.getElementById('demo-state-navigate');
+        const stateQuiz = document.getElementById('demo-state-quiz');
+        const stateUnblocked = document.getElementById('demo-state-unblocked');
+
+        // DOM Elements - State 1: Setup
+        const setupSiteInput = document.getElementById('setup-site-input');
+        const setupAddBtn = document.getElementById('setup-add-btn');
+        const setupBlockedList = document.getElementById('setup-blocked-list');
+        const setupPrompt = document.getElementById('setup-prompt');
+        const setupTargetDisplay = document.getElementById(
+          'setup-target-display',
+        );
+        const setupProceedBtn = document.getElementById('setup-proceed-btn');
+        const setupCreditsVal = document.querySelectorAll('.setup-credits-val');
+        const durationBtns = document.querySelectorAll('.popup-duration-btn');
+
+        // DOM Elements - State 3: Quiz
+        const optionItems = document.querySelectorAll('.option-item');
+        const btnSubmit = document.getElementById('quiz-submit-btn');
+        const feedbackBox = document.getElementById('quiz-feedback');
+        const feedbackText = document.getElementById('feedback-text');
+        const questionCard = document.querySelector('.question-card');
+
+        const feedbackIconSuccess = document.getElementById(
+          'feedback-icon-success',
+        );
+        const feedbackIconError = document.getElementById(
+          'feedback-icon-error',
+        );
+
+        const audioPlayBtn = document.getElementById('audio-play-btn');
+        const playIcon = document.getElementById('play-icon');
+        const pauseIcon = document.getElementById('pause-icon');
+        const timelineFill = document.getElementById('timeline-fill');
+        const timeCurrent = document.getElementById('time-current');
+        const timeTotal = document.getElementById('time-total');
+
+        // Setup Real Audio Events
+        audioObj.addEventListener('timeupdate', () => {
+          if (!audioObj.duration) return;
+          const progress = (audioObj.currentTime / audioObj.duration) * 100;
+          timelineFill.style.width = `${progress}%`;
+
+          const currentSecs = Math.floor(audioObj.currentTime);
+          const m = Math.floor(currentSecs / 60);
+          const s = currentSecs % 60;
+          timeCurrent.textContent = `${m}:${s.toString().padStart(2, '0')}`;
+        });
+
+        audioObj.addEventListener('ended', () => {
+          pauseAudio();
+        });
+
+        function updateDuration() {
+          if (!audioObj.duration) return;
+          const totalSecs = Math.floor(audioObj.duration);
+          const m = Math.floor(totalSecs / 60);
+          const s = totalSecs % 60;
+          timeTotal.textContent = `${m}:${s.toString().padStart(2, '0')}`;
+        }
+
+        audioObj.addEventListener('loadedmetadata', updateDuration);
+        if (audioObj.readyState >= 1) {
+          updateDuration();
+        }
+
+        // DOM Elements - State 4: Unblocked
+        const finalCreditsVal = document.getElementById('final-credits-val');
+        const finalTimerVal = document.getElementById('final-timer-val');
+        const unblockedTargetSite = document.getElementById(
+          'unblocked-target-site',
+        );
+        const redirectTargetSite = document.getElementById(
+          'redirect-target-site',
+        );
+
+        const unblockedLogoIcon = document.getElementById(
+          'unblocked-logo-icon',
+        );
+        const unblockedSiteTitle = document.getElementById(
+          'unblocked-site-title',
+        );
+        const unblockedGrid = document.getElementById('unblocked-grid');
+
+        // String helper: truncate domain name
+        function truncateString(str, num) {
+          if (!str) return '';
+          if (str.length <= num) return str;
+          return str.slice(0, num) + '...';
+        }
+
+        // Helper to switch browser states
+        function switchState(newState) {
+          state = newState;
+          stateSetup.classList.remove('active');
+          stateNavigate.classList.remove('active');
+          stateQuiz.classList.remove('active');
+          stateUnblocked.classList.remove('active');
+
+          const targetSite = blockedSitesList[0] || 'youtube.com';
+
+          if (newState === 'setup') {
+            stateSetup.classList.add('active');
+            browserUrl.textContent = 'chrome-extension://vocabical';
+            navBackBtn.disabled = true;
+          } else if (newState === 'navigate') {
+            stateNavigate.classList.add('active');
+            browserUrl.textContent = 'https://www.' + targetSite;
+            redirectTargetSite.textContent = targetSite;
+            navBackBtn.disabled = false;
+          } else if (newState === 'quiz') {
+            stateQuiz.classList.add('active');
+            browserUrl.textContent = 'chrome-extension://vocabical';
+            navBackBtn.disabled = false;
+          } else if (newState === 'unblocked') {
+            stateUnblocked.classList.add('active');
+            browserUrl.textContent = 'https://www.' + targetSite;
+            unblockedTargetSite.textContent = targetSite;
+
+            // Render Dynamic Mock Site Header & Grid Cards
+            const cleanSite =
+              targetSite.charAt(0).toUpperCase() + targetSite.slice(1);
+            unblockedSiteTitle.textContent = truncateString(cleanSite, 18);
+
+            if (targetSite.includes('youtube')) {
+              // Show YouTube brand icons and video grid (strictly 3 in a row)
+              unblockedLogoIcon.innerHTML = `
+                <svg class="icon" viewBox="0 0 24 24" style="width: 24px; height: 24px; color: red; fill: currentColor; margin-right: 6px;"><path d="M22.54 6.42a2.78 2.78 0 0 0-1.94-2C18.88 4 12 4 12 4s-6.88 0-8.6.46a2.78 2.78 0 0 0-1.94 2A29 29 0 0 0 1 11.75a29 29 0 0 0 .46 5.33A2.78 2.78 0 0 0 3.4 19c1.72.46 8.6.46 8.6.46s6.88 0 8.6-.46a2.78 2.78 0 0 0 1.94-2 29 29 0 0 0 .46-5.25 29 29 0 0 0-.46-5.33z"/><polygon points="9.75 15.02 15.5 11.75 9.75 8.48 9.75 15.02" fill="white"/></svg>
+              `;
+              unblockedGrid.innerHTML = `
+                <div class="youtube-card">
+                  <div class="youtube-thumbnail">
+                    <svg class="icon" viewBox="0 0 24 24" style="width: 24px; height: 24px;"><polygon points="6 3 20 12 6 21 6 3"/></svg>
+                  </div>
+                  <div class="youtube-video-title">Learn Business English in 15 Minutes</div>
+                  <div class="youtube-video-meta">English Pro • 124K views</div>
+                </div>
+                <div class="youtube-card">
+                  <div class="youtube-thumbnail">
+                    <svg class="icon" viewBox="0 0 24 24" style="width: 24px; height: 24px;"><polygon points="6 3 20 12 6 21 6 3"/></svg>
+                  </div>
+                  <div class="youtube-video-title">Time Management Secrets for Professionals</div>
+                  <div class="youtube-video-meta">Focus Habits • 89K views</div>
+                </div>
+                <div class="youtube-card">
+                  <div class="youtube-thumbnail">
+                    <svg class="icon" viewBox="0 0 24 24" style="width: 24px; height: 24px;"><polygon points="6 3 20 12 6 21 6 3"/></svg>
+                  </div>
+                  <div class="youtube-video-title">Top 10 Advanced Vocabulary Words</div>
+                  <div class="youtube-video-meta">Vocab Academy • 45K views</div>
+                </div>
+                <div class="youtube-card">
+                  <div class="youtube-thumbnail">
+                    <svg class="icon" viewBox="0 0 24 24" style="width: 24px; height: 24px;"><polygon points="6 3 20 12 6 21 6 3"/></svg>
+                  </div>
+                  <div class="youtube-video-title">How to Focus in a Distracting World</div>
+                  <div class="youtube-video-meta">Mindset Shift • 230K views</div>
+                </div>
+                <div class="youtube-card">
+                  <div class="youtube-thumbnail">
+                    <svg class="icon" viewBox="0 0 24 24" style="width: 24px; height: 24px;"><polygon points="6 3 20 12 6 21 6 3"/></svg>
+                  </div>
+                  <div class="youtube-video-title">Daily Routine of a Successful Learner</div>
+                  <div class="youtube-video-meta">Growth Path • 62K views</div>
+                </div>
+                <div class="youtube-card">
+                  <div class="youtube-thumbnail">
+                    <svg class="icon" viewBox="0 0 24 24" style="width: 24px; height: 24px;"><polygon points="6 3 20 12 6 21 6 3"/></svg>
+                  </div>
+                  <div class="youtube-video-title">Speak Like a Native: Idioms & Phrases</div>
+                  <div class="youtube-video-meta">Language Labs • 105K views</div>
+                </div>
+              `;
+            } else {
+              // Show General Globe icon and dynamically branded feed items
+              unblockedLogoIcon.innerHTML = `
+                <svg class="icon" viewBox="0 0 24 24" style="width: 24px; height: 24px; color: var(--color-text-secondary); margin-right: 6px;"><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><path d="M2 12h20"/></svg>
+              `;
+              unblockedGrid.innerHTML = `
+                <div class="youtube-card">
+                  <div class="youtube-thumbnail" style="background: linear-gradient(135deg, var(--color-brand-50) 0%, var(--color-brand-100) 100%);">
+                    <svg class="icon" viewBox="0 0 24 24" style="width: 24px; height: 24px; color: var(--color-text-secondary);"><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><path d="M2 12h20"/></svg>
+                  </div>
+                  <div class="youtube-video-title">Welcome to ${truncateString(cleanSite, 20)}</div>
+                  <div class="youtube-video-meta">Home Feed • Active now</div>
+                </div>
+                <div class="youtube-card">
+                  <div class="youtube-thumbnail" style="background: linear-gradient(135deg, var(--color-brand-50) 0%, var(--color-brand-100) 100%);">
+                    <svg class="icon" viewBox="0 0 24 24" style="width: 24px; height: 24px; color: var(--color-text-secondary);"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+                  </div>
+                  <div class="youtube-video-title">Trending discussions on ${truncateString(cleanSite, 20)}</div>
+                  <div class="youtube-video-meta">Popular Feed • 24K active</div>
+                </div>
+                <div class="youtube-card">
+                  <div class="youtube-thumbnail" style="background: linear-gradient(135deg, var(--color-brand-50) 0%, var(--color-brand-100) 100%);">
+                    <svg class="icon" viewBox="0 0 24 24" style="width: 24px; height: 24px; color: var(--color-text-secondary);"><path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"/><path d="A11.79 11.79 0 0 1 12 21a1.94 1.94 0 0 1-1.92-1.92"/></svg>
+                  </div>
+                  <div class="youtube-video-title">Recent updates and notifications</div>
+                  <div class="youtube-video-meta">Alerts • No new messages</div>
+                </div>
+                <div class="youtube-card">
+                  <div class="youtube-thumbnail" style="background: linear-gradient(135deg, var(--color-brand-50) 0%, var(--color-brand-100) 100%);">
+                    <svg class="icon" viewBox="0 0 24 24" style="width: 24px; height: 24px; color: var(--color-text-secondary);"><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><path d="M2 12h20"/></svg>
+                  </div>
+                  <div class="youtube-video-title">Community rules and guidelines</div>
+                  <div class="youtube-video-meta">Support • Official post</div>
+                </div>
+                <div class="youtube-card">
+                  <div class="youtube-thumbnail" style="background: linear-gradient(135deg, var(--color-brand-50) 0%, var(--color-brand-100) 100%);">
+                    <svg class="icon" viewBox="0 0 24 24" style="width: 24px; height: 24px; color: var(--color-text-secondary);"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+                  </div>
+                  <div class="youtube-video-title">Upcoming events in your local area</div>
+                  <div class="youtube-video-meta">Events • Next weekend</div>
+                </div>
+                <div class="youtube-card">
+                  <div class="youtube-thumbnail" style="background: linear-gradient(135deg, var(--color-brand-50) 0%, var(--color-brand-100) 100%);">
+                    <svg class="icon" viewBox="0 0 24 24" style="width: 24px; height: 24px; color: var(--color-text-secondary);"><path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"/><path d="A11.79 11.79 0 0 1 12 21a1.94 1.94 0 0 1-1.92-1.92"/></svg>
+                  </div>
+                  <div class="youtube-video-title">Explore popular groups and topics</div>
+                  <div class="youtube-video-meta">Discovery • Recommended for you</div>
+                </div>
+              `;
+            }
+
+            navBackBtn.disabled = false;
+          }
+        }
+
+        // --- STATE 1: SETUP BLOCK LIST ---
+        // Duration Select Click Handler
+        durationBtns.forEach((btn) => {
+          btn.addEventListener('click', () => {
+            durationBtns.forEach((b) => b.classList.remove('active'));
+            btn.classList.add('active');
+          });
+        });
+
+        // Block List Render function
+        function renderBlockedList() {
+          if (blockedSitesList.length === 0) {
+            setupBlockedList.innerHTML = `
+              <div class="popup-empty-state">
+                <svg class="icon" viewBox="0 0 24 24" style="width: 20px; height: 20px;"><circle cx="12" cy="12" r="10"/><path d="m15 9-6 6"/><path d="m9 9 6 6"/></svg>
+                <div style="margin-top: 4px;">No websites blocked yet. Add one above!</div>
+              </div>
+            `;
+            setupPrompt.style.display = 'none';
+          } else {
+            setupBlockedList.innerHTML = blockedSitesList
+              .map(
+                (site, index) => `
+              <div class="popup-blocked-item" style="animation: slideUp 0.2s var(--ease-out);">
+                <span>${site}</span>
+                <button class="trash-btn" data-index="${index}">
+                  <svg class="icon" viewBox="0 0 24 24" style="width: 12px; height: 12px; color: var(--color-error);"><path d="M3 6h18"/><path d="M19 6v14c0 1-1 2-2 2H7c-1 0-2-1-2-2V6"/><path d="M8 6V4c0-1 1-2 2-2h4c1 0 2 1 2 2v2"/><line x1="10" x2="10" y1="11" y2="17"/><line x1="14" x2="14" y1="11" y2="17"/></svg>
+                </button>
+              </div>
+            `,
+              )
+              .join('');
+
+            // Wire up trash buttons
+            const trashBtns = setupBlockedList.querySelectorAll('.trash-btn');
+            trashBtns.forEach((btn) => {
+              btn.addEventListener('click', (e) => {
+                const idx = parseInt(btn.getAttribute('data-index'), 10);
+                blockedSitesList.splice(idx, 1);
+                renderBlockedList();
+              });
+            });
+
+            // Update setup prompt and proceed texts
+            const firstSite = blockedSitesList[0];
+            const lastSite = blockedSitesList[blockedSitesList.length - 1];
+            setupTargetDisplay.textContent = lastSite;
+            setupProceedBtn.querySelector('span').textContent =
+              `Try accessing ${firstSite}`;
+            setupPrompt.style.display = 'block';
+          }
+        }
+
+        // Add Site Handler
+        setupAddBtn.addEventListener('click', () => {
+          const val = setupSiteInput.value.trim().toLowerCase();
+          if (!val) return;
+
+          // Quick clean domain
+          let domain = val;
+          if (domain.includes('://')) {
+            try {
+              const url = new URL(domain);
+              domain = url.hostname;
+            } catch (e) {}
+          }
+          if (domain.startsWith('www.')) {
+            domain = domain.substring(4);
+          }
+
+          if (domain && !blockedSitesList.includes(domain)) {
+            blockedSitesList.push(domain);
+            renderBlockedList();
+          }
+
+          setupSiteInput.value = '';
+          setupSiteInput.focus();
+        });
+
+        // Trigger on enter in setup input
+        setupSiteInput.addEventListener('keydown', (e) => {
+          if (e.key === 'Enter') {
+            e.preventDefault();
+            setupAddBtn.click();
+          }
+        });
+
+        setupProceedBtn.addEventListener('click', () => {
+          switchState('navigate');
+          // Simulate navigation redirect delay
+          setTimeout(() => {
+            if (state === 'navigate') {
+              switchState('quiz');
+            }
+          }, 1800);
+        });
+
+        // --- STATE 3: QUIZ ---
+        optionItems.forEach((item, index) => {
+          item.addEventListener('click', () => {
+            if (isSolved) return;
+            questionCard.classList.remove('incorrect-card');
+            optionItems.forEach((opt) => opt.classList.remove('incorrect'));
+            feedbackBox.classList.remove('show', 'incorrect', 'correct');
+            feedbackIconSuccess.style.display = 'none';
+            feedbackIconError.style.display = 'none';
+
+            optionItems.forEach((opt) => opt.classList.remove('selected'));
+            item.classList.add('selected');
+            selectedOptionIndex = index;
+            btnSubmit.removeAttribute('disabled');
+          });
+        });
+
+        btnSubmit.addEventListener('click', () => {
+          if (selectedOptionIndex === null || isSolved) return;
+          const correctOptionIndex = 0; // Option A (1978) is correct
+
+          if (selectedOptionIndex === correctOptionIndex) {
+            isSolved = true;
+            questionCard.classList.add('correct-card');
+            optionItems[selectedOptionIndex].classList.add('correct');
+
+            credits += 5;
+            setupCreditsVal.forEach((el) => (el.textContent = credits));
+
+            feedbackBox.className = 'quiz-feedback-box show correct';
+            feedbackIconSuccess.style.display = 'block';
+            feedbackIconError.style.display = 'none';
+
+            const targetSite = blockedSitesList[0] || 'youtube.com';
+
+            feedbackText.innerHTML = `
+              <div style="font-weight: 750;">Awesome job! You earned +5 credits. ${targetSite} is now unlocked!</div>
+              <button class="btn btn-primary" id="quiz-proceed-btn" style="margin-top: 10px; width: 100%; font-size: 13px; padding: 8px 16px; background-color: var(--color-success); border-color: rgba(0,0,0,0.1); gap: 4px;">
+                <span>Continue to ${targetSite}</span>
+                <svg class="icon" viewBox="0 0 24 24" style="width: 14px; height: 14px;"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+              </button>
+            `;
+            btnSubmit.style.display = 'none';
+
+            // Attach click event for proceed button
+            document
+              .getElementById('quiz-proceed-btn')
+              .addEventListener('click', () => {
+                switchState('unblocked');
+                startBypassCountdown();
+              });
+          } else {
+            questionCard.classList.add('incorrect-card');
+            optionItems[selectedOptionIndex].classList.add('incorrect');
+
+            feedbackBox.className = 'quiz-feedback-box show incorrect';
+            feedbackIconSuccess.style.display = 'none';
+            feedbackIconError.style.display = 'block';
+            feedbackText.innerHTML = `<strong>Not quite.</strong> Review the details in the text and try another option!`;
+            btnSubmit.setAttribute('disabled', 'true');
+          }
+        });
+
+        // Audio player controls
+        audioPlayBtn.addEventListener('click', () => {
+          if (isAudioPlaying) {
+            pauseAudio();
+          } else {
+            playAudio();
+          }
+        });
+
+        function playAudio() {
+          isAudioPlaying = true;
+          playIcon.style.display = 'none';
+          pauseIcon.style.display = 'block';
+          audioObj.play().catch((e) => {
+            console.error('Audio playback blocked/failed:', e);
+            pauseAudio();
+          });
+        }
+
+        function pauseAudio() {
+          isAudioPlaying = false;
+          playIcon.style.display = 'block';
+          pauseIcon.style.display = 'none';
+          audioObj.pause();
+        }
+
+        // --- STATE 4: UNBLOCKED COUNTDOWN ---
+        function startBypassCountdown() {
+          finalCreditsVal.textContent = credits;
+          let minsLeft = 15;
+          let secsLeft = 0;
+
+          if (countdownInterval) clearInterval(countdownInterval);
+          countdownInterval = setInterval(() => {
+            if (secsLeft === 0) {
+              if (minsLeft === 0) {
+                clearInterval(countdownInterval);
+                return;
+              }
+              minsLeft--;
+              secsLeft = 59;
+            } else {
+              secsLeft--;
+            }
+            finalTimerVal.textContent = `${minsLeft}:${secsLeft.toString().padStart(2, '0')}`;
+          }, 1000);
+        }
+
+        // Back navigation button handler
+        navBackBtn.addEventListener('click', () => {
+          if (state === 'navigate' || state === 'quiz') {
+            resetDemo();
+          } else if (state === 'unblocked') {
+            switchState('quiz');
+          }
+        });
+
+        // Reset & Restart handler
+        function attachResetListeners() {
+          const resetBtns = document.querySelectorAll(
+            '#demo-reset-btn, #demo-restart-btn',
+          );
+          resetBtns.forEach((btn) => {
+            btn.removeEventListener('click', resetDemo);
+            btn.addEventListener('click', resetDemo);
+          });
+        }
+
+        // Reset all states
+        function resetDemo() {
+          credits = 20;
+          selectedOptionIndex = null;
+          isSolved = false;
+          blockedSitesList = []; // Clear custom blocked list
+
+          setupCreditsVal.forEach((el) => (el.textContent = credits));
+
+          if (countdownInterval) clearInterval(countdownInterval);
+          pauseAudio();
+          audioObj.currentTime = 0;
+          timelineFill.style.width = '0%';
+          timeCurrent.textContent = '0:00';
+
+          // Reset setup DOM
+          setupSiteInput.disabled = false;
+          setupSiteInput.value = '';
+          setupAddBtn.disabled = false;
+          setupBlockedList.innerHTML = `
+            <div class="popup-empty-state">
+              <svg class="icon" viewBox="0 0 24 24" style="width: 20px; height: 20px;"><circle cx="12" cy="12" r="10"/><path d="m15 9-6 6"/><path d="m9 9 6 6"/></svg>
+              <div style="margin-top: 4px;">No websites blocked yet. Add one above!</div>
+            </div>
+          `;
+          setupPrompt.style.display = 'none';
+
+          // Reset duration buttons style (active back to 15m)
+          durationBtns.forEach((b) => b.classList.remove('active'));
+          durationBtns[1].classList.add('active');
+
+          // Reset quiz DOM
+          questionCard.className = 'question-card';
+          optionItems.forEach((opt) => (opt.className = 'option-item'));
+          btnSubmit.removeAttribute('disabled');
+          btnSubmit.setAttribute('disabled', 'true');
+          btnSubmit.style.display = 'block';
+          feedbackBox.className = 'quiz-feedback-box';
+          feedbackText.innerHTML = '';
+          feedbackIconSuccess.style.display = 'none';
+          feedbackIconError.style.display = 'none';
+
+          // Switch state back to setup
+          switchState('setup');
+          attachResetListeners();
+        }
+
+        // Initialize listeners
+        attachResetListeners();
+        switchState('setup');
+      });
+    </script>
+  </body>
+</html>

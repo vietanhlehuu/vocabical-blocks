@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Word Ladder — Preview</title>
+<style>
+  :root{--surface:#1A1E25;--surface-muted:#252A33;--surface-raised:#1F252F;--border:#303744;--border-strong:#3D4656;
+    --text:#F8F9FB;--text-2:#D1D7E0;--text-muted:#939CAD;--pos:#68C371;--neg:#C65443;--accent:#E8B84B;--accent-text:#F5E1A8;}
+  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent;-webkit-user-select:none;user-select:none;}
+  html,body{margin:0;}
+  body{font-family:'Trebuchet MS','Segoe UI',system-ui,sans-serif;background:radial-gradient(130% 100% at 50% 0%,#1b212b 0%,#121419 62%);color:var(--text);min-height:100vh;display:flex;flex-direction:column;align-items:center;padding:14px;gap:14px;}
+  a{color:inherit;text-decoration:none;}
+  .top{width:100%;max-width:420px;display:flex;align-items:center;gap:12px;}
+  .back{width:38px;height:38px;border-radius:12px;background:var(--surface);border:1px solid var(--border);display:flex;align-items:center;justify-content:center;color:var(--text-2);font-size:20px;flex:none;}
+  .title{font-size:22px;font-weight:600;letter-spacing:-0.5px;}
+  .chip{display:inline-block;margin-top:2px;font-size:10px;letter-spacing:0.5px;text-transform:uppercase;color:var(--accent);background:color-mix(in srgb,var(--accent) 20%,transparent);padding:2px 8px;border-radius:999px;}
+  .stats{width:100%;max-width:420px;display:flex;gap:10px;}
+  .stat{flex:1;background:var(--surface);border:1px solid var(--border);border-radius:14px;padding:9px;text-align:center;}
+  .stat b{display:block;font-size:19px;font-weight:600;}.stat span{font-size:10px;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;}
+  .goalbar{width:100%;max-width:420px;display:flex;align-items:center;justify-content:center;gap:10px;font-size:14px;color:var(--text-2);}
+  .miniw{display:flex;gap:4px;} .mc{width:22px;height:26px;border-radius:5px;background:var(--surface-muted);display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:700;text-transform:uppercase;color:var(--accent-text);}
+  .stage{width:100%;max-width:420px;background:var(--surface);border:1px solid var(--border);border-radius:18px;padding:18px;display:flex;flex-direction:column;align-items:center;gap:12px;min-height:220px;}
+  .ladder{display:flex;flex-direction:column;gap:6px;align-items:center;width:100%;max-height:150px;overflow:auto;}
+  .rung{display:flex;gap:5px;}
+  .rc{width:26px;height:30px;border-radius:6px;background:var(--surface-raised);border:1px solid var(--border);display:flex;align-items:center;justify-content:center;font-size:15px;font-weight:700;text-transform:uppercase;color:var(--text-muted);}
+  .cur{display:flex;gap:8px;margin-top:4px;}
+  .tile{width:46px;height:54px;border-radius:12px;background:var(--surface-raised);border:2px solid var(--border-strong);display:flex;align-items:center;justify-content:center;font-size:28px;font-weight:700;text-transform:uppercase;cursor:pointer;}
+  .tile:active{background:var(--surface-muted);}
+  .hintline{font-size:12px;color:var(--text-muted);}
+  .row{width:100%;max-width:420px;display:flex;gap:10px;}
+  .btn{flex:1;appearance:none;border:1px solid var(--border-strong);font-family:inherit;font-size:14px;font-weight:600;padding:12px;border-radius:14px;background:var(--surface);color:var(--text);cursor:pointer;}
+  .sub{width:100%;max-width:420px;font-size:12.5px;color:var(--text-muted);line-height:1.5;text-align:center;}
+  .overlay{position:fixed;inset:0;background:rgba(10,12,16,0.74);backdrop-filter:blur(4px);display:flex;align-items:center;justify-content:center;padding:20px;z-index:10;}
+  .modal{background:var(--surface-raised);border:1px solid var(--border-strong);border-radius:22px;padding:26px;max-width:340px;width:100%;text-align:center;}
+  .modal h2{margin:0 0 8px;font-size:24px;}.modal p{color:var(--text-muted);font-size:14px;margin:0 0 18px;line-height:1.5;}
+  .modal .btn{background:var(--accent);color:#0d0f13;border:none;flex:none;padding:13px 22px;}
+  .hidden{display:none!important;}
+</style></head>
+<body>
+  <div class="top"><a class="back" href="index.html">‹</a><div><div class="title">Word Ladder</div><span class="chip">Verbal · one letter at a time</span></div></div>
+  <div class="stats">
+    <div class="stat"><b id="lvl">1</b><span>Level</span></div>
+    <div class="stat"><b id="steps">0</b><span>Steps</span></div>
+    <div class="stat"><b id="par">0</b><span>Shortest</span></div>
+  </div>
+  <div class="goalbar">Reach <div class="miniw" id="goalw"></div></div>
+  <div class="stage">
+    <div class="ladder" id="ladder"></div>
+    <div class="cur" id="cur"></div>
+    <div class="hintline">Tap a letter to cycle it through valid words</div>
+  </div>
+  <div class="row"><button class="btn" id="undo">↶ Undo</button><button class="btn" id="reset">↺ Restart</button><button class="btn" id="new">⟳ New</button></div>
+  <div class="sub">Change one letter at a time to climb from the start word to the goal — but every rung has to be a real word. Tapping a letter steps it to the next letter that keeps it valid.</div>
+  <div class="overlay hidden" id="win"><div class="modal"><h2>Reached! ✦</h2><p id="winMsg"></p><button class="btn" id="next">Next ladder →</button></div></div>
+<script>
+(function(){
+  const $=s=>document.querySelector(s);
+  const rnd=n=>Math.floor(Math.random()*n);
+  const RAW='able,acid,aged,also,area,away,baby,back,ball,band,bank,base,bath,bear,beat,been,beer,bell,belt,bend,best,bike,bird,blow,blue,boat,body,bomb,bone,book,boot,born,boss,both,bowl,burn,bush,busy,cake,call,calm,came,camp,card,care,cart,case,cash,cast,cell,chat,city,coal,coat,code,cold,come,cook,cool,cope,copy,cord,core,corn,cost,crew,crop,dark,data,date,dawn,dead,deal,dear,debt,deep,deer,desk,dial,dice,diet,dirt,dish,done,door,dose,down,draw,drop,drug,drum,dual,duck,dull,dust,duty,each,earn,ease,east,easy,edge,even,ever,evil,exit,face,fact,fade,fail,fair,fall,farm,fast,fate,fear,feed,feel,feet,fell,felt,file,fill,film,find,fine,fire,firm,fish,five,flat,flow,folk,food,fool,foot,ford,form,fort,four,free,from,fuel,full,fund,gain,game,gate,gave,gear,gene,gift,girl,give,glad,goal,goat,goes,gold,golf,gone,good,gray,grew,grow,gulf,hair,half,hall,hand,hang,hard,harm,hate,have,head,heal,heap,hear,heat,held,hell,help,herb,hero,hide,high,hill,hint,hire,hold,hole,holy,home,hope,horn,host,hour,huge,hunt,hurt,idea,inch,iron,item,join,joke,jump,jury,just,keen,keep,kept,kick,kill,kind,king,knee,knew,know,lace,lack,lady,laid,lake,lamp,land,lane,last,late,lawn,lazy,lead,leaf,lean,left,lend,less,life,lift,like,line,link,lion,list,live,load,loan,lock,long,look,lord,lose,loss,lost,loud,love,luck,made,mail,main,make,male,mall,many,mark,mass,mate,meal,mean,meat,meet,melt,menu,mere,mile,milk,mind,mine,miss,mode,mood,moon,more,most,move,much,must,name,near,neat,neck,need,news,next,nice,nine,none,noon,nose,note,noun,okay,once,only,onto,open,oral,over,pace,pack,page,paid,pain,pair,palm,park,part,pass,past,path,peak,pear,peer,pick,pile,pine,pink,pipe,plan,play,plot,plug,plus,poem,poet,pole,poll,pool,poor,pope,port,pose,post,pour,pray,prey,pull,pump,pure,push,quit,race,rack,raid,rail,rain,rank,rare,rate,read,real,rear,rely,rent,rest,rice,rich,ride,ring,rise,risk,road,roar,rock,role,roll,roof,room,root,rope,rose,rule,rush,rust,safe,sage,said,sail,sake,sale,salt,same,sand,save,seal,seat,seed,seek,seem,seen,self,sell,send,sent,ship,shop,shot,show,shut,sick,side,sign,silk,sing,sink,site,size,skin,slip,slow,snap,snow,soap,sock,soft,soil,sold,sole,some,song,soon,sort,soul,soup,sour,spot,star,stay,step,stir,stop,such,suit,sure,swim,tail,take,tale,talk,tall,tank,tape,task,taxi,team,tear,tell,tend,tent,term,test,text,than,that,them,then,thin,this,thus,tide,tile,till,time,tiny,tire,told,toll,tone,took,tool,torn,toss,tour,town,trap,tray,tree,trim,trip,true,tube,tune,turn,twin,type,ugly,unit,upon,used,user,vary,vast,very,vice,view,vote,wage,wait,wake,walk,wall,want,ward,warm,warn,wash,wave,weak,wear,week,well,went,were,west,what,when,wide,wife,wild,will,wind,wine,wing,wipe,wire,wise,wish,with,wolf,wood,wool,word,wore,work,worm,worn,yard,year,zero,zone';
+  const LIST=RAW.split(',').filter(w=>w.length===4);const SET=new Set(LIST);
+  let level=1,path=[],goal='',par=0;
+  function neighbors(w){const out=[];for(let p=0;p<4;p++)for(let ch=97;ch<=122;ch++){const nc=String.fromCharCode(ch);if(nc===w[p])continue;const nw=w.slice(0,p)+nc+w.slice(p+1);if(SET.has(nw))out.push(nw);}return out;}
+  function bfs(start){const dist={[start]:0};const q=[start];let h=0;while(h<q.length){const w=q[h++];for(const nw of neighbors(w))if(dist[nw]===undefined){dist[nw]=dist[w]+1;q.push(nw);}}return dist;}
+  function newPuzzle(){
+    const minD=Math.min(3+Math.floor(level/2),3),maxD=Math.min(3+level,7);
+    let start,g,d,guard=0;
+    do{start=LIST[rnd(LIST.length)];const dist=bfs(start);const cand=Object.keys(dist).filter(w=>dist[w]>=Math.max(3,minD)&&dist[w]<=maxD);if(cand.length){g=cand[rnd(cand.length)];d=dist[g];}guard++;}while(!g&&guard<200);
+    if(!g){start='cold';g='warm';d=4;}
+    goal=g;par=d;path=[start];
+    $('#lvl').textContent=level;$('#par').textContent=par;$('#steps').textContent=0;
+    renderGoal();render();
+  }
+  function renderGoal(){const gw=$('#goalw');gw.innerHTML='';for(const ch of goal){const d=document.createElement('div');d.className='mc';d.textContent=ch;gw.appendChild(d);}}
+  function render(){
+    const cur=path[path.length-1];
+    const lad=$('#ladder');lad.innerHTML='';path.slice(0,-1).forEach(w=>{const r=document.createElement('div');r.className='rung';for(const ch of w){const c=document.createElement('div');c.className='rc';c.textContent=ch;r.appendChild(c);}lad.appendChild(r);});
+    const cw=$('#cur');cw.innerHTML='';for(let p=0;p<4;p++){const t=document.createElement('div');t.className='tile';t.textContent=cur[p];t.onclick=()=>cycle(p);cw.appendChild(t);}
+    $('#steps').textContent=path.length-1;
+    lad.scrollTop=lad.scrollHeight;
+  }
+  function cycle(p){
+    const cur=path[path.length-1];const L=cur.charCodeAt(p);
+    for(let i=1;i<=26;i++){const nc=String.fromCharCode(97+((L-97+i)%26));const nw=cur.slice(0,p)+nc+cur.slice(p+1);if(SET.has(nw)&&nw!==cur){path.push(nw);render();if(nw===goal)wonAll();return;}}
+  }
+  function wonAll(){const steps=path.length-1;$('#winMsg').textContent=`Climbed it in ${steps} steps`+(steps===par?' — the shortest possible! ✦':` (shortest is ${par}).`)+' Next ladder up.';setTimeout(()=>$('#win').classList.remove('hidden'),300);}
+  $('#undo').onclick=()=>{if(path.length>1){path.pop();render();}};
+  $('#reset').onclick=()=>{path=[path[0]];render();};
+  $('#new').onclick=newPuzzle;
+  $('#next').onclick=()=>{level++;$('#win').classList.add('hidden');newPuzzle();};
+  newPuzzle();
+})();
+</script>
+</body></html>
